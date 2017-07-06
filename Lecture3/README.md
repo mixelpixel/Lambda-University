@@ -1,5 +1,7 @@
 # Lambda University - Thursday, July 6, 2017
+
 ## GUEST LECTURE: Karthik Viswanathan
+- Start time @ ~1pm
 - underscorejs.org functions
 ## each
 - accepts an array and a callback and calls the callback for each element in the array
@@ -88,6 +90,7 @@ const reduce = (elements, cb, memo) => {
 ```
 
 - Ryan's solution
+```js
 if (memo === undefined) {
     memo = elements[0];
     for (let i = 1; i < elements.length; i++) {
@@ -95,6 +98,7 @@ if (memo === undefined) {
     }
     return memo;
   }
+```
 
 ## Flatten
 - satisfy the two cases of no nested arrays and only a single level of nesting
@@ -193,4 +197,5 @@ const flatten = (elements) => {
 };
 ```
 
-## @~2:30 const v let with push
+## @~2:30pm const v let with push
+const the BINDING is constant!
