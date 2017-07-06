@@ -21,6 +21,8 @@
 	- https://www.youtube.com/watch?v=USgVMIIT0ik
 - AirBnB Style guide: https://github.com/airbnb/javascript#control-statements
 - Underscorejs: http://underscorejs.org/
+	- http://underscorejs.org/underscore.js
+	- Easier to view in Chrome with [Pretty Print](https://chrome.google.com/webstore/detail/prettyprint/nipdlgebaanapcphbcidpmmmkcecpkhg?hl=en-US)
 - https://babeljs.io/ compiler for ES6 script, turns it into ES5 (ECMAScript 5)
 - https://babeljs.io/learn-es2015/
 - https://jsbin.com/
