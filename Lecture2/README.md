@@ -1,4 +1,4 @@
-# Lambda University - Wednesday, July 5, 2017
+# Lambda University - Wednesday, July 5, 2017: Day two
 ## Instructor: Ryan Hamblin
 
 ### First Lecture: https://youtu.be/P6lw-HOaqmI
