@@ -1,9 +1,11 @@
 # Lambda University - Thursday, July 6, 2017
-
 ## GUEST LECTURE: Karthik Viswanathan
+https://youtu.be/KNpkIDV5Jj0 "CS1 each, map, recursion"
+
 - Start time @ ~1pm
 - underscorejs.org functions
-## each
+
+### each
 - accepts an array and a callback and calls the callback for each element in the array
 ```js
 const each = (elements, cb) => {
@@ -199,3 +201,62 @@ const flatten = (elements) => {
 
 ## @~2:30pm const v let with push
 const the BINDING is constant!
+
+# After Lunch Lecture
+## Lecturer: Ben Nelson @~5:10pm
+ ""
+### Reviewing basic JS with ES6
+#### variables
+```js
+const x = 5;
+```
+- read as, "const x GETS five"
+- x is a reference to the value 5
+- variables get associated with values
+- `const`, `let`, and `var`
+- variables have a scope, global or local (to a function or code block)
+- `console` is globally available, `Array`, `'Object`, `Number`, `window` etc are built in values.
+- They are in the parent scope and available everywhere
+  - keywords, globa/local parent/(child?) inner/outer
+#### branching logic - a fork in the road
+```js
+if () {
+
+}
+```
+```js
+if (condition - either true or false) {
+  do something; //<--- either a side effect vs. a return
+}
+```
+- Ternary operators:
+```
+declare variableName = ifCondition ? thenThis : otherwiseThat;
+```
+
+#### For Loop
+```js
+for (let i = 0; i < 10; i++) {
+  console.log(i); // <--- will console zero through nine
+}
+```
+- Useful for iterating over Arrays with indexes. Shorthand forEach or underscorejs's "each" method
+```js
+const letters = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h'];
+let i;
+
+for (i = 0; i < letters.length; i += 2) {
+  // console.log(letters[i], i);
+}
+
+for (let i = letters.length - 1; i >= 0; i--) {
+  // console.log(letters[i]);
+}
+
+letters.forEach((letter) => {
+  console.log(letter);
+});
+```
+- `let` and `const` scoping (@5:55pm)
+
+#### wordsToSentences problem review
