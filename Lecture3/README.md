@@ -1,4 +1,4 @@
-# Lambda University - Thursday, July 6, 2017
+# Lambda University - Thursday, July 6, 2017: Day three
 ## GUEST LECTURE: Karthik Viswanathan
 - https://karthikv.net/
 - https://github.com/karthikv
