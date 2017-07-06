@@ -33,6 +33,7 @@
 # Month 1
 ## Week 01
 ### Day 01: Monday, July 3, 2017
+#### Ben Nelson lectures
 - First Lecture: https://youtu.be/HJJDTYi9g20 "S1 - ES6, callback functions"
 - Second Lecture: https://youtu.be/gaLr7_BMgD0 "CS1 - this, closure"
 - [Lecture 1 notes](Lecture1/README.md)
@@ -45,6 +46,8 @@
 - Second Lecture: https://youtu.be/dyyuDaZngXc "CS1 Reduce example and Review"
 #### Ben Nelson PM lectures
 
+- [Lecture 2 notes](Lecture2/README.md)
+
 ### Day 3: Thursday, July 6, 2017
 #### GUEST LECTURER: Karthik Viswanathan
 - https://karthikv.net/
@@ -52,4 +55,6 @@
 - GUEST LECTURE: https://youtu.be/KNpkIDV5Jj0 "CS1 each, map, recursion"
 #### Ben Nelson lecture
 - JS review
-- 
+-
+
+- [Lecture 3 notes](Lecture3/README.md)
