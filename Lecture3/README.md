@@ -82,7 +82,7 @@ const reduce = (elements, cb, memo) => {
     i = 1; // <--- starting at second item when no memo is passed in
   }
 
-  for(; i <elements.length; i++ {
+  for(; i <elements.length; i++) {
     memo = cb(memo, elements[i]);
   }
   return memo;
