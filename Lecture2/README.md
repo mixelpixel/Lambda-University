@@ -1,5 +1,12 @@
 # Lambda University - Wednesday, July 5, 2017
 ## Instructor: Ryan Hamblin
+
+### First Lecture: https://youtu.be/P6lw-HOaqmI
+- "CS1 = Each Map example and Review"
+### Second Lecture: https://youtu.be/dyyuDaZngXc
+- "CS1 Reduce example and Review"
+
+***
 - reviewing assignment
 - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
 - array is an object
