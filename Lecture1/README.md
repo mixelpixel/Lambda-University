@@ -1,4 +1,4 @@
-# Lambda University - Monday, July 3, 2017
+# Lambda University - Monday, July 3, 2017: Day one
 - Zoom for meetings: https://zoom.us/j/858115322
 - Class polling: https://b.socrative.com/student/
 
