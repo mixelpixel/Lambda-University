@@ -1,2 +1,2 @@
-# Lambda University - Wednesday, July 5, 2017
-## Instructor: Ryan Hamblin
+# Lambda University - Thursday, July 6, 2017
+## GUEST LECTURE: Karthik Viswanathan
