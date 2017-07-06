@@ -262,3 +262,21 @@ letters.forEach((letter) => {
 - `let` and `const` scoping (@5:55pm)
 
 #### wordsToSentences problem review
+```js
+function wordsToSentence(words) {
+  let sentence = '';
+  for (let i = 0; i < words.length; i++) {
+    sentence += words[i];
+    if (!(i + 1 === words.length)) sentence += ' ';
+  }
+  return sentence;
+  // return words.join(' ');
+  // words is an array of strings
+  // return a string that is all of the words concatenated together
+  // spaces need to be between each word
+  // example: ['Hello', 'world!'] -> 'Hello world!'
+}
+
+const sentence = wordsToSentence(['Hello', 'world!', 'How', 'are', 'you', 'doing?']);
+console.log(sentence);
+```
