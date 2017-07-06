@@ -17,8 +17,17 @@
 # Month 1
 ## Week 01
 ### Day 01: Monday, July 3, 2017
+- First Lecture: https://youtu.be/HJJDTYi9g20
+- Second Lecture: https://youtu.be/gaLr7_BMgD0
 - [Lecture 1 notes](Lecture1/README.md)
 - Homework Assignment: https://github.com/SunJieMing/Advanced-JavaScript
 - Homework: https://github.com/mixelpixel/Advanced-JavaScript
 
 ### Day 2: Wednesday, July 5, 2017
+- Ryan Hamblin AM lecture
+- Ben Nelson PM lectures
+
+### Day 3: Thursday, July 6, 2017
+- GUEST LECTURE: Karthik Viswanathan
+	- https://karthikv.net/
+	- https://github.com/karthikv
