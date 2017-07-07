@@ -1,5 +1,5 @@
 # Lambda University - Thursday, July 6, 2017: Day three
-## GUEST LECTURE: Karthik Viswanathan
+## GUEST LECTURER: Karthik Viswanathan
 - https://karthikv.net/
 - https://github.com/karthikv
 - LECTURE: https://youtu.be/KNpkIDV5Jj0 "CS1 each, map, recursion"
