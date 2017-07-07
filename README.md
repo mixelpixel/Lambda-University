@@ -58,3 +58,10 @@
 - Q & A
 
 - [Lecture 3 notes](Lecture3/README.md)
+
+### Day 4: Friday, July 7, 2017, day 4
+#### Ben Nelson AM lecture
+
+#### Ryan Hamblin PM lecture2
+- https://youtu.be/-9h9f600Q3Y `this` 4 RULES
+- https://youtu.be/LtW4eEK39SE  "this.js" Homework review - BLOCKED OUT VIDEO/AUDIO ONLY
