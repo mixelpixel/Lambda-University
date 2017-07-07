@@ -118,7 +118,7 @@ const tree1 = {
 # After Lunch @~4:00PM
 ## Lecturer: Ben Nelson Ryan Hamblin
 ### `this`
-- LECTURE VIDEO:
+- LECTURE VIDEO: https://youtu.be/-9h9f600Q3Y
 
 #### keyword: `this`
 - `this` remains nothing until a given context - just like the pronoun "this"
@@ -210,7 +210,7 @@ This is evident by looking at the name property logged to the console by each in
 ## Break
 ## Lecture 2 @~4:50pm
 ### this.js HOMEWORK
-- LECTURE VIDEO:
+- LECTURE VIDEO: https://youtu.be/LtW4eEK39SE
 - Constructor functions
 - abstraction of Prototypes
 - Classes
