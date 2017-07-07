@@ -144,7 +144,7 @@ pizza.bake(); // ---> the pizza is baking
 ### ES6 classes / Syntax
 - work or arrays, closure, objects & this
 
-### Evening Lecture
+# Evening Lecture
 - Clear with Ben if you need to miss a class
 
 ### Constructor functions
