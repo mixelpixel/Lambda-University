@@ -280,3 +280,68 @@ function wordsToSentence(words) {
 const sentence = wordsToSentence(['Hello', 'world!', 'How', 'are', 'you', 'doing?']);
 console.log(sentence);
 ```
+
+# End of Day Lecture
+## Lecturer: Ben Nelson @~8pm
+ ""
+### Q & A
+#### objects exercise: values
+- an object is a set of key: value pairs
+- all keys must be unique
+```js
+const obj = {
+  x: 5,
+  y: 12
+  z: 32
+};
+
+// This method is denied in the Linter
+for (let key in obj) {
+  consle.log(key)
+}
+
+// instead
+const keys = Object.keys(obj); // <--- returns array of strings
+
+console.log(keys); // <--- prints an array
+
+/* same as
+[ 'x', 'y', 'z'].forEach((key) => { */
+Object.keys(obj).forEach((key) => {
+  console.log(key);
+});
+
+// Another mehthod
+const mapValues = Object.keys(obj).map(key) => {
+  return obj[key];
+}
+
+// return Object.keys(obj).map((key) => {
+//     return obj[key];
+// });
+```
+
+- instead use the Object.keys() method
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/keys
+- METHOD CHAINING
+- NOTE: Objects.values() is an ES7 function
+
+```js
+const obj = {
+  x: 5,
+  y: 10,
+  z: 15,
+  10: 20
+};
+
+const key = 'x';
+
+
+console.log(obj.x);
+console.log(obj[key]);
+console.log(obj[10]);
+console['log'](obj.x)) // <--- can do it like this but don't
+```
+- everything you put in brackets is converted into a string
+
+#### objects exercise: defaults
