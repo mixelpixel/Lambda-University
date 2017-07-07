@@ -54,6 +54,6 @@
 - GUEST LECTURE: https://youtu.be/KNpkIDV5Jj0 "CS1 each, map, recursion"
 #### Ben Nelson lecture
 - JS review
--
+- Q & A
 
 - [Lecture 3 notes](Lecture3/README.md)
