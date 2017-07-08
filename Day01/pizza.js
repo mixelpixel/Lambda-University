@@ -1,3 +1,5 @@
+// Example from lecture
+
 const pizza = {
 	toppings: ['pepperoni', 'bell pepper', 'onion', 'chese'],
 	sauce: 'tomato',

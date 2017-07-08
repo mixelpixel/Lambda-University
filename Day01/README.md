@@ -6,9 +6,10 @@
 - Introductions
 - Class polling: https://b.socrative.com/student/
 
-# [First Lecture](https://youtu.be/HJJDTYi9g20): ES5 and ES6, Arrow Functions, `const` & `let`, Callback Functions, Semi-Colons ;;;
+# [1st Lecture](https://youtu.be/HJJDTYi9g20): ES5 and ES6, Arrow Functions, `const` & `let`, Callback Functions, Semi-Colons ;;;
+### Ben Nelson
 
-## [@0m0s](https://youtu.be/HJJDTYi9g20) ES6 (aka ES2015, ECMAScript 6)
+## [@start](https://youtu.be/HJJDTYi9g20) ES6 (aka ES2015, ECMAScript 6)
 - https://babeljs.io/ Babel is a compiler for ES6 script. Bebal turns ES6 into ES5 (ECMAScript 5)
 - We're coding in a node environment: node is a JavaScript Runtime. Node is a C++ application running on your computer - it is a JavaScript runtime compiler outside of the browser. They took the Chrome "V8" engine (the C++ code in the Chrome browser that runs the javascript code) and made node out of it (with some extra magic).
 - Running ES6 in the browser involves an extra step of compiling it first - a client side development thing...
@@ -119,7 +120,8 @@ foo(bar); // ---> hi
 #### Austen on LAMBDA UNIVERSIRY INCOME AGREEMENT
 ***
 
-# [Second Lecture](https://youtu.be/gaLr7_BMgD0): `this`, `.call()` `.apply()` & `.bind()`) and CLOSURE
+# [2nd Lecture](https://youtu.be/gaLr7_BMgD0): `this`, `.call()` `.apply()` & `.bind()`) and CLOSURE
+### Ben Nelson
 
 ## [@26s)](https://youtu.be/gaLr7_BMgD0?t=26s) `this` KEYWORD and OBJECT
 - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this
@@ -166,7 +168,8 @@ pizza.bake(); // ---> the pizza is baking
 
 ***
 
-# Evening Lecture: Class Functions, `for` LOOPS, `do` `while` LOOPS & RECURSION
+# [3rd Lecture](): VIDEO ??? - Class Functions, `for` LOOPS, `do` `while` LOOPS & RECURSION
+### Ben Nelson
 - NOTE: Clear with Ben if you need to miss a class
 
 ## `constructor` CLASS FUNCTIONS

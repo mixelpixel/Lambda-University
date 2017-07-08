@@ -1,3 +1,4 @@
+// Eaxample from lecture
 // Functions can return functions.
 
 const outer = () => { // <---- outer is a higher order function; it returns another function
