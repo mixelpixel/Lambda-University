@@ -116,7 +116,7 @@ const tree1 = {
 ```
 
 # After Lunch @~4:00PM
-## Lecturer: Ben Nelson Ryan Hamblin
+## Lecturer: Ryan Hamblin
 ### `this`
 - LECTURE VIDEO: https://youtu.be/-9h9f600Q3Y
 
@@ -167,15 +167,15 @@ const tree1 = {
   }
   ```
 3. Whenever a CONSTRUCTOR FUNCTION is used, `this` refers to the "SPECIFIC INSTANCE OF THE OBJECT" that is created and returned by the constructor function.
-  <!-- 3b.
+  3b.
   ```js
   function person(options) {
-    // lexical environment this === {};
+  lexical environment this === {};
     this.firstName = options.firstName;
     this.lastName = options.lastName;
-    this.sayName = function( {
-      // console.log('Hello, my name is ' + options.firstName + ' ' + options.lastName) // <--- Works without the this = options declarations
-      console.log('Hello, my name is ' + this.firstName + ' ' + this.lastName)
+    this.sayName = function ( {
+      console.log('Hello, my name is ' + options.firstName + ' ' + options.lastName) // <--- Works without the this = options declarations
+      console.log('Hello, my name is ' + this.firstName + ' ' + this.lastName);
     })
   }
 
@@ -192,7 +192,7 @@ const tree1 = {
   });
 
   barney.sayName();
-  ``` -->
+  ```
 
 4. Whenever JavaScript's CALL OR APPLY method is used, `this` is EXPLICITLY DEFINED.
   4a.
