@@ -1,29 +1,44 @@
 # Lambda University - Wednesday, July 5, 2017: Day two
-## Instructor: Ryan Hamblin
 
-### First Lecture: https://youtu.be/P6lw-HOaqmI
-- "CS1 = Each Map example and Review"
-### Second Lecture: https://youtu.be/dyyuDaZngXc
-- "CS1 Reduce example and Review"
+# [1st Lecture](https://youtu.be/P6lw-HOaqmI): Each, Map Homework Review
+### Ryan Hamblin
 
-***
+## [@5m20s](https://youtu.be/P6lw-HOaqmI?t=5m20s): Each
 - reviewing assignment
 - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
 - array is an object
+
 ```js
 const array = [1, 2, 3, 4, 5]
 
 array.forEach(element, i) => {
   console.log('Element: ', element, 'index: ', i)
 }
-
 ```
+
 - for loops don't have to loop over arrays, forEach are specific to arrays.
 
-# After Lunch Lecture - Ben
+## [@23m51s](https://youtu.be/P6lw-HOaqmI?t=23m51s): Map
+
+### [@35m](https://youtu.be/P6lw-HOaqmI?t=35m): Q&A For Loops, for loops vs forEach, nested loops
+
+***
+
+# [2nd Lecture](https://youtu.be/dyyuDaZngXc): Reduce Homework Review
+### Ryan Hamblin
+## [@1m30s](https://youtu.be/P6lw-HOaqmI?t=1m30s): Reduce
+- shift()
+- default values
+
+
+***
+
+#   [3rd Lecture](): VIDEOS ???
+### Ben Nelson
 - reviewing functions
 - DRY - Don't Repeat Yourself
 - functions 101
+
 ```js
 function foo(/*input*/) {
   return /*output*/
@@ -61,6 +76,7 @@ for (let i = 0; i < functions.length; i++) {
 
 ## End of day lecture
 - backtick string formatting
+
 ```js
 const printUserInfo = (user) => {
   console.log(`${user.username} has the email: ${user.email}.`);
@@ -73,6 +89,7 @@ printUserInfo({
 ```
 
 - Method declaration shortcut
+
 ```js
 function sayHello() {
   console.log(`${this.username} says hello!`);
@@ -87,6 +104,7 @@ user.sayHello();
 ```
 
 - SPREAD operator (similar to apply from "call, apply and bind")
+
 ```js
 const findVolume = (x, y, z) => {
   return x * y * z;
@@ -100,6 +118,7 @@ console.log(volume);
 ```
 
 - REST PARAMETER
+
 ```js
 // const foo = (...args) => {
 const foo = (x, y, ...args) => {
@@ -113,6 +132,7 @@ foo(1, 1, 2, 3, 4, 'asdf');
 - requires FUNCTION KEYWORD!!!
 - arguments does not have a lot of methods on it
 - whereas ...args rest parameter does
+
 ```js
 const foo = (...args) => {
   console.log(args);
@@ -125,6 +145,7 @@ foo(1, 2, 3, 4, 5);
 - anonymous function needs to be attached to something to stick around
 
 - Classes
+
 ```js
 class User {
   // constructor(properties) {
