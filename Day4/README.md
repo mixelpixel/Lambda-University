@@ -214,3 +214,12 @@ This is evident by looking at the name property logged to the console by each in
 - Constructor functions
 - abstraction of Prototypes
 - Classes
+
+## End of Week Sprint
+- https://docs.google.com/document/d/1vRfNyFEI8CIPRfktUDWpdeyccfqmcCARPuIBLIyqLh4/edit
+- What went well?
+- What would you different?
+
+OOOH ADD That I am in Lambda University to LinkedIn!!!!!!!!!!!!!!!
+Also, start a blog - ONLINE PRESENCE
+Maybe it's time to twitter
