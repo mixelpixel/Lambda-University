@@ -11,26 +11,27 @@
 ## Week 01: July 3 - 7
 ### Day 01: Monday, July 3
 #### Ben Nelson lectures
-- [1st Lecture](https://youtu.be/HJJDTYi9g20): "S1 - ES6, callback functions"
-- [2nd Lecture](https://youtu.be/gaLr7_BMgD0): "CS1 - this, closure"
+- [1st Lecture](https://youtu.be/HJJDTYi9g20): ES5 and ES6, Arrow Functions, `const` & `let`, Callback Functions, Semi-Colons ;;;
+- [2nd Lecture](https://youtu.be/gaLr7_BMgD0): `this`, `.call()` `.apply()` & `.bind()`) and CLOSURE
 - Homework Assignment: https://github.com/SunJieMing/Advanced-JavaScript
 - Homework: https://github.com/mixelpixel/Advanced-JavaScript
-- [3rd Lecture] VIDEO: ???
+- [3rd Lecture] VIDEO: ??? `constructor` Class Functions, `for` LOOPS, `do` `while` LOOPS & RECURSION
 - [LECTURE 1 NOTES](Day01/README.md)
 
 ### Day 02: Wednesday, July 5
 - #### Ryan Hamblin AM lectures
-- [1st Lecture](https://youtu.be/P6lw-HOaqmI): "CS1 = Each Map example and Review"
-- [2nd Lecture](https://youtu.be/dyyuDaZngXc): "CS1 Reduce example and Review"
+- [1st Lecture](https://youtu.be/P6lw-HOaqmI): Each, Map Homework Review & Q&A re: for loops, forEach, nested loops
+- [2nd Lecture](https://youtu.be/dyyuDaZngXc): Reduce Homework Review
 - #### Ben Nelson PM lecture
-- [3rd Lecture] VIDEO: ???
+- [3rd Lecture] VIDEO: ??? D.R.Y. and Functions 101
+- [4th Lecture] VIDEO: ??? backtick string formatting, Method declaration shortcut, SPREAD operator, REST parameter, `arguments`, Classes
 - [LECTURE 2 NOTES](Day02/README.md)
 
 ### Day 03: Thursday, July 6
 - #### GUEST LECTURER: Karthik Viswanathan
 	- https://karthikv.net/
 	- https://github.com/karthikv
-- [1st Lecture](https://youtu.be/KNpkIDV5Jj0): "CS1 each, map, recursion"
+- [1st Lecture](https://youtu.be/KNpkIDV5Jj0): "CS1 each, map, reduce & recursion"
 - #### Ben Nelson lecture
 - Lecture VIDEOS: ???
 - JS review
