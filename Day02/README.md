@@ -33,7 +33,7 @@ array.forEach(element, i) => {
 
 ***
 
-#   [3rd Lecture](): VIDEOS ???
+# [3rd Lecture](): VIDEOS ???
 ### Ben Nelson
 - reviewing functions
 - DRY - Don't Repeat Yourself
@@ -74,7 +74,10 @@ for (let i = 0; i < functions.length; i++) {
 }
 ```
 
-## End of day lecture
+***
+
+# [4th Lecture](): VIDEOS ???
+### Ben Nelson
 - backtick string formatting
 
 ```js
