@@ -1,14 +1,12 @@
 # Lambda University - Thursday, July 6, 2017: Day three
+
+# [1st Lecture](https://youtu.be/KNpkIDV5Jj0): Each, Map, Reduce, & Recursion Homework Review
 ## GUEST LECTURER: Karthik Viswanathan
-- https://karthikv.net/
-- https://github.com/karthikv
-- LECTURE: https://youtu.be/KNpkIDV5Jj0 "CS1 each, map, recursion"
+- UnderscoreJS & Test Suite
 
-- Start time @ ~1pm
-- underscorejs.org functions
-
-### each
+## [@2m10s](https://youtu.be/KNpkIDV5Jj0?t=2m10s): Each
 - accepts an array and a callback and calls the callback for each element in the array
+
 ```js
 const each = (elements, cb) => {
   for (let i= 0; i < elements.length; i++) {
@@ -18,6 +16,7 @@ const each = (elements, cb) => {
 ```
 
 - 2nd test asks for element and the index
+
 ```js
 const each = (elements, cb) => {
   for (let i= 0; i < elements.length; i++) {
@@ -26,7 +25,8 @@ const each = (elements, cb) => {
 };
 ```
 
-### map
+## [@6m10s](https://youtu.be/KNpkIDV5Jj0?t=6m10s): Map
+
 ```js
 const map = (elements, cb) => {
   const result = [];
@@ -38,6 +38,7 @@ const map = (elements, cb) => {
 ```
 
 - refactor with previous solution for `each`
+
 ```js
 const map = (elements, cb) => {
   const result = [];
@@ -48,10 +49,11 @@ const map = (elements, cb) => {
 };
 ```
 
-### reduce
+## [@6m10s](https://youtu.be/KNpkIDV5Jj0?t=6m10s): Reduce
 - start with second test - accept a memo argument
 - THIS TEST USES THE CALLBACK FIVE TIMES
 - satisfy the second test:
+
 ```js
 const reduce = (elements, cb, memo) => {
   each(elements, (elem) => {
@@ -64,6 +66,7 @@ const reduce = (elements, cb, memo) => {
 - first test, memo is undefined, so just reducing the values into the array without mapping the memo value on to them.
 - THIS TEST USES THE CALLBACK FOUR TIMES
 - use the initial value without double processing it
+
 ```js
 const reduce = (elements, cb, memo) => {
   if (memo === undefined) {
@@ -78,6 +81,7 @@ const reduce = (elements, cb, memo) => {
 
 - passes both tests but there's a better way
 - as is, passing the argument twice will give different results
+
 ```js
 const reduce = (elements, cb, memo) => {
   let i = 0;
@@ -94,6 +98,7 @@ const reduce = (elements, cb, memo) => {
 ```
 
 - Ryan's solution
+
 ```js
 if (memo === undefined) {
     memo = elements[0];
@@ -104,8 +109,9 @@ if (memo === undefined) {
   }
 ```
 
-## Flatten
+## [@45m](https://youtu.be/KNpkIDV5Jj0?t=45m): Flatten
 - satisfy the two cases of no nested arrays and only a single level of nesting
+
 ```js
 const flatten = (elements) => {
   // Flattens a nested array (the nesting can be to any depth).
@@ -130,15 +136,17 @@ const flatten = (elements) => {
 - what makes nested arrays not pass?
 - to go deeper, need to re-apply all the code <<<< RED FLAG FOR RECURSION
 
-#### Recursion example with factorial @ ~2:10pm
-```
+### [@1h2m20s](https://youtu.be/KNpkIDV5Jj0?t=1h2m20s): Recursion example with factorial
+
+```js
 const factorial = (n) => {
   return n * factorial(n - 1);
 }
 ```
 
 - Still need a base case tho
-```
+
+```js
 const factorial = (n) => {
   if (n === 1) { return 1; }
   return n * factorial(n - 1);
@@ -150,6 +158,9 @@ const factorial = (n) => {
 - the above solution IS the concatenation step
 - so how to first flatten each nested array? Call flatten on every nested array
 - using map function (flatten and then loop)
+
+### [@1h22m33s](https://youtu.be/KNpkIDV5Jj0?t=1h12m33s): Recursion applied to factorial
+
 ```js
 const flatten = (elements) => {
   elements = map(elements, (elem) => {
@@ -175,6 +186,7 @@ const flatten = (elements) => {
 ```
 
 - flatten in-line
+
 ```js
 const flatten = (elements) => {
   // elements = map(elements, (elem) => {
@@ -201,17 +213,22 @@ const flatten = (elements) => {
 };
 ```
 
-## @~2:30pm const v let with push
-const the BINDING is constant!
+### [@1h24m20s](https://youtu.be/KNpkIDV5Jj0?t=1h12m33s): Q&A, `const` v `let` with push
+- const the BINDING is constant!
+
+
+
 
 # After Lunch Lecture
 ## Lecturer: Ben Nelson @~5:10pm
  ""
 ### Reviewing basic JS with ES6
 #### variables
+
 ```js
 const x = 5;
 ```
+
 - read as, "const x GETS five"
 - x is a reference to the value 5
 - variables get associated with values
@@ -221,28 +238,35 @@ const x = 5;
 - They are in the parent scope and available everywhere
   - keywords, globa/local parent/(child?) inner/outer
 #### branching logic - a fork in the road
+
 ```js
 if () {
 
 }
 ```
+
 ```js
 if (condition - either true or false) {
   do something; //<--- either a side effect vs. a return
 }
 ```
+
 - Ternary operators:
+
 ```
 declare variableName = ifCondition ? thenThis : otherwiseThat;
 ```
 
 #### For Loop
+
 ```js
 for (let i = 0; i < 10; i++) {
   console.log(i); // <--- will console zero through nine
 }
 ```
+
 - Useful for iterating over Arrays with indexes. Shorthand forEach or underscorejs's "each" method
+
 ```js
 const letters = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h'];
 let i;
@@ -259,9 +283,11 @@ letters.forEach((letter) => {
   console.log(letter);
 });
 ```
+
 - `let` and `const` scoping (@5:55pm)
 
 #### wordsToSentences problem review
+
 ```js
 function wordsToSentence(words) {
   let sentence = '';
@@ -281,6 +307,10 @@ const sentence = wordsToSentence(['Hello', 'world!', 'How', 'are', 'you', 'doing
 console.log(sentence);
 ```
 
+
+
+
+
 # End of Day Lecture
 ## Lecturer: Ben Nelson @~8pm
  ""
@@ -288,6 +318,7 @@ console.log(sentence);
 #### objects exercise: values
 - an object is a set of key: value pairs
 - all keys must be unique
+
 ```js
 const obj = {
   x: 5,
