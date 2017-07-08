@@ -6,7 +6,7 @@
 	- To be done:
 	- https://lambdaschool.com/pro/react Node, ES6, and Mongo...
 - Curriculum: https://docs.google.com/document/d/1Csrb2C5H6mdVsIdUi_CdKB_bY__Lpnx_fWuV4vNdsck/edit
-- Some b.g. reading:
+- Some old school b.g. reading:
 	- https://archive.org/stream/8080a8085AssemblyLanguageProgramming/Leventhal-8080a-8085AssemblyLanguageProgramming
 	- https://archive.org/stream/AnIntroductionToMicrocomputersVolume0/Osborne-AnIntroductionToMicrocomputersVolume0
 	- https://archive.org/stream/AnIntroductionToMicroprocessorsVolume1/Osborne-AnIntroductionToMicroprocessorsVolume1
@@ -29,6 +29,7 @@
 - https://jsbin.com/
 - https://jsfiddle.net)
 - Mozilla https://developer.mozilla.org/en-US/docs/Web/JavaScript
+- Ryan's Extra Resources list: https://docs.google.com/document/d/1y5B_glCrLRo8Vnu93QMKjFrfAN3a-GFPzgGz76rTTIQ/edit
 
 # Month 1
 ## Week 01
@@ -45,6 +46,7 @@
 - First Lecture: https://youtu.be/P6lw-HOaqmI "CS1 = Each Map example and Review"
 - Second Lecture: https://youtu.be/dyyuDaZngXc "CS1 Reduce example and Review"
 #### Ben Nelson PM lectures
+- VIDEO@: ???
 
 - [Lecture 2 notes](Lecture2/README.md)
 
@@ -54,6 +56,7 @@
 - https://github.com/karthikv
 - GUEST LECTURE: https://youtu.be/KNpkIDV5Jj0 "CS1 each, map, recursion"
 #### Ben Nelson lecture
+- VIDEOS: ???
 - JS review
 - Q & A
 
@@ -61,7 +64,9 @@
 
 ### Day 4: Friday, July 7, 2017, day 4
 #### Ben Nelson AM lecture
-
+- VIDEO: ???
+-
 #### Ryan Hamblin PM lecture2
 - https://youtu.be/-9h9f600Q3Y `this` 4 RULES
 - https://youtu.be/LtW4eEK39SE  "this.js" Homework review - BLOCKED OUT VIDEO/AUDIO ONLY
+- Closing sprint meeting
