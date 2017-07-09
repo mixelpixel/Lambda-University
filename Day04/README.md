@@ -126,6 +126,7 @@ const tree1 = {
 #### 4 principles of `this`
 1. Whenever a function is contained in the GLOBAL scope, the value of `this` inside of that function will be the WINDOW object.
   1a. WINDOW in node environment or browser
+
   ```js
   function greet(name) {
     console.log('Hello' + name);
@@ -147,8 +148,10 @@ const tree1 = {
 
   greet('Ryan');
   ```
+
 2. Whenever a function is called by a PRECEDING DOT, the object BEFORE THE DOT is "this"
   2a. functions in objects are METHODS
+
   ```js
   const me = {
     greeting: 'Hello!',
@@ -166,17 +169,19 @@ const tree1 = {
     self: this,
   }
   ```
+
 3. Whenever a CONSTRUCTOR FUNCTION is used, `this` refers to the "SPECIFIC INSTANCE OF THE OBJECT" that is created and returned by the constructor function.
-  3b.
+  3b. ...
+
   ```js
   function person(options) {
   lexical environment this === {};
     this.firstName = options.firstName;
     this.lastName = options.lastName;
-    this.sayName = function ( {
+    this.sayName = function() {
       console.log('Hello, my name is ' + options.firstName + ' ' + options.lastName) // <--- Works without the this = options declarations
       console.log('Hello, my name is ' + this.firstName + ' ' + this.lastName);
-    })
+    }
   }
 
   const fred = new person({
