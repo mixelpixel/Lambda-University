@@ -80,7 +80,9 @@ const reduce = (elements, cb, memo) => {
 ```
 
 - passes both tests but there's a better way
-- as is, passing the argument twice will give different results
+
+## [@36m50s](https://youtu.be/KNpkIDV5Jj0?t=13m53s): Reduce - a better method
+- as is, passing the argument twice will give different results because the array is being truncated
 
 ```js
 const reduce = (elements, cb, memo) => {
