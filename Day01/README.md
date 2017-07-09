@@ -97,8 +97,16 @@ const bar = () => {
 };
 
 // foo    // <--- a block of code in uncalled state
-// foo()  // <--- invoked function
+// foo()  // <--- invoked or evaluated function
+bar();    // ---> hi
 foo(bar); // ---> hi
+
+const baz = () => {
+	console.log('sup')
+};
+
+foo(baz); // ---> sup
+
 ```
 
 ### [@34m14s](https://youtu.be/HJJDTYi9g20?t=34m14s) Homework 1 preparation & Q&A
