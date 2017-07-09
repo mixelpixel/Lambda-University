@@ -49,7 +49,7 @@ const map = (elements, cb) => {
 };
 ```
 
-## [@6m10s](https://youtu.be/KNpkIDV5Jj0?t=6m10s): Reduce
+## [@13m53s](https://youtu.be/KNpkIDV5Jj0?t=13m53s): Reduce
 - start with second test - accept a memo argument
 - THIS TEST USES THE CALLBACK FIVE TIMES
 - satisfy the second test:
@@ -90,7 +90,7 @@ const reduce = (elements, cb, memo) => {
     i = 1; // <--- starting at second item when no memo is passed in
   }
 
-  for(; i <elements.length; i++) {
+  for (; i < elements.length; i++) {
     memo = cb(memo, elements[i]);
   }
   return memo;
