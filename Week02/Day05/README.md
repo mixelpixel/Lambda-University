@@ -1,8 +1,8 @@
 # Lambda University - Monday, July 10, 2017: Day five
 ## Coding Challenge #1
 - https://github.com/ryanhca/CS1-Code-Challenges
-- fork, clone (or submidule) then solve and make a pull request to submit solution.
-- solution available next day
+- fork, clone (or submodule) then solve. Once solved, make a pull request to submit solution.
+- In general, solutions available next day...
 - Good reference: "[Cracking the Coding Interview](http://www.crackingthecodinginterview.com/)" by Gayle Laakmann McDowell
 
 # 1st Lecture - Ryan Hamblin
