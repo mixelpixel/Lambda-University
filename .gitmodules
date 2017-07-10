@@ -4,3 +4,6 @@
 [submodule "CS1-Code-Challenges"]
 	path = CS1-Code-Challenges
 	url = https://github.com/mixelpixel/CS1-Code-Challenges.git
+[submodule "LS-Data-Structures"]
+	path = LS-Data-Structures
+	url = https://github.com/mixelpixel/LS-Data-Structures.git
