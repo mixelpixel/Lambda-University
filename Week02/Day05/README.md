@@ -1,28 +1,25 @@
 # Lambda University - Monday, July 10, 2017: Day five
-## Lecturers: Ben Nelson / Ryan Hamblin
-### Coding Challenge
+## Coding Challenge #1
+- https://github.com/ryanhca/CS1-Code-Challenges
+- fork, clone (or submidule) then solve and make a pull request to submit solution.
 - solution available next day
-- "Cracking the Coding Interview" by Gayle Laakmann McDowell
-- Code challenge #1: "Longest String"
+- Good reference: "[Cracking the Coding Interview](http://www.crackingthecodinginterview.com/)" by Gayle Laakmann McDowell
 
-## 1st Lecture - Section 1 `bind()` ~Start @ 1:24pm
-### Ryan Hamblin
-
-#### [](#): `bind()`
+# 1st Lecture - Ryan Hamblin
+## [Section 1](#): `bind()` (& `class`)
 - [bind.js](Week02/Day05/bind.js)
 - `bind()` is a way to control the context of what `this` refers to
 - some `class` stuff @ tail of lecture...
 
-#### 1st Lecture - Section 2 CLASS @ ~1:42PM
+## [Section 2](#): Week 1 Homework Review, Advanced JS: "class.js"
 - [class.js](Advanced-JavaScript/src/class.js)
-- how to solve using prototype methods?
+- Q: how to solve using prototype methods?
 
-#### 1st Lecture - Section 3 OBJECTS @ ~2:04PM
+## [Section 3](#): Week 1 Homework Review, Advanced JS: "objects.js"
 - [bind.js](Advanced-JavaScript/src/objects.js)
 - object methods
 - object elements are NOT indexed
 - instead of for loops, we use Objects.keys to return an array (list) of all the keys
-ENDED @ ~2:25PM
 
 #### Sprint review
 
