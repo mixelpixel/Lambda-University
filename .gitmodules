@@ -1,3 +1,6 @@
 [submodule "Advanced-JavaScript"]
 	path = Advanced-JavaScript
 	url = https://github.com/mixelpixel/Advanced-JavaScript.git
+[submodule "CS1-Code-Challenges"]
+	path = CS1-Code-Challenges
+	url = https://github.com/mixelpixel/CS1-Code-Challenges.git
