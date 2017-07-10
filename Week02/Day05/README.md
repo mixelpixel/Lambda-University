@@ -12,4 +12,4 @@
 
 ### 2nd Lecture
 
-### Review Q&A
+### Review / Q&A
