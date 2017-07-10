@@ -11,10 +11,11 @@
 #### [](#): `bind()`
 - [bind.js](Week02/Day05/bind.js)
 - `bind()` is a way to control the context of what `this` refers to
-- some `class` stuff...
+- some `class` stuff @ tail of lecture...
 
 #### 1st Lecture - Section 2 CLASS @ ~1:42PM
 - [class.js](Advanced-JavaScript/src/class.js)
+- how to solve using prototype methods?
 
 #### 1st Lecture - Section 3 OBJECTS @ ~2:04PM
 - [bind.js](Advanced-JavaScript/src/objects.js)
