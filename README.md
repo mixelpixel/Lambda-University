@@ -16,7 +16,7 @@
 - Homework Assignment: https://github.com/SunJieMing/Advanced-JavaScript
 - Homework: https://github.com/mixelpixel/Advanced-JavaScript
 - [3rd Lecture] VIDEO: ??? `constructor` Class Functions, `for` LOOPS, `do` `while` LOOPS & RECURSION
-- [LECTURE 1 NOTES](Day01/README.md)
+- [LECTURE 1 NOTES](Week01/Day01/README.md)
 
 ### Day 02: Wednesday, July 5
 - #### Ryan Hamblin AM lectures
@@ -25,7 +25,7 @@
 - #### Ben Nelson PM lecture
 - [3rd Lecture] VIDEO: ??? D.R.Y. and Functions 101
 - [4th Lecture] VIDEO: ??? backtick string formatting, Method declaration shortcut, SPREAD operator, REST parameter, `arguments`, Classes
-- [LECTURE 2 NOTES](Day02/README.md)
+- [LECTURE 2 NOTES](Week01/Day02/README.md)
 
 ### Day 03: Thursday, July 6
 - #### GUEST LECTURER: Karthik Viswanathan
@@ -36,7 +36,7 @@
 - Lecture VIDEOS: ???
 - JS review
 - Q & A
-- [LECTURE 3 NOTES](Day03/README.md)
+- [LECTURE 3 NOTES](Week01/Day03/README.md)
 
 ### Day 04: Friday, July 7
 - #### Ben Nelson AM lecture
@@ -45,16 +45,16 @@
 - [2nd Lecture](https://youtu.be/-9h9f600Q3Y): `this` 4 RULES
 - [3rd Lecture](https://youtu.be/LtW4eEK39SE):  "this.js" Homework review - BLOCKED OUT VIDEO/AUDIO ONLY
 - Closing sprint meeting
-- [LECTURE 4 NOTES](Day04/README.md)
+- [LECTURE 4 NOTES](Week01/Day04/README.md)
 
 ***
 
 ## Week 02: July 10 - 14
 ### Day 05: Monday, July 10, 2017
-- [1st Lecture]()
-- [2nd Lecture]()
-- [3rd Lecture]()
-- [LECTURE 5 NOTES]()
+- [1st Lecture](#): Coding Challenge Solution / Sprint Review
+- [2nd Lecture](#): ???
+- [3rd Lecture](#): Review / Q&A
+- [LECTURE 5 NOTES](Week05/Day05/README.md)
 
 ***
 
