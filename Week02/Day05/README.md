@@ -55,13 +55,13 @@
 ### @9m QUEUE EXAMPLE
 - push() and shift() with an array
 
-10m Homework: class Stack implement push and pop
-12m Homework: class Queue implement push and shift
+@10m Homework: class Stack implement push and pop
+@12m Homework: class Queue implement push and shift
 
-13m abstraction JS run in node and chrome by a c++ application which is compiled into assembly, machine code and some other magic b4 it becomes electrical
+@13m abstraction JS run in node and chrome by a c++ application which is compiled into assembly, machine code and some other magic b4 it becomes electrical
 
 @16m
-## [Memory cells: arrays](https://youtu.be/oYDDke8hehw)
+## [Memory cells: Arrays](https://youtu.be/oYDDke8hehw)
 
 @20m
 ## [Memory cells: Linked Lists](https://youtu.be/oYDDke8hehw)
@@ -71,7 +71,7 @@
 
 @30 Q&A const v let, mutable vs. immutable, references, etc
 
-@32 LINKED LISTS
+@32 LINKED LISTS Example
 - chaining objects together to make a linked list
 - nesting objects
 - ends up making different blocks in memory that are connected
@@ -117,7 +117,7 @@ class LinkedList {
 - Constant Time Lookup
 - 'name' : 'Ben' (key:value pair) go into hashing function, 'name' gets the location, Ben gets stored there. 'Ben' is now retrievable with the key: 'name'
 
-@44 BIGO COMPLEXITY AND NOTATION
+@44 BIG O COMPLEXITY AND NOTATION
 - http://bigocheatsheet.com/
 - https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/
   @50 Orders of complexity
