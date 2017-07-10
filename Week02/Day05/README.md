@@ -33,14 +33,12 @@
 ### [@11m29s](https://youtu.be/A3P23iO-bas?t=11m29s): pairs
 ### [@15m30s](https://youtu.be/A3P23iO-bas?t=15m30s): invert
 
-#### Sprint review
-
 ***
-# Lunch
+#### Lunch
 ***
 
 # 2nd Lecture - Ben Nelson @ ~4:10pm = 0
-## [Section 1](https://youtu.be/oYDDke8hehw): Data Structures
+## [DATA SRUCTURES](https://youtu.be/lZlV9d3t8z4): stacks, queues, linked lists, hash tables, big O(constant, linear, quadratic)
 - a way for structuring data in memory
 - different patterns have different aspects
 - Two data structure: A Stack and a Queue
@@ -49,7 +47,7 @@
   - QUEUE: FIFO = First In First Out
     - message queue (to handle asynchronous events)
 
-### @8m STACK EXAMPLE
+### [@7m43s](https://youtu.be/lZlV9d3t8z4t=7m43s) STACK EXAMPLE
 - push() and pop() with an array
 
 ### @9m QUEUE EXAMPLE
