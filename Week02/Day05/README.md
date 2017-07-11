@@ -50,26 +50,27 @@
 ### [@7m43s](https://youtu.be/lZlV9d3t8z4t=7m43s) STACK EXAMPLE
 - push() and pop() with an array
 
-### @9m QUEUE EXAMPLE
+### [@9m20s](https://youtu.be/lZlV9d3t8z4t=9m20s) QUEUE EXAMPLE
 - push() and shift() with an array
 
-@10m Homework: class Stack implement push and pop
-@12m Homework: class Queue implement push and shift
+#### [@10m25s](https://youtu.be/lZlV9d3t8z4t=10m25s): Homework - class Stack implement push and pop
+#### [@12m](https://youtu.be/lZlV9d3t8z4t=12m): Homework - class Queue implement push and shift
 
-@13m abstraction JS run in node and chrome by a c++ application which is compiled into assembly, machine code and some other magic b4 it becomes electrical
+#### [@13m](https://youtu.be/lZlV9d3t8z4t=13m): Abstraction
+- JS run in node and chrome by a c++ application which is compiled into assembly, machine code and some other magic b4 it becomes electrical
 
-@16m
-## [Memory cells: Arrays](https://youtu.be/oYDDke8hehw)
+### [@16m15s](https://youtu.be/lZlV9d3t8z4t=16m15s): Memory cells: Arrays
 
-@20m
-## [Memory cells: Linked Lists](https://youtu.be/oYDDke8hehw)
+### [@19m57s](https://youtu.be/lZlV9d3t8z4t=16m15s): Memory cells: LINKED LISTS
 - adding to is efficient, but retrieving is not necessarily as efficient as an array
+- no native linked list, implemented with objects
+- Key Concept for Linked Lists in JavaScript - the hash table? (I think that what he was getting at...?)
 
-@23m Key Concept for Linked Lists in JavaScript / Socrative polling
+##### [@23m43s](https://youtu.be/lZlV9d3t8z4t=16m15s): Socrative polling
 
-@30 Q&A const v let, mutable vs. immutable, references, etc
+#### [@31m06s](https://youtu.be/lZlV9d3t8z4t=31m06s): Q&A arrays, const v let, mutable vs. immutable, references, etc
 
-@32 LINKED LISTS Example
+## [@32m30s](https://youtu.be/lZlV9d3t8z4t=32m30s): LINKED LISTS
 - chaining objects together to make a linked list
 - nesting objects
 - ends up making different blocks in memory that are connected
@@ -109,31 +110,33 @@ class LinkedList {
 };
 ```
 
-@39 HASH TABLES
+## [@39m30s](https://youtu.be/lZlV9d3t8z4t=39m30s): HASH TABLES
 - actually how JS objects are implemented
 - 'string' fed into hashing function which maps the string to a specific address in the hashing table.
 - Constant Time Lookup
 - 'name' : 'Ben' (key:value pair) go into hashing function, 'name' gets the location, Ben gets stored there. 'Ben' is now retrievable with the key: 'name'
 
-@44 BIG O COMPLEXITY AND NOTATION
+## [@43m30s](https://youtu.be/lZlV9d3t8z4t=43m30s): BIG O NOTATION AND COMPLEXITY
 - http://bigocheatsheet.com/
 - https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/
-  @50 Orders of complexity
-  - Linear growth O(n)
+- ~ @50 Orders of complexity
+  - Linear growth **O(n)**
     - one for loop
     - doubling (increasing) the input doubles (increases) the processing time
-  - Quadratic growth O(n^2)
+  - Quadratic growth **O(n^2)**
     - one or more nested for loop
-  @57 Constant time lookup: O(1)
+- ~ @57 Constant time lookup: **O(1)**
   - same amount of time to get the first item as the last, each order of operation is identical
 
   x squared plus 2x plus 1 = a nested for-loop, 2 for-loops and a console.log
 
 end @1hr8min
 notes on pair programming
+Pair Programming project: https://github.com/SunJieMing/LS-Data-Structures
 
+***
 
-### Review / Q&A
+# Review / Q&A
 - getters and setters
 ```js
 const obj = {
@@ -148,6 +151,4 @@ const obj = {
 
 obj.getValue(); // 5
 obj.setValue(10); // set it to 10
-
-
 ```
