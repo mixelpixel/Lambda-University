@@ -70,7 +70,7 @@
 
 ### Day 06: Tuesday, July 11
 #### [1st Lecture](#) - Ryan Hamblin: review Code Challenege #1
-#### [2nd Lecture](#) - Ryan Hamblin: Brown Bag session, VisStud IDE, shortcuts
+#### [2nd Lecture](#) - Ryan Hamblin: Brown Bag session, Visual Studio & IDE shortcuts
 - [DAY 6 NOTES](Week02/Day06/README.md)
 
 
