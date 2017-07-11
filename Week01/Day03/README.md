@@ -218,14 +218,13 @@ const flatten = (elements) => {
 ### [@1h24m20s](https://youtu.be/KNpkIDV5Jj0?t=1h12m33s): Q&A, `const` v `let` with push
 - const the BINDING is constant!
 
+***
+# Lunch
+***
 
-
-
-# After Lunch Lecture
-## Lecturer: Ben Nelson @~5:10pm
- ""
-### Reviewing basic JS with ES6
-#### variables
+# [2nd Lecture](https://youtu.be/exSwdXfeBtI)
+## Lecturer: Ben Nelson @~5:10pm - Reviewing basic JS with ES6
+### [@2m28s](https://youtu.be/exSwdXfeBtI?t=2m28s) variables
 
 ```js
 const x = 5;
@@ -239,7 +238,8 @@ const x = 5;
 - `console` is globally available, `Array`, `'Object`, `Number`, `window` etc are built in values.
 - They are in the parent scope and available everywhere
   - keywords, globa/local parent/(child?) inner/outer
-#### branching logic - a fork in the road
+  -
+### [@9m52s](https://youtu.be/exSwdXfeBtI?t=9m52s) branching logic - a fork in the road
 
 ```js
 if () {
@@ -253,13 +253,14 @@ if (condition - either true or false) {
 }
 ```
 
-- Ternary operators:
+#### [@26m55s](https://youtu.be/exSwdXfeBtI?t=26m55s) AirBnB style guide for ES Linter: superfluous "else" statements
+#### [@27m35s](https://youtu.be/exSwdXfeBtI?t=27m35s) Ternary operators:
 
 ```
 declare variableName = ifCondition ? thenThis : otherwiseThat;
 ```
 
-#### For Loop
+### [@34m](https://youtu.be/exSwdXfeBtI?t=34m) For Loop
 
 ```js
 for (let i = 0; i < 10; i++) {
@@ -286,9 +287,11 @@ letters.forEach((letter) => {
 });
 ```
 
-- `let` and `const` scoping (@5:55pm)
+#### [@45m30s](https://youtu.be/exSwdXfeBtI?t=45m30s) `let` and `const` scoping
+#### [@48m](https://youtu.be/exSwdXfeBtI?t=48m) forEach
+- get comfy with for loops THEN use forEach (which are preferred, default to forEach)
 
-#### wordsToSentences problem review
+### [@50m10s](https://youtu.be/exSwdXfeBtI?t=50m10s) wordsToSentences problem review
 
 ```js
 function wordsToSentence(words) {
@@ -309,9 +312,7 @@ const sentence = wordsToSentence(['Hello', 'world!', 'How', 'are', 'you', 'doing
 console.log(sentence);
 ```
 
-
-
-
+***
 
 # End of Day Lecture
 ## Lecturer: Ben Nelson @~8pm
