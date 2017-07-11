@@ -16,45 +16,80 @@
 - Homework Assignment: https://github.com/SunJieMing/Advanced-JavaScript
 - Homework: https://github.com/mixelpixel/Advanced-JavaScript
 - [3rd Lecture] VIDEO: ??? `constructor` Class Functions, `for` LOOPS, `do` `while` LOOPS & RECURSION
-- [LECTURE 1 NOTES](Week01/Day01/README.md)
+- [DAY 1 NOTES](Week01/Day01/README.md)
+
 
 ### Day 02: Wednesday, July 5
-- #### Ryan Hamblin AM lectures
+#### Ryan Hamblin AM lectures
 - [1st Lecture](https://youtu.be/P6lw-HOaqmI): Each, Map Homework Review & Q&A re: for loops, forEach, nested loops
 - [2nd Lecture](https://youtu.be/dyyuDaZngXc): Reduce Homework Review
-- #### Ben Nelson PM lecture
-- [3rd Lecture] VIDEO: ??? D.R.Y. and Functions 101
-- [4th Lecture] VIDEO: ??? backtick string formatting, Method declaration shortcut, SPREAD operator, REST parameter, `arguments`, Classes
-- [LECTURE 2 NOTES](Week01/Day02/README.md)
+
+#### Ben Nelson PM lecture
+- [3rd Lecture](https://youtu.be/2mIvc0wc0oI): D.R.Y. and Functions 101
+- [4th Lecture](https://youtu.be/Y3NRA2-kvbY) backtick string formatting, Method declaration shortcut, SPREAD operator, REST parameter, `arguments`, Classes
+- [DAY 2 NOTES](Week01/Day02/README.md)
+
 
 ### Day 03: Thursday, July 6
-- #### GUEST LECTURER: Karthik Viswanathan
-	- https://karthikv.net/
-	- https://github.com/karthikv
-- [1st Lecture](https://youtu.be/KNpkIDV5Jj0): "CS1 each, map, reduce & recursion"
-- #### Ben Nelson lecture
-- Lecture VIDEOS: ???
-- JS review
-- Q & A
-- [LECTURE 3 NOTES](Week01/Day03/README.md)
+#### GUEST LECTURER: Karthik Viswanathan
+- https://karthikv.net/
+- https://github.com/karthikv
+- [1st Lecture](https://youtu.be/KNpkIDV5Jj0): Homework 1 review: each, map, reduce, flatten & recursion"
+
+#### Ben Nelson lecture
+- [2nd Lecture](https://youtu.be/exSwdXfeBtI): Basic JS w/ES6 review & Q&A: variables, branching logic,  AirBnB style, Ternary, for loop, const v let, forEach, wordsToSentences problem
+- [3rd Lecture] VIDEO: ??? End of day review & Q&A
+- [DAY 3 NOTES](Week01/Day03/README.md)
+
 
 ### Day 04: Friday, July 7
-- #### Ben Nelson AM lecture
-- [1st Lecture] VIDEO: ???
-- #### Ryan Hamblin PM lectures
+#### Ben Nelson AM lecture
+- [1st Lecture](https://youtu.be/JxCVug-Jo_s): Closure & Recursion review
+
+#### Ryan Hamblin PM lectures
 - [2nd Lecture](https://youtu.be/-9h9f600Q3Y): `this` 4 RULES
 - [3rd Lecture](https://youtu.be/LtW4eEK39SE):  "this.js" Homework review - BLOCKED OUT VIDEO/AUDIO ONLY
 - Closing sprint meeting
-- [LECTURE 4 NOTES](Week01/Day04/README.md)
+- [DAY 4 NOTES](Week01/Day04/README.md)
+
 
 ***
 
+
 ## Week 02: July 10 - 14
-### Day 05: Monday, July 10, 2017
-- [1st Lecture](#): Coding Challenge Solution / Sprint Review
-- [2nd Lecture](#): ???
-- [3rd Lecture](#): Review / Q&A
-- [LECTURE 5 NOTES](Week05/Day05/README.md)
+### Day 05: Monday, July 10
+- Code Challenge #1: https://github.com/ryanhca/CS1-Code-Challenges
+- Pair Programming #1: https://github.com/SunJieMing/LS-Data-Structures
+#### 1st Lecture - Ryan Hamblin
+- [Section 1](https://youtu.be/oYDDke8hehw): `bind()`
+- [Section 2](https://youtu.be/4kfkCJJsSuA): Week 1 Homework Review, Advanced JS "class.js"
+- [Section 3](https://youtu.be/A3P23iO-bas): Week 1 Homework Review, Advanced JS "objects.js"
+#### [2nd Lecture](https://youtu.be/lZlV9d3t8z4) - Ben Nelson: Data Structure, Big O Notation, Pair Programming
+- [DAY 5 NOTES](Week02/Day05/README.md)
+
+
+### Day 06: Tuesday, July 11
+#### [1st Lecture](#) - Ryan Hamblin: topic
+#### [2nd Lecture](#) - Ben Nelson: topic
+- [DAY 6 NOTES](Week02/Day06/README.md)
+
+
+### Day 07: Wednesday, July 12
+#### [1st Lecture](#) - Ryan Hamblin: topic
+#### [2nd Lecture](#) - Ben Nelson: topic
+- [DAY 7 NOTES](Week02/Day07/README.md)
+
+
+### Day 08: Thursday, July 13
+#### [1st Lecture](#) - Ryan Hamblin: topic
+#### [2nd Lecture](#) - Ben Nelson: topic
+- [DAY 8 NOTES](Week02/Day08/README.md)
+
+
+### Day 09: Friday, July 14
+#### [1st Lecture](#) - Ryan Hamblin: topic
+#### [2nd Lecture](#) - Ben Nelson: topic
+- [DAY 9 NOTES](Week02/Day09/README.md)
 
 ***
 
@@ -119,10 +154,12 @@
 - Underscorejs: http://underscorejs.org/
 	- http://underscorejs.org/underscore.js
 	- Easier to view in Chrome with [Pretty Print](https://chrome.google.com/webstore/detail/prettyprint/nipdlgebaanapcphbcidpmmmkcecpkhg?hl=en-US)
-- https://babeljs.io/ compiler for ES6 script, turns it into ES5 (ECMAScript 5)
-- https://babeljs.io/learn-es2015/
-- https://jsbin.com/
-- https://jsfiddle.net)
+- BabelJS
+	- https://babeljs.io/ compiler for ES6 script, turns it into ES5 (ECMAScript 5)
+	- https://babeljs.io/learn-es2015/
+- JS sandboxes online
+	- https://jsbin.com/
+	- https://jsfiddle.net)
 - Mozilla https://developer.mozilla.org/en-US/docs/Web/JavaScript
 - Ryan's Extra Resources list: https://docs.google.com/document/d/1y5B_glCrLRo8Vnu93QMKjFrfAN3a-GFPzgGz76rTTIQ/edit
 - Some old school b.g. reading:
@@ -130,3 +167,6 @@
 	- https://archive.org/stream/AnIntroductionToMicrocomputersVolume0/Osborne-AnIntroductionToMicrocomputersVolume0
 	- https://archive.org/stream/AnIntroductionToMicroprocessorsVolume1/Osborne-AnIntroductionToMicroprocessorsVolume1
 	- https://github.com/getify/You-Dont-Know-JS
+- BIG O NOTATION
+	- http://bigocheatsheet.com/
+	- https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/
