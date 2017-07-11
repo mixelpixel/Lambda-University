@@ -30,7 +30,8 @@ array.forEach(element, i) => {
 - shift()
 - default values
 
-
+***
+# Lunch
 ***
 
 # [3rd Lecture](https://youtu.be/2mIvc0wc0oI): Function review, D.R.Y., const v let references
