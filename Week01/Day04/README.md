@@ -114,7 +114,10 @@ const tree1 = {
 };
 ```
 
-# After Lunch @~4:00PM
+***
+# LUNCH
+***
+
 ## Lecturer: Ryan Hamblin
 ### `this`
 - LECTURE VIDEO: https://youtu.be/-9h9f600Q3Y
