@@ -1,7 +1,6 @@
 # Lambda University - Friday, July 7, 2017: Day four
 ## Lecturer: Ben Nelson
-
-### Closure & Recursion review
+### [Closure & Recursion review](https://youtu.be/JxCVug-Jo_s)
 - LECTURE VIDEO:
 
 - closure pertains to higher order functions
@@ -9,7 +8,7 @@
 - the function that gets returned can go back and look into the declaring function
 - function needs to store variables in a place that won't go away when function done
 
-#### counter problem @~12:15
+### [@2m](https://youtu.be/JxCVug-Jo_s?t=2m): counter problem
 ```js
 const counter = () => {
 
@@ -66,7 +65,7 @@ const result = myCounterFunction();
 console.log(result); // ---> JUST RETURNS THE INTERNAL FUNCTION!!!!!!!!!!!!!!!!
 ```
 
-#### factorial problem @~12:43
+### [@27m21s](https://youtu.be/JxCVug-Jo_s?t=27m21s): factorial problem
 - started explaining recursion with fibonacci, but switched to factorial
 ```js
 const nFactorial = (n) => { // 5
@@ -79,7 +78,7 @@ const factorial = nFactorial(5);
 console.log(factorial);
 ```
 
-#### matching leaves @~12:55
+### [@41m50s](https://youtu.be/JxCVug-Jo_s?t=41m50s): matching leaves
 - constraint - will either find a number or object
 - Depth first search (vs. breadth first)
 ```js
