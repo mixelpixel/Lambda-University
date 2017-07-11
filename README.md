@@ -69,8 +69,8 @@
 
 
 ### Day 06: Tuesday, July 11
-#### [1st Lecture](#) - Ryan Hamblin: topic
-#### [2nd Lecture](#) - Ben Nelson: topic
+#### [1st Lecture](#) - Ryan Hamblin: review Code Challenege #1
+#### [2nd Lecture](#) - Ryan Hamblin: Brown Bag session, VisStud IDE, shortcuts
 - [DAY 6 NOTES](Week02/Day06/README.md)
 
 
