@@ -134,3 +134,20 @@ notes on pair programming
 
 
 ### Review / Q&A
+- getters and setters
+```js
+const obj = {
+  value: 5,
+  getValue() {
+    return this.value;
+  },
+  setValue(newValue) {
+    this.value = newValue;
+  }
+};
+
+obj.getValue(); // 5
+obj.setValue(10); // set it to 10
+
+
+```
