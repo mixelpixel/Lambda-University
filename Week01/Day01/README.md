@@ -126,6 +126,7 @@ foo(baz); // ---> sup
 
 ***
 #### Austen on LAMBDA UNIVERSIRY INCOME AGREEMENT
+# Lunch
 ***
 
 # [2nd Lecture](https://youtu.be/gaLr7_BMgD0): `this`, `.call()` `.apply()` & `.bind()`) and CLOSURE
