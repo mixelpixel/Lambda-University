@@ -13,7 +13,7 @@ git pull upstream master
 ***
 
 # [2nd Lecture](https://youtu.be/SXvxbIEgOkw) - Ben Nelson: Code Challenge 2 review "isUnique"
-## [basic solution](https://youtu.be/SXvxbIEgOkw?t=1m40s)
+## [@1m40s](https://youtu.be/SXvxbIEgOkw?t=1m40s): basic solution with nested for loop
 - nestedfor loop solution:
   ```js
   // iterate over str
@@ -22,13 +22,18 @@ git pull upstream master
     // return true
 
   const isUnique = (str) => {
-
+    for (let i = 0; i < str.length; i++) {
+      for (let j = i + 1; j < str.length; j++) {
+        if (str[i] === str [j]) return false;
+      }
+    }
+    return true;
   };
 
   ```
 
-## [Big O considerations](https://youtu.be/SXvxbIEgOkw?t=???)
-## [ES6 Set solution](https://youtu.be/SXvxbIEgOkw?t=???)
+## [](https://youtu.be/SXvxbIEgOkw?t=???): Big O considerations
+## [](https://youtu.be/SXvxbIEgOkw?t=11m): ES6 Set solution
   - like an object, but no {key: value}, just {value}
   - unlike an array, a set is NOT ordered
   - Set is a collection of values that are all unique
@@ -295,7 +300,7 @@ class HashTable {
 - those kids have kids
 - Like a family/geneaology tree
 
-## [ms](URL): Binary Search Trees
+## [ms](URL): Binary Search Trees (sorted binary tree)
 - Binary search algorithm and binary search tree.
 - each node can only have two children max, 0, 1 or 2.
 - binary search tree ... order enforced
@@ -303,5 +308,90 @@ class HashTable {
 ## [ms](URL): Graphs
 - nodes, or, "vertices" (and "edges" - connections, one or two way connections) can be connected to any other node
 - used in social networks
+- "weighted" edges
+
+### [ms](URL): Review
+- trees
+- binary trees
+- graphs
+- "a linked list is like a tree where each node only has one other node child"
+
+## [ms](URL): representing this in CODE
+- use arrays, objects, whatev works to emulate the pattern
+
+# TREE
+```js
+const tree = {
+  value: 5,
+  children: [
+    {
+      value: 10,
+      children: []
+    },
+    {
+      value: 12,
+      children: []
+    },
+    {
+      value: 2,
+      children: []
+    }
+  ]
+};
+```
+
+# BINARY TREE
+
+```js
+const binaryTree = {
+  value: 5,
+  left: {
+    value: 2,
+    left: {
+      value: 1,
+      left: null,
+      right: null
+    },
+    right: {
+      value: 7,
+      left: null,
+      right: {
+        value: 8,
+        left: null,
+        right: null
+      }
+    }
+  },
+  right: {
+    value: 9,
+    left: null,
+    right: null
+  }
+};
+```
+
+# GRAPH
+
+```js
+const graph = [
+  {
+    value: 3,
+    edges: [graph[1]]
+  },
+  {
+    value: 15,
+    edges: [graph[0]]
+  },
+  {
+    value: 99,
+    edges: [graph[0]]
+  }
+];
+```
+
+## use ES6 classes to make these objects
+
+#### [ms](URL): Setup for Pair Partner Programming #2
+- DM w/me, partner Ryan and SunJieMing
 
 ##### fin
