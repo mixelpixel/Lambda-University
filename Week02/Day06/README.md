@@ -42,13 +42,36 @@ const longstr = (arr) => {
 # LUNCH
 ***
 
-# [Brown Bag meeting](https://youtu.be/bAkjh-jZY8M) - Visual Studio & IDE shortcuts
+# [2nd Lecture](https://youtu.be/bAkjh-jZY8M) - Brown Bag: Visual Studio & IDE shortcuts
 - code editor shortcuts
 - https://code.visualstudio.com
-#### VIDEO fin
+#### video fin
 - git/GitHub flow for Coding Challenges
-
 
 ***
 
-# [2nd Lecture](URL) w/Ben Nelson: Q&A
+# [3rd Lecture](https://youtu.be/7sMfjChMVaQ) w/Ben Nelson: Q&A VIDEO RECORDING
+- Hash Table function
+- getIndexBelow Max HASHES the string and returns hash index
+
+const address = getIndexBelowMax(key, this.limit);
+this.storage[address] = value;
+
+- LINKED LIST
+- head & tail reference
+- Like a queue
+
+const node = {
+  value,
+  next: null
+};
+
+this.head = node;
+this.tail = node;
+
+Conditions to check to Add to tail
+nothing in the list?
+1 other in the list?
+more than 1?
+
+OBJECTS ARE PASSED BY REFEENCE
