@@ -1,4 +1,4 @@
-# Lambda University - Monday, July 10, 2017: Day five
+# Lambda University - Tuesday, July 11, 2017: Day six
 ## Coding Challenge #2
 - "isUnique" available in https://github.com/ryanhca/CS1-Code-Challenges
 - working on GitHub and git flow for updating repository locally
