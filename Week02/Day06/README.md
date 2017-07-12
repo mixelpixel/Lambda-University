@@ -51,7 +51,4 @@ const longstr = (arr) => {
 
 ***
 
-# 2nd Lecture - Ben Nelson @ ~h:m = 0
-## [???](URL): topic
-
-# Review / Q&A / Sprint
+# [2nd Lecture](URL) w/Ben Nelson: Q&A
