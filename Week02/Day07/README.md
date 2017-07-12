@@ -1,5 +1,5 @@
 # Lambda University - Wednesday, July 12, 2017: Wednesday Day 007
-## Coding Challenge #?
+## Coding Challenge 3
 - "reverseCase" available in https://github.com/ryanhca/CS1-Code-Challenges
 
 # [1st Lecture](https://youtu.be/fHP0KMst_90) - Ben Nelson: GitHub flow & resolving merge conflicts
