@@ -47,30 +47,30 @@
   - QUEUE: FIFO = First In First Out
     - message queue (to handle asynchronous events)
 
-### [@7m43s](https://youtu.be/lZlV9d3t8z4t=7m43s) STACK EXAMPLE
+### [@7m43s](https://youtu.be/lZlV9d3t8z4?t=7m43s) STACK EXAMPLE
 - push() and pop() with an array
 
-### [@9m20s](https://youtu.be/lZlV9d3t8z4t=9m20s) QUEUE EXAMPLE
+### [@9m20s](https://youtu.be/lZlV9d3t8z4?t=9m20s) QUEUE EXAMPLE
 - push() and shift() with an array
 
-#### [@10m25s](https://youtu.be/lZlV9d3t8z4t=10m25s): Homework - class Stack implement push and pop
-#### [@12m](https://youtu.be/lZlV9d3t8z4t=12m): Homework - class Queue implement push and shift
+#### [@10m25s](https://youtu.be/lZlV9d3t8z4?t=10m25s): Homework - class Stack implement push and pop
+#### [@12m](https://youtu.be/lZlV9d3t8z4?t=12m): Homework - class Queue implement push and shift
 
-#### [@13m](https://youtu.be/lZlV9d3t8z4t=13m): Abstraction
+#### [@13m](https://youtu.be/lZlV9d3t8z4?t=13m): Abstraction
 - JS run in node and chrome by a c++ application which is compiled into assembly, machine code and some other magic b4 it becomes electrical
 
-### [@16m15s](https://youtu.be/lZlV9d3t8z4t=16m15s): Memory cells: Arrays
+### [@16m15s](https://youtu.be/lZlV9d3t8z4?t=16m15s): Memory cells: Arrays
 
-### [@19m57s](https://youtu.be/lZlV9d3t8z4t=16m15s): Memory cells: LINKED LISTS
+### [@19m57s](https://youtu.be/lZlV9d3t8z4?t=16m15s): Memory cells: LINKED LISTS
 - adding to is efficient, but retrieving is not necessarily as efficient as an array
 - no native linked list, implemented with objects
 - Key Concept for Linked Lists in JavaScript - the hash table? (I think that what he was getting at...?)
 
-##### [@23m43s](https://youtu.be/lZlV9d3t8z4t=16m15s): Socrative polling
+##### [@23m43s](https://youtu.be/lZlV9d3t8z4?t=16m15s): Socrative polling
 
-#### [@31m06s](https://youtu.be/lZlV9d3t8z4t=31m06s): Q&A arrays, const v let, mutable vs. immutable, references, etc
+#### [@31m06s](https://youtu.be/lZlV9d3t8z4?t=31m06s): Q&A arrays, const v let, mutable vs. immutable, references, etc
 
-## [@32m30s](https://youtu.be/lZlV9d3t8z4t=32m30s): LINKED LISTS
+## [@32m30s](https://youtu.be/lZlV9d3t8z4?t=32m30s): LINKED LISTS
 - chaining objects together to make a linked list
 - nesting objects
 - ends up making different blocks in memory that are connected
@@ -103,20 +103,20 @@ class LinkedList {
   constructor() {
     this.head = {
       value: 'something',
-      nexy: {}
+      next: {}
     };
     this.tail = null;
   }
 };
 ```
 
-## [@39m30s](https://youtu.be/lZlV9d3t8z4t=39m30s): HASH TABLES
+## [@39m30s](https://youtu.be/lZlV9d3t8z4?t=39m30s): HASH TABLES
 - actually how JS objects are implemented
 - 'string' fed into hashing function which maps the string to a specific address in the hashing table.
 - Constant Time Lookup
 - 'name' : 'Ben' (key:value pair) go into hashing function, 'name' gets the location, Ben gets stored there. 'Ben' is now retrievable with the key: 'name'
 
-## [@43m30s](https://youtu.be/lZlV9d3t8z4t=43m30s): BIG O NOTATION AND COMPLEXITY
+## [@43m30s](https://youtu.be/lZlV9d3t8z4?t=43m30s): BIG O NOTATION AND COMPLEXITY
 - http://bigocheatsheet.com/
 - https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/
 - ~ @50 Orders of complexity
