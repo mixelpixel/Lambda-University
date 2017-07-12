@@ -1,4 +1,4 @@
-# Lambda University - Monday, July 3, 2017: Day one
+# Lambda University - July 03, 2017: Day 001, Monday
 #### Opening session
 - Zoom for meetings: https://zoom.us/j/858115322
 - UndescoreJS: http://underscorejs.org/
