@@ -119,14 +119,16 @@ const tree1 = {
 ***
 
 ## Lecturer: Ryan Hamblin
-### `this`
+## 4 PRINCIPLES OF `this`
 - LECTURE VIDEO: https://youtu.be/-9h9f600Q3Y
+- [Ryan's `this` worksheet](Week01/Day04/this-explained-master)
+  - also available on GitHub: https://github.com/ryanhca/this-explained
 
-#### keyword: `this`
+#### [@14s](https://youtu.be/-9h9f600Q3Y?t=14s): keyword: `this`
 - `this` remains nothing until a given context - just like the pronoun "this"
 -
-#### 4 principles of `this`
-1. Whenever a function is contained in the GLOBAL scope, the value of `this` inside of that function will be the WINDOW object.
+### [@2m55s](https://youtu.be/-9h9f600Q3Y?t=2m55s): PRINCIPLE #1
+#### 1. Whenever a function is contained in the GLOBAL scope, the value of `this` inside of that function will be the WINDOW object.
   1a. WINDOW in node environment or browser
 
   ```js
@@ -151,7 +153,8 @@ const tree1 = {
   greet('Ryan');
   ```
 
-2. Whenever a function is called by a PRECEDING DOT, the object BEFORE THE DOT is "this"
+### [@10m35s](https://youtu.be/-9h9f600Q3Y?t=10m35s): PRINCIPLE #2
+#### 2. Whenever a function is called by a PRECEDING DOT, the object BEFORE THE DOT is "this"
   2a. functions in objects are METHODS
 
   ```js
@@ -172,7 +175,8 @@ const tree1 = {
   }
   ```
 
-3. Whenever a CONSTRUCTOR FUNCTION is used, `this` refers to the "SPECIFIC INSTANCE OF THE OBJECT" that is created and returned by the constructor function.
+### [@22m40s](https://youtu.be/-9h9f600Q3Y?t=22m40s): PRINCIPLE #3
+#### 3. Whenever a CONSTRUCTOR FUNCTION is used, `this` refers to the "SPECIFIC INSTANCE OF THE OBJECT" that is created and returned by the constructor function.
   3b. ...
 
   ```js
@@ -201,7 +205,8 @@ const tree1 = {
   barney.sayName();
   ```
 
-4. Whenever JavaScript's CALL OR APPLY method is used, `this` is EXPLICITLY DEFINED.
+### [@36m22s](https://youtu.be/-9h9f600Q3Y?t=36m22s): PRINCIPLE #4
+#### 4. Whenever JavaScript's CALL OR APPLY method is used, `this` is EXPLICITLY DEFINED.
   4a.
   ```js
   fred.sayName.call(barney); // call takes usually just one argument
@@ -214,13 +219,15 @@ Because call and apply are explicit, they present the clearest case of what `thi
 This is evident by looking at the name property logged to the console by each invocation of the sayName method
 
 ***
-## Break
+
 ## Lecture 2 @~4:50pm
-### this.js HOMEWORK
+### this.js HOMEWORK REVIEW
 - LECTURE VIDEO: https://youtu.be/LtW4eEK39SE
 - Constructor functions
 - abstraction of Prototypes
 - Classes
+
+***
 
 ## End of Week Sprint
 - https://docs.google.com/document/d/1vRfNyFEI8CIPRfktUDWpdeyccfqmcCARPuIBLIyqLh4/edit
