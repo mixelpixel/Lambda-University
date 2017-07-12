@@ -1,4 +1,4 @@
-# Lambda University - Wednesday, July 5, 2017: Day two
+# Lambda University - July 05, 2017: Day 002, Wednesday
 
 # [1st Lecture](https://youtu.be/P6lw-HOaqmI): Each, Map Homework Review
 ### Ryan Hamblin
