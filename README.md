@@ -79,6 +79,7 @@
 ### Day 07: Wednesday, July 12
 #### [1st Lecture](#) - Ryan Hamblin: topic
 #### [2nd Lecture](#) - Ben Nelson: topic
+#### [3rd Lecture](#) - Ben Nelson: topic
 - [DAY 7 NOTES](Week02/Day07/README.md)
 
 
