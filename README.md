@@ -71,6 +71,7 @@
 ### Day 06: Tuesday, July 11
 #### [1st Lecture](#) - Ryan Hamblin: review Code Challenege #1
 #### [2nd Lecture](#) - Ryan Hamblin: Brown Bag session, Visual Studio & IDE shortcuts
+- after recording, covered git/GitHub flow for coding challenges
 - [DAY 6 NOTES](Week02/Day06/README.md)
 
 
@@ -170,3 +171,4 @@
 - BIG O NOTATION
 	- http://bigocheatsheet.com/
 	- https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/
+- Data Structures and Algorithms with JavaScript by Michael McMillan (posted to Slack channel)
