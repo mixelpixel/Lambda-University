@@ -1,4 +1,4 @@
-# Lambda University - Friday, July 7, 2017: Day four
+# Lambda University - July 07, 2017: Day 004, Friday
 ## Lecturer: Ben Nelson
 ### [Closure & Recursion review](https://youtu.be/JxCVug-Jo_s)
 - LECTURE VIDEO:
