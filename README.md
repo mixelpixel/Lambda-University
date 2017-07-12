@@ -69,9 +69,10 @@
 
 
 ### Day 06: Tuesday, July 11
-#### [1st Lecture](#) - Ryan Hamblin: review Code Challenege #1
-#### [2nd Lecture](#) - Ryan Hamblin: Brown Bag session, Visual Studio & IDE shortcuts
+#### [1st Lecture](https://youtu.be/juZvUpn4j5Y) - Ryan Hamblin: review Code Challenege #1
+#### [2nd Lecture](https://youtu.be/bAkjh-jZY8M) - Ryan Hamblin: Brown Bag session, Visual Studio & IDE shortcuts
 - after recording, covered git/GitHub flow for coding challenges
+#### [3rd Lecture](https://youtu.be/7sMfjChMVaQ) - Ben Nelson: Pair Prog 1 HASH TABLES & LINKED LISTS
 - [DAY 6 NOTES](Week02/Day06/README.md)
 
 
