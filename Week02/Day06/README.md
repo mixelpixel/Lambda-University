@@ -8,8 +8,7 @@ $ git remote add upstream https://github.com/ryanhca/CS1-Code-Challenges.git
 $ git pull upstream master
 ```
 
-# 1st Lecture - Ryan Hamblin, VIDEO ??? recorded
-## [Section 1](URL): Code Challenge 1 review
+# [1st Lecture](https://youtu.be/juZvUpn4j5Y) w/Ryan Hamblin: Code Challenge 1 review
 - Ryan's solution
 
 ```js
@@ -28,7 +27,7 @@ const longestString = (strArr) => {
 console.log(longestString(['abc', 'def', 'gasdfasf', 'asdf', 'e', 'agwoaiengpoing', 'pp']));
 ```
 
-- Jesh's solution
+## [@5m20s](https://youtu.be/juZvUpn4j5Y?t=5m20s): Jesh's solution
 
 ```js
 const longstr = (arr) => {
@@ -42,9 +41,13 @@ const longstr = (arr) => {
 ***
 # LUNCH
 ***
-# Brown Bag meeting - VIDEO ??? Recorded
+
+# [Brown Bag meeting](https://youtu.be/bAkjh-jZY8M) - Visual Studio & IDE shortcuts
 - code editor shortcuts
 - https://code.visualstudio.com
+#### VIDEO fin
+- git/GitHub flow for Coding Challenges
+
 
 ***
 
