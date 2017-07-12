@@ -1,4 +1,4 @@
-# Lambda University - WEEKday, MONTH ##, 2017: Day NUMBER
+# Lambda University - MONTH ##, 2017: WEEKday, Day NUMBER
 ## Coding Challenge #?
 - "????" available in https://github.com/ryanhca/CS1-Code-Challenges
 
