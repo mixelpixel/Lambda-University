@@ -1,4 +1,4 @@
-# Lambda University - Monday, July 10, 2017: Day five
+# Lambda University - July 10, 2017: Day 005, Monday
 ## Coding Challenge #1
 - https://github.com/ryanhca/CS1-Code-Challenges
 - fork, clone (or submodule) then solve. Once solved, make a pull request to submit solution.
