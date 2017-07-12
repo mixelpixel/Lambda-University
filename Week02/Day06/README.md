@@ -50,7 +50,7 @@ const longstr = (arr) => {
 
 ***
 
-# [3rd Lecture](https://youtu.be/7sMfjChMVaQ) w/Ben Nelson: Q&A VIDEO RECORDING
+# [3rd Lecture](https://youtu.be/7sMfjChMVaQ) w/Ben Nelson: Q&A
 - Hash Table function
 - getIndexBelow Max HASHES the string and returns hash index
 
