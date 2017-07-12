@@ -86,15 +86,20 @@ Pair Programming #1: https://github.com/SunJieMing/LS-Data-Structures cont.
 [DAY 7 NOTES](Week02/Day07/README.md)
 Code Challenge #3: https://github.com/ryanhca/CS1-Code-Challenges "Reverse Case"
 #### Ben Nelson lectures
-##### [1st Lecture]( VIDEO??? ): GitHub flow & resolving merge conflicts
+##### [1st Lecture](https://youtu.be/fHP0KMst_90): GitHub flow & resolving merge conflicts
 ```js
 git remote add upstream https://github.com/ryanhca/CS1-Code-Challenges.git
 git pull upstream master
 ```
-##### [2nd Lecture]( VIDEO??? ): Code Challenge 2 review "isUnique"
+##### [2nd Lecture](https://youtu.be/SXvxbIEgOkw): Code Challenge 2 review "isUnique"; Big O and Set()'s
 
+Pair Programming #1: https://github.com/SunJieMing/LS-Data-Structures cont.
 
-Pair Programming #1: https://github.com/SunJieMing/LS-Data-Structures fin.
+***
+# Lunch
+***
+
+Pair Programming #1: https://github.com/SunJieMing/LS-Data-Structures fin, Pull Request & review
 Pair Programming #2: https://github.com/SunJieMing/LS-Data-Structures start
 ##### [3rd Lecture](#) - Ben Nelson: topic
 
