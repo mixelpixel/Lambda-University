@@ -81,7 +81,7 @@ const reduce = (elements, cb, memo) => {
 
 - passes both tests but there's a better way
 
-## [@36m50s](https://youtu.be/KNpkIDV5Jj0?t=13m53s): Reduce - a better method
+## [@36m50s](https://youtu.be/KNpkIDV5Jj0?t=36m50s): Reduce - a better method
 - as is, passing the argument twice will give different results because the array is being truncated
 
 ```js
@@ -161,7 +161,7 @@ const factorial = (n) => {
 - so how to first flatten each nested array? Call flatten on every nested array
 - using map function (flatten and then loop)
 
-### [@1h22m33s](https://youtu.be/KNpkIDV5Jj0?t=1h12m33s): Recursion applied to factorial
+### [@1h22m33s](https://youtu.be/KNpkIDV5Jj0?t=1h22m33s): Recursion applied to factorial
 
 ```js
 const flatten = (elements) => {
@@ -215,7 +215,7 @@ const flatten = (elements) => {
 };
 ```
 
-### [@1h24m20s](https://youtu.be/KNpkIDV5Jj0?t=1h12m33s): Q&A, `const` v `let` with push
+### [@1h24m20s](https://youtu.be/KNpkIDV5Jj0?t=1h24m20s): Q&A, `const` v `let` with push
 - const the BINDING is constant!
 
 ***
@@ -314,9 +314,8 @@ console.log(sentence);
 
 ***
 
-# End of Day Lecture
+# End of Day Lecture - VIDEO ???
 ## Lecturer: Ben Nelson @~8pm
- ""
 ### Q & A
 #### objects exercise: values
 - an object is a set of key: value pairs
