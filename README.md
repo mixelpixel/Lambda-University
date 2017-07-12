@@ -145,15 +145,19 @@
 ***
 
 # Additional Resources:
+- Text Editors / IDE's
+	- [Atom](https://atom.io/)
+	- [Sublime Text](https://www.sublimetext.com/)
+	- [Visual Studio](https://code.visualstudio.com)
 - Zoom for meetings: https://zoom.us/j/858115322
 - class polling: https://b.socrative.com/student/
-- Google Calendar Invite: https://www.google.com/calendar/render?cid=bGFtYmRhc2Nob29sLmNvbV81dmJxNzByMWpnOG5kdmQxNGJoYTVzbWJqY0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&invEmailKey=mixelpix@mac.com:84d4f84c0778cc54f71761d34d12b62c328804d5
-- Tyge's Collection of Lecture videos: https://docs.google.com/spreadsheets/d/1vkjyltR9gWK2Qsq3azn8nUuqXuGV7xa8tNxOSpmZ0Ag/edit#gid=0
+- Lambda School's Google Calendar [Invite](https://www.google.com/calendar/render?cid=bGFtYmRhc2Nob29sLmNvbV81dmJxNzByMWpnOG5kdmQxNGJoYTVzbWJqY0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&invEmailKey=mixelpix@mac.com:84d4f84c0778cc54f71761d34d12b62c328804d5)
+- Tyge's Collection of Lecture [videos](https://docs.google.com/spreadsheets/d/1vkjyltR9gWK2Qsq3azn8nUuqXuGV7xa8tNxOSpmZ0Ag/edit#gid=0)
 - Closure vids
 	- https://www.youtube.com/watch?v=CQqwU2Ixu-U
 	- https://www.youtube.com/watch?v=USgVMIIT0ik
-- AirBnB Style guide: https://github.com/airbnb/javascript#control-statements
-- Underscorejs: http://underscorejs.org/
+- [AirBnB Style guide](https://github.com/airbnb/javascript#control-statements)
+- [Underscorejs](http://underscorejs.org/)
 	- http://underscorejs.org/underscore.js
 	- Easier to view in Chrome with [Pretty Print](https://chrome.google.com/webstore/detail/prettyprint/nipdlgebaanapcphbcidpmmmkcecpkhg?hl=en-US)
 - BabelJS
@@ -162,8 +166,8 @@
 - JS sandboxes online
 	- https://jsbin.com/
 	- https://jsfiddle.net)
-- Mozilla https://developer.mozilla.org/en-US/docs/Web/JavaScript
-- Ryan's Extra Resources list: https://docs.google.com/document/d/1y5B_glCrLRo8Vnu93QMKjFrfAN3a-GFPzgGz76rTTIQ/edit
+- Mozilla JavaScript Reference: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+- Ryan's [Extra Resources list](https://docs.google.com/document/d/1y5B_glCrLRo8Vnu93QMKjFrfAN3a-GFPzgGz76rTTIQ/edit)
 - Some old school b.g. reading:
 	- https://archive.org/stream/8080a8085AssemblyLanguageProgramming/Leventhal-8080a-8085AssemblyLanguageProgramming
 	- https://archive.org/stream/AnIntroductionToMicrocomputersVolume0/Osborne-AnIntroductionToMicrocomputersVolume0
