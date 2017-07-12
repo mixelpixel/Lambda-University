@@ -291,12 +291,17 @@ class HashTable {
 - Data Structure will have a solution branch (in addition to master branch)
 ## [ms](URL): Trees
 - Top node which has children.
-- children have as many children as the need
+- children have as many children as they need
 - those kids have kids
 - Like a family/geneaology tree
 
 ## [ms](URL): Binary Search Trees
+- Binary search algorithm and binary search tree.
+- each node can only have two children max, 0, 1 or 2.
+- binary search tree ... order enforced
 
 ## [ms](URL): Graphs
+- nodes, or, "vertices" (and "edges" - connections, one or two way connections) can be connected to any other node
+- used in social networks
 
 ##### fin
