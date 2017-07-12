@@ -1,4 +1,4 @@
-# Lambda University - Wednesday, July 12, 2017: Day seven
+# Lambda University - Wednesday, July 12, 2017: Wednesday Day 007
 ## Coding Challenge #?
 - "reverseCase" available in https://github.com/ryanhca/CS1-Code-Challenges
 
