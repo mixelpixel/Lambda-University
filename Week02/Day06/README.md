@@ -50,14 +50,14 @@ const longstr = (arr) => {
 
 ***
 
-# [3rd Lecture](https://youtu.be/7sMfjChMVaQ) w/Ben Nelson: Q&A
-- Hash Table function
+# [3rd Lecture](https://youtu.be/7sMfjChMVaQ) w/Ben Nelson: Data Structure review & Q&A
+## [@34s](https://youtu.be/7sMfjChMVaQ?t=34s): HASH TABLE FUNCTION
 - getIndexBelow Max HASHES the string and returns hash index
 
 const address = getIndexBelowMax(key, this.limit);
 this.storage[address] = value;
 
-- LINKED LIST
+## [@5m](https://youtu.be/7sMfjChMVaQ?t=5m): LINKED LIST
 - head & tail reference
 - Like a queue
 
