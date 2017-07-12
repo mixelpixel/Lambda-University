@@ -177,8 +177,8 @@ pizza.bake(); // ---> the pizza is baking
 
 ***
 
-# [3rd Lecture](): VIDEO ??? - Class Functions, `constructor`, `for` LOOPS, `do` `while` LOOPS & RECURSION
-### Ben Nelson
+# [3rd Lecture](): Class Functions, `constructor`, `for` LOOPS, `do` `while` LOOPS & RECURSION
+### Ben Nelson - VIDEO ???
 - NOTE: Clear with Ben if you need to miss a class
 
 ## `constructor` CLASS FUNCTIONS
