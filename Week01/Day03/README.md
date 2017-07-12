@@ -1,4 +1,4 @@
-# Lambda University - Thursday, July 6, 2017: Day three
+# Lambda University - July 06, 2017: Day 003, Thursday
 
 # [1st Lecture](https://youtu.be/KNpkIDV5Jj0): Each, Map, Reduce, & Recursion Homework Review
 ## GUEST LECTURER: Karthik Viswanathan
