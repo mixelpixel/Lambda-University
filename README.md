@@ -85,6 +85,10 @@ Code Challenge #3: https://github.com/ryanhca/CS1-Code-Challenges "Reverse Case"
 Pair Programming #1: https://github.com/SunJieMing/LS-Data-Structures fin.
 Pair Programming #2: https://github.com/SunJieMing/LS-Data-Structures start
 #### [1st Lecture](#) - Ben Nelson: GitHub flow & resolving merge conflicts
+```js
+git remote add upstream https://github.com/ryanhca/CS1-Code-Challenges.git
+git pull upstream master
+```
 #### [2nd Lecture](#) - Ryan Hamblin: topic
 #### [3rd Lecture](#) - Ben Nelson: topic
 
