@@ -93,10 +93,6 @@ git pull upstream master
 ```
 ##### [2nd Lecture](https://youtu.be/SXvxbIEgOkw): Code Challenge 2 review "isUnique"; Big O and Set()'s
 
-***
-# Lunch
-***
-
 Pair Programming #1: https://github.com/SunJieMing/LS-Data-Structures fin, Pull Request & review
 Pair Programming #2: https://github.com/SunJieMing/LS-Data-Structures start
 ##### [3rd Lecture](#) - Ben Nelson: topic
