@@ -56,7 +56,7 @@ console.log(findVolumeOfCube(5));
 console.log(volume);
 ```
 
-## [@14m51a](https://youtu.be/2mIvc0wc0oI?t=14m51s): Arrays
+## [@14m51s](https://youtu.be/2mIvc0wc0oI?t=14m51s): Arrays
 
 ```js
 const nums = [1, 2, 3, 4, 5];
