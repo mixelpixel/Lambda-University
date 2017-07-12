@@ -13,11 +13,19 @@ git pull upstream master
 ***
 
 # [2nd Lecture](https://youtu.be/SXvxbIEgOkw) - Ben Nelson: Code Challenge 2 review "isUnique"
-## [basic solution](https://youtu.be/SXvxbIEgOkw?t=???)
+## [basic solution](https://youtu.be/SXvxbIEgOkw?t=1m40s)
+- nestedfor loop solution:
+  ```js
+  // iterate over str
+    // iterate over remaining str
+      // check if str[i] === str[j] - return false
+    // return true
 
-```js
-<code>
-```
+  const isUnique = (str) => {
+
+  };
+
+  ```
 
 ## [Big O considerations](https://youtu.be/SXvxbIEgOkw?t=???)
 ## [ES6 Set solution](https://youtu.be/SXvxbIEgOkw?t=???)
@@ -275,6 +283,20 @@ class HashTable {
 
 ***
 
-# Sprint Review & Q&A w/Ben Nelson
+# Sprint Review w/Ben Nelson
+
+***
+
+# [4th Lecture](URL) - Ben Nelson:Pair Prog #2 - Data Structures 2
+- Data Structure will have a solution branch (in addition to master branch)
+## [ms](URL): Trees
+- Top node which has children.
+- children have as many children as the need
+- those kids have kids
+- Like a family/geneaology tree
+
+## [ms](URL): Binary Search Trees
+
+## [ms](URL): Graphs
 
 ##### fin
