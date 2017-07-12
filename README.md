@@ -10,16 +10,17 @@
 # Month 1: July, 2017
 ## Week 01: July 3 - 7
 ### Day 01: Monday, July 3
+[DAY 1 NOTES](Week01/Day01/README.md)
 #### Ben Nelson lectures
 - [1st Lecture](https://youtu.be/HJJDTYi9g20): ES5 and ES6, Arrow Functions, `const` & `let`, Callback Functions, Semi-Colons ;;;
 - [2nd Lecture](https://youtu.be/gaLr7_BMgD0): `this`, `.call()` `.apply()` & `.bind()`) and CLOSURE
 - Homework Assignment: https://github.com/SunJieMing/Advanced-JavaScript
 - Homework: https://github.com/mixelpixel/Advanced-JavaScript
 - [3rd Lecture] VIDEO: ??? `constructor` Class Functions, `for` LOOPS, `do` `while` LOOPS & RECURSION
-- [DAY 1 NOTES](Week01/Day01/README.md)
 
 
 ### Day 02: Wednesday, July 5
+[DAY 2 NOTES](Week01/Day02/README.md)
 #### Ryan Hamblin AM lectures
 - [1st Lecture](https://youtu.be/P6lw-HOaqmI): Each, Map Homework Review & Q&A re: for loops, forEach, nested loops
 - [2nd Lecture](https://youtu.be/dyyuDaZngXc): Reduce Homework Review
@@ -27,10 +28,10 @@
 #### Ben Nelson PM lecture
 - [3rd Lecture](https://youtu.be/2mIvc0wc0oI): D.R.Y. and Functions 101
 - [4th Lecture](https://youtu.be/Y3NRA2-kvbY) backtick string formatting, Method declaration shortcut, SPREAD operator, REST parameter, `arguments`, Classes
-- [DAY 2 NOTES](Week01/Day02/README.md)
 
 
 ### Day 03: Thursday, July 6
+[DAY 3 NOTES](Week01/Day03/README.md)
 #### GUEST LECTURER: Karthik Viswanathan
 - https://karthikv.net/
 - https://github.com/karthikv
@@ -39,10 +40,10 @@
 #### Ben Nelson lecture
 - [2nd Lecture](https://youtu.be/exSwdXfeBtI): Basic JS w/ES6 review & Q&A: variables, branching logic,  AirBnB style, Ternary, for loop, const v let, forEach, wordsToSentences problem
 - [3rd Lecture] VIDEO: ??? End of day review & Q&A
-- [DAY 3 NOTES](Week01/Day03/README.md)
 
 
 ### Day 04: Friday, July 7
+[DAY 4 NOTES](Week01/Day04/README.md)
 #### Ben Nelson AM lecture
 - [1st Lecture](https://youtu.be/JxCVug-Jo_s): Closure & Recursion review
 
@@ -51,7 +52,6 @@
 - [3rd Lecture](https://youtu.be/LtW4eEK39SE):  "this.js" Homework review
 	- NOTE: blocked out video/AUDIO ONLY
 - Closing sprint meeting
-- [DAY 4 NOTES](Week01/Day04/README.md)
 
 
 ***
@@ -59,29 +59,35 @@
 
 ## Week 02: July 10 - 14
 ### Day 05: Monday, July 10
-- Code Challenge #1: https://github.com/ryanhca/CS1-Code-Challenges
-- Pair Programming #1: https://github.com/SunJieMing/LS-Data-Structures
+[DAY 5 NOTES](Week02/Day05/README.md)
+Code Challenge #1: https://github.com/ryanhca/CS1-Code-Challenges "Longest String"
+Pair Programming #1: https://github.com/SunJieMing/LS-Data-Structures start w/Drew Mueller {GitHub: Camucamu, Slack: capybara}
 #### 1st Lecture - Ryan Hamblin
 - [Section 1](https://youtu.be/oYDDke8hehw): `bind()`
 - [Section 2](https://youtu.be/4kfkCJJsSuA): Week 1 Homework Review, Advanced JS "class.js"
 - [Section 3](https://youtu.be/A3P23iO-bas): Week 1 Homework Review, Advanced JS "objects.js"
 #### [2nd Lecture](https://youtu.be/lZlV9d3t8z4) - Ben Nelson: Data Structure, Big O Notation, Pair Programming
-- [DAY 5 NOTES](Week02/Day05/README.md)
 
 
 ### Day 06: Tuesday, July 11
+[DAY 6 NOTES](Week02/Day06/README.md)
+Code Challenge #2: https://github.com/ryanhca/CS1-Code-Challenges "Is Unique?"
+Pair Programming #1: https://github.com/SunJieMing/LS-Data-Structures cont.
 #### [1st Lecture](https://youtu.be/juZvUpn4j5Y) - Ryan Hamblin: review Code Challenege #1
 #### [2nd Lecture](https://youtu.be/bAkjh-jZY8M) - Ryan Hamblin: Brown Bag session, Visual Studio & IDE shortcuts
 - after recording, covered git/GitHub flow for coding challenges
 #### [3rd Lecture](https://youtu.be/7sMfjChMVaQ) - Ben Nelson: Pair Prog 1 HASH TABLES & LINKED LISTS
-- [DAY 6 NOTES](Week02/Day06/README.md)
 
 
 ### Day 07: Wednesday, July 12
+[DAY 7 NOTES](Week02/Day07/README.md)
+Code Challenge #3: https://github.com/ryanhca/CS1-Code-Challenges "Reverse Case"
+Pair Programming #1: https://github.com/SunJieMing/LS-Data-Structures fin.
+Pair Programming #2: https://github.com/SunJieMing/LS-Data-Structures start
 #### [1st Lecture](#) - Ryan Hamblin: topic
 #### [2nd Lecture](#) - Ben Nelson: topic
 #### [3rd Lecture](#) - Ben Nelson: topic
-- [DAY 7 NOTES](Week02/Day07/README.md)
+
 
 
 ### Day 08: Thursday, July 13
