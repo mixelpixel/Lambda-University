@@ -47,8 +47,9 @@
 - [1st Lecture](https://youtu.be/JxCVug-Jo_s): Closure & Recursion review
 
 #### Ryan Hamblin PM lectures
-- [2nd Lecture](https://youtu.be/-9h9f600Q3Y): `this` 4 RULES
-- [3rd Lecture](https://youtu.be/LtW4eEK39SE):  "this.js" Homework review - BLOCKED OUT VIDEO/AUDIO ONLY
+- [2nd Lecture](https://youtu.be/-9h9f600Q3Y): `this` 4 RULES OF `this`
+- [3rd Lecture](https://youtu.be/LtW4eEK39SE):  "this.js" Homework review
+	- NOTE: blocked out video/AUDIO ONLY
 - Closing sprint meeting
 - [DAY 4 NOTES](Week01/Day04/README.md)
 
