@@ -97,7 +97,7 @@ git pull upstream master
 ##### [3rd Lecture](https://youtu.be/uGohVrgYrpQ): Solutions to Data Structures Pair Programming #1
 Pair Programming #1: https://github.com/SunJieMing/LS-Data-Structures fin, Pull Request & review
 ##### [4th Lecture](https://youtu.be/YKQSnvZGfDE): Pair Prog #2 - Data Structures 2
-Pair Programming #2: https://github.com/mixelpixel/LS-Data-Structures-II.git start w/Manisha Lal  
+Pair Programming #2: https://github.com/mixelpixel/LS-Data-Structures-II.git start w/Manisha Lal
 - https://github.com/SunJieMing/LS-Data-Structures-II
 - Partner: Manisha Lal
 - GitHub: {driver: passenger} => {manishavi: {Slack: manishavi}, mixelpixel: {Slack: mixelpix}}
@@ -198,3 +198,4 @@ Pair Programming #2: https://github.com/mixelpixel/LS-Data-Structures-II.git sta
 	- http://bigocheatsheet.com/
 	- https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/
 - Data Structures and Algorithms with JavaScript by Michael McMillan (posted to Slack channel)
+- https://jsperf.com/ TEST/COMPARE CODE PERFORMANCE
