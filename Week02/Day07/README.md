@@ -394,7 +394,7 @@ const graph = [
 ## use ES6 classes to make these objects
 
 #### [ms](URL): Setup for Pair Partner Programming #2
-- DM w/me, partner Ryan and SunJieMing
+- In Slack start a DM w/me, partner Ryan and SunJieMing
 - https://github.com/SunJieMing/LS-Data-Structures-II
 
 ##### fin
