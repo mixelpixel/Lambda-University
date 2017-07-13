@@ -3,9 +3,9 @@
 - "reverseCase" available in https://github.com/ryanhca/CS1-Code-Challenges
 
 # [1st Lecture](https://youtu.be/fHP0KMst_90) - Ben Nelson: GitHub flow & resolving merge conflicts
-- To pull in daily coding challenges
+- To pull in daily coding challenges use:
 
-```js
+```console
 git remote add upstream https://github.com/ryanhca/CS1-Code-Challenges.git
 git pull upstream master
 ```
@@ -15,47 +15,57 @@ git pull upstream master
 # [2nd Lecture](https://youtu.be/SXvxbIEgOkw) - Ben Nelson: Code Challenge 2 review "isUnique"
 ## [@1m40s](https://youtu.be/SXvxbIEgOkw?t=1m40s): basic solution with nested for loop
 - nestedfor loop solution:
-  ```js
-  // iterate over str
-    // iterate over remaining str
-      // check if str[i] === str[j] - return false
-    // return true
 
-  const isUnique = (str) => {
-    for (let i = 0; i < str.length; i++) {
-      for (let j = i + 1; j < str.length; j++) {
-        if (str[i] === str [j]) return false;
-      }
+```js
+// iterate over str
+  // iterate over remaining str
+    // check if str[i] === str[j] - return false
+  // return true
+
+const isUnique = (str) => {
+  for (let i = 0; i < str.length; i++) {
+    for (let j = i + 1; j < str.length; j++) {
+      if (str[i] === str [j]) return false;
     }
-    return true;
-  };
-
-  ```
-
-### [@8m10s](https://youtu.be/SXvxbIEgOkw?t=8m10s): Big O complexity analysis
-
-## [@10m35s](https://youtu.be/SXvxbIEgOkw?t=10m35s): ES6 Set solution
-  - like an object, but no {key: value}, just {value}
-  - unlike an array, a set is NOT ordered
-  - Set is a collection of values that are all unique
-  - `const x = new Set();`
-
-  ```js
-  const isUnique = (str) => {
-    const strSet = new Set();
-    for (let i = 0; i < str.length; i++) {
-      if (strSet.has(str[i])) return false;
-      strSet.add(str[i]);
-    }
-    return true;
   }
-  ```
+  return true;
+};
+```
+
+### [@8m10s](https://youtu.be/SXvxbIEgOkw?t=8m10s): Big O Complexity analysis
+
+## [@10m35s](https://youtu.be/SXvxbIEgOkw?t=10m35s): SETs
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/set
+- like an object, but no {key: value}, just {value}
+- unlike an array, a set is NOT ordered
+- Set is a collection of values that are all unique
+- `const x = new Set();`
+
+## [@14m20s](https://youtu.be/SXvxbIEgOkw?t=14m20s): Solution to isUnique using the SET feature of ES6
+
+```js
+const isUnique = (str) => {
+  const strSet = new Set();
+  for (let i = 0; i < str.length; i++) {
+    if (strSet.has(str[i])) return false;
+    strSet.add(str[i]);
+  }
+  return true;
+}
+```
+
+## [@15m47s](https://youtu.be/SXvxbIEgOkw?t=15m47s): Big O Complexity analysis
+- generally we're more concerned with time than storage/memory requirements
+
+### [@19m](https://youtu.be/SXvxbIEgOkw?t=19m): Q&A
+- like arrays with unique values only and curly braces {}
+-
 
 ***
 # LUNCH
 ***
 
-# [3rd Lecture](https://youtu.be/uGohVrgYrpQ) w/Ben Nelson: Solutions to Data Structures:
+# [3rd Lecture](https://youtu.be/uGohVrgYrpQ) w/Ben Nelson: Solutions to Data Structures I:
 ## [ms](https://youtu.be/uGohVrgYrpQ): STACK
 - **SOLUTIONS AVAILABLE IN "solution" BRANCH OF GITHUB PROJECT**
 - underscore variables indicate they'reprivate
@@ -294,7 +304,7 @@ class HashTable {
 
 ***
 
-# [4th Lecture](https://youtu.be/YKQSnvZGfDE) - Ben Nelson: Pair Prog #2 - Data Structures 2
+# [4th Lecture](https://youtu.be/YKQSnvZGfDE) - Ben Nelson: Pair Prog #2 - Data Structures II
 - Data Structure will have a solution branch (in addition to master branch)
 ## [ms](URL): Trees
 - Top node which has children.
