@@ -32,8 +32,9 @@ git pull upstream master
 
   ```
 
-## [](https://youtu.be/SXvxbIEgOkw?t=???): Big O considerations
-## [](https://youtu.be/SXvxbIEgOkw?t=11m): ES6 Set solution
+### [@8m10s](https://youtu.be/SXvxbIEgOkw?t=8m10s): Big O complexity analysis
+
+## [@10m35s](https://youtu.be/SXvxbIEgOkw?t=10m35s): ES6 Set solution
   - like an object, but no {key: value}, just {value}
   - unlike an array, a set is NOT ordered
   - Set is a collection of values that are all unique
@@ -56,6 +57,7 @@ git pull upstream master
 
 # [3rd Lecture](https://youtu.be/uGohVrgYrpQ) w/Ben Nelson: Solutions to Data Structures:
 ## [ms](https://youtu.be/uGohVrgYrpQ): STACK
+- **SOLUTIONS AVAILABLE IN "solution" BRANCH OF GITHUB PROJECT**
 - underscore variables indicate they'reprivate
 - get adds the functionality which allows you to invoke the size method without parentheses
 
@@ -81,7 +83,7 @@ const stack = new Stack();
 ## [ms](https://youtu.be/uGohVrgYrpQ): QUEUE
 
 ```js
-class Stack {
+class Queue {
   constructor() {
     this.storage = []
   }
@@ -292,7 +294,7 @@ class HashTable {
 
 ***
 
-# [4th Lecture](URL) - Ben Nelson:Pair Prog #2 - Data Structures 2
+# [4th Lecture](https://youtu.be/YKQSnvZGfDE) - Ben Nelson:Pair Prog #2 - Data Structures 2
 - Data Structure will have a solution branch (in addition to master branch)
 ## [ms](URL): Trees
 - Top node which has children.
