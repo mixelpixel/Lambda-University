@@ -1,15 +1,18 @@
 # Lambda University - MONTH ##, 2017: Day ###, WEEKday
 ## Coding Challenge #?
 - "????" available in https://github.com/ryanhca/CS1-Code-Challenges
-
-# [1st Lecture](URL) w/Ryan Hamblin: topic
-
+Ben Nelson
+Ryna Hamblin
+GUEST LECTURER
+# [1st Lecture](URL) w/Speaker: topic
 ***
 # LUNCH
 ***
-
 # [2nd Lecture](URL) w/Speaker: topic
-
 ***
-
-# [3rd Lecture](URL) w/Ben Nelson: topic
+# [3rd Lecture](URL) w/Speaker: topic
+***
+# [3th Lecture](URL) w/Speaker: topic
+# Sprint / Q&A
+***
+#fin
