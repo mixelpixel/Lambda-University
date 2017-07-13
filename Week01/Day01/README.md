@@ -125,7 +125,7 @@ foo(baz); // ---> sup
 ### fin
 
 ***
-#### Austen on LAMBDA UNIVERSIRY INCOME AGREEMENT
+#### Austen on LAMBDA UNIVERSITY INCOME AGREEMENT
 # Lunch
 ***
 
