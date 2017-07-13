@@ -61,7 +61,8 @@
 ### Day 05: Monday, July 10
 [DAY 5 NOTES](Week02/Day05/README.md)
 Code Challenge #1: https://github.com/ryanhca/CS1-Code-Challenges "Longest String"
-Pair Programming #1: https://github.com/SunJieMing/LS-Data-Structures start w/Drew Mueller {GitHub: Camucamu, Slack: capybara}
+Pair Programming #1: https://github.com/SunJieMing/LS-Data-Structures start
+- Partner: Drew Mueller {GitHub: Camucamu, Slack: capybara}
 #### Ryan Hamblin - 1st Lecture
 ##### [Section 1](https://youtu.be/oYDDke8hehw): `bind()`
 ##### [Section 2](https://youtu.be/4kfkCJJsSuA): Week 1 Homework Review, Advanced JS "class.js"
@@ -92,11 +93,12 @@ git remote add upstream https://github.com/ryanhca/CS1-Code-Challenges.git
 git pull upstream master
 ```
 ##### [2nd Lecture](https://youtu.be/SXvxbIEgOkw): Code Challenge 2 review "isUnique"; Big O and Set()'s
-
+##### [3rd Lecture](https://youtu.be/uGohVrgYrpQ): Solutions to Data Structures Pair Programming #1
 Pair Programming #1: https://github.com/SunJieMing/LS-Data-Structures fin, Pull Request & review
-Pair Programming #2: https://github.com/SunJieMing/LS-Data-Structures start
-##### [3rd Lecture](#) - Ben Nelson: topic
-
+##### [4th Lecture](https://youtu.be/YKQSnvZGfDE): Pair Prog #2 - Data Structures 2
+Pair Programming #2: https://github.com/mixelpixel/LS-Data-Structures-II.git start w/Manisha Lal
+- https://github.com/SunJieMing/LS-Data-Structures-II
+- Partner: Manisha Lal {GitHub: ???, Slack: manishavi}
 
 
 ### Day 08: Thursday, July 13
