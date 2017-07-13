@@ -132,7 +132,7 @@ foo(baz); // ---> sup
 # [2nd Lecture](https://youtu.be/gaLr7_BMgD0): `this`, `.call()` `.apply()` & `.bind()`) and CLOSURE
 ### Ben Nelson
 
-## [@26s)](https://youtu.be/gaLr7_BMgD0?t=26s) `this` KEYWORD and OBJECT
+## [@26s](https://youtu.be/gaLr7_BMgD0?t=26s): `this` KEYWORD and OBJECT
 - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this
 - `this` is an object we use to reference from inside a method
 
