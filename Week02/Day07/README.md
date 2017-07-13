@@ -294,7 +294,7 @@ class HashTable {
 
 ***
 
-# [4th Lecture](https://youtu.be/YKQSnvZGfDE) - Ben Nelson:Pair Prog #2 - Data Structures 2
+# [4th Lecture](https://youtu.be/YKQSnvZGfDE) - Ben Nelson: Pair Prog #2 - Data Structures 2
 - Data Structure will have a solution branch (in addition to master branch)
 ## [ms](URL): Trees
 - Top node which has children.
