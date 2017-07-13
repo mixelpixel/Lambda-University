@@ -2,7 +2,7 @@
 ## Coding Challenge #4
 - "largestPrimePalindrome" available in https://github.com/ryanhca/CS1-Code-Challenges
 
-# [1st Lecture](URL) w/Tai The Thai: reverseString CS1 #3 review
+# [1st Lecture](https://youtu.be/JWNE9lsFcYg) w/Tai The Thai: reverseString CS1 #3 review
 - https://jsperf.com/ Use for testing performance of code!
 
 ***
