@@ -332,6 +332,7 @@ class HashTable {
 - use arrays, objects, whatev works to emulate the pattern
 
 # TREE
+
 ```js
 const tree = {
   value: 5,
