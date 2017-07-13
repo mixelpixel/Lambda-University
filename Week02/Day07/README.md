@@ -306,32 +306,41 @@ class HashTable {
 
 # [4th Lecture](https://youtu.be/YKQSnvZGfDE) - Ben Nelson: Pair Prog #2 - Data Structures II
 - Data Structure will have a solution branch (in addition to master branch)
-## [ms](URL): Trees
+- Review: Stack, Queue, Linked List, nodes, Hash Function & keys
+- Array, string, Set: all data structures
+- all are a kind of a "graph"
+
+## [?t=1m57s](https://youtu.be/YKQSnvZGfDE?t=1m57s): Trees
 - Top node which has children.
 - children have as many children as they need
 - those kids have kids
 - Like a family/geneaology tree
+- arrays/objs nested inside of each other behave like trees
 
-## [ms](URL): Binary Search Trees (sorted binary tree)
+## [?t=4m46s](https://youtu.be/YKQSnvZGfDE?t=4m46s): Binary Search Trees (sorted binary tree)
 - Binary search algorithm and binary search tree.
 - each node can only have two children max, 0, 1 or 2.
 - binary search tree ... order enforced
+- balance...
+- very efficient with sorted lists
 
-## [ms](URL): Graphs
+## [?t=12m24s](https://youtu.be/YKQSnvZGfDE?t=12m24s): Graphs
 - nodes, or, "vertices" (and "edges" - connections, one or two way connections) can be connected to any other node
 - used in social networks
-- "weighted" edges
+- directed graphs: edges only go in one direction ("following" on social media, Twitter)
+- "weighted" edges (like Google maps pathfinding - Djykstra)
 
-### [ms](URL): Review
+
+### [?t=20m30s](https://youtu.be/YKQSnvZGfDE?t=20m30s): Review
 - trees
-- binary trees
+- binary search tree
 - graphs
 - "a linked list is like a tree where each node only has one other node child"
 
-## [ms](URL): representing this in CODE
+### [?t=22m14s](https://youtu.be/YKQSnvZGfDE?t=22m14s): representing this in CODE
 - use arrays, objects, whatev works to emulate the pattern
 
-# TREE
+# [?t=23m11s](https://youtu.be/YKQSnvZGfDE?t=23m11s): TREE
 
 ```js
 const tree = {
@@ -353,7 +362,7 @@ const tree = {
 };
 ```
 
-# BINARY TREE
+# [?t=24m16s](https://youtu.be/YKQSnvZGfDE?t=24m16s): BINARY TREE
 
 ```js
 const binaryTree = {
@@ -383,7 +392,7 @@ const binaryTree = {
 };
 ```
 
-# GRAPH
+# [?t=26m48s](https://youtu.be/YKQSnvZGfDE?t=26m48s): GRAPH
 
 ```js
 const graph = [
