@@ -7,6 +7,3 @@
 [submodule "LS-Data-Structures"]
 	path = LS-Data-Structures
 	url = https://github.com/mixelpixel/LS-Data-Structures.git
-[submodule "LS-Data-Structures-II"]
-	path = LS-Data-Structures-II
-	url = https://github.com/mixelpixel/LS-Data-Structures-II.git
