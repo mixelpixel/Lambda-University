@@ -59,14 +59,13 @@ const isUnique = (str) => {
 
 ### [@19m](https://youtu.be/SXvxbIEgOkw?t=19m): Q&A
 - like arrays with unique values only and curly braces {}
--
 
 ***
 # LUNCH
 ***
 
 # [3rd Lecture](https://youtu.be/uGohVrgYrpQ) w/Ben Nelson: Solutions to Data Structures I:
-## [ms](https://youtu.be/uGohVrgYrpQ): STACK
+## [@40s](https://youtu.be/uGohVrgYrpQ?t=40s): STACK
 - **SOLUTIONS AVAILABLE IN "solution" BRANCH OF GITHUB PROJECT**
 - underscore variables indicate they'reprivate
 - get adds the functionality which allows you to invoke the size method without parentheses
@@ -89,8 +88,9 @@ class Stack {
 
 const stack = new Stack();
 ```
+#### [@5m35s](https://youtu.be/uGohVrgYrpQ?t=5m35s): Q&A Getters and Setters - `get`
 
-## [ms](https://youtu.be/uGohVrgYrpQ): QUEUE
+## [@8m13s](https://youtu.be/uGohVrgYrpQ?t=8m13s): QUEUE
 
 ```js
 class Queue {
@@ -111,7 +111,7 @@ class Queue {
 const stack = new Stack();
 ```
 
-## [ms](https://youtu.be/uGohVrgYrpQ): LINKED LISTS
+## [@9m55s](https://youtu.be/uGohVrgYrpQ?t=9m55s): LINKED LISTS
 
 ```js
 class LinkedList {
@@ -154,7 +154,7 @@ class LinkedList {
 
 ```
 
-## [ms](https://youtu.be/uGohVrgYrpQ): HASHING FUNCTION / HASH TABLE
+## [@21m20s](https://youtu.be/uGohVrgYrpQ?t=21m20s): HASHING FUNCTION / HASH TABLE
 - extra credit to handle resizing... (uncomment)
 - handling collisions and conflicts with the hash table with or without resizing hash table
 - limited array is the table
@@ -217,7 +217,7 @@ class HashTable {
 }
 ```
 
-- reworking for extra credit
+## [42m48s](https://youtu.be/uGohVrgYrpQ?t=42m48s): reworking HASHING FUNCTION for extra credit
 
 ```js
 const { LimitedArray, getIndexBelowMax } = require('./hash-table-helpers');
