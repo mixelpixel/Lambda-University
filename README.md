@@ -74,7 +74,7 @@ Pair Programming #1: https://github.com/SunJieMing/LS-Data-Structures start
 Code Challenge #2: https://github.com/ryanhca/CS1-Code-Challenges "Is Unique?"
 Pair Programming #1: https://github.com/SunJieMing/LS-Data-Structures cont.
 #### Ryan Hamblin lectures
-##### [1st Lecture](https://youtu.be/juZvUpn4j5Y): review Code Challenege #1
+##### [1st Lecture](https://youtu.be/juZvUpn4j5Y): Code Challenege #1 review: longestString
 ##### [2nd Lecture](https://youtu.be/bAkjh-jZY8M): Brown Bag session, Visual Studio & IDE shortcuts
 - after recording, covered git/GitHub flow for coding challenges
 #### Ben Nelson lecture
@@ -86,7 +86,7 @@ Pair Programming #1: https://github.com/SunJieMing/LS-Data-Structures cont.
 Code Challenge #3: https://github.com/ryanhca/CS1-Code-Challenges "Reverse Case"
 #### Ben Nelson lectures
 ##### [1st Lecture](https://youtu.be/fHP0KMst_90): GitHub flow & resolving merge conflicts
-##### [2nd Lecture](https://youtu.be/SXvxbIEgOkw): Code Challenge 2 review "isUnique"; Big O and Set()'s
+##### [2nd Lecture](https://youtu.be/SXvxbIEgOkw): Code Challenge 2 review: isUnique; Big O and Set()'s
 ##### [3rd Lecture](https://youtu.be/uGohVrgYrpQ): Solutions to Data Structures Pair Programming #1
 Pair Programming #1: https://github.com/SunJieMing/LS-Data-Structures fin, Pull Request & review
 ##### [4th Lecture](https://youtu.be/YKQSnvZGfDE): Pair Prog #2 - Data Structures 2
@@ -98,17 +98,17 @@ Pair Programming #2: https://github.com/manishavi/LS-Data-Structures-II.git star
 
 ### Day 08: Thursday, July 13
 ### [DAY 8 NOTES](Week02/Day08/README.md)
-Code Challenge #4: https://github.com/ryanhca/CS1-Code-Challenges "largestPrimePalindrome"
-#### [1st Lecture](https://youtu.be/JWNE9lsFcYg) w/Tai The Thai: Code Challenge #3 review
+Code Challenge #4: https://github.com/ryanhca/CS1-Code-Challenges "Largest Prime Palindrome"
+#### [1st Lecture](https://youtu.be/JWNE9lsFcYg) w/Tai The Thai: Code Challenge #3 review: reverseCase
 #### [2nd Lecture](https://youtu.be/pCdtDj4NGpA) w/Ryan Hamblin: Brown Bag - tips and thoughts on using Slack!
 #### [3rd Lecture](URL) w/Ben Nelson: Q&A
 
 
 ### Day 09: Friday, July 14
 ### [DAY 9 NOTES](Week02/Day09/README.md)
-Code Challenge #5: https://github.com/ryanhca/CS1-Code-Challenges "largestPrimePalindrome"
-#### [1st Lecture](#) - Ryan Hamblin: Code Challenge #4 review
-#### [2nd Lecture](#) - Speaker: topic
+Code Challenge #5: https://github.com/ryanhca/CS1-Code-Challenges "Even Occurences"
+#### [1st Lecture](#) w/Ryan Hamblin: Code Challenge #4 review: longestPrimePalindrome
+#### [2nd Lecture](#) w/Speaker: topic
 
 
 ***
