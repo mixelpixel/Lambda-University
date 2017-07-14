@@ -5,13 +5,15 @@ Ben Nelson
 Ryna Hamblin
 Tai The Thai
 GUEST LECTURER
-# [1st Lecture](URL) w/Ryna Hamblin: Code Challenge #4 review: largestPrimePalindrome 
+# [1st Lecture](URL) w/Ryna Hamblin: Code Challenge #4 review: largestPrimePalindrome
 
 ***
 # LUNCH
 ***
 
-# [2nd Lecture](URL) w/Speaker: topic
+# [2nd Lecture](URL) w/Ryan Hamblin: Brown Bag
+- Rubic's cube "talent" example
+- Using Slack #CS1_help channel
 
 ***
 
