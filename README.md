@@ -108,7 +108,7 @@ Code Challenge #4: https://github.com/ryanhca/CS1-Code-Challenges "Largest Prime
 ### [DAY 9 NOTES](Week02/Day09/README.md)
 Code Challenge #5: https://github.com/ryanhca/CS1-Code-Challenges "Even Occurences"
 #### [1st Lecture](#) w/Ryan Hamblin: Code Challenge #4 review: longestPrimePalindrome
-#### [2nd Lecture](#) w/Speaker: topic
+#### [2nd Lecture](NO VIDEO) w/Ryan Hamblin: Brown Bag
 
 
 ***
