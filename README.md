@@ -103,7 +103,7 @@ Pair Programming #2: https://github.com/manishavi/LS-Data-Structures-II.git star
 ### Day 08: Thursday, July 13
 ### [DAY 8 NOTES](Week02/Day08/README.md)
 #### [1st Lecture](https://youtu.be/JWNE9lsFcYg) w/Tai The Thai: reverseString CS1 #3 review
-#### [2nd Lecture](URL) w/Ryan Hamblin: Brown Bag - tips and thoughts on using Slack!
+#### [2nd Lecture](https://youtu.be/pCdtDj4NGpA) w/Ryan Hamblin: Brown Bag - tips and thoughts on using Slack!
 #### [3rd Lecture](URL) w/Ben Nelson: Q&A
 
 
