@@ -86,10 +86,6 @@ Pair Programming #1: https://github.com/SunJieMing/LS-Data-Structures cont.
 Code Challenge #3: https://github.com/ryanhca/CS1-Code-Challenges "Reverse Case"
 #### Ben Nelson lectures
 ##### [1st Lecture](https://youtu.be/fHP0KMst_90): GitHub flow & resolving merge conflicts
-```js
-git remote add upstream https://github.com/ryanhca/CS1-Code-Challenges.git
-git pull upstream master
-```
 ##### [2nd Lecture](https://youtu.be/SXvxbIEgOkw): Code Challenge 2 review "isUnique"; Big O and Set()'s
 ##### [3rd Lecture](https://youtu.be/uGohVrgYrpQ): Solutions to Data Structures Pair Programming #1
 Pair Programming #1: https://github.com/SunJieMing/LS-Data-Structures fin, Pull Request & review
@@ -102,15 +98,17 @@ Pair Programming #2: https://github.com/manishavi/LS-Data-Structures-II.git star
 
 ### Day 08: Thursday, July 13
 ### [DAY 8 NOTES](Week02/Day08/README.md)
-#### [1st Lecture](https://youtu.be/JWNE9lsFcYg) w/Tai The Thai: reverseString CS1 #3 review
+Code Challenge #4: https://github.com/ryanhca/CS1-Code-Challenges "largestPrimePalindrome"
+#### [1st Lecture](https://youtu.be/JWNE9lsFcYg) w/Tai The Thai: Code Challenge #3 review
 #### [2nd Lecture](https://youtu.be/pCdtDj4NGpA) w/Ryan Hamblin: Brown Bag - tips and thoughts on using Slack!
 #### [3rd Lecture](URL) w/Ben Nelson: Q&A
 
 
 ### Day 09: Friday, July 14
 ### [DAY 9 NOTES](Week02/Day09/README.md)
-#### [1st Lecture](#) - Ryan Hamblin: topic
-#### [2nd Lecture](#) - Ben Nelson: topic
+Code Challenge #5: https://github.com/ryanhca/CS1-Code-Challenges "largestPrimePalindrome"
+#### [1st Lecture](#) - Ryan Hamblin: Code Challenge #4 review
+#### [2nd Lecture](#) - Speaker: topic
 
 
 ***
