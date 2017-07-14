@@ -10,7 +10,7 @@
 # Month 1: July, 2017
 ## Week 01: July 3 - 7
 ### Day 01: Monday, July 3
-[DAY 1 NOTES](Week01/Day01/README.md)
+### [DAY 1 NOTES](Week01/Day01/README.md)
 #### Ben Nelson lectures
 ##### [1st Lecture](https://youtu.be/HJJDTYi9g20): ES5 and ES6, Arrow Functions, `const` & `let`, Callback Functions, Semi-Colons ;;;
 ##### [2nd Lecture](https://youtu.be/gaLr7_BMgD0): `this`, `.call()` `.apply()` & `.bind()`) and CLOSURE
@@ -20,7 +20,7 @@
 
 
 ### Day 02: Wednesday, July 5
-[DAY 2 NOTES](Week01/Day02/README.md)
+### [DAY 2 NOTES](Week01/Day02/README.md)
 #### Ryan Hamblin lectures
 ##### [1st Lecture](https://youtu.be/P6lw-HOaqmI): Each, Map Homework Review & Q&A re: for loops, forEach, nested loops
 ##### [2nd Lecture](https://youtu.be/dyyuDaZngXc): Reduce Homework Review
@@ -31,7 +31,7 @@
 
 
 ### Day 03: Thursday, July 6
-[DAY 3 NOTES](Week01/Day03/README.md)
+### [DAY 3 NOTES](Week01/Day03/README.md)
 #### GUEST LECTURER: Karthik Viswanathan
 - https://karthikv.net/
 - https://github.com/karthikv
@@ -43,7 +43,7 @@
 
 
 ### Day 04: Friday, July 7
-[DAY 4 NOTES](Week01/Day04/README.md)
+### [DAY 4 NOTES](Week01/Day04/README.md)
 #### Ben Nelson lecture
 ##### [1st Lecture](https://youtu.be/JxCVug-Jo_s): Closure & Recursion review
 
@@ -59,7 +59,7 @@
 
 ## Week 02: July 10 - 14
 ### Day 05: Monday, July 10
-[DAY 5 NOTES](Week02/Day05/README.md)
+### [DAY 5 NOTES](Week02/Day05/README.md)
 Code Challenge #1: https://github.com/ryanhca/CS1-Code-Challenges "Longest String"
 Pair Programming #1: https://github.com/SunJieMing/LS-Data-Structures start
 - Partner: Drew Mueller
@@ -73,7 +73,7 @@ Pair Programming #1: https://github.com/SunJieMing/LS-Data-Structures start
 
 
 ### Day 06: Tuesday, July 11
-[DAY 6 NOTES](Week02/Day06/README.md)
+### [DAY 6 NOTES](Week02/Day06/README.md)
 Code Challenge #2: https://github.com/ryanhca/CS1-Code-Challenges "Is Unique?"
 Pair Programming #1: https://github.com/SunJieMing/LS-Data-Structures cont.
 #### Ryan Hamblin lectures
@@ -85,7 +85,7 @@ Pair Programming #1: https://github.com/SunJieMing/LS-Data-Structures cont.
 
 
 ### Day 07: Wednesday, July 12
-[DAY 7 NOTES](Week02/Day07/README.md)
+### [DAY 7 NOTES](Week02/Day07/README.md)
 Code Challenge #3: https://github.com/ryanhca/CS1-Code-Challenges "Reverse Case"
 #### Ben Nelson lectures
 ##### [1st Lecture](https://youtu.be/fHP0KMst_90): GitHub flow & resolving merge conflicts
@@ -104,16 +104,18 @@ Pair Programming #2: https://github.com/manishavi/LS-Data-Structures-II.git star
 
 
 ### Day 08: Thursday, July 13
+### [DAY 8 NOTES](Week02/Day08/README.md)
 #### [1st Lecture](https://youtu.be/JWNE9lsFcYg) w/Tai The Thai: reverseString CS1 #3 review
 #### [2nd Lecture](URL) w/Ryan Hamblin: Brown Bag - tips and thoughts on using Slack!
 #### [3rd Lecture](URL) w/Ben Nelson: Q&A
-- [DAY 8 NOTES](Week02/Day08/README.md)
+
 
 
 ### Day 09: Friday, July 14
+### [DAY 9 NOTES](Week02/Day09/README.md)
 #### [1st Lecture](#) - Ryan Hamblin: topic
 #### [2nd Lecture](#) - Ben Nelson: topic
-- [DAY 9 NOTES](Week02/Day09/README.md)
+
 
 ***
 
