@@ -12,7 +12,7 @@ git pull upstream master
 
 ***
 
-# [2nd Lecture](https://youtu.be/SXvxbIEgOkw) - Ben Nelson: Code Challenge 2 review "isUnique"
+# [2nd Lecture](https://youtu.be/SXvxbIEgOkw) - Ben Nelson: Code Challenge #2 review "isUnique"
 ## [@1m40s](https://youtu.be/SXvxbIEgOkw?t=1m40s): basic solution with nested for loop
 - nestedfor loop solution:
 
