@@ -1,11 +1,11 @@
 # Lambda University - MONTH 01, 2017: Day 009, Friday
 ## Coding Challenge #5
-- "????" available in https://github.com/ryanhca/CS1-Code-Challenges
+- "evenOccurences" available in https://github.com/ryanhca/CS1-Code-Challenges
 Ben Nelson
 Ryna Hamblin
 Tai The Thai
 GUEST LECTURER
-# [1st Lecture](URL) w/Speaker: Code Challenge #5 review
+# [1st Lecture](URL) w/Ryna Hamblin: Code Challenge #4 review: largestPrimePalindrome 
 
 ***
 # LUNCH
