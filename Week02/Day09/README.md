@@ -5,7 +5,7 @@
 - Ryna Hamblin
 - Tai The Thai
 - GUEST LECTURER
-# [1st Lecture](URL) w/Ryna Hamblin: Code Challenge #4 review: largestPrimePalindrome
+# [1st Lecture](https://youtu.be/F0y2sJHQzzs) w/Ryan Hamblin: Code Challenge #4 review: largestPrimePalindrome
 
 ***
 # LUNCH
@@ -17,13 +17,7 @@
 
 ***
 
-# [3rd Lecture](URL) w/Speaker: topic
-
-***
-
-# [4th Lecture](URL) w/Speaker: topic
-
-# Sprint / Q&A
+# [3rd Lecture](URL) w/Speaker: Review / Q&A
 
 ***
 
