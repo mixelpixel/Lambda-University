@@ -165,6 +165,7 @@ Pair Programming #2: https://github.com/manishavi/LS-Data-Structures-II.git star
 ***
 
 # Additional Resources:
+- [You Don't Know JS!](https://github.com/getify/You-Dont-Know-JS)
 - Text Editors / IDE's
 	- [Atom](https://atom.io/)
 	- [Sublime Text](https://www.sublimetext.com/)
@@ -192,7 +193,6 @@ Pair Programming #2: https://github.com/manishavi/LS-Data-Structures-II.git star
 	- [Assembly Language Programming](https://archive.org/stream/8080a8085AssemblyLanguageProgramming/Leventhal-8080a-8085AssemblyLanguageProgramming)
 	- [An Introduction To Microcomputers Volume 0](https://archive.org/stream/AnIntroductionToMicrocomputersVolume0/Osborne-AnIntroductionToMicrocomputersVolume0)
 	- [An Introduction To Microprocessors Volume 1](https://archive.org/stream/AnIntroductionToMicroprocessorsVolume1/Osborne-AnIntroductionToMicroprocessorsVolume1)
-	- https://github.com/getify/You-Dont-Know-JS
 - BIG O NOTATION
 	- http://bigocheatsheet.com/
 	- https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/
