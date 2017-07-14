@@ -8,7 +8,7 @@ $ git remote add upstream https://github.com/ryanhca/CS1-Code-Challenges.git
 $ git pull upstream master
 ```
 
-# [1st Lecture](https://youtu.be/juZvUpn4j5Y) w/Ryan Hamblin: Code Challenge 1 review
+# [1st Lecture](https://youtu.be/juZvUpn4j5Y) w/Ryan Hamblin: Code Challenge #1 review
 - Ryan's solution
 
 ```js
