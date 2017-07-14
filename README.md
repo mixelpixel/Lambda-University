@@ -24,7 +24,6 @@
 #### Ryan Hamblin lectures
 ##### [1st Lecture](https://youtu.be/P6lw-HOaqmI): Each, Map Homework Review & Q&A re: for loops, forEach, nested loops
 ##### [2nd Lecture](https://youtu.be/dyyuDaZngXc): Reduce Homework Review
-
 #### Ben Nelson lectures
 ##### [3rd Lecture](https://youtu.be/2mIvc0wc0oI): D.R.Y. and Functions 101
 ##### [4th Lecture](https://youtu.be/Y3NRA2-kvbY): backtick string formatting, Method declaration shortcut, SPREAD operator, REST parameter, `arguments`, Classes
@@ -36,7 +35,6 @@
 - https://karthikv.net/
 - https://github.com/karthikv
 ##### [1st Lecture](https://youtu.be/KNpkIDV5Jj0): Homework 1 review: each, map, reduce, flatten & recursion"
-
 #### Ben Nelson lectures
 ##### [2nd Lecture](https://youtu.be/exSwdXfeBtI): Basic JS w/ES6 review & Q&A: variables, branching logic,  AirBnB style, Ternary, for loop, const v let, forEach, wordsToSentences problem
 ##### [3rd Lecture] VIDEO: ??? End of day review & Q&A
@@ -46,7 +44,6 @@
 ### [DAY 4 NOTES](Week01/Day04/README.md)
 #### Ben Nelson lecture
 ##### [1st Lecture](https://youtu.be/JxCVug-Jo_s): Closure & Recursion review
-
 #### Ryan Hamblin lectures
 ##### [2nd Lecture](https://youtu.be/-9h9f600Q3Y): `this` 4 RULES OF `this`
 ##### [3rd Lecture](https://youtu.be/LtW4eEK39SE):  "this.js" Homework review
@@ -108,7 +105,6 @@ Pair Programming #2: https://github.com/manishavi/LS-Data-Structures-II.git star
 #### [1st Lecture](https://youtu.be/JWNE9lsFcYg) w/Tai The Thai: reverseString CS1 #3 review
 #### [2nd Lecture](URL) w/Ryan Hamblin: Brown Bag - tips and thoughts on using Slack!
 #### [3rd Lecture](URL) w/Ben Nelson: Q&A
-
 
 
 ### Day 09: Friday, July 14
