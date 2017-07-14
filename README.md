@@ -189,15 +189,15 @@ Pair Programming #2: https://github.com/manishavi/LS-Data-Structures-II.git star
 - Mozilla JavaScript Reference: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 - Ryan Sherill's [Extra Resources list](https://docs.google.com/document/d/1y5B_glCrLRo8Vnu93QMKjFrfAN3a-GFPzgGz76rTTIQ/edit)
 - Some old school b.g. reading:
-	- https://archive.org/stream/8080a8085AssemblyLanguageProgramming/Leventhal-8080a-8085AssemblyLanguageProgramming
-	- https://archive.org/stream/AnIntroductionToMicrocomputersVolume0/Osborne-AnIntroductionToMicrocomputersVolume0
-	- https://archive.org/stream/AnIntroductionToMicroprocessorsVolume1/Osborne-AnIntroductionToMicroprocessorsVolume1
+	- [Assembly Language Programming](https://archive.org/stream/8080a8085AssemblyLanguageProgramming/Leventhal-8080a-8085AssemblyLanguageProgramming)
+	- [An Introduction To Microcomputers Volume 0](https://archive.org/stream/AnIntroductionToMicrocomputersVolume0/Osborne-AnIntroductionToMicrocomputersVolume0)
+	- [An Introduction To Microprocessors Volume 1](https://archive.org/stream/AnIntroductionToMicroprocessorsVolume1/Osborne-AnIntroductionToMicroprocessorsVolume1)
 	- https://github.com/getify/You-Dont-Know-JS
 - BIG O NOTATION
 	- http://bigocheatsheet.com/
 	- https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/
 - Data Structures and Algorithms with JavaScript by Michael McMillan (posted to Slack channel)
-- https://jsperf.com/ TEST/COMPARE CODE PERFORMANCE
+- https://jsperf.com/ to TEST & COMPARE CODE PERFORMANCE
 - DOM & Web Browsers:
 	- ["How browsers work internally" by Tali Garsiel (~30min)](https://vimeo.com/44182484)
 	- ["How Browsers Work: Behind the scenes of modern web browsers" by By Tali Garsiel and Paul Irish](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
