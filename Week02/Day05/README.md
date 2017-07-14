@@ -132,7 +132,7 @@ class LinkedList {
 
 end @1hr8min
 notes on pair programming
-Pair Programming project: https://github.com/SunJieMing/LS-Data-Structures
+## Pair Programming project: https://github.com/SunJieMing/LS-Data-Structures
 
 ***
 
