@@ -11,7 +11,7 @@
 # LUNCH
 ***
 
-# [2nd Lecture](URL) w/Ryan Hamblin: Brown Bag
+# [2nd Lecture](NO_VIDEO) w/Ryan Hamblin: Brown Bag
 - Rubic's cube "talent" example
 - Using Slack #CS1_help channel
 
