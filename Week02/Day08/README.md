@@ -10,7 +10,7 @@
 # LUNCH
 ***
 
-# [2nd Lecture](URL) w/Ryan Hamblin: Brown Bag - tips and thoughts on using Slack!
+# [2nd Lecture](https://youtu.be/pCdtDj4NGpA) w/Ryan Hamblin: Brown Bag - tips and thoughts on using Slack!
 
 ***
 
