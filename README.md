@@ -97,15 +97,16 @@ git pull upstream master
 ##### [3rd Lecture](https://youtu.be/uGohVrgYrpQ): Solutions to Data Structures Pair Programming #1
 Pair Programming #1: https://github.com/SunJieMing/LS-Data-Structures fin, Pull Request & review
 ##### [4th Lecture](https://youtu.be/YKQSnvZGfDE): Pair Prog #2 - Data Structures 2
-Pair Programming #2: https://github.com/mixelpixel/LS-Data-Structures-II.git start w/Manisha Lal
+Pair Programming #2: https://github.com/manishavi/LS-Data-Structures-II.git start w/Manisha Lal
 - https://github.com/SunJieMing/LS-Data-Structures-II
-- Partner: Manisha Lal
+- Partner: Manisha Lal, she's "driving"
 - GitHub: {driver: passenger} => {manishavi: {Slack: manishavi}, mixelpixel: {Slack: mixelpix}}
 
 
 ### Day 08: Thursday, July 13
-#### [1st Lecture](#) - Ryan Hamblin: topic
-#### [2nd Lecture](#) - Ben Nelson: topic
+#### [1st Lecture](https://youtu.be/JWNE9lsFcYg) w/Tai The Thai: reverseString CS1 #3 review
+#### [2nd Lecture](URL) w/Ryan Hamblin: Brown Bag - tips and thoughts on using Slack!
+#### [3rd Lecture](URL) w/Ben Nelson: Q&A
 - [DAY 8 NOTES](Week02/Day08/README.md)
 
 
@@ -199,3 +200,6 @@ Pair Programming #2: https://github.com/mixelpixel/LS-Data-Structures-II.git sta
 	- https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/
 - Data Structures and Algorithms with JavaScript by Michael McMillan (posted to Slack channel)
 - https://jsperf.com/ TEST/COMPARE CODE PERFORMANCE
+- DOM & Web Browsers:
+	- ["How browsers work internally" by Tali Garsiel (~30min)](https://vimeo.com/44182484)
+	- ["How Browsers Work: Behind the scenes of modern web browsers" by By Tali Garsiel and Paul Irish](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
