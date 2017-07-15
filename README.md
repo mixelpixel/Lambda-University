@@ -163,15 +163,22 @@ Code Challenge #5: https://github.com/ryanhca/CS1-Code-Challenges "Even Occurenc
 ***
 
 # Additional Resources:
+#### Lambda Uuniversity:
+- Lambda University's Google Calendar [Invite](https://www.google.com/calendar/render?cid=bGFtYmRhc2Nob29sLmNvbV81dmJxNzByMWpnOG5kdmQxNGJoYTVzbWJqY0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&invEmailKey=mixelpix@mac.com:84d4f84c0778cc54f71761d34d12b62c328804d5)
+- Tyge Johnson's Collection of Lecture [videos](https://docs.google.com/spreadsheets/d/1vkjyltR9gWK2Qsq3azn8nUuqXuGV7xa8tNxOSpmZ0Ag/edit#gid=0)
+
+#### LSPro lectures:
+- [Callbacks](https://youtu.be/qxURd9khNgU)
+
+#### Unsorted
 - [You Don't Know JS!](https://github.com/getify/You-Dont-Know-JS)
+- Ryan Sherill's [Extra Resources list](https://docs.google.com/document/d/1y5B_glCrLRo8Vnu93QMKjFrfAN3a-GFPzgGz76rTTIQ/edit)
 - Text Editors / IDE's
 	- [Atom](https://atom.io/)
 	- [Sublime Text](https://www.sublimetext.com/)
 	- [Visual Studio](https://code.visualstudio.com)
 - Zoom for meetings: https://zoom.us/j/858115322
 - class polling: https://b.socrative.com/student/
-- Lambda School's Google Calendar [Invite](https://www.google.com/calendar/render?cid=bGFtYmRhc2Nob29sLmNvbV81dmJxNzByMWpnOG5kdmQxNGJoYTVzbWJqY0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&invEmailKey=mixelpix@mac.com:84d4f84c0778cc54f71761d34d12b62c328804d5)
-- Tyge Johnson's Collection of Lecture [videos](https://docs.google.com/spreadsheets/d/1vkjyltR9gWK2Qsq3azn8nUuqXuGV7xa8tNxOSpmZ0Ag/edit#gid=0)
 - Closure vids
 	- https://www.youtube.com/watch?v=CQqwU2Ixu-U
 	- https://www.youtube.com/watch?v=USgVMIIT0ik
@@ -186,7 +193,6 @@ Code Challenge #5: https://github.com/ryanhca/CS1-Code-Challenges "Even Occurenc
 	- https://jsbin.com/
 	- https://jsfiddle.net)
 - Mozilla JavaScript Reference: https://developer.mozilla.org/en-US/docs/Web/JavaScript
-- Ryan Sherill's [Extra Resources list](https://docs.google.com/document/d/1y5B_glCrLRo8Vnu93QMKjFrfAN3a-GFPzgGz76rTTIQ/edit)
 - Some old school b.g. reading:
 	- [Assembly Language Programming](https://archive.org/stream/8080a8085AssemblyLanguageProgramming/Leventhal-8080a-8085AssemblyLanguageProgramming)
 	- [An Introduction To Microcomputers Volume 0](https://archive.org/stream/AnIntroductionToMicrocomputersVolume0/Osborne-AnIntroductionToMicrocomputersVolume0)
