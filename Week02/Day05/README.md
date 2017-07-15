@@ -5,7 +5,7 @@
 - In general, solutions available next day...
 - Good reference: "[Cracking the Coding Interview](http://www.crackingthecodinginterview.com/)" by Gayle Laakmann McDowell
 
-# 1st Lecture - Ryan Hamblin
+# 1st Lecture w/Ryan Hamblin
 ## [Section 1](https://youtu.be/oYDDke8hehw): `bind()`
 - [bind.js](Week02/Day05/bind.js)
 - `bind()` is a way to control the context of what `this` refers to
@@ -37,8 +37,8 @@
 #### Lunch
 ***
 
-# 2nd Lecture - Ben Nelson @ ~4:10pm = 0
-## [DATA SRUCTURES](https://youtu.be/lZlV9d3t8z4): stacks, queues, linked lists, hash tables, big O(constant, linear, quadratic)
+
+# [2nd Lecture](https://youtu.be/lZlV9d3t8z4): w/ Ben Nelson - DATA SRUCTURES: stacks, queues, linked lists, hash tables, big O(constant, linear, quadratic)
 - a way for structuring data in memory
 - different patterns have different aspects
 - Two data structure: A Stack and a Queue
