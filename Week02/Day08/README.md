@@ -14,7 +14,7 @@
 
 ***
 
-# [3rd Lecture](URL) w/Ben Nelson: Q&A
+# [3rd Lecture](NO_VIDEO_POSTED) w/Ben Nelson: Q&A
 
 ***
 
