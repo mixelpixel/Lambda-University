@@ -8,7 +8,7 @@ $ git remote add upstream https://github.com/ryanhca/CS1-Code-Challenges.git
 $ git pull upstream master
 ```
 
-# [1st Lecture](https://youtu.be/juZvUpn4j5Y) w/Ryan Hamblin: Code Challenge #1 review
+# [1st Lecture](https://youtu.be/juZvUpn4j5Y): w/Ryan Hamblin: Code Challenge #1 review
 - Ryan's solution
 
 ```js
@@ -42,7 +42,7 @@ const longstr = (arr) => {
 # LUNCH
 ***
 
-# [2nd Lecture](https://youtu.be/bAkjh-jZY8M) - Brown Bag: Visual Studio & IDE shortcuts
+# [2nd Lecture](https://youtu.be/bAkjh-jZY8M): w/Ryan Hamblin - Brown Bag: Visual Studio & IDE shortcuts
 - code editor shortcuts
 - https://code.visualstudio.com
 #### video fin
@@ -50,7 +50,7 @@ const longstr = (arr) => {
 
 ***
 
-# [3rd Lecture](https://youtu.be/7sMfjChMVaQ) w/Ben Nelson: Data Structure review & Q&A
+# [3rd Lecture](https://youtu.be/7sMfjChMVaQ): w/Ben Nelson: Data Structure review & Q&A
 ## [@34s](https://youtu.be/7sMfjChMVaQ?t=34s): HASH TABLE FUNCTION
 - getIndexBelow Max HASHES the string and returns hash index
 
@@ -61,6 +61,7 @@ this.storage[address] = value;
 - head & tail reference
 - Like a queue
 
+```js
 const node = {
   value,
   next: null
@@ -69,9 +70,12 @@ const node = {
 this.head = node;
 this.tail = node;
 
-Conditions to check to Add to tail
-nothing in the list?
-1 other in the list?
-more than 1?
+...
+```
 
-OBJECTS ARE PASSED BY REFEENCE
+- Conditions to check to Add to tail
+  1. nothing in the list?
+  2. 1 other in the list?
+  3. more than 1?
+
+- OBJECTS ARE PASSED BY REFEENCE
