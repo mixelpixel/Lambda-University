@@ -16,7 +16,7 @@
 ##### [2nd Lecture](https://youtu.be/gaLr7_BMgD0): `this`, `.call()` `.apply()` & `.bind()`) and CLOSURE
 - Homework Assignment: https://github.com/SunJieMing/Advanced-JavaScript
 - Homework: https://github.com/mixelpixel/Advanced-JavaScript
-##### [3rd Lecture]( VIDEO: ??? ): `constructor` Class Functions, `for` LOOPS, `do` `while` LOOPS & RECURSION
+##### [3rd Lecture](NO_VIDEO_POSTED): `constructor` Class Functions, `for` LOOPS, `do` `while` LOOPS & RECURSION
 
 
 ### Day 02: Wednesday, July 5
@@ -37,7 +37,7 @@
 ##### [1st Lecture](https://youtu.be/KNpkIDV5Jj0): Homework 1 review: each, map, reduce, flatten & recursion"
 #### Ben Nelson lectures
 ##### [2nd Lecture](https://youtu.be/exSwdXfeBtI): Basic JS w/ES6 review & Q&A: variables, branching logic,  AirBnB style, Ternary, for loop, const v let, forEach, wordsToSentences problem
-##### [3rd Lecture] VIDEO: ??? End of day review & Q&A
+##### [3rd Lecture](NO_VIDEO_POSTED): End of day review & Q&A
 
 
 ### Day 04: Friday, July 7
@@ -101,14 +101,15 @@ Pair Programming #2: https://github.com/manishavi/LS-Data-Structures-II.git star
 Code Challenge #4: https://github.com/ryanhca/CS1-Code-Challenges "Largest Prime Palindrome"
 #### [1st Lecture](https://youtu.be/JWNE9lsFcYg) w/Tai The Thai: Code Challenge #3 review: reverseCase
 #### [2nd Lecture](https://youtu.be/pCdtDj4NGpA) w/Ryan Hamblin: Brown Bag - tips and thoughts on using Slack!
-#### [3rd Lecture](URL) w/Ben Nelson: Q&A
+#### [3rd Lecture](NO_VIDEO_POSTED) w/Ben Nelson: Q&A
 
 
 ### Day 09: Friday, July 14
 ### [DAY 9 NOTES](Week02/Day09/README.md)
 Code Challenge #5: https://github.com/ryanhca/CS1-Code-Challenges "Even Occurences"
-#### [1st Lecture](#) w/Ryan Hamblin: Code Challenge #4 review: longestPrimePalindrome
-#### [2nd Lecture](NO_VIDEO) w/Ryan Hamblin: Brown Bag
+#### [1st Lecture](https://youtu.be/F0y2sJHQzzs) w/Ryan Hamblin: Code Challenge #4 review: longestPrimePalindrome & Coercion == vs. ===
+#### [2nd Lecture](NO_VIDEO_POSTED) w/Ryan Hamblin: Brown Bag
+#### [3rd Lecture](https://youtu.be/KhJ95GoKxK0) w/Ben Nelson: Data Structures II Review / Q&A
 
 
 ***
