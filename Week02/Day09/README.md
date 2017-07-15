@@ -17,7 +17,7 @@
 
 ***
 
-# [3rd Lecture](URL) w/Speaker: Review / Q&A
+# [3rd Lecture](https://youtu.be/KhJ95GoKxK0) w/Speaker: Data Structures II Review / Q&A
 
 ***
 
