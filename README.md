@@ -47,8 +47,8 @@
 #### Ryan Hamblin lectures
 ##### [2nd Lecture](https://youtu.be/-9h9f600Q3Y): `this` 4 RULES OF `this`
 ##### [3rd Lecture](https://youtu.be/LtW4eEK39SE):  "this.js" Homework review
-	- NOTE: blocked out video/AUDIO ONLY
-- Closing sprint meeting
+- NOTE: blocked out video/AUDIO ONLY
+##### Closing sprint meeting (not recorded)
 
 
 ***
@@ -89,7 +89,7 @@ Code Challenge #3: https://github.com/ryanhca/CS1-Code-Challenges "Reverse Case"
 ##### [2nd Lecture](https://youtu.be/SXvxbIEgOkw): Code Challenge 2 review: isUnique; Big O and Set()'s
 ##### [3rd Lecture](https://youtu.be/uGohVrgYrpQ): Solutions to Data Structures Pair Programming #1
 Pair Programming #1: https://github.com/SunJieMing/LS-Data-Structures fin, Pull Request & review
-##### [4th Lecture](https://youtu.be/YKQSnvZGfDE): Pair Prog #2 - Data Structures 2
+##### [4th Lecture](https://youtu.be/YKQSnvZGfDE): Pair Prog #2 - Data Structures 2: TREES, BINARY SEARCH TREE & GRAPHS
 Pair Programming #2: https://github.com/manishavi/LS-Data-Structures-II.git start w/Manisha Lal
 - https://github.com/SunJieMing/LS-Data-Structures-II
 - Partner: Manisha Lal, she's "driving"
