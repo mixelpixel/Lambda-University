@@ -31,11 +31,12 @@ const largestPrimePalindrome = (number) => {
   // COUNTING DOWN FROM LARGEST IS MUCH MUCH MUCH FASTER
   for (let num = 1000; num >= 11; num--)
     if( palindromeChecker(num) && primeChecker(num) ) return num;
-  }
+
 };
 
 console.log(largestPrimePalindrome());
 ```
+
 ***
 # LUNCH
 ***
