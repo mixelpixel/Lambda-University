@@ -18,6 +18,8 @@
 ***
 
 # [3rd Lecture](https://youtu.be/KhJ95GoKxK0) w/Speaker: Data Structures II Review / Q&A
+- Trees, BST & Graphs
+- Using the "debugger;" statement in the console.
 
 ***
 
