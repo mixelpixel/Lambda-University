@@ -6,9 +6,7 @@
 - Introductions
 - Class polling: https://b.socrative.com/student/
 
-# [1st Lecture](https://youtu.be/HJJDTYi9g20): ES5 and ES6, Arrow Functions, `const` & `let`, Callback Functions, Semi-Colons ;;;
-### Ben Nelson
-
+# [1st Lecture](https://youtu.be/HJJDTYi9g20): w/Ben Nelson - ES5 and ES6, Arrow Functions, `const` & `let`, Callback Functions, Semi-Colons ;;;
 ## [@start](https://youtu.be/HJJDTYi9g20) ES6 (aka ES2015, ECMAScript 6)
 - https://babeljs.io/ Babel is a compiler for ES6 script. Bebal turns ES6 into ES5 (ECMAScript 5)
 - We're coding in a node environment: node is a JavaScript Runtime. Node is a C++ application running on your computer - it is a JavaScript runtime compiler outside of the browser. They took the Chrome "V8" engine (the C++ code in the Chrome browser that runs the javascript code) and made node out of it (with some extra magic).
@@ -129,9 +127,7 @@ foo(baz); // ---> sup
 # Lunch
 ***
 
-# [2nd Lecture](https://youtu.be/gaLr7_BMgD0): `this`, `.call()` `.apply()` & `.bind()`) and CLOSURE
-### Ben Nelson
-
+# [2nd Lecture](https://youtu.be/gaLr7_BMgD0): w/Ben Nelson - `this`, `.call()` `.apply()` & `.bind()`) and CLOSURE
 ## [@26s](https://youtu.be/gaLr7_BMgD0?t=26s): `this` KEYWORD and OBJECT
 - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this
 - `this` is an object we use to reference from inside a method
@@ -177,10 +173,7 @@ pizza.bake(); // ---> the pizza is baking
 
 ***
 
-# [3rd Lecture](NO_VIDEO_POSTED): Class Functions, `constructor`, `for` LOOPS, `do` `while` LOOPS & RECURSION
-### Ben Nelson
-- NOTE: Clear with Ben if you need to miss a class
-
+# [3rd Lecture](NO_VIDEO_POSTED): w/Ben Nelson - Class Functions, `constructor`, `for` LOOPS, `do` `while` LOOPS & RECURSION
 ## `constructor` CLASS FUNCTIONS
 - ES5
 - TEMPLATE for creating an object
