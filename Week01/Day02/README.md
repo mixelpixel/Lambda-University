@@ -1,7 +1,6 @@
 # Lambda University - July 05, 2017: Day 002, Wednesday
 
-# [1st Lecture](https://youtu.be/P6lw-HOaqmI): Each, Map Homework Review
-### Ryan Hamblin
+# [1st Lecture](https://youtu.be/P6lw-HOaqmI): w/Ryan Hamblin - Each, Map Homework Review
 
 ## [@5m20s](https://youtu.be/P6lw-HOaqmI?t=5m20s): Each
 - reviewing assignment
@@ -19,13 +18,11 @@ array.forEach(element, i) => {
 - for loops don't have to loop over arrays, forEach are specific to arrays.
 
 ## [@23m51s](https://youtu.be/P6lw-HOaqmI?t=23m51s): Map
-
 ### [@35m](https://youtu.be/P6lw-HOaqmI?t=35m): Q&A For Loops, for loops vs forEach, nested loops
 
 ***
 
-# [2nd Lecture](https://youtu.be/dyyuDaZngXc): Reduce Homework Review
-### Ryan Hamblin
+# [2nd Lecture](https://youtu.be/dyyuDaZngXc): w/ Ryan Hamblin - Reduce Homework Review
 ## [@1m30s](https://youtu.be/P6lw-HOaqmI?t=1m30s): Reduce
 - shift()
 - default values
@@ -34,8 +31,7 @@ array.forEach(element, i) => {
 # Lunch
 ***
 
-# [3rd Lecture](https://youtu.be/2mIvc0wc0oI): Function review, D.R.Y., const v let references
-### Ben Nelson
+# [3rd Lecture](https://youtu.be/2mIvc0wc0oI): w/ Ben Nelson - Function review, D.R.Y., const v let references
 - reviewing functions
 - DRY - Don't Repeat Yourself
 - functions 101
@@ -101,8 +97,7 @@ for (let i = 0; i < functions.length; i++) {
 
 ***
 
-# [4th Lecture](https://youtu.be/Y3NRA2-kvbY)
-## Lecturer: Ben Nelson @~5:10pm - string literals/templates, object literals, spread operator, class
+# [4th Lecture](https://youtu.be/Y3NRA2-kvbY): w/Ben Nelson - string literals/templates, object literals, spread operator, class
 ### [@4s](https://youtu.be/Y3NRA2-kvbY?t=4s) - String Templates/Literals
 - backtick string formatting
 
