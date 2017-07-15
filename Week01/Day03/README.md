@@ -222,8 +222,7 @@ const flatten = (elements) => {
 # Lunch
 ***
 
-# [2nd Lecture](https://youtu.be/exSwdXfeBtI)
-## Lecturer: Ben Nelson @~5:10pm - Reviewing basic JS with ES6
+# [2nd Lecture](https://youtu.be/exSwdXfeBtI): w/Ben Nelson - Reviewing basic JS with ES6
 ### [@2m28s](https://youtu.be/exSwdXfeBtI?t=2m28s) variables
 
 ```js
@@ -314,9 +313,7 @@ console.log(sentence);
 
 ***
 
-# [End of Day Lecture](NO_VIDEO_POSTED)
-## Lecturer: Ben Nelson @~8pm
-### Q & A
+# [End of Day Lecture](NO_VIDEO_POSTED): w/Ben Nelson - Q&A
 #### objects exercise: values
 - an object is a set of key: value pairs
 - all keys must be unique
