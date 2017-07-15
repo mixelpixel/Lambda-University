@@ -314,7 +314,7 @@ console.log(sentence);
 
 ***
 
-# End of Day Lecture - VIDEO ???
+# [End of Day Lecture](NO_VIDEO_POSTED)
 ## Lecturer: Ben Nelson @~8pm
 ### Q & A
 #### objects exercise: values
