@@ -2,7 +2,7 @@
 ## Coding Challenge 3
 - "reverseCase" available in https://github.com/ryanhca/CS1-Code-Challenges
 
-# [1st Lecture](https://youtu.be/fHP0KMst_90) - Ben Nelson: GitHub flow & resolving merge conflicts
+# [1st Lecture](https://youtu.be/fHP0KMst_90): w/Ben Nelson: GitHub flow & resolving merge conflicts
 - To pull in daily coding challenges use:
 
 ```console
@@ -12,7 +12,7 @@ git pull upstream master
 
 ***
 
-# [2nd Lecture](https://youtu.be/SXvxbIEgOkw) - Ben Nelson: Code Challenge #2 review "isUnique"
+# [2nd Lecture](https://youtu.be/SXvxbIEgOkw): w/ Ben Nelson: Code Challenge #2 review "isUnique"
 ## [@1m40s](https://youtu.be/SXvxbIEgOkw?t=1m40s): basic solution with nested for loop
 - nestedfor loop solution:
 
@@ -304,7 +304,7 @@ class HashTable {
 
 ***
 
-# [4th Lecture](https://youtu.be/YKQSnvZGfDE) - Ben Nelson: Pair Prog #2 - Data Structures II
+# [4th Lecture](https://youtu.be/YKQSnvZGfDE) -w/Ben Nelson: Pair Prog #2 - Data Structures II
 - Data Structure will have a solution branch (in addition to master branch)
 - Review: Stack, Queue, Linked List, nodes, Hash Function & keys
 - Array, string, Set: all data structures
@@ -413,7 +413,7 @@ const graph = [
 
 ## use ES6 classes to make these objects
 
-#### [ms](URL): Setup for Pair Partner Programming #2
+#### [Was the a lecture video?](NO_VIDEO_POSTED): Setup for Pair Partner Programming #2
 - In Slack start a DM w/me, partner Ryan and SunJieMing
 - https://github.com/SunJieMing/LS-Data-Structures-II
 
