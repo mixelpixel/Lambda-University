@@ -1,8 +1,5 @@
 # Lambda University - July 07, 2017: Day 004, Friday
-## Lecturer: Ben Nelson
-### [Closure & Recursion review](https://youtu.be/JxCVug-Jo_s)
-- LECTURE VIDEO:
-
+## [1st Lecture](https://youtu.be/JxCVug-Jo_s): w/Ben Nelson - Closure & Recursion review
 - closure pertains to higher order functions
 - [A closure is the combination of a function and the lexical environment within which that function was declared.](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures)
 - the function that gets returned can go back and look into the declaring function
@@ -118,16 +115,14 @@ const tree1 = {
 # LUNCH
 ***
 
-## Lecturer: Ryan Hamblin
-## 4 PRINCIPLES OF `this`
-- LECTURE VIDEO: https://youtu.be/-9h9f600Q3Y
+# [2nd Lecture](https://youtu.be/-9h9f600Q3Y): w/Ryan Hamblin - 4 PRINCIPLES OF `this`
 - [Ryan's `this` worksheet](Week01/Day04/this-explained-master)
   - also available on GitHub: https://github.com/ryanhca/this-explained
 
-#### [@14s](https://youtu.be/-9h9f600Q3Y?t=14s): keyword: `this`
+### [@14s](https://youtu.be/-9h9f600Q3Y?t=14s): keyword: `this`
 - `this` remains nothing until a given context - just like the pronoun "this"
 -
-### [@2m55s](https://youtu.be/-9h9f600Q3Y?t=2m55s): PRINCIPLE #1
+## [@2m55s](https://youtu.be/-9h9f600Q3Y?t=2m55s): PRINCIPLE #1
 #### 1. Whenever a function is contained in the GLOBAL scope, the value of `this` inside of that function will be the WINDOW object.
   1a. WINDOW in node environment or browser
 
@@ -153,7 +148,7 @@ const tree1 = {
   greet('Ryan');
   ```
 
-### [@10m35s](https://youtu.be/-9h9f600Q3Y?t=10m35s): PRINCIPLE #2
+## [@10m35s](https://youtu.be/-9h9f600Q3Y?t=10m35s): PRINCIPLE #2
 #### 2. Whenever a function is called by a PRECEDING DOT, the object BEFORE THE DOT is "this"
   2a. functions in objects are METHODS
 
@@ -175,7 +170,7 @@ const tree1 = {
   }
   ```
 
-### [@22m40s](https://youtu.be/-9h9f600Q3Y?t=22m40s): PRINCIPLE #3
+## [@22m40s](https://youtu.be/-9h9f600Q3Y?t=22m40s): PRINCIPLE #3
 #### 3. Whenever a CONSTRUCTOR FUNCTION is used, `this` refers to the "SPECIFIC INSTANCE OF THE OBJECT" that is created and returned by the constructor function.
   3b. ...
 
@@ -205,7 +200,7 @@ const tree1 = {
   barney.sayName();
   ```
 
-### [@36m22s](https://youtu.be/-9h9f600Q3Y?t=36m22s): PRINCIPLE #4
+## [@36m22s](https://youtu.be/-9h9f600Q3Y?t=36m22s): PRINCIPLE #4
 #### 4. Whenever JavaScript's CALL OR APPLY method is used, `this` is EXPLICITLY DEFINED.
   4a.
   ```js
@@ -220,9 +215,9 @@ This is evident by looking at the name property logged to the console by each in
 
 ***
 
-## Lecture 2 @~4:50pm
-### this.js HOMEWORK REVIEW
-- LECTURE VIDEO: https://youtu.be/LtW4eEK39SE
+## [3rd Lecture](https://youtu.be/LtW4eEK39SE): w/Ryan Hamblin - this.js HOMEWORK REVIEW
+- NOTE: blocked out video/AUDIO ONLY
+- `class()`, `bind()`, & `apply()`
 - Constructor functions
 - abstraction of Prototypes
 - Classes
@@ -236,4 +231,4 @@ This is evident by looking at the name property logged to the console by each in
 
 OOOH ADD That I am in Lambda University to LinkedIn!!!!!!!!!!!!!!!
 Also, start a blog - ONLINE PRESENCE
-Maybe it's time to twitter
+Maybe it's time to twitter... ?
