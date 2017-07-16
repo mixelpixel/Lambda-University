@@ -114,16 +114,105 @@ Code Challenge #5: https://github.com/ryanhca/CS1-Code-Challenges "Even Occurenc
 
 ***
 
+
 ## Week 03: July 17 - 21
+### Day 10: Monday, July 17
+### [DAY # NOTES](Week02/Day09/README.md)
+Code Challenge #?: https://github.com/ryanhca/CS1-Code-Challenges "NAME???"
+#### [1st Lecture](NO_VIDEO_POSTED) w/Speaker: topic
+#### [2nd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
+#### [3rd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
+
+
+### Day 11: Tuesday, July 18
+### [DAY # NOTES](Week02/Day09/README.md)
+Code Challenge #?: https://github.com/ryanhca/CS1-Code-Challenges "NAME???"
+#### [1st Lecture](NO_VIDEO_POSTED) w/Speaker: topic
+#### [2nd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
+#### [3rd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
+
+
+### Day 12: Wednesday, July 19
+### [DAY # NOTES](Week02/Day09/README.md)
+Code Challenge #?: https://github.com/ryanhca/CS1-Code-Challenges "NAME???"
+#### [1st Lecture](NO_VIDEO_POSTED) w/Speaker: topic
+#### [2nd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
+#### [3rd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
+
+
+### Day 13: Thursday, July 20
+### [DAY # NOTES](Week02/Day09/README.md)
+Code Challenge #?: https://github.com/ryanhca/CS1-Code-Challenges "NAME???"
+#### [1st Lecture](NO_VIDEO_POSTED) w/Speaker: topic
+#### [2nd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
+#### [3rd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
+
+
+### Day 14: Friday, July 21
+### [DAY # NOTES](Week02/Day09/README.md)
+Code Challenge #?: https://github.com/ryanhca/CS1-Code-Challenges "NAME???"
+#### [1st Lecture](NO_VIDEO_POSTED) w/Speaker: topic
+#### [2nd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
+#### [3rd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
+
 
 ***
 
+
 ## Week 04: July 24 - 28
+### Day ##: WEEKday, July ##
+### [DAY # NOTES](Week02/Day09/README.md)
+Code Challenge #?: https://github.com/ryanhca/CS1-Code-Challenges "NAME???"
+#### [1st Lecture](NO_VIDEO_POSTED) w/Speaker: topic
+#### [2nd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
+#### [3rd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
+
+
+### Day ##: WEEKday, July ##
+### [DAY # NOTES](Week02/Day09/README.md)
+Code Challenge #?: https://github.com/ryanhca/CS1-Code-Challenges "NAME???"
+#### [1st Lecture](NO_VIDEO_POSTED) w/Speaker: topic
+#### [2nd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
+#### [3rd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
+
+
+### Day ##: WEEKday, July ##
+### [DAY # NOTES](Week02/Day09/README.md)
+Code Challenge #?: https://github.com/ryanhca/CS1-Code-Challenges "NAME???"
+#### [1st Lecture](NO_VIDEO_POSTED) w/Speaker: topic
+#### [2nd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
+#### [3rd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
+
+
+### Day ##: WEEKday, July ##
+### [DAY # NOTES](Week02/Day09/README.md)
+Code Challenge #?: https://github.com/ryanhca/CS1-Code-Challenges "NAME???"
+#### [1st Lecture](NO_VIDEO_POSTED) w/Speaker: topic
+#### [2nd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
+#### [3rd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
+
+
+### Day ##: WEEKday, July ##
+### [DAY # NOTES](Week02/Day09/README.md)
+Code Challenge #?: https://github.com/ryanhca/CS1-Code-Challenges "NAME???"
+#### [1st Lecture](NO_VIDEO_POSTED) w/Speaker: topic
+#### [2nd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
+#### [3rd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
+
 
 ***
 
 # Month 2: August, 2017
 ## Week 05: July 31 - August 4
+### Day ##: WEEKday, July ##
+### [DAY # NOTES](Week02/Day09/README.md)
+Code Challenge #?: https://github.com/ryanhca/CS1-Code-Challenges "NAME???"
+#### [1st Lecture](NO_VIDEO_POSTED) w/Speaker: topic
+#### [2nd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
+#### [3rd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
+
+***
+
 ## Week 06: Aug. 7 - 11
 ## Week 07: Aug. 14 - 18
 ## Week 08: Aug. 21 - 25
@@ -167,22 +256,25 @@ Code Challenge #5: https://github.com/ryanhca/CS1-Code-Challenges "Even Occurenc
 #### Lambda Uuniversity:
 - Lambda University's Google Calendar [Invite](https://www.google.com/calendar/render?cid=bGFtYmRhc2Nob29sLmNvbV81dmJxNzByMWpnOG5kdmQxNGJoYTVzbWJqY0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&invEmailKey=mixelpix@mac.com:84d4f84c0778cc54f71761d34d12b62c328804d5)
 - Tyge Johnson's Collection of Lecture [videos](https://docs.google.com/spreadsheets/d/1vkjyltR9gWK2Qsq3azn8nUuqXuGV7xa8tNxOSpmZ0Ag/edit#gid=0)
+- "[Cracking the Coding Interview](http://www.crackingthecodinginterview.com/)" by Gayle Laakmann McDowell
 
 #### LSPro lectures:
 - [Callbacks](https://youtu.be/qxURd9khNgU)
 
 #### Unsorted
+- Mozilla JavaScript Reference: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 - [You Don't Know JS!](https://github.com/getify/You-Dont-Know-JS)
-- Ryan Sherill's [Extra Resources list](https://docs.google.com/document/d/1y5B_glCrLRo8Vnu93QMKjFrfAN3a-GFPzgGz76rTTIQ/edit)
+- Data Structures and Algorithms with JavaScript by Michael McMillan (posted to Slack channel)
+- Closure vids
+	- https://www.youtube.com/watch?v=CQqwU2Ixu-U
+	- https://www.youtube.com/watch?v=USgVMIIT0ik
 - Text Editors / IDE's
 	- [Atom](https://atom.io/)
 	- [Sublime Text](https://www.sublimetext.com/)
 	- [Visual Studio](https://code.visualstudio.com)
 - Zoom for meetings: https://zoom.us/j/858115322
 - class polling: https://b.socrative.com/student/
-- Closure vids
-	- https://www.youtube.com/watch?v=CQqwU2Ixu-U
-	- https://www.youtube.com/watch?v=USgVMIIT0ik
+- Ryan Sherill's [Extra Resources list](https://docs.google.com/document/d/1y5B_glCrLRo8Vnu93QMKjFrfAN3a-GFPzgGz76rTTIQ/edit)
 - [AirBnB Style guide](https://github.com/airbnb/javascript#control-statements)
 - [Underscorejs](http://underscorejs.org/)
 	- http://underscorejs.org/underscore.js
@@ -193,16 +285,16 @@ Code Challenge #5: https://github.com/ryanhca/CS1-Code-Challenges "Even Occurenc
 - JS sandboxes online
 	- https://jsbin.com/
 	- https://jsfiddle.net)
-- Mozilla JavaScript Reference: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+- https://jsperf.com/ to TEST & COMPARE CODE PERFORMANCE
+
+#### Computer Science
+- BIG O NOTATION
+	- http://bigocheatsheet.com/
+	- https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/
+- DOM & Web Browsers:
+	- ["How browsers work internally" by Tali Garsiel (~30min)](https://vimeo.com/44182484)
+	- ["How Browsers Work: Behind the scenes of modern web browsers" by By Tali Garsiel and Paul Irish](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
 - Some old school b.g. reading:
 	- [Assembly Language Programming](https://archive.org/stream/8080a8085AssemblyLanguageProgramming/Leventhal-8080a-8085AssemblyLanguageProgramming)
 	- [An Introduction To Microcomputers Volume 0](https://archive.org/stream/AnIntroductionToMicrocomputersVolume0/Osborne-AnIntroductionToMicrocomputersVolume0)
 	- [An Introduction To Microprocessors Volume 1](https://archive.org/stream/AnIntroductionToMicroprocessorsVolume1/Osborne-AnIntroductionToMicroprocessorsVolume1)
-- BIG O NOTATION
-	- http://bigocheatsheet.com/
-	- https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/
-- Data Structures and Algorithms with JavaScript by Michael McMillan (posted to Slack channel)
-- https://jsperf.com/ to TEST & COMPARE CODE PERFORMANCE
-- DOM & Web Browsers:
-	- ["How browsers work internally" by Tali Garsiel (~30min)](https://vimeo.com/44182484)
-	- ["How Browsers Work: Behind the scenes of modern web browsers" by By Tali Garsiel and Paul Irish](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
