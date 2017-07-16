@@ -257,6 +257,7 @@ Code Challenge #?: https://github.com/ryanhca/CS1-Code-Challenges "NAME???"
 - Lambda University's Google Calendar [Invite](https://www.google.com/calendar/render?cid=bGFtYmRhc2Nob29sLmNvbV81dmJxNzByMWpnOG5kdmQxNGJoYTVzbWJqY0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&invEmailKey=mixelpix@mac.com:84d4f84c0778cc54f71761d34d12b62c328804d5)
 - Tyge Johnson's Collection of Lecture [videos](https://docs.google.com/spreadsheets/d/1vkjyltR9gWK2Qsq3azn8nUuqXuGV7xa8tNxOSpmZ0Ag/edit#gid=0)
 - "[Cracking the Coding Interview](http://www.crackingthecodinginterview.com/)" by Gayle Laakmann McDowell
+	- https://github.com/careercup/CtCI-6th-Edition
 
 #### LSPro lectures:
 - [Callbacks](https://youtu.be/qxURd9khNgU)
