@@ -217,7 +217,34 @@ class HashTable {
 }
 ```
 
-## [42m48s](https://youtu.be/uGohVrgYrpQ?t=42m48s): reworking HASHING FUNCTION for extra credit
+### [@34m11s](https://youtu.be/uGohVrgYrpQ?t=34m11s): getIndexBelowMax
+- when we pass in a key, e.g. 'abc' it will return a number (the index)
+- the index is controlled by the limit (set to 8 in the HashTable constructor)
+- feeding an input of a variable length and output is within a fixed range`
+- getIndexBelowMax IS the _hashing function_
+- used to compute the index in the hash table
+- pass in the key and get the index where the value is stored
+
+```js
+const getIndexBelowMax = (str, max) => {
+  let hash = 0;
+  for (let i = 0; i < str.length; i++) {
+    hash = (hash << 5) + hash + str.charCodeAt(i);
+    hash = hash & hash;
+    hash = Math.abs(hash);
+  }
+  return hash % max;
+};
+
+const index = getIndexBelowMax('abc', 8);
+const index2 = getIndexBelowMax('dfdfkjb dlfahva ldfhl', 8);
+const index3 = getIndexBelowMax('there\'s always money in the banana stand', 8);
+console.log(index);  // <--- 6
+console.log(index2); // <--- 7
+console.log(index3); // <--- 2
+```
+
+## [@42m48s](https://youtu.be/uGohVrgYrpQ?t=42m48s): reworking HASHING FUNCTION for extra credit
 
 ```js
 const { LimitedArray, getIndexBelowMax } = require('./hash-table-helpers');
