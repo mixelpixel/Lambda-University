@@ -10,3 +10,6 @@
 [submodule "LS-Data-Structures-II"]
 	path = LS-Data-Structures-II
 	url = https://github.com/mixelpixel/LS-Data-Structures-II.git
+[submodule "LS-DOM"]
+	path = LS-DOM
+	url = https://github.com/mixelpixel/LS-DOM.git
