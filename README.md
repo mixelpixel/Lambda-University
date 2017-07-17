@@ -117,15 +117,15 @@ Code Challenge #5: https://github.com/ryanhca/CS1-Code-Challenges "Even Occurenc
 
 ## Week 03: July 17 - 21
 ### Day 10: Monday, July 17
-### [DAY 10 NOTES](Week02/Day10/README.md)
+### [DAY 10 NOTES](Week03/Day10/README.md)
 Code Challenge 6: https://github.com/ryanhca/CS1-Code-Challenges "CallBack Practice"
 #### [1st Lecture](NO_VIDEO_POSTED) w/Tai The Thai: Code Challenge #5 review evenOccurences
-#### [2nd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
-#### [3rd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
+#### 2nd Lecture w/Sean Chen: Sprint Review - Data Structures II - NO VIDEO RECORDED
+#### [3nd Lecture](NO_VIDEO_POSTED) w/Sean Chen: Data Structures II - Tree, Binary Search Tree, Graph
 
 
 ### Day 11: Tuesday, July 18
-### [DAY 11 NOTES](Week02/Day11/README.md)
+### [DAY 11 NOTES](Week03/Day11/README.md)
 Code Challenge #?: https://github.com/ryanhca/CS1-Code-Challenges "NAME???"
 #### [1st Lecture](NO_VIDEO_POSTED) w/Speaker: topic
 #### [2nd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
@@ -133,7 +133,7 @@ Code Challenge #?: https://github.com/ryanhca/CS1-Code-Challenges "NAME???"
 
 
 ### Day 12: Wednesday, July 19
-### [DAY 12 NOTES](Week02/Day12/README.md)
+### [DAY 12 NOTES](Week03/Day12/README.md)
 Code Challenge #?: https://github.com/ryanhca/CS1-Code-Challenges "NAME???"
 #### [1st Lecture](NO_VIDEO_POSTED) w/Speaker: topic
 #### [2nd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
@@ -141,7 +141,7 @@ Code Challenge #?: https://github.com/ryanhca/CS1-Code-Challenges "NAME???"
 
 
 ### Day 13: Thursday, July 20
-### [DAY13 NOTES](Week02/Day13/README.md)
+### [DAY 13 NOTES](Week03/Day13/README.md)
 Code Challenge #?: https://github.com/ryanhca/CS1-Code-Challenges "NAME???"
 #### [1st Lecture](NO_VIDEO_POSTED) w/Speaker: topic
 #### [2nd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
@@ -149,7 +149,7 @@ Code Challenge #?: https://github.com/ryanhca/CS1-Code-Challenges "NAME???"
 
 
 ### Day 14: Friday, July 21
-### [DAY 14 NOTES](Week02/Day14/README.md)
+### [DAY 14 NOTES](Week03/Day14/README.md)
 Code Challenge #?: https://github.com/ryanhca/CS1-Code-Challenges "NAME???"
 #### [1st Lecture](NO_VIDEO_POSTED) w/Speaker: topic
 #### [2nd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
