@@ -10,7 +10,7 @@ GUEST LECTURER
 - VIDEO RECORDED
 # 2nd Lecture w/Sean Chen: Sprint Review - Data Structures II
 - NO VIDEO RECORDED
-# [2nd Lecture](URL) w/Sean Chen: Data Structures II - Tree, Binary Search Tree, Graph
+# [2nd Lecture](URL) w/Sean Chen: Data Structures II - Tree, Binary Search Tree & Graph
 - VIDEO RECORDED
 - Solutions available in the solutions branch on GitHub.
 - In the GitHub URL note that this a GitHub "tree" not just the "tree.js" solution
