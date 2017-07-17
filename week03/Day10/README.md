@@ -4,15 +4,14 @@
 Ben Nelson
 Ryna Hamblin
 Tai The Thai
+Sean Chen
 GUEST LECTURER
-# [1st Lecture](URL) w/Speaker: Code Challenge #5 review evenOccurences
+# [1st Lecture](URL) w/Tai The Thai: Code Challenge #5 review evenOccurences
+- VIDEO RECORDED
+# [2nd Lecture](URL) w/Sean Chen: Sprint Review - Data Structures II
 
 ***
 # LUNCH
-***
-
-# [2nd Lecture](URL) w/Speaker: topic
-
 ***
 
 # [3rd Lecture](URL) w/Speaker: topic
