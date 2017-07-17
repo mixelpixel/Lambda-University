@@ -1,10 +1,7 @@
 # Lambda University - July 14, 2017: Day 009, Friday
 ## Coding Challenge #5
 - "evenOccurences" available in https://github.com/ryanhca/CS1-Code-Challenges
-- Ben Nelson
-- Ryna Hamblin
-- Tai The Thai
-- GUEST LECTURER
+
 # [1st Lecture](https://youtu.be/F0y2sJHQzzs) w/Ryan Hamblin: Code Challenge #4 review: largestPrimePalindrome & Coercion == vs. ===
 - Coercion: https://github.com/getify/You-Dont-Know-JS/blob/master/types%20%26%20grammar/ch4.md
 
