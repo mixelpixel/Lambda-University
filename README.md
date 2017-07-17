@@ -117,7 +117,7 @@ Code Challenge #5: https://github.com/ryanhca/CS1-Code-Challenges "Even Occurenc
 
 ## Week 03: July 17 - 21
 ### Day 10: Monday, July 17
-### [DAY # NOTES](Week02/Day09/README.md)
+### [DAY 10 NOTES](Week02/Day10/README.md)
 Code Challenge #?: https://github.com/ryanhca/CS1-Code-Challenges "NAME???"
 #### [1st Lecture](NO_VIDEO_POSTED) w/Speaker: topic
 #### [2nd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
@@ -125,7 +125,7 @@ Code Challenge #?: https://github.com/ryanhca/CS1-Code-Challenges "NAME???"
 
 
 ### Day 11: Tuesday, July 18
-### [DAY # NOTES](Week02/Day09/README.md)
+### [DAY 11 NOTES](Week02/Day11/README.md)
 Code Challenge #?: https://github.com/ryanhca/CS1-Code-Challenges "NAME???"
 #### [1st Lecture](NO_VIDEO_POSTED) w/Speaker: topic
 #### [2nd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
@@ -133,7 +133,7 @@ Code Challenge #?: https://github.com/ryanhca/CS1-Code-Challenges "NAME???"
 
 
 ### Day 12: Wednesday, July 19
-### [DAY # NOTES](Week02/Day09/README.md)
+### [DAY 12 NOTES](Week02/Day12/README.md)
 Code Challenge #?: https://github.com/ryanhca/CS1-Code-Challenges "NAME???"
 #### [1st Lecture](NO_VIDEO_POSTED) w/Speaker: topic
 #### [2nd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
@@ -141,7 +141,7 @@ Code Challenge #?: https://github.com/ryanhca/CS1-Code-Challenges "NAME???"
 
 
 ### Day 13: Thursday, July 20
-### [DAY # NOTES](Week02/Day09/README.md)
+### [DAY13 NOTES](Week02/Day13/README.md)
 Code Challenge #?: https://github.com/ryanhca/CS1-Code-Challenges "NAME???"
 #### [1st Lecture](NO_VIDEO_POSTED) w/Speaker: topic
 #### [2nd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
@@ -149,7 +149,7 @@ Code Challenge #?: https://github.com/ryanhca/CS1-Code-Challenges "NAME???"
 
 
 ### Day 14: Friday, July 21
-### [DAY # NOTES](Week02/Day09/README.md)
+### [DAY 14 NOTES](Week02/Day14/README.md)
 Code Challenge #?: https://github.com/ryanhca/CS1-Code-Challenges "NAME???"
 #### [1st Lecture](NO_VIDEO_POSTED) w/Speaker: topic
 #### [2nd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
