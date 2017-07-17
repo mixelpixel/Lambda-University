@@ -1,5 +1,5 @@
 # Lambda University - July 17, 2017: Day 010, Monday
-## Coding Challenge #?
+## Coding Challenge 6?
 - "????" available in https://github.com/ryanhca/CS1-Code-Challenges
 Ben Nelson
 Ryna Hamblin
