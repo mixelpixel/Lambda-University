@@ -118,8 +118,8 @@ Code Challenge #5: https://github.com/ryanhca/CS1-Code-Challenges "Even Occurenc
 ## Week 03: July 17 - 21
 ### Day 10: Monday, July 17
 ### [DAY 10 NOTES](Week02/Day10/README.md)
-Code Challenge #?: https://github.com/ryanhca/CS1-Code-Challenges "NAME???"
-#### [1st Lecture](NO_VIDEO_POSTED) w/Speaker: Code Challenge # review evenOccurences
+Code Challenge #?: https://github.com/ryanhca/CS1-Code-Challenges "CallBack Practice"
+#### [1st Lecture](NO_VIDEO_POSTED) w/Speaker: Code Challenge #5 review evenOccurences
 #### [2nd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
 #### [3rd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
 
