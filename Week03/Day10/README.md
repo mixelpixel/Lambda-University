@@ -68,6 +68,12 @@ html, body{
 ```
 
 -PADDING affects elements inside, MARGIN outside the element
+-pseudo selectors, nth-child, etc CSS3 magic
+
+
+## JS
+- ES6 should work, if not, try ES5
+
 
 ***
 
