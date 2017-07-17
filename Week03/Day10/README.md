@@ -14,7 +14,7 @@ GUEST LECTURER
 - VIDEO RECORDED
 - Solutions available in the solutions branch on GitHub.
 - In the GitHub URL note that this a GitHub "tree" not just the "tree.js" solution
--                                                     vvvv
+- ____________________________________________________vvvv
 - https://github.com/SunJieMing/LS-Data-Structures-II/tree/solution
 
 ***
