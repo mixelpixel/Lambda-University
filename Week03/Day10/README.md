@@ -1,17 +1,18 @@
 # Lambda University - July 17, 2017: Day 010, Monday
 ## Coding Challenge 6
 - "CallBack Practice" available in https://github.com/ryanhca/CS1-Code-Challenges
-Ben Nelson
-Ryna Hamblin
-Tai The Thai
-Sean Chen
-GUEST LECTURER
+
 # [1st Lecture](URL) w/Tai The Thai: Code Challenge #5 review evenOccurences
 - VIDEO RECORDED
-# 2nd Lecture w/Sean Chen: Sprint Review - Data Structures II
-- NO VIDEO RECORDED
-# [2nd Lecture](URL) w/Sean Chen: Data Structures II - Tree, Binary Search Tree & Graph
-- VIDEO RECORDED
+
+***
+
+# 2nd Lecture w/Sean Chen: Class Review of Data Structures II
+- NO VIDEO RECORDED, anonymous class comments on Pair Prog 2
+
+***
+
+# [3rd Lecture](https://youtu.be/a7qTzbUVVsY) w/Sean Chen: Data Structures II Solutions - Tree, Binary Search Tree & Graph
 - Solutions available in the solutions branch on GitHub.
 - In the GitHub URL note that this a GitHub "tree" not just the "tree.js" solution
 - _________________________________________________________vvvv
@@ -21,7 +22,8 @@ GUEST LECTURER
 # LUNCH
 ***
 
-# [3rd Lecture](URL) w/Ryan Hamblin: DOM Sprint
+# [4th Lecture](URL) w/Ryan Hamblin: DOM Sprint for Pair Programming #3
+### [Pair Programming #3 - LS-DOM](https://github.com/ryanhca/LS-DOM.git)
 - JavaScript history: how to deal with the DOM (backinnaday)
 - Brendan Ike dubbed it (partly because Java was severside)
 - Document Object Model
@@ -70,15 +72,12 @@ html, body{
 -PADDING affects elements inside, MARGIN outside the element
 -pseudo selectors, nth-child, etc CSS3 magic
 
-
 ## JS
 - ES6 should work, if not, try ES5
-
 
 ***
 
 # [4th Lecture](URL) w/Speaker: topic
-
 # Sprint / Q&A
 
 ***
