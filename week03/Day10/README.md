@@ -8,7 +8,14 @@ Sean Chen
 GUEST LECTURER
 # [1st Lecture](URL) w/Tai The Thai: Code Challenge #5 review evenOccurences
 - VIDEO RECORDED
-# [2nd Lecture](URL) w/Sean Chen: Sprint Review - Data Structures II
+# 2nd Lecture w/Sean Chen: Sprint Review - Data Structures II
+- NO VIDEO RECORDED
+# [2nd Lecture](URL) w/Sean Chen: Data Structures II - Tree, Binary Search Tree, Graph
+- VIDEO RECORDED
+- Solutions available in the solutions branch on GitHub.
+- In the GitHub URL note that this a GitHub "tree" not just the "tree.js" solution
+-                                                     vvvv
+- https://github.com/SunJieMing/LS-Data-Structures-II/tree/solution
 
 ***
 # LUNCH
