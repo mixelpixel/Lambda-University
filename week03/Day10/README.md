@@ -5,7 +5,7 @@ Ben Nelson
 Ryna Hamblin
 Tai The Thai
 GUEST LECTURER
-# [1st Lecture](URL) w/Speaker: Code Challenge # review
+# [1st Lecture](URL) w/Speaker: Code Challenge # review evenOccurences
 
 ***
 # LUNCH
