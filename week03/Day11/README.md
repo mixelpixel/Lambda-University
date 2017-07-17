@@ -4,6 +4,7 @@
 Ben Nelson
 Ryna Hamblin
 Tai The Thai
+Sean Chen
 GUEST LECTURER
 # [1st Lecture](URL) w/Speaker: Code Challenge # review
 
