@@ -1,0 +1,19 @@
+html, body{
+  margin: 0;
+  height: 100%;
+  width: 100%;
+  background-color: yellowgreen;
+}
+
+.wrapper-div {
+  background-color: salmon;
+  height: 700px;
+  width: 500px;
+  margin: 2rem;
+}
+
+h1{
+  margin: 0 auto;
+  padding: 100px;
+  align-content: center;
+}
