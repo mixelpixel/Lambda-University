@@ -21,7 +21,53 @@ GUEST LECTURER
 # LUNCH
 ***
 
-# [3rd Lecture](URL) w/Speaker: topic
+# [3rd Lecture](URL) w/Ryan Hamblin: DOM Sprint
+- JavaScript history: how to deal with the DOM (backinnaday)
+- Brendan Ike dubbed it (partly because Java was severside)
+- Document Object Model
+  - object oriented model which refers to documents (files)
+  - reading files and turning them into web pages
+  - DOM createss a big ol' tree.
+- the DOM reads in HTML/CSS/JS and spits out the web page HTML tree.
+- React works in a "virtual DOM"
+- in the DOM the "nodes" are the ELEMENTS
+- ELEMENTS have attributes which get assigned value:pair mapping
+## using `python -m SimpleHTTPServer` from within the directory to display the webpage
+
+```html
+<!DOCTYPE html>
+<html>
+  <head> <!-- This is where stuff lives which does NOT get displayed to the user -->
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+  </body>
+</html>
+```
+
+- head and body are "SIBLING ELEMENTS" & html their parent
+- ! means important. ! with -- --, anything between the -- -- is ignored!
+- HTML is layout/architecture/foundation, CSS is painting, placement of furniture, art on the walls, JS is the electricity in the house
+
+## CSS Box Model Principle
+- semantic markup: naming things what they are
+
+```css
+html, body{
+  margin: 0;
+  height: 100%;
+  width: 100%;
+  background-color: yellowgreen;
+}
+
+.wrapper-div {
+  background-color: salmon;
+  height: 700px;
+  width: 500px;
+}
+```
+
+-PADDING affects elements inside, MARGIN outside the element
 
 ***
 
