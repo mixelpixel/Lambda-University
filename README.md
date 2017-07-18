@@ -290,6 +290,7 @@ Code Challenge #?: https://github.com/ryanhca/CS1-Code-Challenges "NAME???"
 	- https://jsbin.com/
 	- https://jsfiddle.net)
 - https://jsperf.com/ to TEST & COMPARE CODE PERFORMANCE
+- [FLEXBOX](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 #### Computer Science
 - BIG O NOTATION
