@@ -119,7 +119,7 @@ Code Challenge #5: https://github.com/ryanhca/CS1-Code-Challenges "Even Occurenc
 ### Day 10: Monday, July 17
 ### [DAY 10 NOTES](Week03/Day10/README.md)
 Code Challenge #6: https://github.com/ryanhca/CS1-Code-Challenges "CallBack Practice"
-#### [1st Lecture](NO_VIDEO_POSTED) w/Tai The Thai: Code Challenge #5 review evenOccurences
+#### [1st Lecture](https://youtu.be/GPLF6kWI2KY) w/Tai The Thai: Code Challenge #5 review evenOccurences
 #### 2nd Lecture w/Sean Chen: Class Poll/Review - Data Structures II (NO VIDEO RECORDED)
 #### [3rd Lecture](https://youtu.be/a7qTzbUVVsY) w/Sean Chen: Data Structures II Solutions - Tree, Binary Search Tree & Graph
 #### [4th Lecture](NO_VIDEO_POSTED) w/Ryan Hamblin: Sprint for DOM Pair Programming #3
