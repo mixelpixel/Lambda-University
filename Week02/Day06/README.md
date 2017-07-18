@@ -39,7 +39,7 @@ const longstr = (arr) => {
 ```
 
 ***
-# LUNCH
+#### LUNCH
 ***
 
 # [2nd Lecture](https://youtu.be/bAkjh-jZY8M): w/Ryan Hamblin - Brown Bag: Visual Studio & IDE shortcuts
