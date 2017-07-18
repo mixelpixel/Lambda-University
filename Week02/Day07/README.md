@@ -61,7 +61,7 @@ const isUnique = (str) => {
 - like arrays with unique values only and curly braces {}
 
 ***
-# LUNCH
+#### LUNCH
 ***
 
 # [3rd Lecture](https://youtu.be/uGohVrgYrpQ) w/Ben Nelson: Solutions to Data Structures I:
