@@ -6,13 +6,15 @@ Ryna Hamblin
 Tai The Thai
 Sean Chen
 GUEST LECTURER
-# [1st Lecture](URL) w/Speaker: Code Challenge #6 review - callbackPractice
+# [1st Lecture](https://youtu.be/LJLl7v3UUJo) w/Tai The Thai: Code Challenge #6 review - callbackPractice
+- VIDEO RECORDED
+# [2nd Lecture](https://youtu.be/lD7CnIM21T4) w/Tai The Thai: Object[key: value] review
+- VIDEO RECORDED
 
 ***
 # LUNCH
 ***
 
-# [2nd Lecture](URL) w/Speaker: topic
 
 ***
 
