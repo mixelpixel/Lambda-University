@@ -35,7 +35,7 @@ console.log(largestPrimePalindrome());
 ```
 
 ***
-# LUNCH
+### LUNCH
 ***
 
 # [2nd Lecture](NO_VIDEO_POSTED) w/Ryan Hamblin: Brown Bag
