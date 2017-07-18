@@ -7,21 +7,13 @@ Tai The Thai
 Sean Chen
 GUEST LECTURER
 # [1st Lecture](https://youtu.be/LJLl7v3UUJo) w/Tai The Thai: Code Challenge #6 review - callbackPractice
-- VIDEO RECORDED
 # [2nd Lecture](https://youtu.be/lD7CnIM21T4) w/Tai The Thai: Object[key: value] review
-- VIDEO RECORDED
-
 ***
 # LUNCH
 ***
-
-
-***
+# [Brown Bag](URL) w/Tyge Johnson: topic
 
 # [3rd Lecture](URL) w/Speaker: topic
-
-***
-
 # [4th Lecture](URL) w/Speaker: topic
 
 # Sprint / Q&A
