@@ -15,8 +15,6 @@ GUEST LECTURER
 # [Brown Bag](URL) w/Tyge Johnson: "Adult Learning"
 - VIDEO_RECORDED
 # [3rd Lecture](URL) w/Speaker: topic
-# [4th Lecture](URL) w/Speaker: topic
-
 # Sprint / Q&A
 
 ***
