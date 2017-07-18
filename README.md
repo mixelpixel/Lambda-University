@@ -118,9 +118,9 @@ Code Challenge #5: https://github.com/ryanhca/CS1-Code-Challenges "Even Occurenc
 ## Week 03: July 17 - 21
 ### Day 10: Monday, July 17
 ### [DAY 10 NOTES](Week03/Day10/README.md)
-Code Challenge 6: https://github.com/ryanhca/CS1-Code-Challenges "CallBack Practice"
+Code Challenge #6: https://github.com/ryanhca/CS1-Code-Challenges "CallBack Practice"
 #### [1st Lecture](NO_VIDEO_POSTED) w/Tai The Thai: Code Challenge #5 review evenOccurences
-#### 2nd Lecture w/Sean Chen: Class Review - Data Structures II - NO VIDEO RECORDED
+#### 2nd Lecture w/Sean Chen: Class Poll/Review - Data Structures II (NO VIDEO RECORDED)
 #### [3rd Lecture](https://youtu.be/a7qTzbUVVsY) w/Sean Chen: Data Structures II Solutions - Tree, Binary Search Tree & Graph
 #### [4th Lecture](NO_VIDEO_POSTED) w/Ryan Hamblin: Sprint for DOM Pair Programming #3
 Pair Programming #3: https://github.com/ryanhca/LS-DOM.git
@@ -129,15 +129,16 @@ Pair Programming #3: https://github.com/ryanhca/LS-DOM.git
 
 ### Day 11: Tuesday, July 18
 ### [DAY 11 NOTES](Week03/Day11/README.md)
-Code Challenge #?: https://github.com/ryanhca/CS1-Code-Challenges "NAME???"
-#### [1st Lecture](NO_VIDEO_POSTED) w/Speaker: topic
+Code Challenge #7: https://github.com/ryanhca/CS1-Code-Challenges "NAME???"
+#### [Brown Bag](NO_VIDEO_POSTED) w/Tyge Johnson: Adult learning Theories
+#### [1st Lecture](NO_VIDEO_POSTED) w/Tai The Thai: Code Challenge #6 review callbackPractice
 #### [2nd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
 #### [3rd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
 
 
 ### Day 12: Wednesday, July 19
 ### [DAY 12 NOTES](Week03/Day12/README.md)
-Code Challenge #?: https://github.com/ryanhca/CS1-Code-Challenges "NAME???"
+Code Challenge #8: https://github.com/ryanhca/CS1-Code-Challenges "NAME???"
 #### [1st Lecture](NO_VIDEO_POSTED) w/Speaker: topic
 #### [2nd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
 #### [3rd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
@@ -145,7 +146,7 @@ Code Challenge #?: https://github.com/ryanhca/CS1-Code-Challenges "NAME???"
 
 ### Day 13: Thursday, July 20
 ### [DAY 13 NOTES](Week03/Day13/README.md)
-Code Challenge #?: https://github.com/ryanhca/CS1-Code-Challenges "NAME???"
+Code Challenge #9: https://github.com/ryanhca/CS1-Code-Challenges "NAME???"
 #### [1st Lecture](NO_VIDEO_POSTED) w/Speaker: topic
 #### [2nd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
 #### [3rd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
@@ -153,7 +154,7 @@ Code Challenge #?: https://github.com/ryanhca/CS1-Code-Challenges "NAME???"
 
 ### Day 14: Friday, July 21
 ### [DAY 14 NOTES](Week03/Day14/README.md)
-Code Challenge #?: https://github.com/ryanhca/CS1-Code-Challenges "NAME???"
+Code Challenge #10: https://github.com/ryanhca/CS1-Code-Challenges "NAME???"
 #### [1st Lecture](NO_VIDEO_POSTED) w/Speaker: topic
 #### [2nd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
 #### [3rd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
@@ -296,6 +297,7 @@ Code Challenge #?: https://github.com/ryanhca/CS1-Code-Challenges "NAME???"
 	- http://bigocheatsheet.com/
 	- https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/
 - DOM & Web Browsers:
+	- https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction
 	- ["How browsers work internally" by Tali Garsiel (~30min)](https://vimeo.com/44182484)
 	- ["How Browsers Work: Behind the scenes of modern web browsers" by By Tali Garsiel and Paul Irish](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
 - Some old school b.g. reading:
