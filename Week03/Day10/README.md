@@ -22,7 +22,7 @@
 # LUNCH
 ***
 
-# [4th Lecture](URL) w/Ryan Hamblin: DOM Sprint for Pair Programming #3
+# [4th Lecture](https://youtu.be/BV83yPgDXBQ) w/Ryan Hamblin: DOM Sprint for Pair Programming #3
 ### [Pair Programming #3 - LS-DOM](https://github.com/ryanhca/LS-DOM.git)
 - READ THIS: https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction
 - JavaScript history: how to deal with the DOM (backinnaday)
