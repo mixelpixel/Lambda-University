@@ -24,6 +24,7 @@
 
 # [4th Lecture](URL) w/Ryan Hamblin: DOM Sprint for Pair Programming #3
 ### [Pair Programming #3 - LS-DOM](https://github.com/ryanhca/LS-DOM.git)
+- READ THIS: https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction
 - JavaScript history: how to deal with the DOM (backinnaday)
 - Brendan Ike dubbed it (partly because Java was severside)
 - Document Object Model
@@ -77,8 +78,14 @@ html, body{
 
 ***
 
-# [4th Lecture](URL) w/Speaker: topic
-# Sprint / Q&A
+# [4th Lecture](URL) w/Ben Nelson: Q&A
+- VIDEO RECORDED
+- DOM project: start with base HTML structure and layout, THEN move to HiFi
+- try and get to replicating button hover "animations" and using JavaScript
+- pointer, transparency with hovering
+- flexbox
+- do the navbar w/JS (drop down from Courses)
+- Navbar doesn't have fixed position but reappears as u scroll down
 
 ***
 
