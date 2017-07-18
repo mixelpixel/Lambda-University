@@ -5,6 +5,7 @@ Ben Nelson
 Ryna Hamblin
 Tai The Thai
 Sean Chen
+Emily Sperry
 GUEST LECTURER
 # [1st Lecture](https://youtu.be/LJLl7v3UUJo) w/Tai The Thai: Code Challenge #6 review - callbackPractice
 # [2nd Lecture](https://youtu.be/lD7CnIM21T4) w/Tai The Thai: Object[key: value] review
