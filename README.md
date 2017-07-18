@@ -128,17 +128,17 @@ Pair Programming #3: https://github.com/ryanhca/LS-DOM.git
 
 ### Day 11: Tuesday, July 18
 ### [DAY 11 NOTES](Week03/Day11/README.md)
-Code Challenge #7: https://github.com/ryanhca/CS1-Code-Challenges "NAME???"
+Code Challenge #7: https://github.com/ryanhca/CS1-Code-Challenges "For Loop Timeout()"
+#### [1st Lecture](https://youtu.be/LJLl7v3UUJo) w/Tai The Thai: Code Challenge #6 review callbackPractice
+#### [2nd Lecture](https://youtu.be/lD7CnIM21T4) w/Tai The Thai: Object[key: value] review
 #### [Brown Bag](NO_VIDEO_POSTED) w/Tyge Johnson: Adult learning Theories
-#### [1st Lecture](NO_VIDEO_POSTED) w/Tai The Thai: Code Challenge #6 review callbackPractice
-#### [2nd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
 #### [3rd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
 
 
 ### Day 12: Wednesday, July 19
 ### [DAY 12 NOTES](Week03/Day12/README.md)
 Code Challenge #8: https://github.com/ryanhca/CS1-Code-Challenges "NAME???"
-#### [1st Lecture](NO_VIDEO_POSTED) w/Speaker: topic
+#### [1st Lecture](NO_VIDEO_POSTED) w/Speaker: Code Challenge #7 review forLoopTimeout
 #### [2nd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
 #### [3rd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
 
