@@ -2,7 +2,7 @@
 ## Coding Challenge 6
 - "CallBack Practice" available in https://github.com/ryanhca/CS1-Code-Challenges
 
-# [1st Lecture](URL) w/Tai The Thai: Code Challenge #5 review evenOccurences
+# [1st Lecture](https://youtu.be/GPLF6kWI2KY) w/Tai The Thai: Code Challenge #5 review evenOccurences
 - VIDEO RECORDED
 
 ***
