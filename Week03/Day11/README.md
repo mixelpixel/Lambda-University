@@ -1,4 +1,4 @@
-# Lambda University - July 18, 2017: Day 010, Tuesday
+# Lambda University - July 18, 2017: Day 011, Tuesday
 ## Coding Challenge #7
 - "For Loop Timeout()" available in https://github.com/ryanhca/CS1-Code-Challenges
 Ben Nelson
