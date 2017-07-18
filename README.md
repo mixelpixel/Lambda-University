@@ -122,9 +122,8 @@ Code Challenge #6: https://github.com/ryanhca/CS1-Code-Challenges "CallBack Prac
 #### [1st Lecture](https://youtu.be/GPLF6kWI2KY) w/Tai The Thai: Code Challenge #5 review evenOccurences
 #### 2nd Lecture w/Sean Chen: Class Poll/Review - Data Structures II (NO VIDEO RECORDED)
 #### [3rd Lecture](https://youtu.be/a7qTzbUVVsY) w/Sean Chen: Data Structures II Solutions - Tree, Binary Search Tree & Graph
-#### [4th Lecture](NO_VIDEO_POSTED) w/Ryan Hamblin: Sprint for DOM Pair Programming #3
+#### [4th Lecture](https://youtu.be/BV83yPgDXBQ) w/Ryan Hamblin: Sprint for DOM Pair Programming #3
 Pair Programming #3: https://github.com/ryanhca/LS-DOM.git
-#### [5th Lecture](NO_VIDEO_POSTED) w/Speaker:
 
 
 ### Day 11: Tuesday, July 18
