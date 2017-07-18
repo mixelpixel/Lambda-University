@@ -1,12 +1,12 @@
 # Lambda University - July 18, 2017: Day 010, Tuesday
-## Coding Challenge #?
-- "????" available in https://github.com/ryanhca/CS1-Code-Challenges
+## Coding Challenge #7
+- "XYZ" available in https://github.com/ryanhca/CS1-Code-Challenges
 Ben Nelson
 Ryna Hamblin
 Tai The Thai
 Sean Chen
 GUEST LECTURER
-# [1st Lecture](URL) w/Speaker: Code Challenge # review
+# [1st Lecture](URL) w/Speaker: Code Challenge #6 review - callbackPractice
 
 ***
 # LUNCH
