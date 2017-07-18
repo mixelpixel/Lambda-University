@@ -7,7 +7,7 @@
 - https://jsperf.com/ Use for testing performance of code!
 
 ***
-# LUNCH
+#### LUNCH
 ***
 
 # [2nd Lecture](https://youtu.be/pCdtDj4NGpA) w/Ryan Hamblin: Brown Bag - tips and thoughts on using Slack!
