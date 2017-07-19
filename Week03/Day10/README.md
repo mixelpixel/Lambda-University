@@ -36,10 +36,15 @@
 - in the DOM the "nodes" are the ELEMENTS
 - ELEMENTS have attributes which get assigned value:pair mapping
 
-## [@5m30s](https://youtu.be/BV83yPgDXBQ?t=5m30s)
-- Using the Chrome JS console and element inspector to see the DOM nodes/elements
+## [@5m30s](https://youtu.be/BV83yPgDXBQ?t=5m30s) - Chrome Dev tools
+- Using the Chrome JS console and element inspector to see the DOM Tree nodes/elements
 
-## using `python -m SimpleHTTPServer` from within the directory to display the webpage
+## [@15m10s](https://youtu.be/BV83yPgDXBQ?t=15m10s) - Elements page
+- elements have attributes
+
+## [@20m11s](https://youtu.be/BV83yPgDXBQ?t=20m11s) - Building a webpage: HTML
+
+#### using `python -m SimpleHTTPServer` from within the directory to display the webpage
 
 ```html
 <!DOCTYPE html>
