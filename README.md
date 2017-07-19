@@ -298,11 +298,16 @@ Code Challenge #?: https://github.com/ryanhca/CS1-Code-Challenges "NAME???"
 - BIG O NOTATION
 	- http://bigocheatsheet.com/
 	- https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/
-- DOM & Web Browsers:
+- DOM & Web Browsers & HTML:
 	- https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction
 	- ["How browsers work internally" by Tali Garsiel (~30min)](https://vimeo.com/44182484)
 	- ["How Browsers Work: Behind the scenes of modern web browsers" by By Tali Garsiel and Paul Irish](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
-- Some old school b.g. reading:
+	- [HTML 5 Tutorial](http://www.html-5-tutorial.com/)
+- CSS
+	- CSS grid: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout
+	- http://www.csszengarden.com/
+
+#### Some old school b.g. reading:
 	- [Assembly Language Programming](https://archive.org/stream/8080a8085AssemblyLanguageProgramming/Leventhal-8080a-8085AssemblyLanguageProgramming)
 	- [An Introduction To Microcomputers Volume 0](https://archive.org/stream/AnIntroductionToMicrocomputersVolume0/Osborne-AnIntroductionToMicrocomputersVolume0)
 	- [An Introduction To Microprocessors Volume 1](https://archive.org/stream/AnIntroductionToMicroprocessorsVolume1/Osborne-AnIntroductionToMicroprocessorsVolume1)
