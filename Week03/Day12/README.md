@@ -6,7 +6,20 @@ Ryna Hamblin
 Tai The Thai
 Sean Chen
 GUEST LECTURER
-# [1st Lecture](URL) w/Speaker: Code Challenge #7 review - forLoopTimeout.js
+# [1st Lecture](VIDEO_RECORDED_NOT_YET_UPLOADED) w/Tai the Thai: Code Challenge #7 review - forLoopTimeout.js
+- CLOSURE: `let` has it's own closure
+- I.I.F.E.: Immediately Invoked Function Execution
+
+```js
+for (var i = 1; i <= 10; i++) {
+	(function(index) {
+    setTimeout(function() {console.log(index);}, 0);
+  }) (i);
+}
+```
+
+- let has it's own scoping each time
+- Synchronous and Asynchronous code intro: https://www.pluralsight.com/guides/front-end-javascript/introduction-to-asynchronous-javascript
 
 ***
 # LUNCH
