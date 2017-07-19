@@ -35,6 +35,10 @@
 - React works in a "virtual DOM"
 - in the DOM the "nodes" are the ELEMENTS
 - ELEMENTS have attributes which get assigned value:pair mapping
+
+## [@5m30s](https://youtu.be/BV83yPgDXBQ?t=5m30s)
+- Using the Chrome JS console and element inspector to see the DOM nodes/elements
+
 ## using `python -m SimpleHTTPServer` from within the directory to display the webpage
 
 ```html
