@@ -1,8 +1,8 @@
 # Lambda University - July 19, 2017: Day 012, Wednesday
 ## Coding Challenge #8
 - "Binary Search" available in https://github.com/ryanhca/CS1-Code-Challenges
-- 
-# [1st Lecture](VIDEO_RECORDED_NOT_YET_UPLOADED) w/Tai the Thai: Code Challenge #7 review - forLoopTimeout.js
+-
+# [1st Lecture](https://youtu.be/WVevuObf0Ak) w/Tai the Thai: Code Challenge #7 review - forLoopTimeout.js
 - CLOSURE: `let` has it's own closure
 - I.I.F.E.: Immediately Invoked Function Execution
 
