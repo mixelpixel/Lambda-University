@@ -292,6 +292,7 @@ Code Challenge #?: https://github.com/ryanhca/CS1-Code-Challenges "NAME???"
 - https://jsperf.com/ to TEST & COMPARE CODE PERFORMANCE
 - [FLEXBOX](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [SEMANTIC ELEMENTS]https://www.w3schools.com/html/html5_semantic_elements.asp
+- [Intro to Synchronous and Asynchronous code](https://www.pluralsight.com/guides/front-end-javascript/introduction-to-asynchronous-javascript)
 
 #### Computer Science
 - BIG O NOTATION
