@@ -13,3 +13,6 @@
 [submodule "LS-DOM"]
 	path = LS-DOM
 	url = https://github.com/mixelpixel/LS-DOM.git
+[submodule "LS-React-1"]
+	path = LS-React-1
+	url = https://github.com/mixelpixel/LS-React-1.git
