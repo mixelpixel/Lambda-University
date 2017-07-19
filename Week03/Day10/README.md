@@ -46,6 +46,23 @@
 
 #### [@21m13s](https://youtu.be/BV83yPgDXBQ?t=22m13s) `python -m SimpleHTTPServer`
 - invoke from within the directory (where th index.html file lives) to display the webpage on http://localhost:8000
+- DOM magic: with only a blank index.html file, the Chrome Element inspector will get the HTTP PROTOCOL from the SimpleHTTPServer which has the BASIC:
+
+```html
+<html>
+  <head></head>
+  <body></body>
+</html>
+```
+```css
+/* and some user agen stylesheet stuff */
+body {
+  display: block;
+  margin: 8px;
+}
+```
+
+- basic HTML setup for use with CSS
 
 ```html
 <!DOCTYPE html>
