@@ -1,6 +1,6 @@
 # Lambda University - July 19, 2017: Day 012, Wednesday
 ## Coding Challenge #8
-- "????" available in https://github.com/ryanhca/CS1-Code-Challenges
+- "Binary Search" available in https://github.com/ryanhca/CS1-Code-Challenges
 Ben Nelson
 Ryna Hamblin
 Tai The Thai
