@@ -1,4 +1,4 @@
-# Lambda University - July 20, 2017: Day 010, Thursday
+# Lambda University - July 20, 2017: Day 013, Thursday
 ## Coding Challenge #?
 - "????" available in https://github.com/ryanhca/CS1-Code-Challenges
 Ben Nelson
