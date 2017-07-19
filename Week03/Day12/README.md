@@ -18,13 +18,22 @@ for (var i = 1; i <= 10; i++) {
 - Synchronous and Asynchronous code intro: https://www.pluralsight.com/guides/front-end-javascript/introduction-to-asynchronous-javascript
 
 ***
-# LUNCH
+#### LUNCH
 ***
 
-# [2nd Lecture](URL) w/Speaker: Pair Programming 3 Solution
+# [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Pair Programming 3 Review
+- CSS grid: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout
+- Firefox devtools latest released was developed with React
+- http://www.csszengarden.com/
+- Mobile devices don't use CSS: w-what?????????
 
-***
+
 # [3rd Lecture](URL) w/Speaker: Pair Programming 4 Introduction: REACT
+
+
+
+
+
 ***
 # [4th Lecture](URL) w/Speaker: topic Review / Sprint / Q&A
 ***
