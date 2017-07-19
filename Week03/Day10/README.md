@@ -44,7 +44,8 @@
 
 ## [@20m11s](https://youtu.be/BV83yPgDXBQ?t=20m11s) - Building a webpage: HTML
 
-#### using `python -m SimpleHTTPServer` from within the directory to display the webpage
+#### [@21m13s](https://youtu.be/BV83yPgDXBQ?t=22m13s) `python -m SimpleHTTPServer`
+- invoke from within the directory (where th index.html file lives) to display the webpage on http://localhost:8000
 
 ```html
 <!DOCTYPE html>
@@ -60,6 +61,7 @@
 - head and body are "SIBLING ELEMENTS" & html their parent
 - ! means important. ! with -- --, anything between the -- -- is ignored!
 - HTML is layout/architecture/foundation, CSS is painting, placement of furniture, art on the walls, JS is the electricity in the house
+- NOTE camelCase, UpperCamelCase, snake_case, kebab-case :)
 
 ## CSS Box Model Principle
 - semantic markup: naming things what they are
