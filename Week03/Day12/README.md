@@ -54,10 +54,6 @@ for (var i = 1; i <= 10; i++) {
 - importing React and exporting the component
 
 
-
-
-
-
 - Virtual DOM built under the hood of React
 - Reacts engine knows what to do with this JSX and "TRANSPILES" it as JS
 - Each component can only return a single element!!!!!!!!!!
