@@ -16,7 +16,7 @@
 ##### [2nd Lecture](https://youtu.be/gaLr7_BMgD0): `this`, `.call()` `.apply()` & `.bind()`) and CLOSURE
 - Homework Assignment: https://github.com/SunJieMing/Advanced-JavaScript
 - Homework: https://github.com/mixelpixel/Advanced-JavaScript
-##### [3rd Lecture](NO_VIDEO_POSTED): `constructor` Class Functions, `for` LOOPS, `do` `while` LOOPS & RECURSION
+##### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED): `constructor` Class Functions, `for` LOOPS, `do` `while` LOOPS & RECURSION
 
 
 ### Day 02: Wednesday, July 5
@@ -37,7 +37,7 @@
 ##### [1st Lecture](https://youtu.be/KNpkIDV5Jj0): Homework 1 review: each, map, reduce, flatten & recursion"
 #### Ben Nelson lectures
 ##### [2nd Lecture](https://youtu.be/exSwdXfeBtI): Basic JS w/ES6 review & Q&A: variables, branching logic,  AirBnB style, Ternary, for loop, const v let, forEach, wordsToSentences problem
-##### [3rd Lecture](NO_VIDEO_POSTED): End of day review & Q&A
+##### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED): End of day review & Q&A
 
 
 ### Day 04: Friday, July 7
@@ -47,7 +47,7 @@
 #### Ryan Hamblin lectures
 ##### [2nd Lecture](https://youtu.be/-9h9f600Q3Y): `this` 4 RULES OF `this`
 ##### [3rd Lecture](https://youtu.be/LtW4eEK39SE):  "this.js" Homework review
-- NOTE: blocked out video/AUDIO ONLY
+- NOTE: some blocked out video/AUDIO OK
 ##### Closing sprint meeting (not recorded)
 
 
@@ -101,14 +101,14 @@ Pair Programming #2: https://github.com/manishavi/LS-Data-Structures-II.git star
 Code Challenge #4: https://github.com/ryanhca/CS1-Code-Challenges "Largest Prime Palindrome"
 #### [1st Lecture](https://youtu.be/JWNE9lsFcYg) w/Tai The Thai: Code Challenge #3 review: reverseCase
 #### [2nd Lecture](https://youtu.be/pCdtDj4NGpA) w/Ryan Hamblin: Brown Bag - tips and thoughts on using Slack!
-#### [3rd Lecture](NO_VIDEO_POSTED) w/Ben Nelson: Q&A
+#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ben Nelson: Q&A
 
 
 ### Day 09: Friday, July 14
 ### [DAY 9 NOTES](Week02/Day09/README.md)
 Code Challenge #5: https://github.com/ryanhca/CS1-Code-Challenges "Even Occurences"
 #### [1st Lecture](https://youtu.be/F0y2sJHQzzs) w/Ryan Hamblin: Code Challenge #4 review: longestPrimePalindrome & Coercion == vs. ===
-#### [2nd Lecture](NO_VIDEO_POSTED) w/Ryan Hamblin: Brown Bag
+#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ryan Hamblin: Brown Bag
 #### [3rd Lecture](https://youtu.be/KhJ95GoKxK0) w/Ben Nelson: Data Structures II Review / Q&A
 
 
@@ -131,7 +131,7 @@ Pair Programming #3: https://github.com/ryanhca/LS-DOM.git
 Code Challenge #7: https://github.com/ryanhca/CS1-Code-Challenges "For Loop Timeout()"
 #### [1st Lecture](https://youtu.be/LJLl7v3UUJo) w/Tai The Thai: Code Challenge #6 review callbackPractice
 #### [2nd Lecture](https://youtu.be/lD7CnIM21T4) w/Tai The Thai: Object[key: value] review
-#### [Brown Bag](NO_VIDEO_POSTED) w/Tyge Johnson: Adult learning Theories
+#### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Tyge Johnson: Adult learning Theories
 #### 3rd Lecture w/Sean Chen: Sprint Q&A
 
 
@@ -139,23 +139,23 @@ Code Challenge #7: https://github.com/ryanhca/CS1-Code-Challenges "For Loop Time
 ### [DAY 12 NOTES](Week03/Day12/README.md)
 Code Challenge #8: https://github.com/ryanhca/CS1-Code-Challenges "Binary Search"
 #### [1st Lecture](https://youtu.be/WVevuObf0Ak) w/Tai The Thai: Code Challenge #7 review forLoopTimeout
-#### [2nd Lecture](NO_VIDEO_POSTED) w/Ryan Hamblin: Pair Programming 3 Review
+#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ryan Hamblin: Pair Programming 3 Review
 #### [3rd Lecture](https://youtu.be/a7qTzbUVVsY) w/Ryan Hamblin: Pair Programming 4 Introduction: REACT
 
 ### Day 13: Thursday, July 20
 ### [DAY 13 NOTES](Week03/Day13/README.md)
 Code Challenge #9: https://github.com/ryanhca/CS1-Code-Challenges "NEW_CODE_CHALLENGE"
-#### [1st Lecture](NO_VIDEO_POSTED) w/Speaker: Code Challenge #8 review binarySearch
-#### [2nd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
-#### [3rd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ben Nelson: Code Challenge #8 review binarySearch
+#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 
 
 ### Day 14: Friday, July 21
 ### [DAY 14 NOTES](Week03/Day14/README.md)
 Code Challenge #10: https://github.com/ryanhca/CS1-Code-Challenges "NEW_CODE_CHALLENGE"
-#### [1st Lecture](NO_VIDEO_POSTED) w/Speaker: topic
-#### [2nd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
-#### [3rd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 
 
 ***
@@ -165,41 +165,41 @@ Code Challenge #10: https://github.com/ryanhca/CS1-Code-Challenges "NEW_CODE_CHA
 ### Day ##: WEEKday, July ##
 ### [DAY # NOTES](Week02/Day09/README.md)
 Code Challenge #?: https://github.com/ryanhca/CS1-Code-Challenges "NEW_CODE_CHALLENGE"
-#### [1st Lecture](NO_VIDEO_POSTED) w/Speaker: topic
-#### [2nd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
-#### [3rd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 
 
 ### Day ##: WEEKday, July ##
 ### [DAY # NOTES](Week02/Day09/README.md)
 Code Challenge #?: https://github.com/ryanhca/CS1-Code-Challenges "NEW_CODE_CHALLENGE"
-#### [1st Lecture](NO_VIDEO_POSTED) w/Speaker: topic
-#### [2nd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
-#### [3rd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 
 
 ### Day ##: WEEKday, July ##
 ### [DAY # NOTES](Week02/Day09/README.md)
 Code Challenge #?: https://github.com/ryanhca/CS1-Code-Challenges "NEW_CODE_CHALLENGE"
-#### [1st Lecture](NO_VIDEO_POSTED) w/Speaker: topic
-#### [2nd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
-#### [3rd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 
 
 ### Day ##: WEEKday, July ##
 ### [DAY # NOTES](Week02/Day09/README.md)
 Code Challenge #?: https://github.com/ryanhca/CS1-Code-Challenges "NEW_CODE_CHALLENGE"
-#### [1st Lecture](NO_VIDEO_POSTED) w/Speaker: topic
-#### [2nd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
-#### [3rd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 
 
 ### Day ##: WEEKday, July ##
 ### [DAY # NOTES](Week02/Day09/README.md)
 Code Challenge #?: https://github.com/ryanhca/CS1-Code-Challenges "NEW_CODE_CHALLENGE"
-#### [1st Lecture](NO_VIDEO_POSTED) w/Speaker: topic
-#### [2nd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
-#### [3rd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 
 
 ***
