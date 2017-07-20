@@ -140,7 +140,7 @@ Code Challenge #7: https://github.com/ryanhca/CS1-Code-Challenges "For Loop Time
 Code Challenge #8: https://github.com/ryanhca/CS1-Code-Challenges "Binary Search"
 #### [1st Lecture](https://youtu.be/WVevuObf0Ak) w/Tai The Thai: Code Challenge #7 review forLoopTimeout
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ryan Hamblin: Pair Programming 3 Review
-#### [3rd Lecture](https://youtu.be/a7qTzbUVVsY) w/Ryan Hamblin: Pair Programming 4 Introduction: REACT
+#### [3rd Lecture](https://youtu.be/exFWxA8mGLo) w/Ryan Hamblin: Pair Programming 4 Introduction: REACT
 
 ### Day 13: Thursday, July 20
 ### [DAY 13 NOTES](Week03/Day13/README.md)
