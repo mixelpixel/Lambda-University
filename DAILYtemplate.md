@@ -9,9 +9,11 @@ Emily Sperry
 Christine Gierer
 GUEST LECTURER
 NO_VIDEO_RECORDED
-# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Code Challenge # review
+# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ben Nelson: Code Challenge # review binarySearch
 ***
 #### LUNCH
+***
+# [BROWN BAG](VIDEO_RECORDED_NOT_POSTED) w/Jason Campbell: Insurance Basics
 ***
 # [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 ***
