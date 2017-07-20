@@ -265,24 +265,17 @@ Code Challenge #?: https://github.com/ryanhca/CS1-Code-Challenges "NAME???"
 #### LSPro lectures:
 - [Callbacks](https://youtu.be/qxURd9khNgU)
 
-#### Unsorted
+#### REACT
+- https://facebook.github.io/react/docs/hello-world.html
+- React lifecycle: https://engineering.musefind.com/react-lifecycle-methods-how-and-when-to-use-them-2111a1b692b1
+
+#### JAVASCRIPT/ ECMAScript
 - Mozilla JavaScript Reference: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 - [You Don't Know JS!](https://github.com/getify/You-Dont-Know-JS)
 - Data Structures and Algorithms with JavaScript by Michael McMillan (posted to Slack channel)
 - Closure vids
 	- https://www.youtube.com/watch?v=CQqwU2Ixu-U
 	- https://www.youtube.com/watch?v=USgVMIIT0ik
-- Text Editors / IDE's
-	- [Atom](https://atom.io/)
-	- [Sublime Text](https://www.sublimetext.com/)
-	- [Visual Studio](https://code.visualstudio.com)
-- Zoom for meetings: https://zoom.us/j/858115322
-- class polling: https://b.socrative.com/student/
-- Ryan Sherill's [Extra Resources list](https://docs.google.com/document/d/1y5B_glCrLRo8Vnu93QMKjFrfAN3a-GFPzgGz76rTTIQ/edit)
-- [AirBnB Style guide](https://github.com/airbnb/javascript#control-statements)
-- [Underscorejs](http://underscorejs.org/)
-	- http://underscorejs.org/underscore.js
-	- Easier to view in Chrome with [Pretty Print](https://chrome.google.com/webstore/detail/prettyprint/nipdlgebaanapcphbcidpmmmkcecpkhg?hl=en-US)
 - BabelJS
 	- https://babeljs.io/ compiler for ES6 script, turns it into ES5 (ECMAScript 5)
 	- https://babeljs.io/learn-es2015/
@@ -290,9 +283,22 @@ Code Challenge #?: https://github.com/ryanhca/CS1-Code-Challenges "NAME???"
 	- https://jsbin.com/
 	- https://jsfiddle.net)
 - https://jsperf.com/ to TEST & COMPARE CODE PERFORMANCE
-- [FLEXBOX](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-- [SEMANTIC ELEMENTS]https://www.w3schools.com/html/html5_semantic_elements.asp
+- [Underscorejs](http://underscorejs.org/)
+	- http://underscorejs.org/underscore.js
+	- Easier to view in Chrome with [Pretty Print](https://chrome.google.com/webstore/detail/prettyprint/nipdlgebaanapcphbcidpmmmkcecpkhg?hl=en-US)
 - [Intro to Synchronous and Asynchronous code](https://www.pluralsight.com/guides/front-end-javascript/introduction-to-asynchronous-javascript)
+
+#### ESLINTer:
+- npm: https://www.npmjs.com/package/eslint-watch
+- [AirBnB Style guide](https://github.com/airbnb/javascript#control-statements)
+
+#### SUPPORT APPS
+- Text Editors / IDE's
+	- [Atom](https://atom.io/)
+	- [Sublime Text](https://www.sublimetext.com/)
+	- [Visual Studio](https://code.visualstudio.com)
+- Zoom for meetings: https://zoom.us/j/858115322
+- class polling: https://b.socrative.com/student/
 
 #### Computer Science
 - BIG O NOTATION
@@ -303,9 +309,15 @@ Code Challenge #?: https://github.com/ryanhca/CS1-Code-Challenges "NAME???"
 	- ["How browsers work internally" by Tali Garsiel (~30min)](https://vimeo.com/44182484)
 	- ["How Browsers Work: Behind the scenes of modern web browsers" by By Tali Garsiel and Paul Irish](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
 	- [HTML 5 Tutorial](http://www.html-5-tutorial.com/)
+	- [SEMANTIC ELEMENTS]https://www.w3schools.com/html/html5_semantic_elements.asp
 - CSS
 	- CSS grid: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout
 	- http://www.csszengarden.com/
+	- [SASS](http://sass-lang.com/)
+	- [FLEXBOX](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+
+#### Unsorted
+	- Ryan Sherill's [Extra Resources list](https://docs.google.com/document/d/1y5B_glCrLRo8Vnu93QMKjFrfAN3a-GFPzgGz76rTTIQ/edit)
 
 #### Some old school b.g. reading:
 	- [Assembly Language Programming](https://archive.org/stream/8080a8085AssemblyLanguageProgramming/Leventhal-8080a-8085AssemblyLanguageProgramming)
