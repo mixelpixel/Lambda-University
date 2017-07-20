@@ -28,7 +28,7 @@ for (var i = 1; i <= 10; i++) {
 - Mobile devices don't use CSS: w-what?????????
 
 
-# [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Pair Programming 4 Introduction: REACT
+# [3rd Lecture](https://youtu.be/exFWxA8mGLo) w/Speaker: Pair Programming 4 Introduction: REACT
 - Document Object Model: DOM is the _map_ the browser makes, HTML/CSS/JS is the _territory_: map != territory
 - HTML 5 tutorial: http://www.html-5-tutorial.com/
 ## []() React
