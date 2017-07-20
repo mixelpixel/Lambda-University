@@ -31,44 +31,31 @@ for (var i = 1; i <= 10; i++) {
 # [3rd Lecture](https://youtu.be/exFWxA8mGLo) w/Speaker: Pair Programming 4 Introduction: REACT
 - Document Object Model: DOM is the _map_ the browser makes, HTML/CSS/JS is the _territory_: map != territory
 - HTML 5 tutorial: http://www.html-5-tutorial.com/
-## []() React
-- Pair Proramming #4: https://github.com/ryanhca/LS-React-1
+- JavaScript does a lot of the magic
+- Displaying data for the user so they can interact with it
+
+## [@2m35s](https://youtu.be/exFWxA8mGLo?t=2m35s) React
+- **Pair Proramming #4:** https://github.com/ryanhca/LS-React-1
 - paradigm for keeping things modular so you can scale up the project
 - REUSEABILITY of components
-- CODE SAND BOX: https://codesandbox/io
 
-```html
-<div id="root"></div>
-```
 
-- JSX JS w/HTML bits
-- index.js
-```jsx
-import React from 'react';
-import { render } from 'react-dom';
-import Hello from './Hello';
+### [@3m54s](https://youtu.be/exFWxA8mGLo?t=3m54s) CODE SAND BOX: https://codesandbox.io
+- index.html & the "root" DIV!
+	```html
+	<div id="root"></div>
+	```
+- index.js & JSX (YES, it's a JavaScript file!)
+- J.S.X. is JS w/HTML bits: JavaScript XML
+- http://buildwithreact.com/tutorial/jsx
 
-const APP = () => (
-  <div style={styles}>
-
-    <p> I am nested </p>
-  </div>
-);
-
-render(<MainApp>)
-```
-
+### [@12m02s](https://youtu.be/exFWxA8mGLo?t=12m02s) React COMPONENTS
 - Hello.js
-```js
-import React from 'react';
+- importing React and exporting the component
 
-const Hello = (props) => ( // anonymous function
-  <div>
-  [props.name]</div>  // implicit return
-);
 
-export default ({ name }) => <h1>Hello {name}</h1>
-```
+
+
 
 
 - Virtual DOM built under the hood of React
@@ -95,9 +82,7 @@ ComponentDidMount
 ComponentWillReceiveProps
 ComponentDidUpdate
 shouldComponentUpdate
-render <--- is a lifecycle component
+render is a lifecycle component
 
-***
-# [4th Lecture](URL) w/Speaker: topic Review / Sprint / Q&A
 ***
 ### fin
