@@ -132,21 +132,20 @@ Code Challenge #7: https://github.com/ryanhca/CS1-Code-Challenges "For Loop Time
 #### [1st Lecture](https://youtu.be/LJLl7v3UUJo) w/Tai The Thai: Code Challenge #6 review callbackPractice
 #### [2nd Lecture](https://youtu.be/lD7CnIM21T4) w/Tai The Thai: Object[key: value] review
 #### [Brown Bag](NO_VIDEO_POSTED) w/Tyge Johnson: Adult learning Theories
-#### [3rd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
+#### 3rd Lecture w/Sean Chen: Sprint Q&A
 
 
 ### Day 12: Wednesday, July 19
 ### [DAY 12 NOTES](Week03/Day12/README.md)
-Code Challenge #8: https://github.com/ryanhca/CS1-Code-Challenges "NAME???"
-#### [1st Lecture](NO_VIDEO_POSTED) w/Speaker: Code Challenge #7 review forLoopTimeout
-#### [2nd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
-#### [3rd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
-
+Code Challenge #8: https://github.com/ryanhca/CS1-Code-Challenges "Binary Search"
+#### [1st Lecture](https://youtu.be/WVevuObf0Ak) w/Tai The Thai: Code Challenge #7 review forLoopTimeout
+#### [2nd Lecture](NO_VIDEO_POSTED) w/Ryan Hamblin: Pair Programming 3 Review
+#### [3rd Lecture](https://youtu.be/a7qTzbUVVsY) w/Ryan Hamblin: Pair Programming 4 Introduction: REACT
 
 ### Day 13: Thursday, July 20
 ### [DAY 13 NOTES](Week03/Day13/README.md)
 Code Challenge #9: https://github.com/ryanhca/CS1-Code-Challenges "NAME???"
-#### [1st Lecture](NO_VIDEO_POSTED) w/Speaker: topic
+#### [1st Lecture](NO_VIDEO_POSTED) w/Speaker: Code Challenge #8 review binarySearch
 #### [2nd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
 #### [3rd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
 
