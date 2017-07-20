@@ -21,7 +21,7 @@ for (var i = 1; i <= 10; i++) {
 #### LUNCH
 ***
 
-# [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Pair Programming 3 Review
+# [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ryan Hamblin: Pair Programming 3 Review
 - CSS grid: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout
 - Firefox devtools latest released was developed with React
 - http://www.csszengarden.com/
