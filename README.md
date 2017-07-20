@@ -144,7 +144,7 @@ Code Challenge #8: https://github.com/ryanhca/CS1-Code-Challenges "Binary Search
 
 ### Day 13: Thursday, July 20
 ### [DAY 13 NOTES](Week03/Day13/README.md)
-Code Challenge #9: https://github.com/ryanhca/CS1-Code-Challenges "NAME???"
+Code Challenge #9: https://github.com/ryanhca/CS1-Code-Challenges "NEW_CODE_CHALLENGE"
 #### [1st Lecture](NO_VIDEO_POSTED) w/Speaker: Code Challenge #8 review binarySearch
 #### [2nd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
 #### [3rd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
@@ -152,7 +152,7 @@ Code Challenge #9: https://github.com/ryanhca/CS1-Code-Challenges "NAME???"
 
 ### Day 14: Friday, July 21
 ### [DAY 14 NOTES](Week03/Day14/README.md)
-Code Challenge #10: https://github.com/ryanhca/CS1-Code-Challenges "NAME???"
+Code Challenge #10: https://github.com/ryanhca/CS1-Code-Challenges "NEW_CODE_CHALLENGE"
 #### [1st Lecture](NO_VIDEO_POSTED) w/Speaker: topic
 #### [2nd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
 #### [3rd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
@@ -164,7 +164,7 @@ Code Challenge #10: https://github.com/ryanhca/CS1-Code-Challenges "NAME???"
 ## Week 04: July 24 - 28
 ### Day ##: WEEKday, July ##
 ### [DAY # NOTES](Week02/Day09/README.md)
-Code Challenge #?: https://github.com/ryanhca/CS1-Code-Challenges "NAME???"
+Code Challenge #?: https://github.com/ryanhca/CS1-Code-Challenges "NEW_CODE_CHALLENGE"
 #### [1st Lecture](NO_VIDEO_POSTED) w/Speaker: topic
 #### [2nd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
 #### [3rd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
@@ -172,7 +172,7 @@ Code Challenge #?: https://github.com/ryanhca/CS1-Code-Challenges "NAME???"
 
 ### Day ##: WEEKday, July ##
 ### [DAY # NOTES](Week02/Day09/README.md)
-Code Challenge #?: https://github.com/ryanhca/CS1-Code-Challenges "NAME???"
+Code Challenge #?: https://github.com/ryanhca/CS1-Code-Challenges "NEW_CODE_CHALLENGE"
 #### [1st Lecture](NO_VIDEO_POSTED) w/Speaker: topic
 #### [2nd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
 #### [3rd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
@@ -180,7 +180,7 @@ Code Challenge #?: https://github.com/ryanhca/CS1-Code-Challenges "NAME???"
 
 ### Day ##: WEEKday, July ##
 ### [DAY # NOTES](Week02/Day09/README.md)
-Code Challenge #?: https://github.com/ryanhca/CS1-Code-Challenges "NAME???"
+Code Challenge #?: https://github.com/ryanhca/CS1-Code-Challenges "NEW_CODE_CHALLENGE"
 #### [1st Lecture](NO_VIDEO_POSTED) w/Speaker: topic
 #### [2nd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
 #### [3rd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
@@ -188,7 +188,7 @@ Code Challenge #?: https://github.com/ryanhca/CS1-Code-Challenges "NAME???"
 
 ### Day ##: WEEKday, July ##
 ### [DAY # NOTES](Week02/Day09/README.md)
-Code Challenge #?: https://github.com/ryanhca/CS1-Code-Challenges "NAME???"
+Code Challenge #?: https://github.com/ryanhca/CS1-Code-Challenges "NEW_CODE_CHALLENGE"
 #### [1st Lecture](NO_VIDEO_POSTED) w/Speaker: topic
 #### [2nd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
 #### [3rd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
@@ -196,7 +196,7 @@ Code Challenge #?: https://github.com/ryanhca/CS1-Code-Challenges "NAME???"
 
 ### Day ##: WEEKday, July ##
 ### [DAY # NOTES](Week02/Day09/README.md)
-Code Challenge #?: https://github.com/ryanhca/CS1-Code-Challenges "NAME???"
+Code Challenge #?: https://github.com/ryanhca/CS1-Code-Challenges "NEW_CODE_CHALLENGE"
 #### [1st Lecture](NO_VIDEO_POSTED) w/Speaker: topic
 #### [2nd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
 #### [3rd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
@@ -267,6 +267,7 @@ Code Challenge #?: https://github.com/ryanhca/CS1-Code-Challenges "NAME???"
 #### REACT
 - https://facebook.github.io/react/docs/hello-world.html
 - React lifecycle: https://engineering.musefind.com/react-lifecycle-methods-how-and-when-to-use-them-2111a1b692b1
+- React is ONLY THE VIEW LAYER.
 
 #### JAVASCRIPT/ ECMAScript
 - Mozilla JavaScript Reference: https://developer.mozilla.org/en-US/docs/Web/JavaScript
