@@ -31,7 +31,7 @@ setTimeout(() => {
   console.log('2');
 }, 0);
 
-console.log('3')
+console.log('3');
 ```
 
 - logs 1, 3, 2 even at 0 milliseconds, Timeout gets pushed to the end of the "stack"
@@ -43,6 +43,13 @@ console.log('3')
 - browser events (click/mouse, incoming http, etc...)
 
 ***
-# [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ryan Hamblin: Q&A / Review
+# [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ryan Hamblin: Q&A / Review REACT
+- componentWillMount
+- setState
+- `props` is a keyword
+- `props` are read only
+- to change object, do it where it is defined.
+- can't update props passed to a child
+
 ***
 # fin
