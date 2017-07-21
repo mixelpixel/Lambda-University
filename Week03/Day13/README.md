@@ -50,6 +50,7 @@ console.log('3');
 - `props` are read only
 - to change object, do it where it is defined.
 - can't update props passed to a child
+- CODE SANDBOX EXAMPLE: https://codesandbox.io/s/qYKlXZRNy
 
 ***
 # fin
