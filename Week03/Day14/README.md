@@ -10,15 +10,21 @@ Christine Gierer
 GUEST LECTURER
 NO_VIDEO_RECORDED
 ***
-# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Tai: Code Challenge #9 review waterBucket
+# [1st Lecture](https://youtu.be/jVfmcDDC-lY) w/Tai: Code Challenge #9 review waterBucket
+- Brian Durbin's alternative solution:
+> 1. You would fill the five quart jug via the three quart jug, then fill the three quart jug again to fill the last 2 quarts of the five quart jug - this would leave 1 quart in the 3 quart jug.
+> 2. You then empty the 5 quart jug, and fill it with the remaing 1 quart in the 3 quart jug.
+> 3. Fill the 3 quart jug again and pour it into the 5 quart jug.
+> 4. This would give you exactly 4 quarts.
+
 ***
 # LUNCH
+***
+# [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Jason Campbell: "Insurance Basics"
 ***
 # [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 ***
 # [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-***
-# [4th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 # Sprint / Q&A
 ***
 # fin
