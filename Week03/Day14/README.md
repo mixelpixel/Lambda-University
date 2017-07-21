@@ -1,6 +1,6 @@
 # Lambda University - July 21, 2017: Day 014, Friday
 ## Coding Challenge #10
-- "NEW_CODE_CHALLENGE" available in https://github.com/ryanhca/CS1-Code-Challenges
+- "Array" available in https://github.com/ryanhca/CS1-Code-Challenges
 Ben Nelson
 Ryna Hamblin
 Tai The Thai
