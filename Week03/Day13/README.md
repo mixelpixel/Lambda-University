@@ -39,6 +39,8 @@ console.log('3');
 
 ***
 # [3rd Lecture](https://youtu.be/B9P2_gkZJPY) w/Ryan Hamblin: Q&A / Review REACT
+- whatever we pass to render is the parent of our tree.
+- Life cycle methods
 - componentWillMount
 - setState
 - `props` is a keyword
