@@ -1,6 +1,7 @@
 # Lambda University - MONTH ##, 2017: Day ###, WEEKday
 ## Coding Challenge #
 - "NEW_CODE_CHALLENGE" available in https://github.com/ryanhca/CS1-Code-Challenges
+***
 Ben Nelson
 Ryna Hamblin
 Tai The Thai
