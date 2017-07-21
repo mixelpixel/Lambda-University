@@ -43,9 +43,6 @@ console.log('3')
 - browser events (click/mouse, incoming http, etc...)
 
 ***
-# [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-***
-# [4th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-# Sprint / Q&A
+# [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ryan Hamblin: Q&A / Review
 ***
 # fin
