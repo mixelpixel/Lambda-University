@@ -144,7 +144,7 @@ Code Challenge #8: https://github.com/ryanhca/CS1-Code-Challenges "Binary Search
 
 ### Day 13: Thursday, July 20
 ### [DAY 13 NOTES](Week03/Day13/README.md)
-Code Challenge #9: https://github.com/ryanhca/CS1-Code-Challenges "NEW_CODE_CHALLENGE"
+Code Challenge #9: https://github.com/ryanhca/CS1-Code-Challenges "Brain Teaser: Water Bucket"
 #### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ben Nelson: Code Challenge #8 review binarySearch
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ben Nelson: Concurrency Model & Event Loop
 #### [3rd Lecture](https://youtu.be/B9P2_gkZJPY) w/Ryan Hamblin: Q&A / Review REACT
@@ -153,7 +153,7 @@ Code Challenge #9: https://github.com/ryanhca/CS1-Code-Challenges "NEW_CODE_CHAL
 ### Day 14: Friday, July 21
 ### [DAY 14 NOTES](Week03/Day14/README.md)
 Code Challenge #10: https://github.com/ryanhca/CS1-Code-Challenges "NEW_CODE_CHALLENGE"
-#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Code Challenge #9 review waterBucket
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 
@@ -208,7 +208,7 @@ Code Challenge #?: https://github.com/ryanhca/CS1-Code-Challenges "NEW_CODE_CHAL
 ## Week 05: July 31 - August 4
 ### Day ##: WEEKday, July ##
 ### [DAY # NOTES](Week02/Day09/README.md)
-Code Challenge #?: https://github.com/ryanhca/CS1-Code-Challenges "NAME???"
+Code Challenge #?: https://github.com/ryanhca/CS1-Code-Challenges "NEW_CODE_CHALLENGE"
 #### [1st Lecture](NO_VIDEO_POSTED) w/Speaker: topic
 #### [2nd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
 #### [3rd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
