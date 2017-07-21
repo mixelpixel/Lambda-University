@@ -154,7 +154,7 @@ Code Challenge #9: https://github.com/ryanhca/CS1-Code-Challenges "Brain Teaser:
 ### [DAY 14 NOTES](Week03/Day14/README.md)
 Code Challenge #10: https://github.com/ryanhca/CS1-Code-Challenges "Array"
 #### [1st Lecture](https://youtu.be/jVfmcDDC-lY) w/Tai: Code Challenge #9 review waterBucket
-#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Jason Campbell: "Insurance Basics"
+#### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Jason Campbell: "Insurance Basics"
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 
 
