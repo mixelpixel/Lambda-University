@@ -267,7 +267,8 @@ Code Challenge #?: https://github.com/ryanhca/CS1-Code-Challenges "NAME???"
 #### REACT
 - https://facebook.github.io/react/docs/hello-world.html
 - React lifecycle: https://engineering.musefind.com/react-lifecycle-methods-how-and-when-to-use-them-2111a1b692b1
-- React is ONLY THE VIEW LAYER.
+- React is [ONLY THE VIEW LAYER]()http://blog.andrewray.me/reactjs-for-stupid-people/.
+- http://www.automationfuel.com/sass-react-webpack/
 
 #### JAVASCRIPT/ ECMAScript
 - Mozilla JavaScript Reference: https://developer.mozilla.org/en-US/docs/Web/JavaScript
