@@ -146,8 +146,8 @@ Code Challenge #8: https://github.com/ryanhca/CS1-Code-Challenges "Binary Search
 ### [DAY 13 NOTES](Week03/Day13/README.md)
 Code Challenge #9: https://github.com/ryanhca/CS1-Code-Challenges "NEW_CODE_CHALLENGE"
 #### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ben Nelson: Code Challenge #8 review binarySearch
-#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ben Nelson: Concurrency Model & Event Loop
+#### [3rd Lecture](https://youtu.be/B9P2_gkZJPY) w/Ryan Hamblin: Q&A / Review REACT
 
 
 ### Day 14: Friday, July 21
