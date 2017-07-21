@@ -43,7 +43,7 @@ console.log('3');
 - browser events (click/mouse, incoming http, etc...)
 
 ***
-# [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ryan Hamblin: Q&A / Review REACT
+# [3rd Lecture](https://youtu.be/B9P2_gkZJPY) w/Ryan Hamblin: Q&A / Review REACT
 - componentWillMount
 - setState
 - `props` is a keyword
