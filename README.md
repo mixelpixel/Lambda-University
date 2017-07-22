@@ -75,7 +75,7 @@ Pair Programming #1: https://github.com/SunJieMing/LS-Data-Structures start
 Code Challenge #2: https://github.com/ryanhca/CS1-Code-Challenges "Is Unique?"
 Pair Programming #1: https://github.com/SunJieMing/LS-Data-Structures cont.
 #### Ryan Hamblin lectures
-##### [1st Lecture](https://youtu.be/juZvUpn4j5Y): Code Challenege #1 review: longestString
+##### [1st Lecture](https://youtu.be/juZvUpn4j5Y): Review Code Challenege #1: longestString
 ##### [2nd Lecture](https://youtu.be/bAkjh-jZY8M): Brown Bag session, Visual Studio & IDE shortcuts
 - after recording, covered git/GitHub flow for coding challenges
 #### Ben Nelson lecture
@@ -87,7 +87,7 @@ Pair Programming #1: https://github.com/SunJieMing/LS-Data-Structures cont.
 Code Challenge #3: https://github.com/ryanhca/CS1-Code-Challenges "Reverse Case"
 #### Ben Nelson lectures
 ##### [1st Lecture](https://youtu.be/fHP0KMst_90): GitHub flow & resolving merge conflicts
-##### [2nd Lecture](https://youtu.be/SXvxbIEgOkw): Code Challenge 2 review: isUnique; Big O and Set()'s
+##### [2nd Lecture](https://youtu.be/SXvxbIEgOkw): Review Code Challenge 2: isUnique; Big O and Set()'s
 ##### [3rd Lecture](https://youtu.be/uGohVrgYrpQ): Solutions to Data Structures Pair Programming #1
 Pair Programming #1: https://github.com/SunJieMing/LS-Data-Structures fin, Pull Request & review
 ##### [4th Lecture](https://youtu.be/YKQSnvZGfDE): Pair Prog #2 - Data Structures 2: TREES, BINARY SEARCH TREE & GRAPHS
@@ -100,7 +100,7 @@ Pair Programming #2: https://github.com/manishavi/LS-Data-Structures-II.git star
 ### Day 08: Thursday, July 13
 ### [DAY 8 NOTES](Week02/Day08/README.md)
 Code Challenge #4: https://github.com/ryanhca/CS1-Code-Challenges "Largest Prime Palindrome"
-#### [1st Lecture](https://youtu.be/JWNE9lsFcYg) w/Tai The Thai: Code Challenge #3 review: reverseCase
+#### [1st Lecture](https://youtu.be/JWNE9lsFcYg) w/Tai The Thai: Review Code Challenge #3: reverseCase
 #### [2nd Lecture](https://youtu.be/pCdtDj4NGpA) w/Ryan Hamblin: Brown Bag - tips and thoughts on using Slack!
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ben Nelson: Q&A
 
@@ -108,7 +108,7 @@ Code Challenge #4: https://github.com/ryanhca/CS1-Code-Challenges "Largest Prime
 ### Day 09: Friday, July 14
 ### [DAY 9 NOTES](Week02/Day09/README.md)
 Code Challenge #5: https://github.com/ryanhca/CS1-Code-Challenges "Even Occurences"
-#### [1st Lecture](https://youtu.be/F0y2sJHQzzs) w/Ryan Hamblin: Code Challenge #4 review: longestPrimePalindrome & Coercion == vs. ===
+#### [1st Lecture](https://youtu.be/F0y2sJHQzzs) w/Ryan Hamblin: Review Code Challenge #4: longestPrimePalindrome & Coercion == vs. ===
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ryan Hamblin: Brown Bag
 #### [3rd Lecture](https://youtu.be/KhJ95GoKxK0) w/Ben Nelson: Data Structures II Review / Q&A
 
@@ -120,7 +120,7 @@ Code Challenge #5: https://github.com/ryanhca/CS1-Code-Challenges "Even Occurenc
 ### Day 10: Monday, July 17
 ### [DAY 10 NOTES](Week03/Day10/README.md)
 Code Challenge #6: https://github.com/ryanhca/CS1-Code-Challenges "CallBack Practice"
-#### [1st Lecture](https://youtu.be/GPLF6kWI2KY) w/Tai The Thai: Code Challenge #5 review evenOccurences
+#### [1st Lecture](https://youtu.be/GPLF6kWI2KY) w/Tai The Thai: Review Code Challenge #5: evenOccurences
 #### 2nd Lecture w/Sean Chen: Class Poll/Review - Data Structures II (NO VIDEO RECORDED)
 #### [3rd Lecture](https://youtu.be/a7qTzbUVVsY) w/Sean Chen: Data Structures II Solutions - Tree, Binary Search Tree & Graph
 #### [4th Lecture](https://youtu.be/BV83yPgDXBQ) w/Ryan Hamblin: Sprint for DOM Pair Programming #3
@@ -130,7 +130,7 @@ Pair Programming #3: https://github.com/ryanhca/LS-DOM.git
 ### Day 11: Tuesday, July 18
 ### [DAY 11 NOTES](Week03/Day11/README.md)
 Code Challenge #7: https://github.com/ryanhca/CS1-Code-Challenges "For Loop Timeout()"
-#### [1st Lecture](https://youtu.be/LJLl7v3UUJo) w/Tai The Thai: Code Challenge #6 review callbackPractice
+#### [1st Lecture](https://youtu.be/LJLl7v3UUJo) w/Tai The Thai: Review Code Challenge #6: callbackPractice
 #### [2nd Lecture](https://youtu.be/lD7CnIM21T4) w/Tai The Thai: Object[key: value] review
 #### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Tyge Johnson: Adult learning Theories
 #### 3rd Lecture w/Sean Chen: Sprint Q&A
@@ -139,14 +139,15 @@ Code Challenge #7: https://github.com/ryanhca/CS1-Code-Challenges "For Loop Time
 ### Day 12: Wednesday, July 19
 ### [DAY 12 NOTES](Week03/Day12/README.md)
 Code Challenge #8: https://github.com/ryanhca/CS1-Code-Challenges "Binary Search"
-#### [1st Lecture](https://youtu.be/WVevuObf0Ak) w/Tai The Thai: Code Challenge #7 review forLoopTimeout
+#### [1st Lecture](https://youtu.be/WVevuObf0Ak) w/Tai The Thai: Review Code Challenge #7: forLoopTimeout
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ryan Hamblin: Pair Programming 3 Review
 #### [3rd Lecture](https://youtu.be/exFWxA8mGLo) w/Ryan Hamblin: Pair Programming 4 Introduction: REACT
+Pair Programming #4: https://github.com/ryanhca/LS-React-1.git
 
 ### Day 13: Thursday, July 20
 ### [DAY 13 NOTES](Week03/Day13/README.md)
 Code Challenge #9: https://github.com/ryanhca/CS1-Code-Challenges "Brain Teaser: Water Bucket"
-#### [1st Lecture](https://youtu.be/sfaJU2Fa2Ew) w/Ben Nelson: Code Challenge #8 review binarySearch
+#### [1st Lecture](https://youtu.be/sfaJU2Fa2Ew) w/Ben Nelson: Review Code Challenge #8: binarySearch
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ben Nelson: Concurrency Model & Event Loop
 #### [3rd Lecture](https://youtu.be/B9P2_gkZJPY) w/Ryan Hamblin: Q&A / Review REACT
 
@@ -154,51 +155,53 @@ Code Challenge #9: https://github.com/ryanhca/CS1-Code-Challenges "Brain Teaser:
 ### Day 14: Friday, July 21
 ### [DAY 14 NOTES](Week03/Day14/README.md)
 Code Challenge #10: https://github.com/ryanhca/CS1-Code-Challenges "Array"
-#### [1st Lecture](https://youtu.be/jVfmcDDC-lY) w/Tai: Code Challenge #9 review waterBucket
+#### [1st Lecture](https://youtu.be/jVfmcDDC-lY) w/Tai: Review Code Challenge #9: waterBucket
 #### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Jason Campbell: "Insurance Basics"
-#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ben Nelson: Syllabus & State of the Program address
 
 
 ***
 
 
 ## Week 04: July 24 - 28
-### Day ##: WEEKday, July ##
-### [DAY # NOTES](Week02/Day09/README.md)
-Code Challenge #?: https://github.com/ryanhca/CS1-Code-Challenges "NEW_CODE_CHALLENGE"
-#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+### Day 15: Monday, July 24
+### [DAY 15 NOTES](Week04/Day15/README.md)
+Code Challenge #11: https://github.com/ryanhca/CS1-Code-Challenges "NEW_CODE_CHALLENGE"
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #10: array
+#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+Pair Programming #5: https://github.com/ryanhca/LS-React-2.git
+
+
+### Day 16: Tuesday, July 25
+### [DAY 16 NOTES](Week04/Day16/README.md)
+Code Challenge #12: https://github.com/ryanhca/CS1-Code-Challenges "NEW_CODE_CHALLENGE"
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #11 PREVIOUS_CODE_CHALLENGE
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 
 
-### Day ##: WEEKday, July ##
-### [DAY # NOTES](Week02/Day09/README.md)
-Code Challenge #?: https://github.com/ryanhca/CS1-Code-Challenges "NEW_CODE_CHALLENGE"
-#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+### Day 17: Wednesday, July 26
+### [DAY 17 NOTES](Week04/Day17/README.md)
+Code Challenge #13: https://github.com/ryanhca/CS1-Code-Challenges "NEW_CODE_CHALLENGE"
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Code Challenge #12 review PREVIOUS_CODE_CHALLENGE
+#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+Pair Programming #6: https://github.com/ryanhca/SOMETHING.git
+
+
+### Day 18: Thursday, July 27
+### [DAY 18 NOTES](Week04/Day18/README.md)
+Code Challenge #14: https://github.com/ryanhca/CS1-Code-Challenges "NEW_CODE_CHALLENGE"
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Code Challenge #13 review PREVIOUS_CODE_CHALLENGE
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 
 
-### Day ##: WEEKday, July ##
-### [DAY # NOTES](Week02/Day09/README.md)
-Code Challenge #?: https://github.com/ryanhca/CS1-Code-Challenges "NEW_CODE_CHALLENGE"
-#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-
-
-### Day ##: WEEKday, July ##
-### [DAY # NOTES](Week02/Day09/README.md)
-Code Challenge #?: https://github.com/ryanhca/CS1-Code-Challenges "NEW_CODE_CHALLENGE"
-#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-
-
-### Day ##: WEEKday, July ##
-### [DAY # NOTES](Week02/Day09/README.md)
-Code Challenge #?: https://github.com/ryanhca/CS1-Code-Challenges "NEW_CODE_CHALLENGE"
-#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+### Day 19: Friday, July 28
+### [DAY 19 NOTES](Week04/Day19/README.md)
+Code Challenge #15: https://github.com/ryanhca/CS1-Code-Challenges "NEW_CODE_CHALLENGE"
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Code Challenge #14 review PREVIOUS_CODE_CHALLENGE
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 
@@ -207,18 +210,21 @@ Code Challenge #?: https://github.com/ryanhca/CS1-Code-Challenges "NEW_CODE_CHAL
 
 # Month 2: August, 2017
 ## Week 05: July 31 - August 4
-### Day ##: WEEKday, July ##
-### [DAY # NOTES](Week02/Day09/README.md)
-Code Challenge #?: https://github.com/ryanhca/CS1-Code-Challenges "NEW_CODE_CHALLENGE"
-#### [1st Lecture](NO_VIDEO_POSTED) w/Speaker: topic
+### Day 20: WEEKday, July ##
+### [DAY 20 NOTES](Week05/Day20/README.md)
+Code Challenge #16: https://github.com/ryanhca/CS1-Code-Challenges "NEW_CODE_CHALLENGE"
+#### [1st Lecture](NO_VIDEO_POSTED) w/Speaker: Code Challenge #15 review PREVIOUS_CODE_CHALLENGE
 #### [2nd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
 #### [3rd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
 
 ***
 
 ## Week 06: Aug. 7 - 11
+***
 ## Week 07: Aug. 14 - 18
+***
 ## Week 08: Aug. 21 - 25
+***
 ## Week 08: Aug. 27 - Sept. 1
 
 ***
