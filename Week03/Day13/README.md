@@ -2,7 +2,7 @@
 ## Coding Challenge #9
 - "NEW_CODE_CHALLENGE" available in https://github.com/ryanhca/CS1-Code-Challenges
 ***
-# [1st Lecture](https://youtu.be/sfaJU2Fa2Ew) w/Ben Nelson: Code Challenge #8 binarySearch review
+# [1st Lecture](https://youtu.be/sfaJU2Fa2Ew) w/Ben Nelson: Revie Code Challenge #8: binarySearch
 ***
 #### LUNCH
 ***
