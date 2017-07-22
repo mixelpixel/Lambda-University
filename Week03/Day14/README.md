@@ -14,6 +14,7 @@
 ***
 # [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Jason Campbell: "Insurance Basics"
 ***
-# [Sprint Review / Q&A](VIDEO_RECORDED_NOT_POSTED) w/Speaker
+# [Sprint Review / Q&A](VIDEO_RECORDED_NOT_POSTED) w/Ben Nelson - Syllabus
+- https://github.com/LambdaSchool/LambdaCSA-Syllabus
 ***
 # fin
