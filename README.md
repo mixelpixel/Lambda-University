@@ -1,4 +1,5 @@
 # Lambda University
+https://github.com/LambdaSchool/LambdaCSA-Syllabus
 ## Pre-Course Work
 - [Pre-Course Work](https://docs.google.com/document/d/1YKYxzNt6QZxnPw8xOT-Qyf1BY0cHb-Us1ydzZTphxRI/edit)
 	1. I earned a [Standford CS 101 Certificate](https://prod-cert-bucket.s3.amazonaws.com/downloads/9081486833cb4f1586f69479d17c6bb3/Statement.pdf)!
@@ -145,7 +146,7 @@ Code Challenge #8: https://github.com/ryanhca/CS1-Code-Challenges "Binary Search
 ### Day 13: Thursday, July 20
 ### [DAY 13 NOTES](Week03/Day13/README.md)
 Code Challenge #9: https://github.com/ryanhca/CS1-Code-Challenges "Brain Teaser: Water Bucket"
-#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ben Nelson: Code Challenge #8 review binarySearch
+#### [1st Lecture](https://youtu.be/sfaJU2Fa2Ew) w/Ben Nelson: Code Challenge #8 review binarySearch
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ben Nelson: Concurrency Model & Event Loop
 #### [3rd Lecture](https://youtu.be/B9P2_gkZJPY) w/Ryan Hamblin: Q&A / Review REACT
 
