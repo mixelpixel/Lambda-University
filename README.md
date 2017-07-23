@@ -274,11 +274,12 @@ Code Challenge #16: https://github.com/ryanhca/CS1-Code-Challenges "NEW_CODE_CHA
 #### REACT
 - https://facebook.github.io/react/docs/hello-world.html
 - React lifecycle: https://engineering.musefind.com/react-lifecycle-methods-how-and-when-to-use-them-2111a1b692b1
-- React is [ONLY THE VIEW LAYER]()http://blog.andrewray.me/reactjs-for-stupid-people/.
+- React is [ONLY THE VIEW LAYER](http://blog.andrewray.me/reactjs-for-stupid-people/).
 - http://www.automationfuel.com/sass-react-webpack/
 
 #### JAVASCRIPT/ ECMAScript
 - Mozilla JavaScript Reference: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+	- https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
 - [You Don't Know JS!](https://github.com/getify/You-Dont-Know-JS)
 - Data Structures and Algorithms with JavaScript by Michael McMillan (posted to Slack channel)
 - Closure vids
