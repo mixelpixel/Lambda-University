@@ -1,6 +1,6 @@
 # Lambda University - July 24, 2017: Day 015, Monday
 ## Coding Challenge #
-- "NEW_CODE_CHALLENGE" available in https://github.com/ryanhca/CS1-Code-Challenges
+- "String Compression" available in https://github.com/ryanhca/CS1-Code-Challenges
 ***
 Ben Nelson
 Ryna Hamblin
