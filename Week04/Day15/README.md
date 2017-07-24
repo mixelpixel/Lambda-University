@@ -24,7 +24,7 @@ NO_VIDEO_RECORDED
 - ip add 127.0.0.1:8080 is same as localhost:8080
 - favicon - little grfx for the browser tab
 
-## []() - Solution branch
+### []() - Solution branch
 - https://github.com/mixelpixel/LS-React-1/tree/solution
 - HTML INSIDE OF JAVASCRIPT FILES IS JSX
 
