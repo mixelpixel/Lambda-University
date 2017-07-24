@@ -170,8 +170,10 @@ Code Challenge #11: https://github.com/ryanhca/CS1-Code-Challenges "String Compr
 #### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: Review Code Challenge #10: array
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: Sprint Review LS-React-1
 #### [3rd Lecture](https://youtu.be/EWNijKkMSpk) w/Ben Nelson: Project Review LS-React-1 SOLUTION
-#### [4th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: LS-React-2
+#### [4th Lecture](https://youtu.be/gpM9Hiu12mY) w/Speaker: LS-React-2 pt.1
+#### [5th Lecture](https://youtu.be/8wAH4Hd2Jag) w/Sean Chen: LS-React-2 pt.2
 Pair Programming #5: https://github.com/ryanhca/LS-React-2.git
+#### [6th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 
 
 ### Day 16: Tuesday, July 25
@@ -277,6 +279,7 @@ Code Challenge #16: https://github.com/ryanhca/CS1-Code-Challenges "NEW_CODE_CHA
 - React lifecycle: https://engineering.musefind.com/react-lifecycle-methods-how-and-when-to-use-them-2111a1b692b1
 - React is [ONLY THE VIEW LAYER](http://blog.andrewray.me/reactjs-for-stupid-people/).
 - http://www.automationfuel.com/sass-react-webpack/
+- https://react-bootstrap.github.io/
 
 #### JAVASCRIPT/ ECMAScript
 - Mozilla JavaScript Reference: https://developer.mozilla.org/en-US/docs/Web/JavaScript
