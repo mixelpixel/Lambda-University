@@ -170,7 +170,7 @@ Code Challenge #11: https://github.com/ryanhca/CS1-Code-Challenges "String Compr
 #### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: Review Code Challenge #10: array
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: Sprint Review LS-React-1
 #### [3rd Lecture](https://youtu.be/EWNijKkMSpk) w/Ben Nelson: Project Review LS-React-1 SOLUTION
-#### [4th Lecture](https://youtu.be/gpM9Hiu12mY) w/Speaker: LS-React-2 pt.1
+#### [4th Lecture](https://youtu.be/gpM9Hiu12mY) w/Sean Chen: LS-React-2 pt.1
 #### [5th Lecture](https://youtu.be/8wAH4Hd2Jag) w/Sean Chen: LS-React-2 pt.2
 Pair Programming #5: https://github.com/ryanhca/LS-React-2.git
 #### [6th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
