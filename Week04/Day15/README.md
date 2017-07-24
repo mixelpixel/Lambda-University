@@ -138,10 +138,29 @@ this.updateNewTodo = this.updateNewTodo.bind(this);
 ***
 #### LUNCH
 ***
-# [4th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: LS-React-2
+
+# [4th Lecture](https://youtu.be/gpM9Hiu12mY) w/Sean Chen: LS-React-2 pt.1
 - Pair Programming #5: https://github.com/ryanhca/LS-React-2.git
+- objectives
+- cloning from Instagram: searchbar and post container component
+- put test and app data inside React app folder
+- https://react-bootstrap.github.io
+  - after installing React Bootstrap library, then you can just import the component
+- `mv tests ../src`
+- `mv application-data.js ../src`
+- follow the directory/component structure so tests will work
+- The FLOW
+
+# [5th Lecture](https://youtu.be/8wAH4Hd2Jag) w/Sean Chen: LS-React-2 pt.2
+- https://codesandbox.io/s/7LB8yV50Q - got started here
+- "props" gets passed to kids in the App JSX tag and the kids use this.props
+- https://codesandbox.io/s/9mvlNjMD
+
+
+
+
 ***
-# [5th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+# [6th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 # Sprint / Q&A
 ***
 # fin
