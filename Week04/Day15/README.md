@@ -15,7 +15,7 @@ NO_VIDEO_RECORDED
 ***
 # [2nd Lecture](WAS_VIDEO_RECORDED) w/Sean Chen: Sprint Review LS-React-1
 ***
-# [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ben Nelson: Project Review LS-React-1 SOLUTION
+# [3rd Lecture](https://youtu.be/EWNijKkMSpk) w/Ben Nelson: Project Review LS-React-1 SOLUTION
 - Try developing with an incognito to avoid browser caching/optimization
 - Webpack reads React code (incl JSX) and transpiles/converts it to plain html/css
 - Babel transpiles ES6 to ES5
