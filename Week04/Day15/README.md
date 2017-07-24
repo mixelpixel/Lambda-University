@@ -33,7 +33,7 @@ NO_VIDEO_RECORDED
   - files you've created need the path `./../../etc`
   - React presumes `.js` files
 
-### []() - Make Components ES6 Classes or Functions
+### []() Make Components ES6 Classes or Functions
 - Importing into each component:
   ```jsx
   import React, { Component } from 'react';
