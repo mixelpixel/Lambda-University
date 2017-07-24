@@ -169,7 +169,7 @@ Code Challenge #10: https://github.com/ryanhca/CS1-Code-Challenges "Array"
 Code Challenge #11: https://github.com/ryanhca/CS1-Code-Challenges "String Compression"
 #### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: Review Code Challenge #10: array
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: Sprint Review LS-React-1
-#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ben Nelson: Project Review LS-React-1 SOLUTION
+#### [3rd Lecture](https://youtu.be/EWNijKkMSpk) w/Ben Nelson: Project Review LS-React-1 SOLUTION
 #### [4th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: LS-React-2
 Pair Programming #5: https://github.com/ryanhca/LS-React-2.git
 
