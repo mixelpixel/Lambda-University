@@ -1,5 +1,5 @@
 # Lambda University - July 26, 2017: Day 017, Wednesday
-## Coding Challenge #
+## Coding Challenge #13
 - "NEW_CODE_CHALLENGE" available in https://github.com/ryanhca/CS1-Code-Challenges
 ***
 Ben Nelson
