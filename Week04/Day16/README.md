@@ -1,5 +1,5 @@
 # Lambda University - July 25, 2017: Day 016, Tuesday
-## Coding Challenge #
+## Coding Challenge #12
 - "Operators" available in https://github.com/ryanhca/CS1-Code-Challenges
 ***
 Ben Nelson
