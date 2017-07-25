@@ -1,5 +1,5 @@
 # Lambda University - July 24, 2017: Day 015, Monday
-## Coding Challenge #
+## Coding Challenge #11
 - "String Compression" available in https://github.com/ryanhca/CS1-Code-Challenges
 ***
 # [1st Lecture](WAS_VIDEO_RECORDED) w/Sean Chen: Review Code Challenge #10: array
