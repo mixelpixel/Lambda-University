@@ -2,15 +2,6 @@
 ## Coding Challenge #
 - "String Compression" available in https://github.com/ryanhca/CS1-Code-Challenges
 ***
-Ben Nelson
-Ryna Hamblin
-Tai The Thai
-Sean Chen
-Emily Sperry
-Christine Gierer
-GUEST LECTURER
-NO_VIDEO_RECORDED
-***
 # [1st Lecture](WAS_VIDEO_RECORDED) w/Sean Chen: Review Code Challenge #10: array
 ***
 # [2nd Lecture](WAS_VIDEO_RECORDED) w/Sean Chen: Sprint Review LS-React-1
@@ -42,6 +33,7 @@ NO_VIDEO_RECORDED
     ...
   }
   ```
+
 - Same effect a destructured import statement (an ES6 thing)
   ```jsx
   import React from 'react';
@@ -50,6 +42,7 @@ NO_VIDEO_RECORDED
     ...
   }
   ```
+
 - Classes need a render method to return the JSX we'll display
 - and we need an export statement
 
@@ -156,11 +149,7 @@ this.updateNewTodo = this.updateNewTodo.bind(this);
 - "props" gets passed to kids in the App JSX tag and the kids use this.props
 - https://codesandbox.io/s/9mvlNjMD
 
-
-
-
 ***
-# [6th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-# Sprint / Q&A
+# [6th Lecture](VIDEO_NOT_RECORDED) w/Sean Chen: Sprint Q&A
 ***
 # fin
