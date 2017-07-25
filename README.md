@@ -173,13 +173,14 @@ Code Challenge #11: https://github.com/ryanhca/CS1-Code-Challenges "String Compr
 #### [4th Lecture](https://youtu.be/gpM9Hiu12mY) w/Sean Chen: LS-React-2 pt.1
 #### [5th Lecture](https://youtu.be/8wAH4Hd2Jag) w/Sean Chen: LS-React-2 pt.2
 Pair Programming #5: https://github.com/ryanhca/LS-React-2.git
-#### [6th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [6th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: Sprint Q&A
 
 
 ### Day 16: Tuesday, July 25
 ### [DAY 16 NOTES](Week04/Day16/README.md)
 Code Challenge #12: https://github.com/ryanhca/CS1-Code-Challenges "NEW_CODE_CHALLENGE"
-#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #11: stringCompression
+#### [1st Lecture](https://youtu.be/52hnLC-6flY) w/Ryan Hamblin: Review Code Challenge #11 stringCompression
+#### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 
