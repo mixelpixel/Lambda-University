@@ -178,7 +178,7 @@ Pair Programming #5: https://github.com/ryanhca/LS-React-2.git
 
 ### Day 16: Tuesday, July 25
 ### [DAY 16 NOTES](Week04/Day16/README.md)
-Code Challenge #12: https://github.com/ryanhca/CS1-Code-Challenges "NEW_CODE_CHALLENGE"
+Code Challenge #12: https://github.com/ryanhca/CS1-Code-Challenges "Operators"
 #### [1st Lecture](https://youtu.be/52hnLC-6flY) w/Ryan Hamblin: Review Code Challenge #11 stringCompression
 #### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
@@ -187,8 +187,8 @@ Code Challenge #12: https://github.com/ryanhca/CS1-Code-Challenges "NEW_CODE_CHA
 
 ### Day 17: Wednesday, July 26
 ### [DAY 17 NOTES](Week04/Day17/README.md)
-Code Challenge #13: https://github.com/ryanhca/CS1-Code-Challenges "NEW_CODE_CHALLENGE"
-#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #12: PREVIOUS_CODE_CHALLENGE
+Code Challenge #13: https://github.com/ryanhca/CS1-Code-Challenges "Constructors"
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #12: operators
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 Pair Programming #6: https://github.com/ryanhca/SOMETHING.git
@@ -197,7 +197,7 @@ Pair Programming #6: https://github.com/ryanhca/SOMETHING.git
 ### Day 18: Thursday, July 27
 ### [DAY 18 NOTES](Week04/Day18/README.md)
 Code Challenge #14: https://github.com/ryanhca/CS1-Code-Challenges "NEW_CODE_CHALLENGE"
-#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #13: PREVIOUS_CODE_CHALLENGE
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #13: constructors
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 
