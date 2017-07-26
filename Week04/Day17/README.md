@@ -15,9 +15,9 @@ NO_VIDEO_RECORDED
 ***
 #### LUNCH
 ***
-# [BROWN BAG](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+# [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: LS-React-II Solution Review
 ***
-Pair Programming #6: https://github.com/ryanhca/??????
+Pair Programming #6: https://github.com/??????
 
 # [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 ***
