@@ -2,22 +2,15 @@
 ## Coding Challenge #12
 - "Operators" available in https://github.com/ryanhca/CS1-Code-Challenges
 ***
-Ben Nelson
-Ryna Hamblin
-Tai The Thai
-Sean Chen
-Emily Sperry
-Christine Gierer
-GUEST LECTURER
-NO_VIDEO_RECORDED
+
 ***
 # [1st Lecture](https://youtu.be/52hnLC-6flY) w/Ryan Hamblin: Review Code Challenge #11 stringCompression
 ***
 #### LUNCH
 ***
-# [BROWN BAG](VIDEO_RECORDED_NOT_POSTED) w/Ryan Hamblin: Quokka
+# BROWN BAG w/Ryan Hamblin: Quokka
 ***
-# [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: Sprint / Q&A
+# 2nd Lecture w/Sean Chen: Sprint / Q&A
 - super() vs super(props)
 - only need super(props) when you want to access this.props in the constructor
 - ?still have access to it in the component?
