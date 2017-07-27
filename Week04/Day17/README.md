@@ -225,6 +225,7 @@ export default connect(mapStateToProps)(MovieDetail);
 
 ## [1h12m25s](https://youtu.be/wJatXrRg8rw?t=1h12m25s) Diagram
 - [react redux diagram picture from lecture](https://reax.s3.amazonaws.com/2016/Jul/Screen_Shot_2016_06_01_at_11_27_45_AM-1467832346235.png)
+- another [redux infographic](https://i.redd.it/hl2aytgofz6x.png)
 
 ## [1h17m42s](https://youtu.be/wJatXrRg8rw?t=1h17m42s) Q&A/misc
 ***
