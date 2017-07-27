@@ -170,14 +170,24 @@ Object {movies: Array(3), dispatch: function} // <----
 
 
 ## [49m21s](https://youtu.be/wJatXrRg8rw?t=49m21s) smart components / dumb components containers
-- React Components that are "aware" of the Redux State are smart
-- Components that aren't are "dumb" or "containers"
+- React Components that are "aware" of the Redux State are "smart components"
+- Components that aren't are "dumb components" or "containers"
 
-## [](https://youtu.be/wJatXrRg8rw?t=) updating the state and interacting with it
+## [50m37s](https://youtu.be/wJatXrRg8rw?t=50m37s) updating the state and interacting with it: the SWITCH statement
 - the "selected movie"
 - the SWITCH STATEMENT
+```js
+export default (selectedMovie = null, action) => {
+  switch(action.type) {
+    case 'MOVIE_SELECTED':
+      return action.payload;
+    default:
+      return selectedMovie;
+  }
+};
+```
 
-## [](https://youtu.be/wJatXrRg8rw?t=) action creators
+## [56m10s](https://youtu.be/wJatXrRg8rw?t=56m10s) action creators
 - action folder with index.js
 
 ## [](https://youtu.be/wJatXrRg8rw?t=) how the State gets updated
