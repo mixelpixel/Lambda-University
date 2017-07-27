@@ -87,7 +87,7 @@ const obj = {
 - this.state vs State Object
 - Ryan's comment about how to think of State
 
-### [28m35s](https://youtu.be/wJatXrRg8rw?t=28m35s) Wrapping the <App />
+## [28m35s](https://youtu.be/wJatXrRg8rw?t=28m35s) Wrapping the <App />
 - index.js
   ```js
   ReactDOM.render(
@@ -98,11 +98,42 @@ const obj = {
   registerServiceWorker();
   ```
 
-## [](https://youtu.be/wJatXrRg8rw?t=) reducers
-- reducers are just functions and what they return sets the state on the object
+- Provider attribute: store for the Application State Object
 
+## [29m47s](https://youtu.be/wJatXrRg8rw?t=29m47s) reducers
+- reducers are just functions and what they return sets the state on the object
+- src/reducers/index.js
 ```js
-import reducers from './reducers' <--- implicitly looks for index.js
+import { combineReducers } from 'redux'
+import moviesReducer from './movies';
+
+// to accomodate an array of movie titles
+// and the selection of one movie
+const rootReducer = combineReducers({
+  movies:
+});
+
+export rootReducer;
+```
+
+- src/index.js
+```js
+import reducers from './reducers'  <--- implicitly looks for /reducers/index.js
+```
+
+- anonymous functions are also known as LAMBDAS or lambda functions !!!!!!!!!
+- REDUCERS CONTROL WHAT THE STORE (THE BIG STATE) LOOKS LIKE
+
+## [40m](https://youtu.be/wJatXrRg8rw?t=40m) Redux dev tools
+- https://github.com/zalmoxisus/redux-devtools-extension
+- src/index.js
+```js
+ReactDOM.render(                      /* vvvvvv THIS vvvvvv */
+  <Provider store={createStore(reducers, window.__REDUX_DEVTOOLS_EXTENSION__ && window.__REDUX_DEVTOOLS_EXTENSION__())}>
+    <App />
+  </Provider>,
+  document.getElementById('root'));
+registerServiceWorker();
 ```
 
 ## [](https://youtu.be/wJatXrRg8rw?t=) connect
