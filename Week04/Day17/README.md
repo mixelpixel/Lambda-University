@@ -189,8 +189,41 @@ export default (selectedMovie = null, action) => {
 
 ## [56m10s](https://youtu.be/wJatXrRg8rw?t=56m10s) action creators
 - action folder with index.js
+```js
+export const selectMovie = (movie) => {
+  return {
+    type: 'MOVIE_SELECTED',
+    payload: movie
+  };
+};
+```
 
-## [](https://youtu.be/wJatXrRg8rw?t=) how the State gets updated
+- and the MovieDetail component:
+```js
+import React, { Component } from 'react';
+import { connect } from 'react-redux';
+
+class MovieDetail extends Component {
+  render() {
+    if (this.props.movie === null) return null;
+    return (
+      <div>
+        <h1>{this.props.movie.title}</h1>
+      </div>
+    );
+  }
+}
+
+const mapStateToProps = (state) => {
+  return {
+    movie: state.selectedMovie
+  };
+};
+
+export default connect(mapStateToProps)(MovieDetail);
+```
+
+## [1h1m56s](https://youtu.be/wJatXrRg8rw?t=1h1m56s) how the State gets updated
 - whenever an action is emitted it goes through EVERY reducer and a new state is returned
 
 
