@@ -56,7 +56,7 @@ const obj = {
 # [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ben Nelson: Sprint Review
 
 ***
-# [4th Lecture](https://youtu.be/wJatXrRg8rw) w/Speaker: REDUX
+# [4th Lecture](https://youtu.be/wJatXrRg8rw) w/Ben Nelson: REDUX
 - Pair Programming #6: https://github.com/sunjieming/LS-Redux.git
 - http://redux.js.org
 - movie example: https://github.com/SunJieMing/redux-example-movies
