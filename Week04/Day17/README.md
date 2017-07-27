@@ -166,11 +166,12 @@ export default connect(mapStateToObject)(Movies);; // <--- HIGHER ORDER FUNCTION
 ```console
 Movies.js:6
 Object {movies: Array(3), dispatch: function} // <----
-...
 ```
 
 
-## [](https://youtu.be/wJatXrRg8rw?t=) smart components / dumb components containers
+## [49m21s](https://youtu.be/wJatXrRg8rw?t=49m21s) smart components / dumb components containers
+- React Components that are "aware" of the Redux State are smart
+- Components that aren't are "dumb" or "containers"
 
 ## [](https://youtu.be/wJatXrRg8rw?t=) updating the state and interacting with it
 - the "selected movie"
@@ -183,8 +184,5 @@ Object {movies: Array(3), dispatch: function} // <----
 - whenever an action is emitted it goes through EVERY reducer and a new state is returned
 
 
-
-
-# Sprint / Q&A
 ***
 # fin
