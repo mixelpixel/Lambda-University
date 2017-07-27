@@ -196,7 +196,7 @@ Pair Programming #6: https://github.com/sunjieming/LS-Redux.git with Jiovan Mele
 
 ### Day 18: Thursday, July 27
 ### [DAY 18 NOTES](Week04/Day18/README.md)
-Code Challenge #14: https://github.com/ryanhca/CS1-Code-Challenges "NEW_CODE_CHALLENGE"
+Code Challenge #14: https://github.com/ryanhca/CS1-Code-Challenges "Queue Stack"
 #### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #13: constructors
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
@@ -205,7 +205,7 @@ Code Challenge #14: https://github.com/ryanhca/CS1-Code-Challenges "NEW_CODE_CHA
 ### Day 19: Friday, July 28
 ### [DAY 19 NOTES](Week04/Day19/README.md)
 Code Challenge #15: https://github.com/ryanhca/CS1-Code-Challenges "NEW_CODE_CHALLENGE"
-#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #14: PREVIOUS_CODE_CHALLENGE
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #14: queueStack
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 
