@@ -1,6 +1,6 @@
 # Lambda University - July 27, 2017: Day 018, Thursday
 ## Coding Challenge #
-- "NEW_CODE_CHALLENGE" available in https://github.com/ryanhca/CS1-Code-Challenges
+- "Queue Stack" available in https://github.com/ryanhca/CS1-Code-Challenges
 ***
 Ben Nelson
 Ryna Hamblin
