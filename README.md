@@ -142,7 +142,7 @@ Code Challenge #8: https://github.com/ryanhca/CS1-Code-Challenges "Binary Search
 #### [1st Lecture](https://youtu.be/WVevuObf0Ak) w/Tai The Thai: Review Code Challenge #7: forLoopTimeout
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ryan Hamblin: Pair Programming 3 Review
 #### [3rd Lecture](https://youtu.be/exFWxA8mGLo) w/Ryan Hamblin: Pair Programming 4 Introduction: REACT
-Pair Programming #4: https://github.com/ryanhca/LS-React-1.git
+Pair Programming #4: https://github.com/ryanhca/LS-React-1.git with Sarah Majors
 
 ### Day 13: Thursday, July 20
 ### [DAY 13 NOTES](Week03/Day13/README.md)
@@ -191,7 +191,7 @@ Code Challenge #13: https://github.com/ryanhca/CS1-Code-Challenges "Constructors
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: LS-React-II Solution Review
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ben Nelson: Sprint review
 #### [4th Lecture](https://youtu.be/wJatXrRg8rw) w/Ben Nelson: REDUX
-Pair Programming #6: https://github.com/sunjieming/LS-Redux.git
+Pair Programming #6: https://github.com/sunjieming/LS-Redux.git with Jiovan Melendez
 
 
 ### Day 18: Thursday, July 27
@@ -284,6 +284,10 @@ Code Challenge #16: https://github.com/ryanhca/CS1-Code-Challenges "NEW_CODE_CHA
 - React is [ONLY THE VIEW LAYER](http://blog.andrewray.me/reactjs-for-stupid-people/).
 - http://www.automationfuel.com/sass-react-webpack/
 - https://react-bootstrap.github.io/
+
+#### REDUX
+- The intro tutorial series from http://redux.js.org:
+	- https://egghead.io/courses/getting-started-with-redux
 
 #### JAVASCRIPT/ ECMAScript
 - Mozilla JavaScript Reference: https://developer.mozilla.org/en-US/docs/Web/JavaScript
