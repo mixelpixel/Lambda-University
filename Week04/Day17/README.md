@@ -225,7 +225,12 @@ export default connect(mapStateToProps)(MovieDetail);
 
 ## [1h1m56s](https://youtu.be/wJatXrRg8rw?t=1h1m56s) how the State gets updated
 - whenever an action is emitted it goes through EVERY reducer and a new state is returned
+- ??? import { bindActionCreators } ???
 
-
+## [1h5m50s](https://youtu.be/wJatXrRg8rw?t=1h5m35s) HOW THE STATE GETS UPDATED
+- reducers
+- switch
+- using onsole.log()s to demonstrate how things pass through the reducers
+- [react redux diagram picture from lecture](https://reax.s3.amazonaws.com/2016/Jul/Screen_Shot_2016_06_01_at_11_27_45_AM-1467832346235.png)
 ***
 # fin
