@@ -288,6 +288,7 @@ Code Challenge #16: https://github.com/ryanhca/CS1-Code-Challenges "NEW_CODE_CHA
 #### REDUX
 - The intro tutorial series from http://redux.js.org:
 	- https://egghead.io/courses/getting-started-with-redux
+- Redux dev tools: https://github.com/zalmoxisus/redux-devtools-extension
 
 #### JAVASCRIPT/ ECMAScript
 - Mozilla JavaScript Reference: https://developer.mozilla.org/en-US/docs/Web/JavaScript
