@@ -19,3 +19,6 @@
 [submodule "LS-React-II"]
 	path = LS-React-II
 	url = https://github.com/mixelpixel/LS-React-II.git
+[submodule "LS-Redux"]
+	path = LS-Redux
+	url = https://www.github.com/mixelpixel/LS-Redux.git
