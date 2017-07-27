@@ -8,7 +8,7 @@
 ***
 #### LUNCH
 ***
-# BROWN BAG w/Ryan Hamblin: Quokka
+# Brown Bag w/Ryan Hamblin: Quokka
 ***
 # 2nd Lecture w/Sean Chen: Sprint / Q&A
 - super() vs super(props)
