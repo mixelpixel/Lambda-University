@@ -56,7 +56,7 @@ NO_VIDEO_RECORDED
 ***
 #### LUNCH
 ***
-# [BROWN BAG](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+# [BROWN BAG](VIDEO_RECORDED_NOT_POSTED) w/Allan Murara: "Square Theory"
 ***
 # [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 ***
