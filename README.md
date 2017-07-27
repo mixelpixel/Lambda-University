@@ -187,7 +187,7 @@ Code Challenge #12: https://github.com/ryanhca/CS1-Code-Challenges "Operators"
 ### Day 17: Wednesday, July 26
 ### [DAY 17 NOTES](Week04/Day17/README.md)
 Code Challenge #13: https://github.com/ryanhca/CS1-Code-Challenges "Constructors"
-#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Tai: Review Code Challenge #12: operators
+#### [1st Lecture](https://youtu.be/GfOknvrEAy8) w/Tai: Review Code Challenge #12: operators
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: LS-React-II Solution Review
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ben Nelson: Sprint review
 #### [4th Lecture](https://youtu.be/wJatXrRg8rw) w/Ben Nelson: REDUX
