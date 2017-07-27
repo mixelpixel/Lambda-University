@@ -71,43 +71,56 @@ const obj = {
 - We don't let React make the changes
 - Ryan Hamblin: "Best way to look at Redux is to think if it as handling your application's state. Instead of having a bunch of components that have state all over your application, you take care of state in ONE single storage. It's pretty nifty."
 
-## the bridge
+### [@18m45s](https://youtu.be/wJatXrRg8rw?t=18m45s) getting started
+- movie example: https://github.com/SunJieMing/redux-example-movies
+- `create-react-app movie-intro`
+### [@21m20s](https://youtu.be/wJatXrRg8rw?t=12m20s) the bridge
+- installing redux
+- installing redux-react
+- USE THE SAVE FLAGS
+### [@23m20s](https://youtu.be/wJatXrRg8rw?t=12m20s) the movie project
+- index.js is the entry point
 - `import { Provider } from 'react-redux';`
 - `import { createStore } from 'redux';`
-- index.js Wrapping the <App />
-```js
-ReactDOM.render(
-<Provider store="{createStore(reducers, <paste dev tools for Redux here>)}">
-  <App />
-</Provider>
-, document.getElementById('root'));
-registerServiceWorker();
 
-```
+### [24m35s](https://youtu.be/wJatXrRg8rw?t=24m35s) Store and STATE object
+- this.state vs State Object
+- Ryan's comment about how to think of State
 
-## reducers
+### [28m35s](https://youtu.be/wJatXrRg8rw?t=28m35s) Wrapping the <App />
+- index.js
+  ```js
+  ReactDOM.render(
+  <Provider store="{createStore(reducers, <paste dev tools for Redux here>)}">
+    <App />
+  </Provider>
+  , document.getElementById('root'));
+  registerServiceWorker();
+  ```
+
+## [](https://youtu.be/wJatXrRg8rw?t=) reducers
 - reducers are just functions and what they return sets the state on the object
 
 ```js
 import reducers from './reducers' <--- implicitly looks for index.js
 ```
 
-## connect
+## [](https://youtu.be/wJatXrRg8rw?t=) connect
 - `import { connect } from 'react-redux'`
 - const mapStateToProps = (state) => {
 
 }
 
-## smart components / dumb components containers
+## [](https://youtu.be/wJatXrRg8rw?t=) smart components / dumb components containers
 
-## updating the state and interacting with it
+## [](https://youtu.be/wJatXrRg8rw?t=) updating the state and interacting with it
 - the "selected movie"
 - the SWITCH STATEMENT
 
-## action creators
+## [](https://youtu.be/wJatXrRg8rw?t=) action creators
 - action folder with index.js
 
-## how the State gets updated
+## [](https://youtu.be/wJatXrRg8rw?t=) how the State gets updated
 - whenever an action is emitted it goes through EVERY reducer and a new state is returned
 
 
