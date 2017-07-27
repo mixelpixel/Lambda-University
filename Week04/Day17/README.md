@@ -87,7 +87,7 @@ const obj = {
 - this.state vs State Object
 - Ryan's comment about how to think of State
 
-## [28m35s](https://youtu.be/wJatXrRg8rw?t=28m35s) Wrapping the <App />
+## [28m35s](https://youtu.be/wJatXrRg8rw?t=28m35s) Wrapping the `<App />`
 - index.js
   ```js
   ReactDOM.render(
