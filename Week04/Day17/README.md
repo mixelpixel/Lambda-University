@@ -57,11 +57,10 @@ const obj = {
 
 ***
 # [4th Lecture](https://youtu.be/wJatXrRg8rw) w/Speaker: REDUX
-
-- Pair Programming #6: https://github.com/??????
+- Pair Programming #6: https://github.com/sunjieming/LS-Redux.git
 - http://redux.js.org
-
-# movie example: https://github.com/SunJieMing/redux-example-movies
+- movie example: https://github.com/SunJieMing/redux-example-movies
+## [28s](https://youtu.be/wJatXrRg8rw?t=28s) what is Redux???
 - Redux is just JavaScript, but it is a design pattern with some tolls to help implement the pattern
 - Redux can be used anywhere
 - Design pattern term: Application State Object >>> Goes in to React Components >>> HTML/DOM View
