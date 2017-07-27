@@ -11,7 +11,7 @@ Christine Gierer
 GUEST LECTURER
 NO_VIDEO_RECORDED
 ***
-# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ben Nelson: Review Code Challenge #13 constructors
+# [1st Lecture](https://youtu.be/rAq7juBu7Nw) w/Ben Nelson: Review Code Challenge #13 constructors
 - Object Oriented Design
 - the inheritance is like a tree
 - ES6 classes are syntactic sugar built upon ES5 Prototypes
