@@ -180,9 +180,8 @@ Pair Programming #5: https://github.com/ryanhca/LS-React-2.git
 ### [DAY 16 NOTES](Week04/Day16/README.md)
 Code Challenge #12: https://github.com/ryanhca/CS1-Code-Challenges "Operators"
 #### [1st Lecture](https://youtu.be/52hnLC-6flY) w/Ryan Hamblin: Review Code Challenge #11 stringCompression
-#### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### Brown Bag w/Ryan Hamblin: Quokka
+#### 2nd Lecture w/Sean Chen: Sprint / Q&A
 
 
 ### Day 17: Wednesday, July 26
@@ -190,8 +189,9 @@ Code Challenge #12: https://github.com/ryanhca/CS1-Code-Challenges "Operators"
 Code Challenge #13: https://github.com/ryanhca/CS1-Code-Challenges "Constructors"
 #### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Tai: Review Code Challenge #12: operators
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: LS-React-II Solution Review
-#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-Pair Programming #6: https://github.com/ryanhca/SOMETHING.git
+#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ben Nelson: Sprint review
+#### [4th Lecture](https://youtu.be/wJatXrRg8rw) w/Ben Nelson: REDUX
+Pair Programming #6: https://github.com/sunjieming/LS-Redux.git
 
 
 ### Day 18: Thursday, July 27
@@ -277,7 +277,10 @@ Code Challenge #16: https://github.com/ryanhca/CS1-Code-Challenges "NEW_CODE_CHA
 
 #### REACT
 - https://facebook.github.io/react/docs/hello-world.html
-- React lifecycle: https://engineering.musefind.com/react-lifecycle-methods-how-and-when-to-use-them-2111a1b692b1
+- React lifecycle
+	1. https://engineering.musefind.com/react-lifecycle-methods-how-and-when-to-use-them-2111a1b692b1
+	2. https://facebook.github.io/react/docs/react-component.html
+	3. https://facebook.github.io/react/docs/components-and-props.html
 - React is [ONLY THE VIEW LAYER](http://blog.andrewray.me/reactjs-for-stupid-people/).
 - http://www.automationfuel.com/sass-react-webpack/
 - https://react-bootstrap.github.io/
