@@ -56,13 +56,8 @@ NO_VIDEO_RECORDED
 ***
 #### LUNCH
 ***
-# [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Lois Truby: ASL & Deaf Culture
+# [Brown Bag](https://youtu.be/4w0-GP7Yuks) w/Lois Truby: ASL & Deaf Culture
 ***
-# [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-***
-# [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-***
-# [4th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-# Sprint / Q&A
+# [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Sprint / Q&A
 ***
 # fin
