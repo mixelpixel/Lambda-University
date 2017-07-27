@@ -198,7 +198,7 @@ Pair Programming #6: https://github.com/sunjieming/LS-Redux.git with Jiovan Mele
 ### [DAY 18 NOTES](Week04/Day18/README.md)
 Code Challenge #14: https://github.com/ryanhca/CS1-Code-Challenges "Queue Stack"
 #### [1st Lecture](https://youtu.be/rAq7juBu7Nw) w/Ben Nelson: Review Code Challenge #13 constructors
-#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Lois Truby: ASL & Deaf Culture
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 
 
@@ -206,7 +206,7 @@ Code Challenge #14: https://github.com/ryanhca/CS1-Code-Challenges "Queue Stack"
 ### [DAY 19 NOTES](Week04/Day19/README.md)
 Code Challenge #15: https://github.com/ryanhca/CS1-Code-Challenges "NEW_CODE_CHALLENGE"
 #### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #14: queueStack
-#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 
 
