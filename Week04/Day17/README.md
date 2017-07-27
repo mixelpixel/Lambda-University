@@ -126,9 +126,10 @@ import reducers from './reducers'  <--- implicitly looks for /reducers/index.js
 
 ## [40m](https://youtu.be/wJatXrRg8rw?t=40m) Redux dev tools
 - https://github.com/zalmoxisus/redux-devtools-extension
+- Chrome extension: https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=en
 - src/index.js
 ```js
-ReactDOM.render(                      /* vvvvvv THIS vvvvvv */
+ReactDOM.render(                          /* vvvvvv THIS vvvvvv */
   <Provider store={createStore(reducers, window.__REDUX_DEVTOOLS_EXTENSION__ && window.__REDUX_DEVTOOLS_EXTENSION__())}>
     <App />
   </Provider>,
@@ -136,11 +137,61 @@ ReactDOM.render(                      /* vvvvvv THIS vvvvvv */
 registerServiceWorker();
 ```
 
-## [](https://youtu.be/wJatXrRg8rw?t=) connect
-- `import { connect } from 'react-redux'`
-- const mapStateToProps = (state) => {
+## [43m40s](https://youtu.be/wJatXrRg8rw?t=43m40s) connect, mapStateToProps and HIGHER ORDER FUNCTION call!
+- wiring in all the Redux magic!
+- in src/Movies.js:
+```jsx
+import React, { Component } from 'react';
+import { connect } from 'react-redux'; // <--- importing connect
+
+class Movies extends Component {
+  render() {
+    console.log(this.props);
+    return (
+      <div>Movies!</div>
+    );
+  }
+}
+
+const mapStateToProps = (state) => { //<--- get stuff from Application State and feed it to Component
 
 }
+
+export default connect(mapStateToObject)(Movies);; // <--- HIGHER ORDER FUNCTION
+```
+
+- NOW INSIDE THE FUNCTION WE CAN ACCESS THE PROPS!!!!
+- we can plug stuff from Application State Object into React Component
+- the `console.log(this.state);` statement makes this show up in the Dev Tools:
+```console
+Movies.js:6
+Object {movies: Array(3), dispatch: function}
+dispatch
+:
+function (e)
+movies
+:
+Array(3)
+0
+:
+Object
+1
+:
+Object
+2
+:
+Object
+length
+:
+3
+__proto__
+:
+Array(0)
+__proto__
+:
+Object
+```
+
 
 ## [](https://youtu.be/wJatXrRg8rw?t=) smart components / dumb components containers
 
