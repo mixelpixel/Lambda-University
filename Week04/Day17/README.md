@@ -165,31 +165,8 @@ export default connect(mapStateToObject)(Movies);; // <--- HIGHER ORDER FUNCTION
 - the `console.log(this.state);` statement makes this show up in the Dev Tools:
 ```console
 Movies.js:6
-Object {movies: Array(3), dispatch: function}
-dispatch
-:
-function (e)
-movies
-:
-Array(3)
-0
-:
-Object
-1
-:
-Object
-2
-:
-Object
-length
-:
-3
-__proto__
-:
-Array(0)
-__proto__
-:
-Object
+Object {movies: Array(3), dispatch: function} // <----
+...
 ```
 
 
