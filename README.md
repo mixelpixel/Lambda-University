@@ -199,7 +199,7 @@ Pair Programming #6: https://github.com/sunjieming/LS-Redux.git with Jiovan Mele
 Code Challenge #14: https://github.com/ryanhca/CS1-Code-Challenges "Queue Stack"
 #### [1st Lecture](https://youtu.be/rAq7juBu7Nw) w/Ben Nelson: Review Code Challenge #13 constructors
 #### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Lois Truby: ASL & Deaf Culture
-#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [3rd Lecture](https://youtu.be/P1kvmVfcahE) w/Ryan Hamblin: Sprint / Q&A
 
 
 ### Day 19: Friday, July 28
@@ -276,6 +276,7 @@ Code Challenge #16: https://github.com/ryanhca/CS1-Code-Challenges "NEW_CODE_CHA
 - [Callbacks](https://youtu.be/qxURd9khNgU)
 
 #### REACT
+- REACT FUNDAMENTALS: https://egghead.io/courses/react-fundamentals
 - https://facebook.github.io/react/docs/hello-world.html
 - React lifecycle
 	1. https://engineering.musefind.com/react-lifecycle-methods-how-and-when-to-use-them-2111a1b692b1
