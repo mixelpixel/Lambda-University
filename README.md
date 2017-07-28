@@ -206,7 +206,7 @@ Code Challenge #14: https://github.com/ryanhca/CS1-Code-Challenges "Queue Stack"
 ### [DAY 19 NOTES](Week04/Day19/README.md)
 Code Challenge #15: https://github.com/ryanhca/CS1-Code-Challenges "Bubble Sort"
 #### [1st Lecture](https://youtu.be/Vq0ZZcd0MLU) w/Speaker: Review Code Challenge #14: queueStack
-#### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Ben Nelson: Binary
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 
 
