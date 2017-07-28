@@ -1,7 +1,6 @@
 # Lambda University - July 27, 2017: Day 018, Thursday
 ## Coding Challenge #14
 - "Queue Stack" available in https://github.com/ryanhca/CS1-Code-Challenges
-
 ***
 # [1st Lecture](https://youtu.be/rAq7juBu7Nw) w/Ben Nelson: Review Code Challenge #13 constructors
 - Object Oriented Design
