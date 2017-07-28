@@ -43,6 +43,7 @@
 
   run(game):
   ```
+- above is a React style import/export, but here's how with node: https://github.com/bpesquet/thejsway/blob/master/manuscript/chapter24.md#nodejs-modules
 
 ***
 #### LUNCH
