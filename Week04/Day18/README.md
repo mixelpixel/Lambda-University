@@ -58,7 +58,7 @@ NO_VIDEO_RECORDED
 ***
 # [Brown Bag](https://youtu.be/4w0-GP7Yuks) w/Lois Truby: ASL & Deaf Culture
 ***
-# [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ryan Hamblin: Sprint / Q&A
+# [2nd Lecture](https://youtu.be/P1kvmVfcahE) w/Ryan Hamblin: Sprint / Q&A
 - example: https://codesandbox.io/s/3lW7XoVmx
 ***
 # fin
