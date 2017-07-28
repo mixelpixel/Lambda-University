@@ -214,7 +214,7 @@ Code Challenge #15: https://github.com/ryanhca/CS1-Code-Challenges "Bubble Sort"
 
 # Month 2: August, 2017
 ## Week 05: July 31 - August 4
-### Day 20: WEEKday, July ##
+### Day 20: Monday, July 31
 ### [DAY 20 NOTES](Week05/Day20/README.md)
 Code Challenge #16: https://github.com/ryanhca/CS1-Code-Challenges "NEW_CODE_CHALLENGE"
 #### [1st Lecture](NO_VIDEO_POSTED) w/Speaker: Code Challenge #15 review bubbleSort
