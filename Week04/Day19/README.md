@@ -11,7 +11,7 @@ Christine Gierer
 GUEST LECTURER
 NO_VIDEO_RECORDED
 ***
-# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #14 queueStack
+# [1st Lecture](https://youtu.be/Vq0ZZcd0MLU) w/Tai: Review Code Challenge #14 queueStack
 ***
 #### LUNCH
 ***
