@@ -295,6 +295,7 @@ Code Challenge #16: https://github.com/ryanhca/CS1-Code-Challenges "NEW_CODE_CHA
 - Mozilla JavaScript Reference: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 	- https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
 - [You Don't Know JS!](https://github.com/getify/You-Dont-Know-JS)
+- [The JS Way](https://github.com/bpesquet/thejsway/#readme)
 - Data Structures and Algorithms with JavaScript by Michael McMillan (posted to Slack channel)
 - Closure vids
 	- https://www.youtube.com/watch?v=CQqwU2Ixu-U
