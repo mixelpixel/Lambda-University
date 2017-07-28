@@ -204,8 +204,8 @@ Code Challenge #14: https://github.com/ryanhca/CS1-Code-Challenges "Queue Stack"
 
 ### Day 19: Friday, July 28
 ### [DAY 19 NOTES](Week04/Day19/README.md)
-Code Challenge #15: https://github.com/ryanhca/CS1-Code-Challenges "NEW_CODE_CHALLENGE"
-#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #14: queueStack
+Code Challenge #15: https://github.com/ryanhca/CS1-Code-Challenges "Bubble Sort"
+#### [1st Lecture](https://youtu.be/Vq0ZZcd0MLU) w/Speaker: Review Code Challenge #14: queueStack
 #### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 
@@ -217,7 +217,7 @@ Code Challenge #15: https://github.com/ryanhca/CS1-Code-Challenges "NEW_CODE_CHA
 ### Day 20: WEEKday, July ##
 ### [DAY 20 NOTES](Week05/Day20/README.md)
 Code Challenge #16: https://github.com/ryanhca/CS1-Code-Challenges "NEW_CODE_CHALLENGE"
-#### [1st Lecture](NO_VIDEO_POSTED) w/Speaker: Code Challenge #15 review PREVIOUS_CODE_CHALLENGE
+#### [1st Lecture](NO_VIDEO_POSTED) w/Speaker: Code Challenge #15 review bubbleSort
 #### [2nd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
 #### [3rd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
 
