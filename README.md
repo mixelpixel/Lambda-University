@@ -28,8 +28,8 @@ https://github.com/LambdaSchool/LambdaCSA-Syllabus
 #### Ben Nelson lectures
 ##### [1st Lecture](https://youtu.be/HJJDTYi9g20): ES5 and ES6, Arrow Functions, `const` & `let`, Callback Functions, Semi-Colons ;;;
 ##### [2nd Lecture](https://youtu.be/gaLr7_BMgD0): `this`, `.call()` `.apply()` & `.bind()`) and CLOSURE
-- Homework Assignment: https://github.com/SunJieMing/Advanced-JavaScript
-- Homework: https://github.com/mixelpixel/Advanced-JavaScript
+- [Week 01 Homework Assignment](https://github.com/SunJieMing/Advanced-JavaScript)
+- [Week 01 Completed Homework](https://github.com/mixelpixel/Advanced-JavaScript)
 ##### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED): `constructor` Class Functions, `for` LOOPS, `do` `while` LOOPS & RECURSION
 
 ***
@@ -64,7 +64,6 @@ https://github.com/LambdaSchool/LambdaCSA-Syllabus
 #### Ryan Hamblin lectures
 ##### [2nd Lecture](https://youtu.be/-9h9f600Q3Y): `this` 4 RULES OF `this`
 ##### [3rd Lecture](https://youtu.be/LtW4eEK39SE):  "this.js" Homework review
-- NOTE: some blocked out video/AUDIO OK
 ##### Closing sprint meeting (not recorded)
 
 
@@ -75,28 +74,24 @@ https://github.com/LambdaSchool/LambdaCSA-Syllabus
 ### Day 05: Monday, July 10
 ### [DAY 05 NOTES](Month1/Week02/Day05/README.md)
 Code Challenge #1: https://github.com/ryanhca/CS1-Code-Challenges "Longest String"
-Pair Programming #1: https://github.com/SunJieMing/LS-Data-Structures start
-- Partner: Drew Mueller
-- GitHub: {driver: passenger} => {mixelpixel: {Slack: mixelpix}, Camucamu: {Slack: capybara}}
 #### Ryan Hamblin - 1st Lecture
 ##### [Section 1](https://youtu.be/oYDDke8hehw): `bind()`
 ##### [Section 2](https://youtu.be/4kfkCJJsSuA): Week 1 Homework Review, Advanced JS "class.js"
 ##### [Section 3](https://youtu.be/A3P23iO-bas): Week 1 Homework Review, Advanced JS "objects.js"
 #### Ben Nelson lecture
 ##### [2nd Lecture](https://youtu.be/lZlV9d3t8z4): Data Structure, Big O Notation, Pair Programming
+Pair Programming #1: https://github.com/SunJieMing/LS-Data-Structures w/Drew Mueller
 
 ***
 
 ### Day 06: Tuesday, July 11
 ### [DAY 06 NOTES](Month1/Week02/Day06/README.md)
 Code Challenge #2: https://github.com/ryanhca/CS1-Code-Challenges "Is Unique?"
-Pair Programming #1: https://github.com/SunJieMing/LS-Data-Structures cont.
 #### Ryan Hamblin lectures
 ##### [1st Lecture](https://youtu.be/juZvUpn4j5Y): Review Code Challenege #1: longestString
 ##### [2nd Lecture](https://youtu.be/bAkjh-jZY8M): Brown Bag session, Visual Studio & IDE shortcuts
-- after recording, covered git/GitHub flow for coding challenges
 #### Ben Nelson lecture
-##### [3rd Lecture](https://youtu.be/7sMfjChMVaQ): Pair Prog 1 HASH TABLES & LINKED LISTS
+##### [3rd Lecture](https://youtu.be/7sMfjChMVaQ): Pair Prog #1 HASH TABLES & LINKED LISTS
 
 ***
 
@@ -105,14 +100,10 @@ Pair Programming #1: https://github.com/SunJieMing/LS-Data-Structures cont.
 Code Challenge #3: https://github.com/ryanhca/CS1-Code-Challenges "Reverse Case"
 #### Ben Nelson lectures
 ##### [1st Lecture](https://youtu.be/fHP0KMst_90): GitHub flow & resolving merge conflicts
-##### [2nd Lecture](https://youtu.be/SXvxbIEgOkw): Review Code Challenge 2: isUnique; Big O and Set()'s
+##### [2nd Lecture](https://youtu.be/SXvxbIEgOkw): Review Code Challenge #2: isUnique; Big O and Set()'s
 ##### [3rd Lecture](https://youtu.be/uGohVrgYrpQ): Solutions to Data Structures Pair Programming #1
-Pair Programming #1: https://github.com/SunJieMing/LS-Data-Structures fin, Pull Request & review
 ##### [4th Lecture](https://youtu.be/YKQSnvZGfDE): Pair Prog #2 - Data Structures 2: TREES, BINARY SEARCH TREE & GRAPHS
-Pair Programming #2: https://github.com/manishavi/LS-Data-Structures-II.git start w/Manisha Lal
-- https://github.com/SunJieMing/LS-Data-Structures-II
-- Partner: Manisha Lal, she's "driving"
-- GitHub: {driver: passenger} => {manishavi: {Slack: manishavi}, mixelpixel: {Slack: mixelpix}}
+Pair Programming #2: https://github.com/SunJieMing/LS-Data-Structures-II w/Manisha Lal
 
 ***
 
@@ -144,7 +135,7 @@ Code Challenge #6: https://github.com/ryanhca/CS1-Code-Challenges "CallBack Prac
 #### 2nd Lecture w/Sean Chen: Class Poll/Review - Data Structures II (NO VIDEO RECORDED)
 #### [3rd Lecture](https://youtu.be/a7qTzbUVVsY) w/Sean Chen: Data Structures II Solutions - Tree, Binary Search Tree & Graph
 #### [4th Lecture](https://youtu.be/BV83yPgDXBQ) w/Ryan Hamblin: Sprint for DOM Pair Programming #3
-Pair Programming #3: https://github.com/ryanhca/LS-DOM.git
+Pair Programming #3: https://github.com/ryanhca/LS-DOM.git w/John Wells
 
 ***
 
@@ -164,7 +155,7 @@ Code Challenge #8: https://github.com/ryanhca/CS1-Code-Challenges "Binary Search
 #### [1st Lecture](https://youtu.be/WVevuObf0Ak) w/Tai The Thai: Review Code Challenge #7: forLoopTimeout
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ryan Hamblin: Pair Programming 3 Review
 #### [3rd Lecture](https://youtu.be/exFWxA8mGLo) w/Ryan Hamblin: Pair Programming 4 Introduction: REACT
-Pair Programming #4: https://github.com/ryanhca/LS-React-1.git with Sarah Majors
+Pair Programming #4: https://github.com/ryanhca/LS-React-1.git w/Tyge Johnson
 
 ***
 
@@ -197,7 +188,7 @@ Code Challenge #11: https://github.com/ryanhca/CS1-Code-Challenges "String Compr
 #### [3rd Lecture](https://youtu.be/EWNijKkMSpk) w/Ben Nelson: Project Review LS-React-1 SOLUTION
 #### [4th Lecture](https://youtu.be/gpM9Hiu12mY) w/Sean Chen: LS-React-2 pt.1
 #### [5th Lecture](https://youtu.be/8wAH4Hd2Jag) w/Sean Chen: LS-React-2 pt.2
-Pair Programming #5: https://github.com/ryanhca/LS-React-2.git
+Pair Programming #5: https://github.com/ryanhca/LS-React-2.git w/Sarah Majors
 #### [6th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: Sprint Q&A
 
 ***
@@ -218,7 +209,7 @@ Code Challenge #13: https://github.com/ryanhca/CS1-Code-Challenges "Constructors
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: LS-React-II Solution Review
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ben Nelson: Sprint review
 #### [4th Lecture](https://youtu.be/wJatXrRg8rw) w/Ben Nelson: REDUX
-Pair Programming #6: https://github.com/sunjieming/LS-Redux.git with Jiovan Melendez
+Pair Programming #6: https://github.com/sunjieming/LS-Redux.git w/Jiovan Melendez
 
 ***
 
@@ -256,6 +247,7 @@ Code Challenge #16: https://github.com/LambdaSchool/CS1-Code-Challenges.git "NEW
 #### [1st Lecture](NO_VIDEO_POSTED) w/Speaker: Code Challenge #15 review bubbleSort
 #### [2nd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
 #### [3rd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
+Pair Programming #7: PAIR_PROG_URL w/
 
 ***
 
@@ -274,6 +266,7 @@ Code Challenge #18: https://github.com/LambdaSchool/CS1-Code-Challenges.git "NEW
 #### [1st Lecture](NO_VIDEO_POSTED) w/Speaker: Code Challenge #17 review bubbleSort
 #### [2nd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
 #### [3rd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
+Pair Programming #8: PAIR_PROG_URL w/
 
 ***
 
@@ -304,6 +297,7 @@ Code Challenge #21: https://github.com/LambdaSchool/CS1-Code-Challenges.git "NEW
 #### [1st Lecture](NO_VIDEO_POSTED) w/Speaker: Code Challenge #20 review bubbleSort
 #### [2nd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
 #### [3rd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
+Pair Programming #9: PAIR_PROG_URL w/
 
 ***
 
@@ -322,6 +316,7 @@ Code Challenge #23: https://github.com/LambdaSchool/CS1-Code-Challenges.git "NEW
 #### [1st Lecture](NO_VIDEO_POSTED) w/Speaker: Code Challenge #22 review bubbleSort
 #### [2nd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
 #### [3rd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
+Pair Programming #10: PAIR_PROG_URL w/
 
 ***
 
