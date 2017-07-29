@@ -8,6 +8,8 @@ https://github.com/LambdaSchool/LambdaCSA-Syllabus
 - [Lambda University Curriculum](https://docs.google.com/document/d/1Csrb2C5H6mdVsIdUi_CdKB_bY__Lpnx_fWuV4vNdsck/edit)
 ***
 
+<details><summary>Month 1</summary><p>
+
 # Month 1: July, 2017
 ## Week 01: July 3 - 7
 ### Day 01: Monday, July 3
@@ -209,6 +211,8 @@ Code Challenge #15: https://github.com/LambdaSchool/CS1-Code-Challenges.git "Bub
 #### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Ben Nelson: Binary
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: BinarySprint / Q&A
 
+
+</p></details>
 
 ***
 
