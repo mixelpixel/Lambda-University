@@ -226,32 +226,32 @@ Code Challenge #16: https://github.com/LambdaSchool/CS1-Code-Challenges.git "NEW
 #### [3rd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
 
 
-### Day 21: Monday, August 1
-### [DAY 20 NOTES](Month2/Week05/Day20/README.md)
+### Day 21: Monday, August 01
+### [DAY 21 NOTES](Month2/Week05/Day21/README.md)
 Code Challenge #17: https://github.com/LambdaSchool/CS1-Code-Challenges.git "NEW_CODE_CHALLENGE"
 #### [1st Lecture](NO_VIDEO_POSTED) w/Speaker: Code Challenge #16 review bubbleSort
 #### [2nd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
 #### [3rd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
 
 
-### Day 22: Monday, August 2
-### [DAY 20 NOTES](Month2/Week05/Day20/README.md)
+### Day 22: Monday, August 02
+### [DAY 22 NOTES](Month2/Week05/Day22/README.md)
 Code Challenge #18: https://github.com/LambdaSchool/CS1-Code-Challenges.git "NEW_CODE_CHALLENGE"
 #### [1st Lecture](NO_VIDEO_POSTED) w/Speaker: Code Challenge #17 review bubbleSort
 #### [2nd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
 #### [3rd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
 
 
-### Day 23: Monday, August 3
-### [DAY 20 NOTES](Month2/Week05/Day20/README.md)
+### Day 23: Monday, August 03
+### [DAY 23 NOTES](Month2/Week05/Day23/README.md)
 Code Challenge #19: https://github.com/LambdaSchool/CS1-Code-Challenges.git "NEW_CODE_CHALLENGE"
 #### [1st Lecture](NO_VIDEO_POSTED) w/Speaker: Code Challenge #18 review bubbleSort
 #### [2nd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
 #### [3rd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
 
 
-### Day 24: Monday, August 4
-### [DAY 20 NOTES](Month2/Week05/Day20/README.md)
+### Day 24: Monday, August 04
+### [DAY 24 NOTES](Month2/Week05/Day24/README.md)
 Code Challenge #20: https://github.com/LambdaSchool/CS1-Code-Challenges.git "NEW_CODE_CHALLENGE"
 #### [1st Lecture](NO_VIDEO_POSTED) w/Speaker: Code Challenge #19 review bubbleSort
 #### [2nd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
@@ -261,6 +261,46 @@ Code Challenge #20: https://github.com/LambdaSchool/CS1-Code-Challenges.git "NEW
 ***
 
 ## Week 06: Aug. 7 - 11
+### Day 25: Monday, August 07
+### [DAY 24 NOTES](Month2/Week05/Day25/README.md)
+Code Challenge #21: https://github.com/LambdaSchool/CS1-Code-Challenges.git "NEW_CODE_CHALLENGE"
+#### [1st Lecture](NO_VIDEO_POSTED) w/Speaker: Code Challenge #20 review bubbleSort
+#### [2nd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
+#### [3rd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
+
+
+### Day 26: Monday, August 08
+### [DAY 26 NOTES](Month2/Week05/Day26/README.md)
+Code Challenge #22: https://github.com/LambdaSchool/CS1-Code-Challenges.git "NEW_CODE_CHALLENGE"
+#### [1st Lecture](NO_VIDEO_POSTED) w/Speaker: Code Challenge #21 review bubbleSort
+#### [2nd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
+#### [3rd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
+
+
+### Day 27: Monday, August 09
+### [DAY 27 NOTES](Month2/Week05/Day27/README.md)
+Code Challenge #23: https://github.com/LambdaSchool/CS1-Code-Challenges.git "NEW_CODE_CHALLENGE"
+#### [1st Lecture](NO_VIDEO_POSTED) w/Speaker: Code Challenge #22 review bubbleSort
+#### [2nd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
+#### [3rd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
+
+
+### Day 28: Monday, August 10
+### [DAY 28 NOTES](Month2/Week05/Day28/README.md)
+Code Challenge #24: https://github.com/LambdaSchool/CS1-Code-Challenges.git "NEW_CODE_CHALLENGE"
+#### [1st Lecture](NO_VIDEO_POSTED) w/Speaker: Code Challenge #23 review bubbleSort
+#### [2nd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
+#### [3rd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
+
+
+### Day 29: Monday, August 11
+### [DAY 29 NOTES](Month2/Week05/Day29/README.md)
+Code Challenge #25: https://github.com/LambdaSchool/CS1-Code-Challenges.git "NEW_CODE_CHALLENGE"
+#### [1st Lecture](NO_VIDEO_POSTED) w/Speaker: Code Challenge #24 review bubbleSort
+#### [2nd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
+#### [3rd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
+
+
 ***
 ## Week 07: Aug. 14 - 18
 ***
