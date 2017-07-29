@@ -4,7 +4,7 @@ https://github.com/LambdaSchool/LambdaCSA-Syllabus
 ***
 
 
-<details><summary><h2>Pre-Course Work</h2></summary><p>
+<details><summary>Pre-Course Work</summary><p>
 
 
 - [Pre-Course Work](https://docs.google.com/document/d/1YKYxzNt6QZxnPw8xOT-Qyf1BY0cHb-Us1ydzZTphxRI/edit)
@@ -20,7 +20,7 @@ https://github.com/LambdaSchool/LambdaCSA-Syllabus
 ***
 
 
-<details><summary><h1>Month 1: July, 2017</h1></summary><p>
+<details><summary>Month 1: July, 2017</summary><p>
 
 ## Week 01: July 3 - 7
 ### Day 01: Monday, July 3
@@ -245,7 +245,7 @@ Code Challenge #15: https://github.com/LambdaSchool/CS1-Code-Challenges.git "Bub
 ***
 
 
-<details><summary><h1>Month 2: August, 2017</h1></summary><p>
+<details><summary>Month 2: August, 2017</summary><p>
 
 
 # Month 2: August, 2017
@@ -362,7 +362,7 @@ Code Challenge #25: https://github.com/LambdaSchool/CS1-Code-Challenges.git "NEW
 ***
 
 
-<details><summary><h1>Month 3: September, 2017</h1></summary><p>
+<details><summary>Month 3: September, 2017</summary><p>
 
 
 ## Week 09: Sept. 4 - 8
@@ -386,7 +386,7 @@ Code Challenge #25: https://github.com/LambdaSchool/CS1-Code-Challenges.git "NEW
 ***
 
 
-<details><summary><h1>Month 4: October, 2017</h1></summary><p>
+<details><summary>Month 4: October, 2017</summary><p>
 
 
 ## Week 13: Oct. 2 - 6
@@ -410,7 +410,7 @@ Code Challenge #25: https://github.com/LambdaSchool/CS1-Code-Challenges.git "NEW
 ***
 
 
-<details><summary><h1>Month 5: November, 2017</h1></summary><p>
+<details><summary>Month 5: November, 2017</summary><p>
 
 
 ## Week 17: Oct. 30 - Nov. 3
@@ -438,7 +438,7 @@ Code Challenge #25: https://github.com/LambdaSchool/CS1-Code-Challenges.git "NEW
 ***
 
 
-<details><summary><h1>Month 6: December, 2017</h1></summary><p>
+<details><summary>Month 6: December, 2017</summary><p>
 
 
 ## Week 22: Dec. 4 - 8
@@ -462,8 +462,8 @@ Code Challenge #25: https://github.com/LambdaSchool/CS1-Code-Challenges.git "NEW
 ***
 
 
-# Additional Resources:
-#### Lambda Uuniversity:
+### Additional Resources:
+#### Lambda University:
 - Lambda University's Google Calendar [Invite](https://www.google.com/calendar/render?cid=bGFtYmRhc2Nob29sLmNvbV81dmJxNzByMWpnOG5kdmQxNGJoYTVzbWJqY0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&invEmailKey=mixelpix@mac.com:84d4f84c0778cc54f71761d34d12b62c328804d5)
 - Tyge Johnson's Collection of Lecture [videos](https://docs.google.com/spreadsheets/d/1vkjyltR9gWK2Qsq3azn8nUuqXuGV7xa8tNxOSpmZ0Ag/edit#gid=0)
 - "[Cracking the Coding Interview](http://www.crackingthecodinginterview.com/)" by Gayle Laakmann McDowell
