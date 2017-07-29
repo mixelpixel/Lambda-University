@@ -1,12 +1,24 @@
 # Lambda University
 https://github.com/LambdaSchool/LambdaCSA-Syllabus
-## Pre-Course Work
+### !EASTER EGGS: Click on the ▶︎ black ▶︎ triangles ▶︎ to reveal the EASTER EGGS!
+***
+
+
+<details><summary><h2>Pre-Course Work</h2></summary><p>
+
+
 - [Pre-Course Work](https://docs.google.com/document/d/1YKYxzNt6QZxnPw8xOT-Qyf1BY0cHb-Us1ydzZTphxRI/edit)
 	1. I earned a [Standford CS 101 Certificate](https://prod-cert-bucket.s3.amazonaws.com/downloads/9081486833cb4f1586f69479d17c6bb3/Statement.pdf)!
 	2. To be completed:
 		- Lambda Pro's [React](https://lambdaschool.com/pro/react), Node, ES6, and Mongo courses
 - [Lambda University Curriculum](https://docs.google.com/document/d/1Csrb2C5H6mdVsIdUi_CdKB_bY__Lpnx_fWuV4vNdsck/edit)
+
+
+</p></details>
+
+
 ***
+
 
 <details><summary><h1>Month 1: July, 2017</h1></summary><p>
 
@@ -214,6 +226,9 @@ Code Challenge #15: https://github.com/LambdaSchool/CS1-Code-Challenges.git "Bub
 </p></details>
 
 
+***
+
+
 <details><summary><h1>Month 2: August, 2017</h1></summary><p>
 
 
@@ -315,36 +330,78 @@ Code Challenge #25: https://github.com/LambdaSchool/CS1-Code-Challenges.git "NEW
 
 ***
 
-# Month 3: September, 2017
+
+<details><summary><h1>Month 3: September, 2017</h1></summary><p>
+
+
 ## Week 09: Sept. 4 - 8
+***
 ## Week 10: Sept. 11 -15
+***
 ## Week 11: Sept. 18 - 22
+***
 ## Week 12: Sept. 25 - 29
 
+
+</p></details>
+
+
 ***
 
-# Month 4: October, 2017
+
+<details><summary><h1>Month 4: October, 2017</h1></summary><p>
+
+
 ## Week 13: Oct. 2 - 6
+***
 ## Week 14: Oct. 9 - 13
+***
 ## Week 15: Oct. 16 - 20
+***
 ## Week 16: Oct. 23 - 27
 
+
+</p></details>
+
+
 ***
 
-# Month 5: November, 2017
+
+<details><summary><h1>Month 5: November, 2017</h1></summary><p>
+
+
 ## Week 17: Oct. 30 - Nov. 3
+***
 ## Week 18: Nov. 6 - 10
+***
 ## Week 19: Nov. 13 - 17
+***
 ## Week 20: Nov. 20 - 24
+***
 ## Week 21: Nov. 27 - Dec. 1
 
+
+</p></details>
+
+
 ***
 
-# Month 6: December, 2017
+
+<details><summary><h1>Month 6: December, 2017</h1></summary><p>
+
+
 ## Week 22: Dec. 4 - 8
+***
 ## Week 23: Dec. 11 - 15
+***
 ## Week 24: Dec. 18 - 22
+***
 ## Week 25: Dec. 25 Christmas!
+
+
+</p></details>
+
+
 ***
 
 # Additional Resources:
