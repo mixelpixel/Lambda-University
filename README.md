@@ -8,9 +8,9 @@ https://github.com/LambdaSchool/LambdaCSA-Syllabus
 - [Lambda University Curriculum](https://docs.google.com/document/d/1Csrb2C5H6mdVsIdUi_CdKB_bY__Lpnx_fWuV4vNdsck/edit)
 ***
 
-<details><summary>Month 1</summary><p>
+<details><summary><h1>Month 1: July, 2017</h1></summary><p>
 
-# Month 1: July, 2017
+
 ## Week 01: July 3 - 7
 ### Day 01: Monday, July 3
 ### [DAY 01 NOTES](Month1/Week01/Day01/README.md)
