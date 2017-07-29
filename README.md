@@ -10,7 +10,6 @@ https://github.com/LambdaSchool/LambdaCSA-Syllabus
 
 <details><summary><h1>Month 1: July, 2017</h1></summary><p>
 
-
 ## Week 01: July 3 - 7
 ### Day 01: Monday, July 3
 ### [DAY 01 NOTES](Month1/Week01/Day01/README.md)
@@ -214,7 +213,10 @@ Code Challenge #15: https://github.com/LambdaSchool/CS1-Code-Challenges.git "Bub
 
 </p></details>
 
-***
+
+<details><summary><h1>Month 2: August, 2017</h1></summary><p>
+
+
 
 # Month 2: August, 2017
 ## Week 05: July 31 - August 4
@@ -307,6 +309,10 @@ Code Challenge #25: https://github.com/LambdaSchool/CS1-Code-Challenges.git "NEW
 ## Week 08: Aug. 21 - 25
 ***
 ## Week 08: Aug. 27 - Sept. 1
+
+
+</p></details>
+
 
 ***
 
