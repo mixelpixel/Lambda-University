@@ -11,7 +11,7 @@ https://github.com/LambdaSchool/LambdaCSA-Syllabus
 # Month 1: July, 2017
 ## Week 01: July 3 - 7
 ### Day 01: Monday, July 3
-### [DAY 1 NOTES](Week01/Day01/README.md)
+### [DAY 01 NOTES](Month1/Week01/Day01/README.md)
 #### Ben Nelson lectures
 ##### [1st Lecture](https://youtu.be/HJJDTYi9g20): ES5 and ES6, Arrow Functions, `const` & `let`, Callback Functions, Semi-Colons ;;;
 ##### [2nd Lecture](https://youtu.be/gaLr7_BMgD0): `this`, `.call()` `.apply()` & `.bind()`) and CLOSURE
@@ -21,7 +21,7 @@ https://github.com/LambdaSchool/LambdaCSA-Syllabus
 
 
 ### Day 02: Wednesday, July 5
-### [DAY 2 NOTES](Week01/Day02/README.md)
+### [DAY 02 NOTES](Month1/Week01/Day02/README.md)
 #### Ryan Hamblin lectures
 ##### [1st Lecture](https://youtu.be/P6lw-HOaqmI): Each, Map Homework Review & Q&A re: for loops, forEach, nested loops
 ##### [2nd Lecture](https://youtu.be/dyyuDaZngXc): Reduce Homework Review
@@ -31,7 +31,7 @@ https://github.com/LambdaSchool/LambdaCSA-Syllabus
 
 
 ### Day 03: Thursday, July 6
-### [DAY 3 NOTES](Week01/Day03/README.md)
+### [DAY 03 NOTES](Month1/Week01/Day03/README.md)
 #### GUEST LECTURER: Karthik Viswanathan
 - https://karthikv.net/
 - https://github.com/karthikv
@@ -42,7 +42,7 @@ https://github.com/LambdaSchool/LambdaCSA-Syllabus
 
 
 ### Day 04: Friday, July 7
-### [DAY 4 NOTES](Week01/Day04/README.md)
+### [DAY 04 NOTES](Month1/Week01/Day04/README.md)
 #### Ben Nelson lecture
 ##### [1st Lecture](https://youtu.be/JxCVug-Jo_s): Closure & Recursion review
 #### Ryan Hamblin lectures
@@ -57,7 +57,7 @@ https://github.com/LambdaSchool/LambdaCSA-Syllabus
 
 ## Week 02: July 10 - 14
 ### Day 05: Monday, July 10
-### [DAY 5 NOTES](Week02/Day05/README.md)
+### [DAY 05 NOTES](Month1/Week02/Day05/README.md)
 Code Challenge #1: https://github.com/ryanhca/CS1-Code-Challenges "Longest String"
 Pair Programming #1: https://github.com/SunJieMing/LS-Data-Structures start
 - Partner: Drew Mueller
@@ -71,7 +71,7 @@ Pair Programming #1: https://github.com/SunJieMing/LS-Data-Structures start
 
 
 ### Day 06: Tuesday, July 11
-### [DAY 6 NOTES](Week02/Day06/README.md)
+### [DAY 06 NOTES](Month1/Week02/Day06/README.md)
 Code Challenge #2: https://github.com/ryanhca/CS1-Code-Challenges "Is Unique?"
 Pair Programming #1: https://github.com/SunJieMing/LS-Data-Structures cont.
 #### Ryan Hamblin lectures
@@ -83,7 +83,7 @@ Pair Programming #1: https://github.com/SunJieMing/LS-Data-Structures cont.
 
 
 ### Day 07: Wednesday, July 12
-### [DAY 7 NOTES](Week02/Day07/README.md)
+### [DAY 07 NOTES](Month1/Week02/Day07/README.md)
 Code Challenge #3: https://github.com/ryanhca/CS1-Code-Challenges "Reverse Case"
 #### Ben Nelson lectures
 ##### [1st Lecture](https://youtu.be/fHP0KMst_90): GitHub flow & resolving merge conflicts
@@ -98,7 +98,7 @@ Pair Programming #2: https://github.com/manishavi/LS-Data-Structures-II.git star
 
 
 ### Day 08: Thursday, July 13
-### [DAY 8 NOTES](Week02/Day08/README.md)
+### [DAY 08 NOTES](Month1/Week02/Day08/README.md)
 Code Challenge #4: https://github.com/ryanhca/CS1-Code-Challenges "Largest Prime Palindrome"
 #### [1st Lecture](https://youtu.be/JWNE9lsFcYg) w/Tai The Thai: Review Code Challenge #3: reverseCase
 #### [2nd Lecture](https://youtu.be/pCdtDj4NGpA) w/Ryan Hamblin: Brown Bag - tips and thoughts on using Slack!
@@ -106,7 +106,7 @@ Code Challenge #4: https://github.com/ryanhca/CS1-Code-Challenges "Largest Prime
 
 
 ### Day 09: Friday, July 14
-### [DAY 9 NOTES](Week02/Day09/README.md)
+### [DAY 09 NOTES](Month1/Week02/Day09/README.md)
 Code Challenge #5: https://github.com/ryanhca/CS1-Code-Challenges "Even Occurences"
 #### [1st Lecture](https://youtu.be/F0y2sJHQzzs) w/Ryan Hamblin: Review Code Challenge #4: longestPrimePalindrome & Coercion == vs. ===
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ryan Hamblin: Brown Bag
@@ -118,7 +118,7 @@ Code Challenge #5: https://github.com/ryanhca/CS1-Code-Challenges "Even Occurenc
 
 ## Week 03: July 17 - 21
 ### Day 10: Monday, July 17
-### [DAY 10 NOTES](Week03/Day10/README.md)
+### [DAY 10 NOTES](Month1/Week03/Day10/README.md)
 Code Challenge #6: https://github.com/ryanhca/CS1-Code-Challenges "CallBack Practice"
 #### [1st Lecture](https://youtu.be/GPLF6kWI2KY) w/Tai The Thai: Review Code Challenge #5: evenOccurences
 #### 2nd Lecture w/Sean Chen: Class Poll/Review - Data Structures II (NO VIDEO RECORDED)
@@ -128,7 +128,7 @@ Pair Programming #3: https://github.com/ryanhca/LS-DOM.git
 
 
 ### Day 11: Tuesday, July 18
-### [DAY 11 NOTES](Week03/Day11/README.md)
+### [DAY 11 NOTES](Month1/Week03/Day11/README.md)
 Code Challenge #7: https://github.com/ryanhca/CS1-Code-Challenges "For Loop Timeout()"
 #### [1st Lecture](https://youtu.be/LJLl7v3UUJo) w/Tai The Thai: Review Code Challenge #6: callbackPractice
 #### [2nd Lecture](https://youtu.be/lD7CnIM21T4) w/Tai The Thai: Object[key: value] review
@@ -137,7 +137,7 @@ Code Challenge #7: https://github.com/ryanhca/CS1-Code-Challenges "For Loop Time
 
 
 ### Day 12: Wednesday, July 19
-### [DAY 12 NOTES](Week03/Day12/README.md)
+### [DAY 12 NOTES](Month1/Week03/Day12/README.md)
 Code Challenge #8: https://github.com/ryanhca/CS1-Code-Challenges "Binary Search"
 #### [1st Lecture](https://youtu.be/WVevuObf0Ak) w/Tai The Thai: Review Code Challenge #7: forLoopTimeout
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ryan Hamblin: Pair Programming 3 Review
@@ -145,7 +145,7 @@ Code Challenge #8: https://github.com/ryanhca/CS1-Code-Challenges "Binary Search
 Pair Programming #4: https://github.com/ryanhca/LS-React-1.git with Sarah Majors
 
 ### Day 13: Thursday, July 20
-### [DAY 13 NOTES](Week03/Day13/README.md)
+### [DAY 13 NOTES](Month1/Week03/Day13/README.md)
 Code Challenge #9: https://github.com/ryanhca/CS1-Code-Challenges "Brain Teaser: Water Bucket"
 #### [1st Lecture](https://youtu.be/sfaJU2Fa2Ew) w/Ben Nelson: Review Code Challenge #8: binarySearch
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ben Nelson: Concurrency Model & Event Loop
@@ -153,7 +153,7 @@ Code Challenge #9: https://github.com/ryanhca/CS1-Code-Challenges "Brain Teaser:
 
 
 ### Day 14: Friday, July 21
-### [DAY 14 NOTES](Week03/Day14/README.md)
+### [DAY 14 NOTES](Month1/Week03/Day14/README.md)
 Code Challenge #10: https://github.com/ryanhca/CS1-Code-Challenges "Array"
 #### [1st Lecture](https://youtu.be/jVfmcDDC-lY) w/Tai: Review Code Challenge #9: waterBucket
 #### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Jason Campbell: "Insurance Basics"
@@ -165,7 +165,7 @@ Code Challenge #10: https://github.com/ryanhca/CS1-Code-Challenges "Array"
 
 ## Week 04: July 24 - 28
 ### Day 15: Monday, July 24
-### [DAY 15 NOTES](Week04/Day15/README.md)
+### [DAY 15 NOTES](Month1/Week04/Day15/README.md)
 Code Challenge #11: https://github.com/ryanhca/CS1-Code-Challenges "String Compression"
 #### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: Review Code Challenge #10: array
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: Sprint Review LS-React-1
@@ -177,7 +177,7 @@ Pair Programming #5: https://github.com/ryanhca/LS-React-2.git
 
 
 ### Day 16: Tuesday, July 25
-### [DAY 16 NOTES](Week04/Day16/README.md)
+### [DAY 16 NOTES](Month1/Week04/Day16/README.md)
 Code Challenge #12: https://github.com/ryanhca/CS1-Code-Challenges "Operators"
 #### [1st Lecture](https://youtu.be/52hnLC-6flY) w/Ryan Hamblin: Review Code Challenge #11 stringCompression
 #### Brown Bag w/Ryan Hamblin: Quokka
@@ -185,7 +185,7 @@ Code Challenge #12: https://github.com/ryanhca/CS1-Code-Challenges "Operators"
 
 
 ### Day 17: Wednesday, July 26
-### [DAY 17 NOTES](Week04/Day17/README.md)
+### [DAY 17 NOTES](Month1/Week04/Day17/README.md)
 Code Challenge #13: https://github.com/ryanhca/CS1-Code-Challenges "Constructors"
 #### [1st Lecture](https://youtu.be/GfOknvrEAy8) w/Tai: Review Code Challenge #12: operators
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: LS-React-II Solution Review
@@ -195,7 +195,7 @@ Pair Programming #6: https://github.com/sunjieming/LS-Redux.git with Jiovan Mele
 
 
 ### Day 18: Thursday, July 27
-### [DAY 18 NOTES](Week04/Day18/README.md)
+### [DAY 18 NOTES](Month1/Week04/Day18/README.md)
 Code Challenge #14: https://github.com/ryanhca/CS1-Code-Challenges "Queue Stack"
 #### [1st Lecture](https://youtu.be/rAq7juBu7Nw) w/Ben Nelson: Review Code Challenge #13 constructors
 #### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Lois Truby: ASL & Deaf Culture
@@ -203,11 +203,11 @@ Code Challenge #14: https://github.com/ryanhca/CS1-Code-Challenges "Queue Stack"
 
 
 ### Day 19: Friday, July 28
-### [DAY 19 NOTES](Week04/Day19/README.md)
-Code Challenge #15: https://github.com/ryanhca/CS1-Code-Challenges "Bubble Sort"
-#### [1st Lecture](https://youtu.be/Vq0ZZcd0MLU) w/Speaker: Review Code Challenge #14: queueStack
+### [DAY 19 NOTES](Month1/Week04/Day19/README.md)
+Code Challenge #15: https://github.com/LambdaSchool/CS1-Code-Challenges.git "Bubble Sort"
+#### [1st Lecture](https://youtu.be/Vq0ZZcd0MLU) w/Tai: Review Code Challenge #14: queueStack
 #### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Ben Nelson: Binary
-#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: BinarySprint / Q&A
 
 
 ***
@@ -215,11 +215,44 @@ Code Challenge #15: https://github.com/ryanhca/CS1-Code-Challenges "Bubble Sort"
 # Month 2: August, 2017
 ## Week 05: July 31 - August 4
 ### Day 20: Monday, July 31
-### [DAY 20 NOTES](Week05/Day20/README.md)
-Code Challenge #16: https://github.com/ryanhca/CS1-Code-Challenges "NEW_CODE_CHALLENGE"
+### [DAY 20 NOTES](Month2/Week05/Day20/README.md)
+Code Challenge #16: https://github.com/LambdaSchool/CS1-Code-Challenges.git "NEW_CODE_CHALLENGE"
 #### [1st Lecture](NO_VIDEO_POSTED) w/Speaker: Code Challenge #15 review bubbleSort
 #### [2nd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
 #### [3rd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
+
+
+### Day 21: Monday, August 1
+### [DAY 20 NOTES](Month2/Week05/Day20/README.md)
+Code Challenge #17: https://github.com/LambdaSchool/CS1-Code-Challenges.git "NEW_CODE_CHALLENGE"
+#### [1st Lecture](NO_VIDEO_POSTED) w/Speaker: Code Challenge #16 review bubbleSort
+#### [2nd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
+#### [3rd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
+
+
+### Day 22: Monday, August 2
+### [DAY 20 NOTES](Month2/Week05/Day20/README.md)
+Code Challenge #18: https://github.com/LambdaSchool/CS1-Code-Challenges.git "NEW_CODE_CHALLENGE"
+#### [1st Lecture](NO_VIDEO_POSTED) w/Speaker: Code Challenge #17 review bubbleSort
+#### [2nd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
+#### [3rd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
+
+
+### Day 23: Monday, August 3
+### [DAY 20 NOTES](Month2/Week05/Day20/README.md)
+Code Challenge #19: https://github.com/LambdaSchool/CS1-Code-Challenges.git "NEW_CODE_CHALLENGE"
+#### [1st Lecture](NO_VIDEO_POSTED) w/Speaker: Code Challenge #18 review bubbleSort
+#### [2nd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
+#### [3rd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
+
+
+### Day 24: Monday, August 4
+### [DAY 20 NOTES](Month2/Week05/Day20/README.md)
+Code Challenge #20: https://github.com/LambdaSchool/CS1-Code-Challenges.git "NEW_CODE_CHALLENGE"
+#### [1st Lecture](NO_VIDEO_POSTED) w/Speaker: Code Challenge #19 review bubbleSort
+#### [2nd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
+#### [3rd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
+
 
 ***
 
