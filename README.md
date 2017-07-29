@@ -227,7 +227,7 @@ Code Challenge #14: https://github.com/ryanhca/CS1-Code-Challenges "Queue Stack"
 Code Challenge #15: https://github.com/LambdaSchool/CS1-Code-Challenges.git "Bubble Sort"
 #### [1st Lecture](https://youtu.be/Vq0ZZcd0MLU) w/Tai: Review Code Challenge #14: queueStack
 #### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Ben Nelson: Binary
-#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: BinarySprint / Q&A
+#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: Sprint / Q&A
 
 
 </p></details>
