@@ -1,6 +1,6 @@
-# Lambda University - July 31, 2017: Day 20, Monday
-## Coding Challenge #16
-- "NEW_CODE_CHALLENGE" available in https://github.com/ryanhca/CS1-Code-Challenges
+# Lambda University - August 09, 2017: Day 027, Wednesday
+## Coding Challenge #23
+- "NEW_CODE_CHALLENGE" available in https://github.com/LambdaSchool/CS1-Code-Challenges.git
 ***
 Ben Nelson
 Ryna Hamblin
@@ -11,7 +11,7 @@ Christine Gierer
 GUEST LECTURER
 NO_VIDEO_RECORDED
 ***
-# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #15: bubbleSort
+# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #22: PREVIOUS_CODE_CHALLENGE
 ***
 #### LUNCH
 ***
