@@ -538,9 +538,9 @@ Code Challenge #25: https://github.com/LambdaSchool/CS1-Code-Challenges.git "NEW
 	- [FLEXBOX](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 ##### Unsorted
-	- Ryan Sherill: [Extra Resources list](https://docs.google.com/document/d/1y5B_glCrLRo8Vnu93QMKjFrfAN3a-GFPzgGz76rTTIQ/edit)
+- Ryan Sherill: [Extra Resources list](https://docs.google.com/document/d/1y5B_glCrLRo8Vnu93QMKjFrfAN3a-GFPzgGz76rTTIQ/edit)
 
 ##### Some old school b.g. reading:
-	- [Assembly Language Programming](https://archive.org/stream/8080a8085AssemblyLanguageProgramming/Leventhal-8080a-8085AssemblyLanguageProgramming)
-	- [An Introduction To Microcomputers Volume 0](https://archive.org/stream/AnIntroductionToMicrocomputersVolume0/Osborne-AnIntroductionToMicrocomputersVolume0)
-	- [An Introduction To Microprocessors Volume 1](https://archive.org/stream/AnIntroductionToMicroprocessorsVolume1/Osborne-AnIntroductionToMicroprocessorsVolume1)
+- [Assembly Language Programming](https://archive.org/stream/8080a8085AssemblyLanguageProgramming/Leventhal-8080a-8085AssemblyLanguageProgramming)
+- [An Introduction To Microcomputers Volume 0](https://archive.org/stream/AnIntroductionToMicrocomputersVolume0/Osborne-AnIntroductionToMicrocomputersVolume0)
+- [An Introduction To Microprocessors Volume 1](https://archive.org/stream/AnIntroductionToMicroprocessorsVolume1/Osborne-AnIntroductionToMicroprocessorsVolume1)
