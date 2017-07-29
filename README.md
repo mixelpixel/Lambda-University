@@ -32,6 +32,7 @@ https://github.com/LambdaSchool/LambdaCSA-Syllabus
 - Homework: https://github.com/mixelpixel/Advanced-JavaScript
 ##### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED): `constructor` Class Functions, `for` LOOPS, `do` `while` LOOPS & RECURSION
 
+***
 
 ### Day 02: Wednesday, July 5
 ### [DAY 02 NOTES](Month1/Week01/Day02/README.md)
@@ -42,6 +43,7 @@ https://github.com/LambdaSchool/LambdaCSA-Syllabus
 ##### [3rd Lecture](https://youtu.be/2mIvc0wc0oI): D.R.Y. and Functions 101
 ##### [4th Lecture](https://youtu.be/Y3NRA2-kvbY): backtick string formatting, Method declaration shortcut, SPREAD operator, REST parameter, `arguments`, Classes
 
+***
 
 ### Day 03: Thursday, July 6
 ### [DAY 03 NOTES](Month1/Week01/Day03/README.md)
@@ -53,6 +55,7 @@ https://github.com/LambdaSchool/LambdaCSA-Syllabus
 ##### [2nd Lecture](https://youtu.be/exSwdXfeBtI): Basic JS w/ES6 review & Q&A: variables, branching logic,  AirBnB style, Ternary, for loop, const v let, forEach, wordsToSentences problem
 ##### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED): End of day review & Q&A
 
+***
 
 ### Day 04: Friday, July 7
 ### [DAY 04 NOTES](Month1/Week01/Day04/README.md)
@@ -82,6 +85,7 @@ Pair Programming #1: https://github.com/SunJieMing/LS-Data-Structures start
 #### Ben Nelson lecture
 ##### [2nd Lecture](https://youtu.be/lZlV9d3t8z4): Data Structure, Big O Notation, Pair Programming
 
+***
 
 ### Day 06: Tuesday, July 11
 ### [DAY 06 NOTES](Month1/Week02/Day06/README.md)
@@ -94,6 +98,7 @@ Pair Programming #1: https://github.com/SunJieMing/LS-Data-Structures cont.
 #### Ben Nelson lecture
 ##### [3rd Lecture](https://youtu.be/7sMfjChMVaQ): Pair Prog 1 HASH TABLES & LINKED LISTS
 
+***
 
 ### Day 07: Wednesday, July 12
 ### [DAY 07 NOTES](Month1/Week02/Day07/README.md)
@@ -109,6 +114,7 @@ Pair Programming #2: https://github.com/manishavi/LS-Data-Structures-II.git star
 - Partner: Manisha Lal, she's "driving"
 - GitHub: {driver: passenger} => {manishavi: {Slack: manishavi}, mixelpixel: {Slack: mixelpix}}
 
+***
 
 ### Day 08: Thursday, July 13
 ### [DAY 08 NOTES](Month1/Week02/Day08/README.md)
@@ -117,6 +123,7 @@ Code Challenge #4: https://github.com/ryanhca/CS1-Code-Challenges "Largest Prime
 #### [2nd Lecture](https://youtu.be/pCdtDj4NGpA) w/Ryan Hamblin: Brown Bag - tips and thoughts on using Slack!
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ben Nelson: Q&A
 
+***
 
 ### Day 09: Friday, July 14
 ### [DAY 09 NOTES](Month1/Week02/Day09/README.md)
@@ -139,6 +146,7 @@ Code Challenge #6: https://github.com/ryanhca/CS1-Code-Challenges "CallBack Prac
 #### [4th Lecture](https://youtu.be/BV83yPgDXBQ) w/Ryan Hamblin: Sprint for DOM Pair Programming #3
 Pair Programming #3: https://github.com/ryanhca/LS-DOM.git
 
+***
 
 ### Day 11: Tuesday, July 18
 ### [DAY 11 NOTES](Month1/Week03/Day11/README.md)
@@ -148,6 +156,7 @@ Code Challenge #7: https://github.com/ryanhca/CS1-Code-Challenges "For Loop Time
 #### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Tyge Johnson: Adult learning Theories
 #### 3rd Lecture w/Sean Chen: Sprint Q&A
 
+***
 
 ### Day 12: Wednesday, July 19
 ### [DAY 12 NOTES](Month1/Week03/Day12/README.md)
@@ -157,6 +166,8 @@ Code Challenge #8: https://github.com/ryanhca/CS1-Code-Challenges "Binary Search
 #### [3rd Lecture](https://youtu.be/exFWxA8mGLo) w/Ryan Hamblin: Pair Programming 4 Introduction: REACT
 Pair Programming #4: https://github.com/ryanhca/LS-React-1.git with Sarah Majors
 
+***
+
 ### Day 13: Thursday, July 20
 ### [DAY 13 NOTES](Month1/Week03/Day13/README.md)
 Code Challenge #9: https://github.com/ryanhca/CS1-Code-Challenges "Brain Teaser: Water Bucket"
@@ -164,6 +175,7 @@ Code Challenge #9: https://github.com/ryanhca/CS1-Code-Challenges "Brain Teaser:
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ben Nelson: Concurrency Model & Event Loop
 #### [3rd Lecture](https://youtu.be/B9P2_gkZJPY) w/Ryan Hamblin: Q&A / Review REACT
 
+***
 
 ### Day 14: Friday, July 21
 ### [DAY 14 NOTES](Month1/Week03/Day14/README.md)
@@ -188,6 +200,7 @@ Code Challenge #11: https://github.com/ryanhca/CS1-Code-Challenges "String Compr
 Pair Programming #5: https://github.com/ryanhca/LS-React-2.git
 #### [6th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: Sprint Q&A
 
+***
 
 ### Day 16: Tuesday, July 25
 ### [DAY 16 NOTES](Month1/Week04/Day16/README.md)
@@ -196,6 +209,7 @@ Code Challenge #12: https://github.com/ryanhca/CS1-Code-Challenges "Operators"
 #### Brown Bag w/Ryan Hamblin: Quokka
 #### 2nd Lecture w/Sean Chen: Sprint / Q&A
 
+***
 
 ### Day 17: Wednesday, July 26
 ### [DAY 17 NOTES](Month1/Week04/Day17/README.md)
@@ -206,6 +220,7 @@ Code Challenge #13: https://github.com/ryanhca/CS1-Code-Challenges "Constructors
 #### [4th Lecture](https://youtu.be/wJatXrRg8rw) w/Ben Nelson: REDUX
 Pair Programming #6: https://github.com/sunjieming/LS-Redux.git with Jiovan Melendez
 
+***
 
 ### Day 18: Thursday, July 27
 ### [DAY 18 NOTES](Month1/Week04/Day18/README.md)
@@ -214,6 +229,7 @@ Code Challenge #14: https://github.com/ryanhca/CS1-Code-Challenges "Queue Stack"
 #### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Lois Truby: ASL & Deaf Culture
 #### [3rd Lecture](https://youtu.be/P1kvmVfcahE) w/Ryan Hamblin: Sprint / Q&A
 
+***
 
 ### Day 19: Friday, July 28
 ### [DAY 19 NOTES](Month1/Week04/Day19/README.md)
@@ -241,32 +257,36 @@ Code Challenge #16: https://github.com/LambdaSchool/CS1-Code-Challenges.git "NEW
 #### [2nd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
 #### [3rd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
 
+***
 
-### Day 21: Monday, August 01
+### Day 21: Tuesday, August 01
 ### [DAY 21 NOTES](Month2/Week05/Day21/README.md)
 Code Challenge #17: https://github.com/LambdaSchool/CS1-Code-Challenges.git "NEW_CODE_CHALLENGE"
 #### [1st Lecture](NO_VIDEO_POSTED) w/Speaker: Code Challenge #16 review bubbleSort
 #### [2nd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
 #### [3rd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
 
+***
 
-### Day 22: Monday, August 02
+### Day 22: Wednesday, August 02
 ### [DAY 22 NOTES](Month2/Week05/Day22/README.md)
 Code Challenge #18: https://github.com/LambdaSchool/CS1-Code-Challenges.git "NEW_CODE_CHALLENGE"
 #### [1st Lecture](NO_VIDEO_POSTED) w/Speaker: Code Challenge #17 review bubbleSort
 #### [2nd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
 #### [3rd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
 
+***
 
-### Day 23: Monday, August 03
+### Day 23: Thursday, August 03
 ### [DAY 23 NOTES](Month2/Week05/Day23/README.md)
 Code Challenge #19: https://github.com/LambdaSchool/CS1-Code-Challenges.git "NEW_CODE_CHALLENGE"
 #### [1st Lecture](NO_VIDEO_POSTED) w/Speaker: Code Challenge #18 review bubbleSort
 #### [2nd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
 #### [3rd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
 
+***
 
-### Day 24: Monday, August 04
+### Day 24: Friday, August 04
 ### [DAY 24 NOTES](Month2/Week05/Day24/README.md)
 Code Challenge #20: https://github.com/LambdaSchool/CS1-Code-Challenges.git "NEW_CODE_CHALLENGE"
 #### [1st Lecture](NO_VIDEO_POSTED) w/Speaker: Code Challenge #19 review bubbleSort
@@ -276,6 +296,7 @@ Code Challenge #20: https://github.com/LambdaSchool/CS1-Code-Challenges.git "NEW
 
 ***
 
+
 ## Week 06: Aug. 7 - 11
 ### Day 25: Monday, August 07
 ### [DAY 24 NOTES](Month2/Week05/Day25/README.md)
@@ -284,32 +305,36 @@ Code Challenge #21: https://github.com/LambdaSchool/CS1-Code-Challenges.git "NEW
 #### [2nd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
 #### [3rd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
 
+***
 
-### Day 26: Monday, August 08
+### Day 26: Tuesday, August 08
 ### [DAY 26 NOTES](Month2/Week05/Day26/README.md)
 Code Challenge #22: https://github.com/LambdaSchool/CS1-Code-Challenges.git "NEW_CODE_CHALLENGE"
 #### [1st Lecture](NO_VIDEO_POSTED) w/Speaker: Code Challenge #21 review bubbleSort
 #### [2nd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
 #### [3rd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
 
+***
 
-### Day 27: Monday, August 09
+### Day 27: Wednesday, August 09
 ### [DAY 27 NOTES](Month2/Week05/Day27/README.md)
 Code Challenge #23: https://github.com/LambdaSchool/CS1-Code-Challenges.git "NEW_CODE_CHALLENGE"
 #### [1st Lecture](NO_VIDEO_POSTED) w/Speaker: Code Challenge #22 review bubbleSort
 #### [2nd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
 #### [3rd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
 
+***
 
-### Day 28: Monday, August 10
+### Day 28: Thursday, August 10
 ### [DAY 28 NOTES](Month2/Week05/Day28/README.md)
 Code Challenge #24: https://github.com/LambdaSchool/CS1-Code-Challenges.git "NEW_CODE_CHALLENGE"
 #### [1st Lecture](NO_VIDEO_POSTED) w/Speaker: Code Challenge #23 review bubbleSort
 #### [2nd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
 #### [3rd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
 
+***
 
-### Day 29: Monday, August 11
+### Day 29: Friday, August 11
 ### [DAY 29 NOTES](Month2/Week05/Day29/README.md)
 Code Challenge #25: https://github.com/LambdaSchool/CS1-Code-Challenges.git "NEW_CODE_CHALLENGE"
 #### [1st Lecture](NO_VIDEO_POSTED) w/Speaker: Code Challenge #24 review bubbleSort
@@ -318,10 +343,16 @@ Code Challenge #25: https://github.com/LambdaSchool/CS1-Code-Challenges.git "NEW
 
 
 ***
+
+
 ## Week 07: Aug. 14 - 18
+
 ***
+
 ## Week 08: Aug. 21 - 25
+
 ***
+
 ## Week 08: Aug. 27 - Sept. 1
 
 
@@ -335,11 +366,17 @@ Code Challenge #25: https://github.com/LambdaSchool/CS1-Code-Challenges.git "NEW
 
 
 ## Week 09: Sept. 4 - 8
+
 ***
+
 ## Week 10: Sept. 11 -15
+
 ***
+
 ## Week 11: Sept. 18 - 22
+
 ***
+
 ## Week 12: Sept. 25 - 29
 
 
@@ -353,11 +390,17 @@ Code Challenge #25: https://github.com/LambdaSchool/CS1-Code-Challenges.git "NEW
 
 
 ## Week 13: Oct. 2 - 6
+
 ***
+
 ## Week 14: Oct. 9 - 13
+
 ***
+
 ## Week 15: Oct. 16 - 20
+
 ***
+
 ## Week 16: Oct. 23 - 27
 
 
@@ -371,13 +414,21 @@ Code Challenge #25: https://github.com/LambdaSchool/CS1-Code-Challenges.git "NEW
 
 
 ## Week 17: Oct. 30 - Nov. 3
+
 ***
+
 ## Week 18: Nov. 6 - 10
+
 ***
+
 ## Week 19: Nov. 13 - 17
+
 ***
+
 ## Week 20: Nov. 20 - 24
+
 ***
+
 ## Week 21: Nov. 27 - Dec. 1
 
 
@@ -391,11 +442,17 @@ Code Challenge #25: https://github.com/LambdaSchool/CS1-Code-Challenges.git "NEW
 
 
 ## Week 22: Dec. 4 - 8
+
 ***
+
 ## Week 23: Dec. 11 - 15
+
 ***
+
 ## Week 24: Dec. 18 - 22
+
 ***
+
 ## Week 25: Dec. 25 Christmas!
 
 
@@ -403,6 +460,7 @@ Code Challenge #25: https://github.com/LambdaSchool/CS1-Code-Challenges.git "NEW
 
 
 ***
+
 
 # Additional Resources:
 #### Lambda Uuniversity:
