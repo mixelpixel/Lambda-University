@@ -217,7 +217,6 @@ Code Challenge #15: https://github.com/LambdaSchool/CS1-Code-Challenges.git "Bub
 <details><summary><h1>Month 2: August, 2017</h1></summary><p>
 
 
-
 # Month 2: August, 2017
 ## Week 05: July 31 - August 4
 ### Day 20: Monday, July 31
