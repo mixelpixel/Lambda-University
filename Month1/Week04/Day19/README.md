@@ -10,7 +10,7 @@
 ***
 # [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ben Nelson: BinarySprint
 ***
-# [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: BinarySprint / Q&A
+# [3rd Lecture](https://youtu.be/3pcWCi-3Rsw) w/Sean Chen: BinarySprint / Q&A
 - implementing a react-redux
 1. State / store - figure out the shape of all the data
 2. Actions - which bits will be modified?
