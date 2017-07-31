@@ -23,7 +23,12 @@ NO_VIDEO_RECORDED
 ***
 #### LUNCH
 ***
-# [4th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+# [4th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Checn: AJAX & HTTP
+- AJAX: Asynchronous JavaScript & XML (HTML, CSS, etc. )
+- HyperText Transfer Protocol
+
+
+
 # Sprint / Q&A
 ***
 # fin
