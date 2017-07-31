@@ -243,7 +243,7 @@ Code Challenge #15: https://github.com/LambdaSchool/CS1-Code-Challenges.git "Bub
 ## Week 05: July 31 - August 4
 ### Day 20: Monday, July 31
 ### [DAY 20 NOTES](Month2/Week05/Day20/README.md)
-Code Challenge #16: https://github.com/LambdaSchool/CS1-Code-Challenges.git "NEW_CODE_CHALLENGE"
+Code Challenge #16: https://github.com/LambdaSchool/CS1-Code-Challenges.git "All Anagrams"
 #### [1st Lecture](NO_VIDEO_POSTED) w/Speaker: Code Challenge #15 review bubbleSort
 #### [2nd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
 #### [3rd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
@@ -254,7 +254,7 @@ Pair Programming #7: PAIR_PROG_URL w/
 ### Day 21: Tuesday, August 01
 ### [DAY 21 NOTES](Month2/Week05/Day21/README.md)
 Code Challenge #17: https://github.com/LambdaSchool/CS1-Code-Challenges.git "NEW_CODE_CHALLENGE"
-#### [1st Lecture](NO_VIDEO_POSTED) w/Speaker: Code Challenge #16 review PREVIOUS_CODE_CHALLENGE
+#### [1st Lecture](NO_VIDEO_POSTED) w/Speaker: Code Challenge #16 review allAnagrams
 #### [2nd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
 #### [3rd Lecture](NO_VIDEO_POSTED) w/Speaker: topic
 
