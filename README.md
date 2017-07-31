@@ -541,6 +541,7 @@ Code Challenge #25: https://github.com/LambdaSchool/CS1-Code-Challenges.git "NEW
 - [Assembly Language Programming](https://archive.org/stream/8080a8085AssemblyLanguageProgramming/Leventhal-8080a-8085AssemblyLanguageProgramming)
 - [An Introduction To Microcomputers Volume 0](https://archive.org/stream/AnIntroductionToMicrocomputersVolume0/Osborne-AnIntroductionToMicrocomputersVolume0)
 - [An Introduction To Microprocessors Volume 1](https://archive.org/stream/AnIntroductionToMicroprocessorsVolume1/Osborne-AnIntroductionToMicroprocessorsVolume1)
+- https://archive.org/details/bitsavers_intel
 
 
 </p></details>
