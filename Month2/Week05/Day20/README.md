@@ -11,17 +11,15 @@ Christine Gierer
 GUEST LECTURER
 NO_VIDEO_RECORDED
 ***
-# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #15: bubbleSort
-- [Big O complexity](https://medium.com/cesars-tech-insights/big-o-notation-javascript-25c79f50b19b) for Bubble sort is quadratic: O(n^2)
-- do {x} while {y is true} loop does {something} the first time prior to checking the while condition
+# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Tai: Review Code Challenge #15: bubbleSort
+  - [Big O complexity](https://medium.com/cesars-tech-insights/big-o-notation-javascript-25c79f50b19b) for Bubble sort is quadratic: O(n^2)
+  - do {x} while {y is true} loop does {something} the first time prior to checking the while condition
+***
+# [2nd Lecture](NO_VIDEO_RECORDED) w/Sean Checn: Redux Sprint Review
+***
+# [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ben Nelson: Redux Solution
 ***
 #### LUNCH
-***
-# [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-***
-# [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-***
-# [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 ***
 # [4th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 # Sprint / Q&A
