@@ -244,7 +244,7 @@ Code Challenge #15: https://github.com/LambdaSchool/CS1-Code-Challenges.git "Bub
 ### Day 20: Monday, July 31
 ### [DAY 20 NOTES](Month2/Week05/Day20/README.md)
 Code Challenge #16: https://github.com/LambdaSchool/CS1-Code-Challenges.git "All Anagrams"
-#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Tai: Code Challenge #15 review bubbleSort
+#### [1st Lecture](https://youtu.be/Ex_uCsMLQnI) w/Tai: Code Challenge #15 review bubbleSort
 #### [2nd Lecture](NO_VIDEO_RECORDED) w/Sean Checn: Redux Sprint Review
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Redux solution
 Pair Programming #7: PAIR_PROG_URL w/Jesh Yoon
