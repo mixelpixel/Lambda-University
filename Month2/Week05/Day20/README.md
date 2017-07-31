@@ -23,7 +23,7 @@ NO_VIDEO_RECORDED
 ***
 #### LUNCH
 ***
-# [4th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Checn: AJAX & HTTP
+# [4th Lecture](https://youtu.be/ENNS0YeCLA0) w/Sean Checn: AJAX & HTTP
 - AJAX: Asynchronous JavaScript & XML (HTML, CSS, etc. )
 - HyperText Transfer Protocol
 - Promises
@@ -138,6 +138,7 @@ const action = () => {
 };
 ```
 
+# [5th Lecture](https://youtu.be/thYVD3foBvg) w/Sean Chen: HTTP-Mini-Sprint review
 - HTTP MINI SPRINT
 
 ```js
