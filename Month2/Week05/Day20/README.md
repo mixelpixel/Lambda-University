@@ -16,6 +16,7 @@ NO_VIDEO_RECORDED
 - Do-While loop: do {x} while {y is true} loop does {something} the first time prior to checking the while condition
 ***
 # [2nd Lecture](NO_VIDEO_RECORDED) w/Sean Checn: Redux Sprint Review
+- reducers get two parameter: to old state and the action
 ***
 # [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ben Nelson: Redux Solution
 -
