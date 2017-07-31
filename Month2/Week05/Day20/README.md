@@ -1,6 +1,6 @@
 # Lambda University - July 31, 2017: Day 020, Monday
 ## Coding Challenge #16
-- "NEW_CODE_CHALLENGE" available in https://github.com/LambdaSchool/CS1-Code-Challenges.git
+- "All Anagrams" available in https://github.com/LambdaSchool/CS1-Code-Challenges.git
 ***
 Ben Nelson
 Ryna Hamblin
