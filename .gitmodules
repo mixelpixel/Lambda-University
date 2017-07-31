@@ -22,3 +22,6 @@
 [submodule "LS-Redux"]
 	path = LS-Redux
 	url = https://www.github.com/mixelpixel/LS-Redux.git
+[submodule "HTTP-Mini-Sprint"]
+	path = HTTP-Mini-Sprint
+	url = https://github.com/mixelpixel/HTTP-Mini-Sprint.git
