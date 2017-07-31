@@ -489,6 +489,9 @@ Code Challenge #25: https://github.com/LambdaSchool/CS1-Code-Challenges.git "NEW
 - [History of Redux](http://threedevsandamaybe.com/the-history-of-react-and-flux-with-dan-abramov/)
 - https://www.reax.io/blog/2016/07/07/quick-guide-to-react-and-redux/
 
+#### AXIOS
+- https://github.com/mzabriskie/axios
+
 #### JAVASCRIPT/ ECMAScript
 - Mozilla JavaScript Reference: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 	- https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
