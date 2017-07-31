@@ -246,7 +246,9 @@ Code Challenge #15: https://github.com/LambdaSchool/CS1-Code-Challenges.git "Bub
 Code Challenge #16: https://github.com/LambdaSchool/CS1-Code-Challenges.git "All Anagrams"
 #### [1st Lecture](https://youtu.be/Ex_uCsMLQnI) w/Tai: Code Challenge #15 review bubbleSort
 #### [2nd Lecture](NO_VIDEO_RECORDED) w/Sean Checn: Redux Sprint Review
-#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Redux solution
+#### [3rd Lecture](https://youtu.be/lbAON4zRLXU) w/Speaker: Redux solution
+#### [4th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: HTTP Mini Sprint
+#### [5th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 Pair Programming #7: PAIR_PROG_URL w/Jesh Yoon
 
 ***
