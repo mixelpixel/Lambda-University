@@ -12,6 +12,8 @@ GUEST LECTURER
 NO_VIDEO_RECORDED
 ***
 # [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #15: bubbleSort
+- Big O complexity for Bubble sort is quadratic: O(n^2)
+- do {x} while {y is true} loop does {something} the first time prior to checking the while condition
 ***
 #### LUNCH
 ***
