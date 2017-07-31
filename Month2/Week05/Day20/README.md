@@ -138,17 +138,7 @@ const action = () => {
 };
 ```
 
-# Sprint / Q&A
-***
-# fin
-
-
-
-
-
-
-
-
+- HTTP MINI SPRINT
 
 ```js
 import axios from 'axios';
@@ -178,3 +168,25 @@ export const getFriends = () => {
   };
 };
 ```
+
+- Ryan's Solution:
+```js
+export const getFriends = () => {
+    const promise = axios.get('http://localhost:5000/friends')
+    .then((res) => {
+        return res;
+    })
+    .catch((err) => {
+        console.log(err);
+    });
+    return {
+        type: GET_FRIENDS,
+        payload: promise
+    };
+};
+```
+
+
+# Sprint / Q&A
+***
+# fin
