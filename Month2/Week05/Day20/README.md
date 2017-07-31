@@ -12,12 +12,13 @@ GUEST LECTURER
 NO_VIDEO_RECORDED
 ***
 # [1st Lecture](https://youtu.be/Ex_uCsMLQnI) w/Tai: Review Code Challenge #15: bubbleSort
-  - [Big O complexity](https://medium.com/cesars-tech-insights/big-o-notation-javascript-25c79f50b19b) for Bubble sort is quadratic: O(n^2)
-  - do {x} while {y is true} loop does {something} the first time prior to checking the while condition
+- [Big O complexity](https://medium.com/cesars-tech-insights/big-o-notation-javascript-25c79f50b19b) for Bubble sort is quadratic: O(n^2)
+- Do-While loop: do {x} while {y is true} loop does {something} the first time prior to checking the while condition
 ***
 # [2nd Lecture](NO_VIDEO_RECORDED) w/Sean Checn: Redux Sprint Review
 ***
 # [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ben Nelson: Redux Solution
+-
 ***
 #### LUNCH
 ***
