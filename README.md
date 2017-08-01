@@ -250,6 +250,7 @@ Code Challenge #16: https://github.com/LambdaSchool/CS1-Code-Challenges.git "All
 #### [4th Lecture](https://youtu.be/ENNS0YeCLA0) w/Sean Chen: AJAX & HTTP-Mini Sprint
 #### [5th Lecture](https://youtu.be/thYVD3foBvg) w/Sean Chen: HTTP-Mini Sprint review
 Pair Programming #7: LS-AJAX w/Jesh Yoon
+#### [6th Lecture](NO_VIDEO_RECORDED) w/Ben Nelson: Sprint / Q&A
 
 ***
 
