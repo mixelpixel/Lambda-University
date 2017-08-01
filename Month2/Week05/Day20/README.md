@@ -189,5 +189,12 @@ export const getFriends = () => {
 
 
 # Sprint / Q&A
+- axios.get is all we need for the project to get data from server.
+- we will be using an axios.post to send data to server.
+- Sarah Majors [8:37 PM]
+  - > Is redux-form the best way to add the information since we need more than 1 piece of data (age, etc)?
+  - or like with the todo list? Multiple input fields?
+- React code is like building a GUI (the view) for a non-tech to interact with a server (get data/input data)
+
 ***
 # fin
