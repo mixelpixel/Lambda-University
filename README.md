@@ -256,17 +256,17 @@ Pair Programming #7: LS-AJAX w/Jesh Yoon
 
 ### Day 21: Tuesday, August 01
 ### [DAY 21 NOTES](Month2/Week05/Day21/README.md)
-Code Challenge #17: https://github.com/LambdaSchool/CS1-Code-Challenges.git "NEW_CODE_CHALLENGE"
-#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Code Challenge #16 review allAnagrams
-#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+Code Challenge #17: https://github.com/LambdaSchool/CS1-Code-Challenges.git "Insert Sort"
+#### [1st Lecture](https://youtu.be/txVN2bLiDpg) w/Sean Chen: Code Challenge #16 review allAnagrams
+#### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review / Q&A
 
 ***
 
 ### Day 22: Wednesday, August 02
 ### [DAY 22 NOTES](Month2/Week05/Day22/README.md)
 Code Challenge #18: https://github.com/LambdaSchool/CS1-Code-Challenges.git "NEW_CODE_CHALLENGE"
-#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Code Challenge #17 review PREVIOUS_CODE_CHALLENGE
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Code Challenge #17 review insertSort
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 Pair Programming #8: PAIR_PROG_URL w/
