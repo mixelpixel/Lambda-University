@@ -1,6 +1,6 @@
 # Lambda University - August 02, 2017: Day 022, Wednesday
 ## Coding Challenge #18
-- "NEW_CODE_CHALLENGE" available in https://github.com/LambdaSchool/CS1-Code-Challenges.git
+- "rotateImage" available in https://github.com/LambdaSchool/CS1-Code-Challenges.git
 ***
 Ben Nelson
 Ryna Hamblin
