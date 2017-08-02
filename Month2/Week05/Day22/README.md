@@ -6,7 +6,9 @@
 ***
 #### LUNCH
 ***
-# [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: LS-AJAX solution lecture
+# [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: LS-AJAX solution lecture
+- basic implementation
+- extra credit
 ***
 # [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 ***
