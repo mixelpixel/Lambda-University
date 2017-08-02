@@ -2,16 +2,7 @@
 ## Coding Challenge #18
 - "rotateImage" available in https://github.com/LambdaSchool/CS1-Code-Challenges.git
 ***
-Ben Nelson
-Ryna Hamblin
-Tai The Thai
-Sean Chen
-Emily Sperry
-Christine Gierer
-GUEST LECTURER
-NO_VIDEO_RECORDED
-***
-# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #17: insertSort
+# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Tai: Review Code Challenge #17: insertSort
 ***
 #### LUNCH
 ***
