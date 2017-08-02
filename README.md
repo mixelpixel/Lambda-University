@@ -265,7 +265,7 @@ Code Challenge #17: https://github.com/LambdaSchool/CS1-Code-Challenges.git "Ins
 
 ### Day 22: Wednesday, August 02
 ### [DAY 22 NOTES](Month2/Week05/Day22/README.md)
-Code Challenge #18: https://github.com/LambdaSchool/CS1-Code-Challenges.git "NEW_CODE_CHALLENGE"
+Code Challenge #18: https://github.com/LambdaSchool/CS1-Code-Challenges.git "Rotate Image"
 #### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Code Challenge #17 review insertSort
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
@@ -276,7 +276,7 @@ Pair Programming #8: PAIR_PROG_URL w/
 ### Day 23: Thursday, August 03
 ### [DAY 23 NOTES](Month2/Week05/Day23/README.md)
 Code Challenge #19: https://github.com/LambdaSchool/CS1-Code-Challenges.git "NEW_CODE_CHALLENGE"
-#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Code Challenge #18 review PREVIOUS_CODE_CHALLENGE
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Code Challenge #18 review rotateImage
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 
