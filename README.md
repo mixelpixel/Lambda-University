@@ -258,8 +258,8 @@ Pair Programming #7: LS-AJAX w/Jesh Yoon
 ### [DAY 21 NOTES](Month2/Week05/Day21/README.md)
 Code Challenge #17: https://github.com/LambdaSchool/CS1-Code-Challenges.git "Insert Sort"
 #### [1st Lecture](https://youtu.be/txVN2bLiDpg) w/Sean Chen: Code Challenge #16 review allAnagrams
-#### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review / Q&A
+#### [Brown Bag](https://youtu.be/hR-1fClOXe4) w/Allan Muraya: "Square" metaphor
+#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ryan Hamblin: Review / Q&A
 
 ***
 
