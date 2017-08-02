@@ -267,7 +267,7 @@ Code Challenge #17: https://github.com/LambdaSchool/CS1-Code-Challenges.git "Ins
 ### [DAY 22 NOTES](Month2/Week05/Day22/README.md)
 Code Challenge #18: https://github.com/LambdaSchool/CS1-Code-Challenges.git "Rotate Image"
 #### [1st Lecture](https://youtu.be/1_6QNPdE79w) w/Tai: Code Challenge #17 review insertSort
-#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: LS-AJAX solution lecture
+#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: LS-AJAX solution lecture
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 Pair Programming #8: PAIR_PROG_URL w/
 
