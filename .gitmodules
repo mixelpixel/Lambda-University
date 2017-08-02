@@ -28,3 +28,6 @@
 [submodule "LS-AJAX"]
 	path = LS-AJAX
 	url = https://github.com/mixelpixel/LS-AJAX.git
+[submodule "LS-React-Router-Mini"]
+	path = LS-React-Router-Mini
+	url = https://github.com/mixelpixel/LS-React-Router-Mini.git
