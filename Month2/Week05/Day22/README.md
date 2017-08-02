@@ -2,7 +2,7 @@
 ## Coding Challenge #18
 - "rotateImage" available in https://github.com/LambdaSchool/CS1-Code-Challenges.git
 ***
-# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Tai: Review Code Challenge #17: insertSort
+# [1st Lecture](https://youtu.be/1_6QNPdE79w) w/Tai: Review Code Challenge #17: insertSort
 ***
 #### LUNCH
 ***
