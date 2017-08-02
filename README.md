@@ -267,9 +267,11 @@ Code Challenge #17: https://github.com/LambdaSchool/CS1-Code-Challenges.git "Ins
 ### [DAY 22 NOTES](Month2/Week05/Day22/README.md)
 Code Challenge #18: https://github.com/LambdaSchool/CS1-Code-Challenges.git "Rotate Image"
 #### [1st Lecture](https://youtu.be/1_6QNPdE79w) w/Tai: Code Challenge #17 review insertSort
-#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: LS-AJAX solution lecture
-#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [2nd Lecture](https://youtu.be/P8nOh-M8o3Q) w/Sean Chen: LS-AJAX solution lecture
+#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ben Nelson: LS-AJAX Sprint review
+#### [4th Lecture](https://youtu.be/5eGGI4diNrU) w/Ryan Hamblin: SPA/Routing
 Pair Programming #8: PAIR_PROG_URL w/
+#### [5th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review / Q&A
 
 ***
 
