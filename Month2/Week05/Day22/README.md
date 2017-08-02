@@ -6,13 +6,13 @@
 ***
 #### LUNCH
 ***
-# [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: LS-AJAX solution lecture
+# [2nd Lecture](https://youtu.be/P8nOh-M8o3Q) w/Sean Chen: LS-AJAX solution lecture
 - basic implementation
 - extra credit
 ***
-# [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+# [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ben Nelson: LS-AJAX Sprint review
 ***
-# [4th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+# [4th Lecture](https://youtu.be/5eGGI4diNrU) w/Ryan Hamblin: SPA/Routing
 # Sprint / Q&A
 ***
 # fin
