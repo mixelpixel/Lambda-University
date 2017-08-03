@@ -287,7 +287,7 @@ Code Challenge #19: https://github.com/LambdaSchool/CS1-Code-Challenges.git "Log
 ### Day 24: Friday, August 04
 ### [DAY 24 NOTES](Month2/Week05/Day24/README.md)
 Code Challenge #20: https://github.com/LambdaSchool/CS1-Code-Challenges.git "NEW_CODE_CHALLENGE"
-#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Code Challenge #19 review logicGates
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Tai: Code Challenge #19 review logicGates
 #### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Patrick Kennedy: philosophy of computer science
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
