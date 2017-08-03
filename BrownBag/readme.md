@@ -4,7 +4,7 @@
 ### What is philsophy?
   - some use the term to mean things like "how we'd like the world to be" or "a way of looking at things" and sometimes even just "...my opinion."
   - As such, the term is somewhat ambiguous.
-  - To avoid logcial pitfall when using ambiguous terms, I will be constraining my use of the term "philosophy" for the duration of this lecture.
+  - To avoid logcial pitfalls when using ambiguous terms, I will be constraining my use of the term "philosophy" for the duration of this lecture.
   - That use of the term will be in the sense of the translation from the original ancient Greek:
 
 ### "love of wisdom"
@@ -18,33 +18,33 @@
   4. ... in short philsophy translates to **the virtue of or respect for wisdom.**
   5. of NOTE: upon initial utterance of the term some 2500+ years ago - and as best we can tell from record - _philosophy_ was distinguished from _sophistry_. In the sense of the Greek translation, sophistry was professional wisdom, such as we might consider a lawyer, a consultant or a politician today. A sophist, then, someone skilled in the art of rhetoric whose knowledgeable counsel might otherwise be relative to the party paying for their knowledge. The philosopher, on the other hand, was then an amateur, and philosophy only concerned with the truth of knowledge claims, regardless of the market value of dispensing such knowledge claims.
 
-#### So philosophy is reverence for wisdom... just what the heck _is_ "wisdom"??
+#### So philosophy is reverence for wisdom... just what the heck _is_ "wisdom" then??
   1. At it's core wisdom requires _knowledge_.
   2. Wisdom, in fact, _obtains_ knowledge.
-  3. It is worth pointing out that philosophy is not just reverence for knowledge, but respect for _obtaining_ knowledge.
-  4. With this in mind, maybe you can get a sense of how philosophy is not a particular action or abstract form, or an area of study, but it is something which is _actionable_... that you can do womething with
+  3. It is worth pointing out that philosophy is not just reverence for knowledge, but reverence for _obtaining_ knowledge, or, respect for _gaining_ knowledge.
+  4. With this in mind, maybe you can get a sense of how philosophy is not a particular action or abstract form, or an area of study, but it is something which is _actionable_... that you can do something with.
 
 #### So if wisdom obtains knowledge, what is "knowledge"?
-  1. In the past 2500+ years, many have tried to construe knowledge into something to do with "beliefs which are both justified and true". This is basically muddles hogwash and an open door to all sorts of nonsense.
-  2. Knowledge is quite mundane, imperfect and limited: knowledge simply is _empirical verification of what is_
+  1. In the past 2500+ years, many have tried to construe knowledge into something to do with "beliefs which are both justified and true". This is basically a muddle of hogwash and an open door to all sorts of nonsense.
+  2. Put plainly, knowledge is quite mundane, imperfect and limited: knowledge simply is _empirical verification of what is_
     - "Empirical verification" is just a way of saying: confirmation by observation; through the senses: sight, sound, touch, taste and for better or worse, smell.
     - "what is" is just a way of saying "the world" "the case" "states of affairs" "that which is in front of me" etc
 
-#### SO, in short: philosophy of is _respect for obtaining observational verification of what is_
-  1. When I speak of verifying "what is", I mean the _all that which is observationally verifiable_, e.g. **the world** from the boundary of subatomic decoherence to astronomical event horizons: in short, everything right now.
+#### SO, in short: philosophy is _respect for obtaining observational verification of the world_
+  1. When I speak of verifying "what is" or "confirming statements about the world", I mean "the world" in the sense of _all that which is observationally verifiable_, e.g. **the world** from the boundary of subatomic decoherence to astronomical event horizons: in short, everything, right now.
   2. In this sense:
     - philosophy is not a matter of agreement nor interpretation.
     - philsophy is not an -ology, an area of study
-    - the history of phiosophy and philosophers is not philosophy
-    - respect for obtaining knowledge is heuristic. This is just a way of saying that respect for obtaining knowledge simply _enables_ learning.
-    - To enable learning, respect for wisdom contends not with opinion or sentiment, or a metaphor, or a way of construing the case, but philosophy contends with what is the case and what can be said of the case and it does so in terms of that which is exclusively either true or false with no middle ground.
+    - the history of philosophy and philosophers is not philosophy
+    - respect for obtaining knowledge is heuristic. This is just a way of saying that philosophy simply _enables_ learning.
+    - To enable learning, respect for wisdom contends not with opinion or sentiment, or a metaphor, or a way of construing the case, a view, or in the German, a _weltanschauung_, but philosophy contends with what is the case and what can be said of the case and it does so in terms of that which is exclusively either true or false with no middle ground.
   3. the **purview** of philsophy is: *logic, reason and rhetoric*
     - _Rhetoric_ is just a fancy way of saying, "how you use your words."
     - _Reason_ is basically just the art of using logic to deduce, to induce and to abduce (and abduce is just a fancy way of saying, "guessing").
-    - _Logic_ is just the artifice, or, set of tools which we use to reason.
+    - _Logic_ is just the artifice, or, set of tools, which we use to reason.
   4. Given this purview, the **domains** of philosophy are:
     - Epistemology, or the study of knowledge and statements of knowledge, and
-    - Ontology, the study of reality, or what exists - and I'll put it out there: what exists in the (at most one) world which we live in.
+    - Ontology, the study of reality, or what exists - and I'll put it out there that what exists is the (at most one) world which we live in. An example of something which doesn't exist is ideas or abstraction. Like a Euclidian circle (all points upon a two dimensional plane which are equidistant from a point), abstract ideas are only to be found in language - they do not exist.
 
 #### So what is the philosophy of computer science?
   1. In short: respect for obtaining knowledge with and of computer science.
@@ -58,11 +58,16 @@
 ### Useful tools for analysis
   1. Backus-Naur form and Extended BNF
     - context-free grammar
-    - but basically like what we do in programming when we think of how an expression will get reduced to a true or false value, or how a variable is used in a way that it gets evaluated into a value.
-    - another example is how I broke down the translation of philosophy into "respect for obtaining knowledge" ;)
+    - but basically like what we do in programming when we think of how an expression will get reduced to true or false, or, how a variable is used in a way that it gets evaluated into a value.
+    - Mostly it's just a way of abstracting the logical form of a sentence or an expression into the parts which can be built upon, or, reducing grammar from the actual arguments used into the types of parameters so that similar senteces or alogrithms may be implemented.
+    - another example is how I broke down the translation of philosophy into "respect for obtaining knowledge"
   2. Truth Tables & logical form devoid of semantic context (i.e. just syntax)
-    - operands (the terms of an expression) and operators, e.g. (p & q)
+    - operands (the terms of an expression) and operators, e.g. (p or q where p and q are the operands and "or" the operator).
+    - It may be true or false the "Brad and Angelina are divorced" or "p".
+    - It may be true or false that "the earth is ~93 million miles from the sun" or "q"
+    - So how do we evaluate a sentence which uses more than one knowledge claim? e.g. (p and q) or (p or q)?
     - how do we evaluate the results of all the possible combinations of whether p is true or false and whether q is true or false?
+    - A: we abstract the claims into symbols and examine all possible combinations in binary terms of true/false (or on/off if you prefer)
       1. and &&
         - T & T ---> T
         - T & F ---> F
@@ -83,9 +88,9 @@
         - if T, then F ---> F
         - if F, then T ---> T <--- principle of explosion!!! From falsehood, anything follows - oh no!!!!!
         - if F, then F ---> T
-    3. Logic can quickly get weird and very nintuitive, but an important notion is the idea of syntax devoid of semantics (of meaning). This is the means by which computers utilize the meaningless sequences of binary state changes to get things done. No muss and fuss with ambiguities, just either on or off, high voltage or low voltage, crushed beer can, uncrushed beer can. No in between.
+    3. Logic can quickly get weird and very unintuitive, but an important notion is the idea of syntax devoid of semantics (of meaning). This is the means by which computers utilize the meaningless sequences of binary state changes to get things done. No muss and fuss with ambiguities, just either on or off, high voltage or low voltage, crushed beer can, uncrushed beer can. No in between. In much the same way that the world is made up of mindless, meaningless wave-particles in fields of force, computation uses the flow of meaningless strings of binary, semantic-free states and the computer scientist and engineer implement this flow in such a way that it is useful.
 
-### For example
+### For an elementary example
   1. given what I know (i.e. my background) about the console, if I type a command, it is my hypothesis that entering that command will return a result.
     - if you want, you can all fire up node in your console and test the hypothesis that `true && true` will return `true`...)
   2. ...and yes, this is really basic stuff √
@@ -100,39 +105,35 @@
   - I just find that it is useful to explicitly articulate these really basic, fundamental things because, unlike a simple console command, compurter science and the rest of the world gets very complicated, ambiguous and confusing really quickly.
   - When I am lost or overwhelmed, I can use the analytial tools to find solid ground from which to reorient or build upon.
 
+
+## So, in summation, the respect for obtaining knowledge can be applied to computaional observation, hypothesis and peer review. With that in mind, be nice to your pair partner and the person you make a Pull Request to :D
+
+
 ### To end, I will leave you with the three kinds of knowledge and the three answers to every question, "why?"
-
-  ### Three kinds of empirical verification:
-    1. Axiomatic, or, self evident knowledge
-      - e.g. "dividends require financing" or "2 + 2 = 4"
-      - things which are true by definition
-      - also, tautologies, basically things which are saying the same thing backwards and forwards, e.g. many things may add up to four, but the statement "4 = 2 + 2" is the same statement as "2 + 2 = 4"
-    2. Empirical Knowledge
-      - you can backus-naur this into _empirically verifible empirical verification_ if you really want to
-      - e.g. "brute" facts, such as "the earth is ~93 million miles from the sun" or "the bell of Big Ben weighs 13,760 kilograms."
-      - e.g. "institutional" facts such as "Brad and Angelina are divorced" or "Bernie Sanders a Senator from Vermont"
-    3. Self-knowledge
-      - e.g. "I feel glad", "that tickles" or "I'm thirsty"
-      - self knowledge is essentially knowledge of the self _by_ the self.
-      - I don't mean some deep, introspective intuition, I just mean the things a self can verify about their own self.
-      - This one particular kind of knowledge, for better or worse, is **only** verifiable by the self and no others. Someone else can agree with me when I say, "I feel glad" and they may observe my demeanor and behaviour and presume as much, but this is categorically distinct from anyone else empirically verifying my self-knowledge.
-      - This aspect of what is sometimes called the irreducible first-person ontology of consciousness presents and epistemic limitation. But I digress.
-
-  ### Three answers to every question, "why?"
-    1. Why not?
-    2. Because...
-     - Often when "why?" is aksed in place of "how?" there actually is a cause which can be cited, but "because" can be ambiguous. For example:
-     - Q: "Because I am cold" answers two different questions very differently
-       1. A: "Why are you shivering?"
-       2. A: "Why are you putting on your sweater?"
-       - In the former case, _cause_ is cited, in the second case, _reason_.
-    3. You have to figure that out for yourself, silly!
-
-### So, in summation, the respect for obtaining knowledge can be applied to computaional observation, hypothesis and peer review. With that in mind, be nice to your pair partner and the person you make a Pull Request to :D
-
-
-
-
+### Three kinds of empirical verification:
+  1. Axiomatic, or, self evident knowledge
+    - e.g. "dividends require financing" or "2 + 2 = 4"
+    - things which are true by definition
+    - also, tautologies, basically things which are saying the same thing backwards and forwards, e.g. many things may add up to four, but the statement "4 = 2 + 2" is the same statement as "2 + 2 = 4"
+  2. Empirical Knowledge
+    - you can backus-naur this into _empirically verifible empirical verification_ if you really want to
+    - e.g. "brute" facts, such as "the earth is ~93 million miles from the sun" or "the bell of Big Ben weighs 13,760 kilograms."
+    - e.g. "institutional" facts such as "Brad and Angelina are divorced" or "Bernie Sanders a Senator from Vermont"
+  3. Self-knowledge
+    - e.g. "I feel glad", "that tickles" or "I'm thirsty"
+    - self knowledge is essentially knowledge of the self _by_ the self.
+    - I don't mean some deep, introspective intuition, I just mean the things a self can verify about their own self.
+    - This one particular kind of knowledge, for better or worse, is **only** verifiable by the self and no others. Someone else can agree with me when I say, "I feel glad" and they may observe my demeanor and behaviour and presume as much, but this is categorically distinct from anyone else empirically verifying my self-knowledge.
+    - This aspect of what is sometimes called the irreducible first-person ontology of consciousness presents and epistemic limitation. But I digress.
+### Three answers to every question, "why?"
+  1. Why not?
+  2. Because...
+   - Often when "why?" is aksed in place of "how?" there actually is a cause which can be cited, but "because" can be ambiguous. For example:
+   - Q: "Because I am cold" answers two different questions very differently
+     1. A: "Why are you shivering?"
+     2. A: "Why are you putting on your sweater?"
+     - In the former case, _cause_ is cited, in the second case, _reason_.
+  3. You have to figure that out for yourself, silly!
 
 ## Things to review - SKIP???????????
   1. Truth - a condition of propositions; the correspondence of what is said is the case and what actually is the case. If a statement matches or fits or _corresponds to_ the case, then that statement is true.
