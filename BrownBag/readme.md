@@ -111,7 +111,7 @@
 ## So, in summation, the respect for obtaining knowledge can be applied to computaional observation, hypothesis and peer review. With that in mind, be nice to your pair partner and the person you make a Pull Request to :D
 
 
-### To end, I will leave you with the three kinds of knowledge and the three answers to every question, "why?"
+### I will leave you with the three kinds of knowledge and the three answers to every question, "why?"
 ### Three kinds of empirical verification:
   1. Axiomatic, or, self evident knowledge
     - e.g. "dividends require financing" or "2 + 2 = 4"
