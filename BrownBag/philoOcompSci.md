@@ -58,7 +58,14 @@ This lecture is just a review of some concepts which have helped me to advance i
 
 ## Useful tools for analysis
 1. Truth Tables
-2. Backus-Naur
+  - and
+  - or (inclusive)
+  - or (exclusive)
+  - if > then (principle of explosion)
+2. Backus-Naur form and Extended BNF
+  - context-free grammar
+  - but basically like what we do in programming when we think of how an expression will get reduced to a true or false value, or how a variable is used in a way that it gets evaluated into a value.
+  - another example is how I broke down the translation of philosophy into "respect for obtaining knowledge" ;)
 
 ## For example
 1. given what I know (i.e. my background) about the console, if I type a command, it is my hypothesis that entering that command will return a result.
