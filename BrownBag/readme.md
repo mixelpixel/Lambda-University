@@ -32,7 +32,7 @@ This lecture is just a review of some concepts which have helped me to advance i
     - "Empirical verification" is just a way of saying: confirmation by observation; through the senses: sight, sound, touch, taste and for better or worse, smell.
 
 #### SO, in short: philosophy of is _respect for obtaining observational verification_
-  1. In particular, observational verification of what is, the case, states of affairs, i.e. _that which is observationally verifiable_, e.g. **the world** (from subatomic decoherence to astronomical event horizons)
+  1. In particular, observational verification of what is; the case; states of affairs, i.e. _that which is observationally verifiable_, e.g. **the world** (from subatomic decoherence to astronomical event horizons)
   2. In this sense:
     - philsophy is not an -ology, an area of study
     - the history of phiosophy and philosophers is not philosophy
@@ -57,10 +57,11 @@ This lecture is just a review of some concepts which have helped me to advance i
 
 
 ## Things to review
-1. Truth - a condition of propositions; the correspondence of what is said is the case and what actually is the case
-2. Hypothesis: a guess can be an hypothesis, but hypotheses which are both verifiable and falsifiable are generally more apt to advance a knowledge claim
-3. It is worth distinguishing statements of what is true from what is "true to you" (or true to me, or true to them or true to us). Statements of what is true are verifiable and falsifiable, for example, the statement "it is raining" could be true or false depending on the climate conditions of the person making the claim. Statements of what is "true to..." [you; me; us, or them] are basically statements of opinion, belief, sentiment, aesthetics, ethics, etc. All well and good, but categorically distinct from statments which are exclusively either true or false. It may be true to you that Bill Clinton was a better President than Ronald Reagan, and it may be true to someone else that Reagan was a better President. Whatever the opinion, however, the statement that "Ronald Reagan is the President of these united States" was true in the 1980s, but if the statement is false is claimed today.
-4. To illustrate: if what is true and what is "true to you" were no different, then an oasis and a mirage would have both epistemic and ontological equivalence. They do not.
+1. Truth - a condition of propositions; the correspondence of what is said is the case and what actually is the case. If a statement matches or fits or _corresponds to_ the case, then that statement is true.
+2. It is worth noting that truth is just an abstract idea. Like all abstract ideas, truth is an epistemic notion - it does not exist in the sense that you and I or Mount Kilamanjaro do. Abstract ideas are only to be found in language. How we can use this "correspondence" condition for determining the truth value of a statement is not truth for all time and all places, just the here and now.
+3. Hypothesis: a guess can be an hypothesis, but hypotheses which are both verifiable and falsifiable are generally more apt to advance a knowledge claim
+4. It is worth distinguishing statements of what is true from what is "true to you" (or true to me, or true to them or true to us). Statements of what is true are verifiable and falsifiable, for example, the statement "it is raining" could be true or false depending on the climate conditions of the person making the claim. Statements of what is "true to..." [you; me; us, or them] are basically statements of opinion, belief, sentiment, aesthetics, ethics, etc. All well and good, but categorically distinct from statments which are exclusively either true or false. It may be true to you that Bill Clinton was a better President than Ronald Reagan, and it may be true to someone else that Reagan was a better President. Whatever the opinion, however, the statement that "Ronald Reagan is the President of these united States" was true in the 1980s, but if the statement is false is claimed today.
+5. To illustrate: if what is true and what is "true to you" were no different, then an oasis and a mirage would have both epistemic and ontological equivalence. They do not.
 
 ## Useful tools for analysis
 1. Truth Tables & logical form devoid of semantic context (i.e. just syntax)
