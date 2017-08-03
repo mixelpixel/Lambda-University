@@ -57,11 +57,29 @@ This lecture is just a review of some concepts which have helped me to advance i
 4. To illustrate: if what is true and what is "true to you" were no different, then an oasis and a mirage would have both epistemic and ontological equivalence. They do not.
 
 ## Useful tools for analysis
-1. Truth Tables
-  - and
-  - or (inclusive)
-  - or (exclusive)
-  - if > then (principle of explosion)
+1. Truth Tables & logical form devoid of semantic context (i.e. just syntax)
+  - operands (the terms of an expression) and operators, e.g. (p & q)
+  - how do we evaluate the results of all the possible combinations of whether p is true or false and whether q is true or false?
+    1. and &
+      - T & T ---> T
+      - T & F ---> F
+      - F & T ---> F
+      - F & F ---> F
+    2. or (inclusive)
+      - T or T ---> T
+      - T or F ---> T
+      - T or F ---> T
+      - F or F ---> F
+    3. or (exclusive)
+      - T xor T ---> F
+      - T xor F ---> T
+      - T xor F ---> T
+      - F xor F ---> F
+    4. if p, then q (principle of explosion)
+      - if T, then T ---> T
+      - if T, then F ---> F
+      - if F, then T ---> T <--- principle of explosion!!! :O From falsehood, anything follows
+      - if F, then F ---> T
 2. Backus-Naur form and Extended BNF
   - context-free grammar
   - but basically like what we do in programming when we think of how an expression will get reduced to a true or false value, or how a variable is used in a way that it gets evaluated into a value.
@@ -69,11 +87,13 @@ This lecture is just a review of some concepts which have helped me to advance i
 
 ## For example
 1. given what I know (i.e. my background) about the console, if I type a command, it is my hypothesis that entering that command will return a result.
-2. Really basic stuff.
-3. Then I can make a knowledge claim, e.g. "it is true that when I enter this command, such and such results will follow."
-4. That statement is either true or false.
-5. Anyone else can then know if that statement corresponds to the case, i.e. is true, by simply verifying the hypothesis, i.e. by entering the command and seeing if the predicted results occur.
+  - if you want, you can all fire up node in your console and test the hypothesis that `true && true` will return `true`...)
+2. ...and yes, this is really basic stuff √
+3. Say I can make a knowledge claim, e.g. "it is true that when I enter this command, such and such results will follow."
+4. That statement is either true or false. The truth condition is satisfied if node returns `true` and the statement is true, and if it fails, then the truth condition is unsatisfied, frustrated... _grumpy_ (!) and the statement is false.
+5. Anyone else can then peer review this hypotheis and test procedure and themselves _know_ if that statement corresponds to the case, i.e. is true, by simply verifying the hypothesis, i.e. by entering the command and seeing if the predicted results occur.
 6. hypothesis, peer review, observation.
+7. ta-da!
 
 ## NOTE
 - I'm not trying to construct some grandiose or profound notion of capital T truth or capital P philosophy.
