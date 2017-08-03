@@ -57,3 +57,27 @@ This lecture is just a review of some concepts which have helped me to advance i
 ## Useful tools for analysis
 1. Truth Tables
 2. Backus-Naur
+
+## For example
+1. given what I know (i.e. my background) about the console, if I type a command, it is my hypothesis that entering that command will return a result.
+2. Really basic stuff.
+3. Then I can make a knowledge claim, e.g. "it is true that when I enter this command, such and such results will follow."
+4. That statement is either true or false.
+5. Anyone else can then know if that statement corresponds to the case, i.e. is true, by simply verifying the hypothesis, i.e. by entering the command and seeing if the predicted results occur.
+6. hypothesis, peer review, observation.
+
+## NOTE
+- I'm not trying to construct some grandiose or profound notion of capital T truth or capital P philosophy.
+- I just find that it is useful to explicitly articulate these really basic, fundamental things because, unlike a simple console command, compurter science and the rest of the world gets very complicated, ambiguous and confusing really quickly.
+- When I am lost or overwhelmed, I can use the analytial tools to find solid ground from which to reorient or build upon.
+
+## To end, I will leave you with the three kinds of knowledge and the three answers to every question, "why?"
+### Three kinds of empirical verification:
+1. Axiomatic, or, self evident knowledge
+2. Empirical Knowledge
+3. Self-knowledge
+
+### Three answers to every question, "why?"
+1. Why not?
+2. Because...
+3. You have to figure that out for yourself, silly!
