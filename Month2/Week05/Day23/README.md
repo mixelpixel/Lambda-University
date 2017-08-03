@@ -11,7 +11,9 @@ Christine Gierer
 GUEST LECTURER
 NO_VIDEO_RECORDED
 ***
-# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #18: rotateImage
+# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Tai: Review Code Challenge #18: rotateImage
+- to do it in plae, create a "holding variable"
+
 ***
 #### LUNCH
 ***
