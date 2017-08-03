@@ -53,6 +53,8 @@ This lecture is just a review of some concepts which have helped me to advance i
 ## Things to review
 1. Truth - a condition of propositions; the correspondence of what is said is the case and what actually is the case
 2. Hypothesis: a guess can be an hypothesis, but hypotheses which are both verifiable and falsifiable are generally more apt to advance a knowledge claim
+3. It is worth distinguishing statements of what is true from what is "true to you" (or true to me, or true to them or true to us). Statements of what is true are verifiable and falsifiable, for example, the statement "it is raining" could be true or false depending on the climate conditions of the person making the claim. Statements of what is "true to..." [you; me; us, or them] are basically statements of opinion, belief, sentiment, aesthetics, ethics, etc. All well and good, but categorically distinct from statments which are exclusively either true or false. It may be true to you that Bill Clinton was a better President than Ronald Reagan, and it may be true to someone else that Reagan was a better President. Whatever the opinion, however, the statement that "Ronald Reagan is the President of these united States" was true in the 1980s, but if the statement is false is claimed today.
+4. To illustrate: if what is true and what is "true to you" were no different, then an oasis and a mirage would have both epistemic and ontological equivalence. They do not.
 
 ## Useful tools for analysis
 1. Truth Tables
@@ -74,10 +76,26 @@ This lecture is just a review of some concepts which have helped me to advance i
 ## To end, I will leave you with the three kinds of knowledge and the three answers to every question, "why?"
 ### Three kinds of empirical verification:
 1. Axiomatic, or, self evident knowledge
+  - e.g. "dividends require financing" or "2 + 2 = 4"
+  - things which are true by definition
+  - also, tautologies, basically things which are saying the same thing backwards and forwards, e.g. many things may add up to four, but the statement "4 = 2 + 2" is the same statement as "2 + 2 = 4"
 2. Empirical Knowledge
+  - you can backus-naur this into _empirically verifible empirical verification_ if you really want to
+  - e.g. "brute" facts, such as "the earth is ~93 million miles from the sun" or "the bell of Big Ben weighs 13,760 kilograms."
+  - e.g. "institutional" facts such as "Brad and Angelina are divorced" or "Bernie Sanders a Senator from Vermont"
 3. Self-knowledge
+  - e.g. "I feel glad", "that tickles" or "I'm thirsty"
+  - self knowledge is essentially knowledge of the self _by_ the self.
+  - I don't mean some deep, introspective intuition, I just mean the things a self can verify about their own self.
+  - This one particular kind of knowledge, for better or worse, is **only** verifiable by the self and no others. Someone else can agree with me when I say, "I feel glad" and they may observe my demeanor and behaviour and presume as much, but this is categorically distinct from anyone else empirically verifying my self-knowledge.
+  - This aspect of what is sometimes called the irreducible first-person ontology of consciousness presents and epistemic limitation. But I digress.
 
 ### Three answers to every question, "why?"
 1. Why not?
 2. Because...
+ - Often when "why?" is aksed in place of "how?" there actually is a cause which can be cited, but "because" can be ambiguous. For example:
+ - Q: "Because I am cold" answers two different questions very differently
+   1. A: "Why are you shivering?"
+   2. A: "Why are you putting on your sweater?"
+   - In the former case, cause is cited, in the second case, logic.
 3. You have to figure that out for yourself, silly!
