@@ -97,5 +97,5 @@ This lecture is just a review of some concepts which have helped me to advance i
  - Q: "Because I am cold" answers two different questions very differently
    1. A: "Why are you shivering?"
    2. A: "Why are you putting on your sweater?"
-   - In the former case, cause is cited, in the second case, logic.
+   - In the former case, _cause_ is cited, in the second case, _reason_.
 3. You have to figure that out for yourself, silly!
