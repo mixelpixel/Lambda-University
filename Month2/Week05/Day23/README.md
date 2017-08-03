@@ -17,7 +17,7 @@ NO_VIDEO_RECORDED
 ***
 #### LUNCH
 ***
-# [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Patrick Kennedy: philosophy of computer science
+# [Brown Bag](https://youtu.be/fcbLwbqWKjI) w/Patrick Kennedy: philosophy of computer science
 ***
 # [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 ***
