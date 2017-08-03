@@ -31,3 +31,6 @@
 [submodule "LS-React-Router-Mini"]
 	path = LS-React-Router-Mini
 	url = https://github.com/mixelpixel/LS-React-Router-Mini.git
+[submodule "LS-Routing-Movies"]
+	path = LS-Routing-Movies
+	url = https://github.com/mixelpixel/LS-Routing-Movies.git
