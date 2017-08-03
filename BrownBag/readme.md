@@ -62,34 +62,34 @@
     - A way of analyzing sentences or algorithms into a context-free grammar.
     - but basically like what we do in programming when we think of how an expression will get reduced to true or false, or, how a variable is used in a way that it gets evaluated into a value.
     - Mostly it's just a way of abstracting the logical form of a sentence or an expression into the parts which can be built upon, or, reducing grammar from the actual arguments used into the types of parameters so that similar senteces or alogrithms may be implemented.
-    - another example is how I broke down the translation of philosophy into "respect for obtaining knowledge" to avoid the ambiguous uses of the term philosophy.
+    - another example is how I broke constrained the use of the word "philosophy" to the translation from the ancient Greek such that any instance of "...philosophy..." can be replaced with "respect for obtaining knowledge". In this manner, analyzing statements into Backus-Naur Form can help to avoid the ambiguous uses of the term philosophy.
   2. Truth Tables & logical form devoid of semantic context (i.e. just syntax)
-    - operands (the terms of an expression) and operators, e.g. (p or q where p and q are the operands and "or" the operator).
+    <!-- - operands (the terms of an expression) and operators, e.g. (p or q where p and q are the operands and "or" the operator).
     - It may be true or false the "Brad and Angelina are divorced" or "p".
     - It may be true or false that "the earth is ~93 million miles from the sun" or "q"
-    - So how do we evaluate a sentence which uses more than one knowledge claim? e.g. (p and q) or (p or q)?
-    - how do we evaluate the results of all the possible combinations of whether p is true or false and whether q is true or false?
+    - So how do we evaluate a sentence which uses more than one knowledge claim? e.g. (p and q) or (p or q)? -->
+    - Q: how do we evaluate the results of all the possible combinations of whether p is true or false and whether q is true or false?
     - A: we abstract the claims into symbols and examine all possible combinations in binary terms of true/false (or on/off if you prefer)
-      1. and &&
-        - T & T ---> T
-        - T & F ---> F
-        - F & T ---> F
-        - F & F ---> F
+      <!-- 1. and &&
+        - (T & T) ==> T
+        - (T & F) ==> F
+        - (F & T) ==> F
+        - (F & F) ==> F
       2. or (inclusive) ||
-        - T or T ---> T
-        - T or F ---> T
-        - F or T ---> T
-        - F or F ---> F
+        - (T or T) ==> T
+        - (T or F) ==> T
+        - (F or T) ==> T
+        - (F or F) ==> F
       3. or (exclusive)
-        - T xor T ---> F
-        - T xor F ---> T
-        - F xor T ---> T
-        - F xor F ---> F
+        - (T xor T) ==> F
+        - (T xor F) ==> T
+        - (F xor T) ==> T
+        - (F xor F) ==> F
       4. if p, then q (principle of explosion)
-        - if T, then T ---> T
-        - if T, then F ---> F
-        - if F, then T ---> T <--- principle of explosion!!! From falsehood, anything follows - oh no!!!!!
-        - if F, then F ---> T
+        - (if T, then T) ==> T
+        - (if T, then F) ==> F
+        - (if F, then T) ==> T <--- principle of explosion!!! From falsehood, anything follows - oh no!!!!!
+        - (if F, then F) ==> T -->
     3. Logic can quickly get weird and very unintuitive, but an important notion is the idea of syntax devoid of semantics (of meaning). This is the means by which computers utilize the meaningless sequences of binary state changes to get things done. No muss and fuss with ambiguities, just either on or off, high voltage or low voltage, crushed beer can, uncrushed beer can; dead fish/live fish. No in between. In much the same way that the world is made up of mindless, meaningless wave-particles in fields of force, computation uses the flow of meaningless strings of binary, semantic-free states and the computer scientist and engineer implement this flow in such a way that it is useful.
 
 ### For an elementary example
