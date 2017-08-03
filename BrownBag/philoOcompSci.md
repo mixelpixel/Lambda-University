@@ -106,3 +106,5 @@ This lecture is just a review of some concepts which have helped me to advance i
    2. A: "Why are you putting on your sweater?"
    - In the former case, _cause_ is cited, in the second case, _reason_.
 3. You have to figure that out for yourself, silly!
+
+# So, in summation, the respect for obtaining knowledge can be applied to computaional observation, hypothesis and peer review. With that in mind, be nice to your pair partner and the person you make a Pull Request to :D
