@@ -2,40 +2,41 @@
   This lecture is just a review of some concepts which have helped me to advance in my endeavors with computer science by means of analysis. By "analysis" I just mean breaking things down into their constituent parts to see how they all fit together.
 
 ### What is philsophy?
-  - some use the term to mean things like "how we'd like the world to be" or "a way of looking at things" and sometimes even just "...my opinion."
+  - some use the term to mean things like "how we'd like the world to be" or "a way of looking at things" and sometimes the term is used to just mean "...my opinion."
   - As such, the term is somewhat ambiguous.
   - To avoid logcial pitfalls when using ambiguous terms, I will be constraining my use of the term "philosophy" for the duration of this lecture.
   - That use of the term will be in the sense of the translation from the original ancient Greek:
 
 ### "love of wisdom"
-#### in the sense of this tranlsation:
+#### in the sense of this tranlsation we can analyze the word philosophy:
   1. "philo-" loosely means what we use the term "love" for, but not "love" in the way we might mean romantic love;
   2. "philo-" is more akin to:
     -  Respect
     -  Reverence
     -  Virtue
   3. "-sophy" means _wisdom_
-  4. ... in short philsophy translates to **the virtue of or respect for wisdom.**
+  4. ... in short philsophy translates to **the virtue of** or **respect for wisdom.**
   5. of NOTE: upon initial utterance of the term some 2500+ years ago - and as best we can tell from record - _philosophy_ was distinguished from _sophistry_. In the sense of the Greek translation, sophistry was professional wisdom, such as we might consider a lawyer, a consultant or a politician today. A sophist, then, someone skilled in the art of rhetoric whose knowledgeable counsel might otherwise be relative to the party paying for their knowledge. The philosopher, on the other hand, was then an amateur, and philosophy only concerned with the truth of knowledge claims, regardless of the market value of dispensing such knowledge claims.
 
 #### So philosophy is reverence for wisdom... just what the heck _is_ "wisdom" then??
   1. At it's core wisdom requires _knowledge_.
   2. Wisdom, in fact, _obtains_ knowledge.
   3. It is worth pointing out that philosophy is not just reverence for knowledge, but reverence for _obtaining_ knowledge, or, respect for _gaining_ knowledge.
-  4. With this in mind, maybe you can get a sense of how philosophy is not a particular action or abstract form, or an area of study, but it is something which is _actionable_... that you can do something with.
+  4. With this in mind, maybe you can get a sense of how philosophy is not a particular action or abstract concept, or an particular area of study, but it is something which is _actionable_... that you can do something with.
 
-#### So if wisdom obtains knowledge, what is "knowledge"?
+#### So if philosophy is love of wisdom and wisdom obtains knowledge, then what is "knowledge"?
   1. In the past 2500+ years, many have tried to construe knowledge into something to do with "beliefs which are both justified and true". This is basically a muddle of hogwash and an open door to all sorts of nonsense.
   2. Put plainly, knowledge is quite mundane, imperfect and limited: knowledge simply is _empirical verification of what is_
     - "Empirical verification" is just a way of saying: confirmation by observation; through the senses: sight, sound, touch, taste and for better or worse, smell.
-    - "what is" is just a way of saying "the world" "the case" "states of affairs" "that which is in front of me" etc
+    - "what is" is just a way of saying "the world" "the case" "states of affairs" or "that which is in front of me" and so on.
+    - For example, right now you are observing me and can verify the statement that "Patrick is speaking to the Lambda University class" so, you _know_ this to be true.
 
-#### SO, in short: philosophy is _respect for obtaining observational verification of the world_
-  1. When I speak of verifying "what is" or "confirming statements about the world", I mean "the world" in the sense of _all that which is observationally verifiable_, e.g. **the world** from the boundary of subatomic decoherence to astronomical event horizons: in short, everything, right now.
+#### In short: philosophy is _respect for obtaining observational verification of the world_
+  1. When I speak of verifying "what is" or "confirming statements about the world", I mean "the world" in the sense of _all that which is observationally verifiable_, e.g. **the world** from the boundary of subatomic decoherence to astronomical event horizons: in short, everything, right now. But, more mundanely, What anyone is capable of knowing is just that which is in their immediate field of vision or hearing, et cetera
   2. In this sense:
     - philosophy is not a matter of agreement nor interpretation.
     - philsophy is not an -ology, an area of study
-    - the history of philosophy and philosophers is not philosophy
+    - philosophy is not to be confused with the history of philosophy or the history of philosophers.
     - respect for obtaining knowledge is heuristic. This is just a way of saying that philosophy simply _enables_ learning.
     - To enable learning, respect for wisdom contends not with opinion or sentiment, or a metaphor, or a way of construing the case, a view, or in the German, a _weltanschauung_, but philosophy contends with what is the case and what can be said of the case and it does so in terms of that which is exclusively either true or false with no middle ground.
   3. the **purview** of philsophy is: *logic, reason and rhetoric*
@@ -44,7 +45,7 @@
     - _Logic_ is just the artifice, or, set of tools, which we use to reason.
   4. Given this purview, the **domains** of philosophy are:
     - Epistemology, or the study of knowledge and statements of knowledge, and
-    - Ontology, the study of reality, or what exists - and I'll put it out there that what exists is the (at most one) world which we live in. An example of something which doesn't exist is ideas or abstraction. Like a Euclidian circle (all points upon a two dimensional plane which are equidistant from a point), abstract ideas are only to be found in language - they do not exist.
+    - Ontology, the study of reality, or what exists - and I'll put it out there that what exists is the (at most one) world which we live in. An example of something which doesn't exist is ideas or abstractions. Like a Euclidian circle (all points upon a two dimensional plane which are equidistant from a point), abstract ideas are only to be found in language - they do not exist.
 
 #### So what is the philosophy of computer science?
   1. In short: respect for obtaining knowledge with and of computer science.
@@ -53,14 +54,15 @@
      - observation
      - hypothesis, and
      - peer review
-  4. SO, if you have repsect for obtaining knowledge with computational observation, hypothesis and peer review, then you are doing computer science and may even be meaningfully referred to as _a computer scientist_ (degrees and PhD's regardless!)
+  4. A computer is just something which computes (see _Turing Completeness_) or something which is limited to making syntactical manipulations, without any seamntics.
+  5. SO, if you have repsect for obtaining knowledge with computational observation, hypothesis and peer review, then you are doing computer science and may even be meaningfully referred to as _a computer scientist_ (degrees and PhD's regardless!)
 
 ### Useful tools for analysis
-  1. Backus-Naur form and Extended BNF
-    - context-free grammar
+  1. Backus-Naur form
+    - A way of analyzing sentences or algorithms into a context-free grammar.
     - but basically like what we do in programming when we think of how an expression will get reduced to true or false, or, how a variable is used in a way that it gets evaluated into a value.
     - Mostly it's just a way of abstracting the logical form of a sentence or an expression into the parts which can be built upon, or, reducing grammar from the actual arguments used into the types of parameters so that similar senteces or alogrithms may be implemented.
-    - another example is how I broke down the translation of philosophy into "respect for obtaining knowledge"
+    - another example is how I broke down the translation of philosophy into "respect for obtaining knowledge" to avoid the ambiguous uses of the term philosophy.
   2. Truth Tables & logical form devoid of semantic context (i.e. just syntax)
     - operands (the terms of an expression) and operators, e.g. (p or q where p and q are the operands and "or" the operator).
     - It may be true or false the "Brad and Angelina are divorced" or "p".
@@ -88,10 +90,10 @@
         - if T, then F ---> F
         - if F, then T ---> T <--- principle of explosion!!! From falsehood, anything follows - oh no!!!!!
         - if F, then F ---> T
-    3. Logic can quickly get weird and very unintuitive, but an important notion is the idea of syntax devoid of semantics (of meaning). This is the means by which computers utilize the meaningless sequences of binary state changes to get things done. No muss and fuss with ambiguities, just either on or off, high voltage or low voltage, crushed beer can, uncrushed beer can. No in between. In much the same way that the world is made up of mindless, meaningless wave-particles in fields of force, computation uses the flow of meaningless strings of binary, semantic-free states and the computer scientist and engineer implement this flow in such a way that it is useful.
+    3. Logic can quickly get weird and very unintuitive, but an important notion is the idea of syntax devoid of semantics (of meaning). This is the means by which computers utilize the meaningless sequences of binary state changes to get things done. No muss and fuss with ambiguities, just either on or off, high voltage or low voltage, crushed beer can, uncrushed beer can; dead fish/live fish. No in between. In much the same way that the world is made up of mindless, meaningless wave-particles in fields of force, computation uses the flow of meaningless strings of binary, semantic-free states and the computer scientist and engineer implement this flow in such a way that it is useful.
 
 ### For an elementary example
-  1. given what I know (i.e. my background) about the console, if I type a command, it is my hypothesis that entering that command will return a result.
+  1. given what I already understand about the console, if I type a command, it is my hypothesis that entering that command will return a result.
     - if you want, you can all fire up node in your console and test the hypothesis that `true && true` will return `true`...)
   2. ...and yes, this is really basic stuff √
   3. Say I can make a knowledge claim, e.g. "it is true that when I enter this command, such and such results will follow."
