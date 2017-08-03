@@ -1,24 +1,30 @@
 # philosophy of computer science
 
-This lecture is just a review of some concepts which have helped me to advance in my endeavors with computer science by means of analysis, or, just breaking things down into their constituent parts to see how they all fit together.
+This lecture is just a review of some concepts which have helped me to advance in my endeavors with computer science by means of analysis> By "analysis" I just mean breaking things down into their constituent parts to see how they all fit together.
 
 ## What is philsophy?
-  - some use the term to mean "our way of looking at things" or "how we'd like the world to be"
-  - I will be using the term philosophy in the sense of the translation from the Greek:
+  - some use the term to mean "our way of looking at things" or "how we'd like the world to be" or "a way of looking at things" and sometimes even just "...my opinion."
+  - As such, the term is somewhat ambiguous.
+  - To avoid a common pitfall of using ambiguous terms, I will be constraining my use of the term philosophy for the duration of this lecture.
+  - That use of the term will be in the sense of the translation from the original ancient Greek:
 
 ### "love of wisdom"
-#### in the sense of the tranlsation:
-  1. "philo-" means love, but not in the way we might mean romantic love;
+#### in the sense of this tranlsation:
+  1. "philo-" loosely means what we use the term "love" for, but not "love" in the way we might mean romantic love;
   2. "philo-" is more aking to:
     -  Respect
     -  Reverence
     -  Virtue
   3. "-sophy" means _wisdom_
-  4. ... in short philsophy translates to (is) the virtue of or respect for wisdom.
+  4. ... in short philsophy translates to **the virtue of or respect for wisdom.**
+  5. of NOTE: upon initial utterance of the term some 2500+ years ago - and as best we can tell from record - _philosophy_ was distinguished from _sophistry_. In the sense of the Greek translation, sophistry was professional wisdom, such as we might consider a lawyer, a consultant or a politician today. A sophist, then, someone skilled in the art of rhetoric whose knowledgeable counsel might otherwise be relative to the party paying for their knowledge. The philosopher, on the other hand, was then an amateur, and philosophy only concerned with the truth of knowledge claims, regardless of the market value of dispensing such knowledge claims.
 
-#### So what is "wisdom"?
-  1. At it's core wisdom requires _knowledge_.
-  2. Wisdom, in fact, _obtains_ knowledge.
+#### So philosophy is reverence for wisdom... just what the heck _is_ "wisdom"??
+  1. first and foremost, wisdom is just an abstract idea. More on abstract ideas later...
+  2. At it's core wisdom requires _knowledge_.
+  3. Wisdom, in fact, _obtains_ knowledge.
+  4. It is worth pointing out that philosophy is not just reverence for knowledge, but respect for _obtaining_ knowledge.
+  5. With this in mind, maybe you can get a sense of how philosophy is not a particular action or abstract form, but it is something which is _actionable_.
 
 #### So what is "knowledge"?
   1. In the past 2500+ years, many have tried to construe knowledge into something to do with "beliefs which are both justified and true". This is hogwash and an open door to all sorts of nonsense.
@@ -128,3 +134,5 @@ This lecture is just a review of some concepts which have helped me to advance i
 3. You have to figure that out for yourself, silly!
 
 # So, in summation, the respect for obtaining knowledge can be applied to computaional observation, hypothesis and peer review. With that in mind, be nice to your pair partner and the person you make a Pull Request to :D
+
+To cover? Ambiguity? Logical fallacies like the unilluminating appeal to skepticism.
