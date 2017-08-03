@@ -1,5 +1,5 @@
 # philosophy of computer science
-  This lecture is just a review of some concepts which have helped me to advance in my endeavors with computer science by means of analysis. By "analysis" I just mean breaking things down into their constituent parts to see how they all fit together.
+  This lecture is just a review of some concepts which have helped me to advance in my endeavors with computer science by means of analysis. By "analysis" I just mean breaking things down into their constituent parts to see how they all fit together. So let's do that...
 
 ### What is philsophy?
   - some use the term to mean things like "how we'd like the world to be" or "a way of looking at things" and sometimes the term is used to just mean "...my opinion."
@@ -16,23 +16,23 @@
     -  Virtue
   3. "-sophy" means _wisdom_
   4. ... in short philsophy translates to **the virtue of** or **respect for wisdom.**
-  5. of NOTE: upon initial utterance of the term some 2500+ years ago - and as best we can tell from record - _philosophy_ was distinguished from _sophistry_. In the sense of the Greek translation, sophistry was professional wisdom, such as we might consider a lawyer, a consultant or a politician today. A sophist, then, someone skilled in the art of rhetoric whose knowledgeable counsel might otherwise be relative to the party paying for their knowledge. The philosopher, on the other hand, was then an amateur, and philosophy only concerned with the truth of knowledge claims, regardless of the market value of dispensing such knowledge claims.
+  <!-- 5. of NOTE: upon initial utterance of the term some 2500+ years ago - and as best we can tell from record - _philosophy_ was distinguished from _sophistry_. In the sense of the Greek translation, sophistry was professional wisdom, such as we might consider a lawyer, a consultant or a politician today. A sophist, then, someone skilled in the art of rhetoric whose knowledgeable counsel might otherwise be relative to the party paying for their knowledge. The philosopher, on the other hand, was then an amateur, and philosophy only concerned with the truth of knowledge claims, regardless of the market value of dispensing such knowledge claims. -->
 
 #### So philosophy is reverence for wisdom... just what the heck _is_ "wisdom" then??
   1. At it's core wisdom requires _knowledge_.
   2. Wisdom, in fact, _obtains_ knowledge.
   3. It is worth pointing out that philosophy is not just reverence for knowledge, but reverence for _obtaining_ knowledge, or, respect for _gaining_ knowledge.
-  4. With this in mind, maybe you can get a sense of how philosophy is not a particular action or abstract concept, or an particular area of study, but it is something which is _actionable_... that you can do something with.
+  4. With this in mind, maybe you can get a sense of how philosophy is not a particular thing you do or just an abstract concept removed from reality, nor is philosophy any particular area of study. Philosophy is something which is _actionable_... you can do something with it, in particular: gain knowledge.
 
 #### So if philosophy is love of wisdom and wisdom obtains knowledge, then what is "knowledge"?
-  1. In the past 2500+ years, many have tried to construe knowledge into something to do with "beliefs which are both justified and true". This is basically a muddle of hogwash and an open door to all sorts of nonsense.
+  1. In the past 2500+ years, many have tried to construe knowledge as something to do with "beliefs which are both justified and true". This is basically a muddle of hogwash and an open door to all sorts of nonsense.
   2. Put plainly, knowledge is quite mundane, imperfect and limited: knowledge simply is _empirical verification of what is_
     - "Empirical verification" is just a way of saying: confirmation by observation; through the senses: sight, sound, touch, taste and for better or worse, smell.
     - "what is" is just a way of saying "the world" "the case" "states of affairs" or "that which is in front of me" and so on.
     - For example, right now you are observing me and can verify the statement that "Patrick is speaking to the Lambda University class" so, you _know_ this to be true.
 
 #### In short: philosophy is _respect for obtaining observational verification of the world_
-  1. When I speak of verifying "what is" or "confirming statements about the world", I mean "the world" in the sense of _all that which is observationally verifiable_, e.g. **the world** from the boundary of subatomic decoherence to astronomical event horizons: in short, everything, right now. But, more mundanely, What anyone is capable of knowing is just that which is in their immediate field of vision or hearing, et cetera
+  1. When I speak of verifying "what is" or "confirming statements about the world", I mean "the world" in the sense of _all that which is observationally verifiable_, e.g. **the whole world** is from the boundary of subatomic decoherence to astronomical event horizons: in short, everything, right now. But, more mundanely, wat anyone is capable of knowing is just that which is in their immediate field of vision or hearing, et cetera
   2. In this sense:
     - philosophy is not a matter of agreement nor interpretation.
     - philsophy is not an -ology, an area of study
