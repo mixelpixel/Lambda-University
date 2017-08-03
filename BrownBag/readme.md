@@ -101,6 +101,7 @@
   - When I am lost or overwhelmed, I can use the analytial tools to find solid ground from which to reorient or build upon.
 
 ### To end, I will leave you with the three kinds of knowledge and the three answers to every question, "why?"
+
   ### Three kinds of empirical verification:
     1. Axiomatic, or, self evident knowledge
       - e.g. "dividends require financing" or "2 + 2 = 4"
@@ -117,15 +118,15 @@
       - This one particular kind of knowledge, for better or worse, is **only** verifiable by the self and no others. Someone else can agree with me when I say, "I feel glad" and they may observe my demeanor and behaviour and presume as much, but this is categorically distinct from anyone else empirically verifying my self-knowledge.
       - This aspect of what is sometimes called the irreducible first-person ontology of consciousness presents and epistemic limitation. But I digress.
 
-### Three answers to every question, "why?"
-  1. Why not?
-  2. Because...
-   - Often when "why?" is aksed in place of "how?" there actually is a cause which can be cited, but "because" can be ambiguous. For example:
-   - Q: "Because I am cold" answers two different questions very differently
-     1. A: "Why are you shivering?"
-     2. A: "Why are you putting on your sweater?"
-     - In the former case, _cause_ is cited, in the second case, _reason_.
-  3. You have to figure that out for yourself, silly!
+  ### Three answers to every question, "why?"
+    1. Why not?
+    2. Because...
+     - Often when "why?" is aksed in place of "how?" there actually is a cause which can be cited, but "because" can be ambiguous. For example:
+     - Q: "Because I am cold" answers two different questions very differently
+       1. A: "Why are you shivering?"
+       2. A: "Why are you putting on your sweater?"
+       - In the former case, _cause_ is cited, in the second case, _reason_.
+    3. You have to figure that out for yourself, silly!
 
 ### So, in summation, the respect for obtaining knowledge can be applied to computaional observation, hypothesis and peer review. With that in mind, be nice to your pair partner and the person you make a Pull Request to :D
 
