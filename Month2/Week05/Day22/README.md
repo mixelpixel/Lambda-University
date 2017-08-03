@@ -12,7 +12,7 @@
 ***
 # [3rd Lecture](https://youtu.be/OniWLLXqlnk) w/Ben Nelson: LS-AJAX Sprint review
 ***
-# [4th Lecture](https://youtu.be/5eGGI4diNrU) w/Ryan Hamblin: SPA/Routing
+# [4th Lecture](https://youtu.be/5eGGI4diNrU) w/Ryan Hamblin: SPA / React-Router
 # [5th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ben Nelson: Single Page Application and React-Router
 - https://github.com/LambdaSchool/LS-Routing-Movies
 - modular html refreshing instead of the whole page
