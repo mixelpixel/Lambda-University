@@ -277,7 +277,7 @@ Pair Programming #8: https://github.com/LambdaSchool/LS-Routing-Movies w/Ryan S
 
 ### Day 23: Thursday, August 03
 ### [DAY 23 NOTES](Month2/Week05/Day23/README.md)
-Code Challenge #19: https://github.com/LambdaSchool/CS1-Code-Challenges.git "NEW_CODE_CHALLENGE"
+Code Challenge #19: https://github.com/LambdaSchool/CS1-Code-Challenges.git "Logic Gates"
 #### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Code Challenge #18 review rotateImage
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
@@ -287,7 +287,7 @@ Code Challenge #19: https://github.com/LambdaSchool/CS1-Code-Challenges.git "NEW
 ### Day 24: Friday, August 04
 ### [DAY 24 NOTES](Month2/Week05/Day24/README.md)
 Code Challenge #20: https://github.com/LambdaSchool/CS1-Code-Challenges.git "NEW_CODE_CHALLENGE"
-#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Code Challenge #19 review PREVIOUS_CODE_CHALLENGE
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Code Challenge #19 review logicGates
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 
