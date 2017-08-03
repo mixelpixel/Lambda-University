@@ -1,6 +1,6 @@
 # Lambda University - August 03, 2017: Day 023, Thursday
 ## Coding Challenge #19
-- "NEW_CODE_CHALLENGE" available in https://github.com/LambdaSchool/CS1-Code-Challenges.git
+- "Logic Gates" available in https://github.com/LambdaSchool/CS1-Code-Challenges.git
 ***
 Ben Nelson
 Ryna Hamblin
@@ -15,7 +15,7 @@ NO_VIDEO_RECORDED
 ***
 #### LUNCH
 ***
-# [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+# [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Patrick Kennedy: philosophy of computer science
 ***
 # [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 ***
