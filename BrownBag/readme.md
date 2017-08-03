@@ -16,13 +16,13 @@
       - the parts which can be built upon, or, reducing grammar from the actual arguments used into the types of parameters so that similar senteces or alogrithms may be constructed.
     - another example is how I will build upon a constrained use of the word "philosophy" to the translation from the ancient Greek such that any instance of "...philosophy..." can be replaced with an unambiguous term. In this manner, analyzing statements into Backus-Naur Form can help to avoid ambiguity.
   2. Truth Tables & logical form devoid of semantic context (i.e. just syntax)
-    <!-- - operands (the terms of an expression) and operators, e.g. (p or q where p and q are the operands and "or" the operator).
+    - operands (the terms of an expression) and operators, e.g. (p or q where p and q are the operands and "or" the operator).
     - It may be true or false the "Brad and Angelina are divorced" or "p".
     - It may be true or false that "the earth is ~93 million miles from the sun" or "q"
-    - So how do we evaluate a sentence which uses more than one knowledge claim? e.g. (p and q) or (p or q)? -->
+    - So how do we evaluate a sentence which uses more than one knowledge claim? e.g. (p and q) or (p or q)?
     - Q: how do we evaluate the results of all the possible combinations of whether p is true or false and whether q is true or false?
     - A: Truth tables are used to abstract the claims into symbols and examine all possible combinations in binary terms of true/false (or on/off if you prefer)
-      <!-- 1. and &&
+      1. and &&
         - (T & T) ==> T
         - (T & F) ==> F
         - (F & T) ==> F
@@ -41,7 +41,7 @@
         - (if T, then T) ==> T
         - (if T, then F) ==> F
         - (if F, then T) ==> T <--- principle of explosion!!! From falsehood, anything follows - oh no!!!!!
-        - (if F, then F) ==> T -->
+        - (if F, then F) ==> T
     3. Logic can quickly get weird and very unintuitive, but an important notion is the idea of syntax devoid of semantics (of meaning). This is the means by which computers utilize the meaningless sequences of binary state changes to get things done. No muss and fuss with ambiguities, just either on or off, high voltage or low voltage, crushed beer can, uncrushed beer can; dead fish/live fish. No in between. In much the same way that the world is made up of mindless, meaningless wave-particles in fields of force, computation uses the flow of meaningless strings of binary, semantic-free states and the computer scientist and engineer implement this flow in such a way that it is useful.
 
 ### What is philsophy?
@@ -64,7 +64,7 @@
     -  Virtue
   3. "-sophy" means _wisdom_
   4. ... in short philsophy translates to **the virtue of** or **respect for wisdom.**
-  <!-- 5. of NOTE: upon initial utterance of the term some 2500+ years ago - and as best we can tell from record - _philosophy_ was distinguished from _sophistry_. In the sense of the Greek translation, sophistry was professional wisdom, such as we might consider a lawyer, a consultant or a politician today. A sophist, then, someone skilled in the art of rhetoric whose knowledgeable counsel might otherwise be relative to the party paying for their knowledge. The philosopher, on the other hand, was then an amateur, and philosophy only concerned with the truth of knowledge claims, regardless of the market value of dispensing such knowledge claims. -->
+  5. of NOTE: upon initial utterance of the term some 2500+ years ago - and as best we can tell from record - _philosophy_ was distinguished from _sophistry_. In the sense of the Greek translation, sophistry was professional wisdom, such as we might consider a lawyer, a consultant or a politician today. A sophist, then, someone skilled in the art of rhetoric whose knowledgeable counsel might otherwise be relative to the party paying for their knowledge. The philosopher, on the other hand, was then an amateur, and philosophy only concerned with the truth of knowledge claims, regardless of the market value of dispensing such knowledge claims.
 
 #### So philosophy is reverence for wisdom... but just what the heck _is_ "wisdom" then??
   1. At it's core wisdom requires _knowledge_.
@@ -87,13 +87,13 @@
     - philosophy is not to be confused with the history of philosophy or the history of philosophers.
     - respect for obtaining knowledge is heuristic. This is just a way of saying that philosophy simply _enables_ learning.
     - To enable learning, respect for wisdom contends not with opinion or sentiment, or a metaphor, or a way of construing the case, a view, or in the German, a _weltanschauung_, but philosophy contends with what is the case and what can be said of the case and it does so in terms of that which is exclusively either true or false with no middle ground.
-  <!-- 3. the **purview** of philsophy is: *logic, reason and rhetoric*
+  3. the **purview** of philsophy is: *logic, reason and rhetoric*
     - _Rhetoric_ is just a fancy way of saying, "how you use your words."
     - _Reason_ is basically just the art of using logic to deduce, to induce and to abduce (and abduce is just a fancy way of saying, "guessing").
     - _Logic_ is just the artifice, or, set of tools, which we use to reason.
   4. Given this purview, the **domains** of philosophy are:
     - Epistemology, or the study of knowledge and statements of knowledge, and
-    - Ontology, the study of reality, or what exists - and I'll put it out there that what exists is the (at most one) world which we live in. An example of something which doesn't exist is ideas or abstractions. Like a Euclidian circle (all points upon a two dimensional plane which are equidistant from a point), abstract ideas are only to be found in language - they do not exist. -->
+    - Ontology, the study of reality, or what exists - and I'll put it out there that what exists is the (at most one) world which we live in. An example of something which doesn't exist is ideas or abstractions. Like a Euclidian circle (all points upon a two dimensional plane which are equidistant from a point), abstract ideas are only to be found in language - they do not exist.
 
 #### So what is the philosophy of computer science?
   1. In short: respect for obtaining knowledge with and of computer science.
@@ -124,7 +124,7 @@
 ## So, in summation, the respect for obtaining knowledge can be applied to computaional observation, hypothesis and peer review. With that in mind my fellow computer scientists, remember to be nice to your pair partner and the person you make a Pull Request to because they will be observing your hypotheses and hopefully advancing your knowledge claims :D
 
 
-<!-- ### I will leave you with the three kinds of knowledge and the three answers to every question, "why?"
+### I will leave you with the three kinds of knowledge and the three answers to every question, "why?"
 ### Three kinds of empirical verification:
   1. Axiomatic, or, self evident knowledge
     - e.g. "dividends require financing" or "2 + 2 = 4"
@@ -156,4 +156,4 @@
   3. Hypothesis: a guess can be an hypothesis, but hypotheses which are both verifiable and falsifiable are generally more apt to advance a knowledge claim
   4. It is worth distinguishing statements of what is true from what is "true to you" (or true to me, or true to them or true to us). Statements of what is true are verifiable and falsifiable, for example, the statement "it is raining" could be true or false depending on the climate conditions of the person making the claim. Statements of what is "true to..." [you; me; us, or them] are basically statements of opinion, belief, sentiment, or an expression from a way of interpreting things... a way of looking at thing. These are all well and good, but categorically distinct from statments which are exclusively either true or false. It may be true to you that Bill Clinton was a better President than Ronald Reagan, and it may be true to someone else that Reagan was a better President. Whatever the opinion, however, the statement that "Ronald Reagan is the President of these united States" was true in the 1980s, but if the statement were made today, it would be false.
   5. To illustrate: if "a way of looking at the world" were adequate to determine the case, then an oasis and a mirage would have both epistemic and ontological equivalence. They do not.
-  6. Logical fallacies: fallacy of ambiguity; the unilluminating appeal to skepticism; hmm.... -->
+  6. Logical fallacies: fallacy of ambiguity; the unilluminating appeal to skepticism; hmm....
