@@ -1,4 +1,3 @@
-3:30
 
 # philosophy of computer science
   This lecture is just a review of some concepts which have helped me to advance in my endeavors with computer science by means of analysis. By "analysis" I just mean breaking things down into their constituent parts to see how they all fit together. So let's do that...
