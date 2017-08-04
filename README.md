@@ -286,7 +286,7 @@ Code Challenge #19: https://github.com/LambdaSchool/CS1-Code-Challenges.git "Log
 
 ### Day 24: Friday, August 04
 ### [DAY 24 NOTES](Month2/Week05/Day24/README.md)
-Code Challenge #20: https://github.com/LambdaSchool/CS1-Code-Challenges.git "NEW_CODE_CHALLENGE"
+Code Challenge #20: https://github.com/LambdaSchool/CS1-Code-Challenges.git "Parallel"
 #### [1st Lecture](https://youtu.be/Hmi4Y7JluzM) w/Tai: Code Challenge #19 review logicGates
 #### [Brown Bag](https://youtu.be/fcbLwbqWKjI) w/Patrick Kennedy: philosophy of computer science
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: Review / Q&A
@@ -299,7 +299,7 @@ Code Challenge #20: https://github.com/LambdaSchool/CS1-Code-Challenges.git "NEW
 ### Day 25: Monday, August 07
 ### [DAY 24 NOTES](Month2/Week05/Day25/README.md)
 Code Challenge #21: https://github.com/LambdaSchool/CS1-Code-Challenges.git "NEW_CODE_CHALLENGE"
-#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Code Challenge #20 review PREVIOUS_CODE_CHALLENGE
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Code Challenge #20 review parallel
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 Pair Programming #9: PAIR_PROG_URL w/
