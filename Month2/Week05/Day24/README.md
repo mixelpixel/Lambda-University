@@ -1,6 +1,6 @@
 # Lambda University - August 04, 2017: Day 024, Friday
 ## Coding Challenge #20
-- "NEW_CODE_CHALLENGE" available in https://github.com/LambdaSchool/CS1-Code-Challenges.git
+- "Parallel" available in https://github.com/LambdaSchool/CS1-Code-Challenges.git
 ***
 Ben Nelson
 Ryna Hamblin
