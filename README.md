@@ -287,7 +287,7 @@ Code Challenge #19: https://github.com/LambdaSchool/CS1-Code-Challenges.git "Log
 ### Day 24: Friday, August 04
 ### [DAY 24 NOTES](Month2/Week05/Day24/README.md)
 Code Challenge #20: https://github.com/LambdaSchool/CS1-Code-Challenges.git "Parallel"
-#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Emily Sperry: Code Challenge #19 review logicGates
+#### [1st Lecture](https://youtu.be/jgWl-NdfRZ8) w/Emily Sperry: Code Challenge #19 review logicGates
 #### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Jiovan Melendez: topic
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 
