@@ -2,7 +2,7 @@
 ## Coding Challenge #20
 - "Parallel" available in https://github.com/LambdaSchool/CS1-Code-Challenges.git
 ***
-# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Emily Sperry: Review Code Challenge #19: logicGates
+# [1st Lecture](https://youtu.be/jgWl-NdfRZ8) w/Emily Sperry: Review Code Challenge #19: logicGates
 ***
 #### LUNCH
 ***
