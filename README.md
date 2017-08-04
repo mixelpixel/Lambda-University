@@ -289,8 +289,7 @@ Code Challenge #19: https://github.com/LambdaSchool/CS1-Code-Challenges.git "Log
 Code Challenge #20: https://github.com/LambdaSchool/CS1-Code-Challenges.git "NEW_CODE_CHALLENGE"
 #### [1st Lecture](https://youtu.be/Hmi4Y7JluzM) w/Tai: Code Challenge #19 review logicGates
 #### [Brown Bag](https://youtu.be/fcbLwbqWKjI) w/Patrick Kennedy: philosophy of computer science
-#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: Review / Q&A
 
 
 ***
