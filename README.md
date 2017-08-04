@@ -278,18 +278,18 @@ Pair Programming #8: https://github.com/LambdaSchool/LS-Routing-Movies w/Ryan S
 ### Day 23: Thursday, August 03
 ### [DAY 23 NOTES](Month2/Week05/Day23/README.md)
 Code Challenge #19: https://github.com/LambdaSchool/CS1-Code-Challenges.git "Logic Gates"
-#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Code Challenge #18 review rotateImage
-#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [1st Lecture](https://youtu.be/Hmi4Y7JluzM) w/Tai: Code Challenge #18 review rotateImage
+#### [Brown Bag](https://youtu.be/fcbLwbqWKjI) w/Patrick Kennedy: philosophy of computer science
+#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: Review / Q&A
 
 ***
 
 ### Day 24: Friday, August 04
 ### [DAY 24 NOTES](Month2/Week05/Day24/README.md)
 Code Challenge #20: https://github.com/LambdaSchool/CS1-Code-Challenges.git "Parallel"
-#### [1st Lecture](https://youtu.be/Hmi4Y7JluzM) w/Tai: Code Challenge #19 review logicGates
-#### [Brown Bag](https://youtu.be/fcbLwbqWKjI) w/Patrick Kennedy: philosophy of computer science
-#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: Review / Q&A
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Emily Sperry: Code Challenge #19 review logicGates
+#### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Jiovan Melendez: topic
+#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 
 
 ***
