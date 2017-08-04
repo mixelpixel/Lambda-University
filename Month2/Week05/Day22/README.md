@@ -9,6 +9,9 @@
 # [2nd Lecture](https://youtu.be/P8nOh-M8o3Q) w/Sean Chen: LS-AJAX solution lecture
 - basic implementation
 - extra credit
+## [@25m18s](https://youtu.be/P8nOh-M8o3Q?t=25m18s) CONTAINERS vs COMPONENTS
+- COMPONENTS ARE "dumb" just functions
+- CONTAINERS ARE "smart" CLASSES
 ***
 # [3rd Lecture](https://youtu.be/OniWLLXqlnk) w/Ben Nelson: LS-AJAX Sprint review
 ***
