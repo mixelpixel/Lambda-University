@@ -271,7 +271,7 @@ Code Challenge #18: https://github.com/LambdaSchool/CS1-Code-Challenges.git "Rot
 #### [3rd Lecture](https://youtu.be/OniWLLXqlnk) w/Ben Nelson: LS-AJAX Sprint review
 #### [4th Lecture](https://youtu.be/5eGGI4diNrU) w/Ryan Hamblin: SPA / React-Router
 Pair Programming #8: https://github.com/LambdaSchool/LS-Routing-Movies w/Ryan S
-#### [5th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ben Nelson: Single Page Application and React-Router
+#### [5th Lecture](https://youtu.be/OniWLLXqlnk) w/Ben Nelson: Single Page Application and React-Router
 
 ***
 
