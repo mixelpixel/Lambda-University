@@ -2,17 +2,8 @@
 ## Coding Challenge #19
 - "Logic Gates" available in https://github.com/LambdaSchool/CS1-Code-Challenges.git
 ***
-Ben Nelson
-Ryna Hamblin
-Tai The Thai
-Sean Chen
-Emily Sperry
-Christine Gierer
-GUEST LECTURER
-NO_VIDEO_RECORDED
-***
-# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Tai: Review Code Challenge #18: rotateImage
-- to do it in plae, create a "holding variable"
+# [1st Lecture](https://youtu.be/Hmi4Y7JluzM) w/Tai: Review Code Challenge #18: rotateImage
+- to do it in place, create a "holding variable"
 
 ***
 #### LUNCH
