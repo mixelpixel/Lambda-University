@@ -289,7 +289,7 @@ Code Challenge #19: https://github.com/LambdaSchool/CS1-Code-Challenges.git "Log
 Code Challenge #20: https://github.com/LambdaSchool/CS1-Code-Challenges.git "Parallel"
 #### [1st Lecture](https://youtu.be/jgWl-NdfRZ8) w/Emily Sperry: Code Challenge #19 review logicGates
 #### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Jiovan Melendez: User Research Basics
-#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review / Q&A
+#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ryan Hamblin: Review / Q&A
 
 
 ***
