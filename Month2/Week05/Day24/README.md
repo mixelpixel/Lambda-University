@@ -8,6 +8,6 @@
 ***
 # [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Jiovan Melendez: User Research Basics
 ***
-# [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ryan Hamblin: Review / Q&A
+# [2nd Lecture](https://youtu.be/GNJg_K8DG2Q) w/Ryan Hamblin: Review / Q&A
 ***
 # fin
