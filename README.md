@@ -289,7 +289,7 @@ Code Challenge #19: https://github.com/LambdaSchool/CS1-Code-Challenges.git "Log
 Code Challenge #20: https://github.com/LambdaSchool/CS1-Code-Challenges.git "Parallel"
 #### [1st Lecture](https://youtu.be/jgWl-NdfRZ8) w/Emily Sperry: Code Challenge #19 review logicGates
 #### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Jiovan Melendez: User Research Basics
-#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ryan Hamblin: Review / Q&A
+#### [2nd Lecture](https://youtu.be/GNJg_K8DG2Q) w/Ryan Hamblin: Review / Q&A LEGENDARY LIVE CODE AND WALK-THROUGH !!!
 
 
 ***
@@ -484,6 +484,7 @@ Code Challenge #25: https://github.com/LambdaSchool/CS1-Code-Challenges.git "NEW
 - React is [ONLY THE VIEW LAYER](http://blog.andrewray.me/reactjs-for-stupid-people/).
 - http://www.automationfuel.com/sass-react-webpack/
 - https://react-bootstrap.github.io/
+- REACT FOR BEGINNERS: https://reactforbeginners.com/
 
 #### REDUX
 - The intro tutorial series from http://redux.js.org:
@@ -491,9 +492,13 @@ Code Challenge #25: https://github.com/LambdaSchool/CS1-Code-Challenges.git "NEW
 - Redux dev tools: https://github.com/zalmoxisus/redux-devtools-extension
 - [History of Redux](http://threedevsandamaybe.com/the-history-of-react-and-flux-with-dan-abramov/)
 - https://www.reax.io/blog/2016/07/07/quick-guide-to-react-and-redux/
+- LEGENDARY RYAN HAMBLIN REACT REDUC ROUTING LECTURE: https://youtu.be/GNJg_K8DG2Q
 
 #### AXIOS
 - https://github.com/mzabriskie/axios
+
+#### REACT ROUTER
+- https://youtu.be/AzlpRbziyZQ EXCELLENT 8 MIN OVERVIEW
 
 #### JAVASCRIPT/ ECMAScript
 - Mozilla JavaScript Reference: https://developer.mozilla.org/en-US/docs/Web/JavaScript
