@@ -16,12 +16,11 @@
 ***
 # [4th Lecture](https://youtu.be/nTRxvncdyHY) w/Ryan Hamblin: LS-Testing-Mini Lecture
 - LS-Testing-Mini: https://github.com/LambdaSchool/LS-Testing-Mini
-- Pair Programming #9: PAIR_PROG_URL w/Lois Truby
 
 ***
-# [5th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: LS-Testing
+# [5th Lecture](https://youtu.be/ujinGT484G8) w/Ryan Hamblin: LS-Testing-Mini Solution
+- Pair Programming #9: PAIR_PROG_URL w/Lois Truby
 
-
-# Sprint / Q&A
+# [6th Lecture](VIDEO_RECORDED_NOT_POSTED) w/speaker: Sprint / Q&A
 ***
 # fin
