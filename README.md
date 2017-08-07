@@ -300,8 +300,8 @@ Code Challenge #20: https://github.com/LambdaSchool/CS1-Code-Challenges.git "Par
 ### [DAY 24 NOTES](Month2/Week05/Day25/README.md)
 Code Challenge #21: https://github.com/LambdaSchool/CS1-Code-Challenges.git "NEW_CODE_CHALLENGE"
 #### [1st Lecture](https://youtu.be/EWejyPwcfis) w/Tai: Code Challenge #20 review parallel
-#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: Routing Sprint Review
-#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: Routing Sprint Solution
+#### [2nd Lecture](NO_VIDEO_RECORDED) w/Sean Chen: Routing Sprint Review
+#### [3rd Lecture](https://youtu.be/EIu4D0QWECM) w/Sean Chen: Routing Sprint Solution
 #### [4th Lecture](https://youtu.be/nTRxvncdyHY ) w/Ryan Hamblin: LS-Testing-Mini Lecture
 LS-Testing-Mini: https://github.com/LambdaSchool/LS-Testing-Mini
 #### [5th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
