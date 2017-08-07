@@ -37,3 +37,6 @@
 [submodule "LS-Testing-Mini"]
 	path = LS-Testing-Mini
 	url = https://github.com/mixelpixel/LS-Testing-Mini.git
+[submodule "LS-Testing"]
+	path = LS-Testing
+	url = https://github.com/mixelpixel/LS-Testing.git
