@@ -304,8 +304,9 @@ Code Challenge #21: https://github.com/LambdaSchool/CS1-Code-Challenges.git "NEW
 #### [3rd Lecture](https://youtu.be/EIu4D0QWECM) w/Sean Chen: Routing Sprint Solution
 #### [4th Lecture](https://youtu.be/nTRxvncdyHY ) w/Ryan Hamblin: LS-Testing-Mini Lecture
 LS-Testing-Mini: https://github.com/LambdaSchool/LS-Testing-Mini
-#### [5th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [5th Lecture](https://youtu.be/ujinGT484G8) w/Ryan Hamblin: LS-Testing-Mini Solution
 Pair Programming #9: PAIR_PROG_URL w/Lois Truby
+#### [6th Lecture](VIDEO_RECORDED_NOT_POSTED) w/speaker: Sprint / Q&A
 
 ***
 
