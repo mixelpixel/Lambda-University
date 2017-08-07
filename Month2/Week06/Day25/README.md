@@ -14,9 +14,13 @@
 ***
 #### LUNCH
 ***
-# [4th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+# [4th Lecture](https://youtu.be/nTRxvncdyHY ) w/Ryan Hamblin: LS-Testing-Mini Lecture
+- LS-Testing-Mini: https://github.com/LambdaSchool/LS-Testing-Mini
+
 ***
-# [5th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+# [5th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: LS-Testing
+Pair Programming #9: PAIR_PROG_URL w/Lois Truby
+
 # Sprint / Q&A
 ***
 # fin
