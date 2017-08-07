@@ -1,6 +1,6 @@
 # Lambda University - August 07, 2017: Day 025, Monday
 ## Coding Challenge #21
-- "NEW_CODE_CHALLENGE" available in https://github.com/LambdaSchool/CS1-Code-Challenges.git
+- "Rock, Paper, Scissor" available in https://github.com/LambdaSchool/CS1-Code-Challenges.git
 ***
 Ben Nelson
 Ryna Hamblin
