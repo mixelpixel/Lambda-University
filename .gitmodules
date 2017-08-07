@@ -34,3 +34,6 @@
 [submodule "LS-Routing-Movies"]
 	path = LS-Routing-Movies
 	url = https://github.com/mixelpixel/LS-Routing-Movies.git
+[submodule "LS-Testing-Mini"]
+	path = LS-Testing-Mini
+	url = https://github.com/mixelpixel/LS-Testing-Mini.git
