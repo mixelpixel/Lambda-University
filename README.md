@@ -299,10 +299,12 @@ Code Challenge #20: https://github.com/LambdaSchool/CS1-Code-Challenges.git "Par
 ### Day 25: Monday, August 07
 ### [DAY 24 NOTES](Month2/Week05/Day25/README.md)
 Code Challenge #21: https://github.com/LambdaSchool/CS1-Code-Challenges.git "NEW_CODE_CHALLENGE"
-#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Code Challenge #20 review parallel
-#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-Pair Programming #9: PAIR_PROG_URL w/
+#### [1st Lecture](https://youtu.be/EWejyPwcfis) w/Tai: Code Challenge #20 review parallel
+#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: Routing Sprint Review
+#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: Routing Sprint Solution
+#### [4th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+Pair Programming #9: PAIR_PROG_URL w/Lois Truby
+#### [5th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 
 ***
 
