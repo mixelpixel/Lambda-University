@@ -11,7 +11,7 @@ Christine Gierer
 GUEST LECTURER
 NO_VIDEO_RECORDED
 ***
-# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Tai: Review Code Challenge #21: rockPaperScissor
+# [1st Lecture](https://youtu.be/usriLC2tr98) w/Tai: Review Code Challenge #21: rockPaperScissor
 ***
 #### LUNCH
 ***
