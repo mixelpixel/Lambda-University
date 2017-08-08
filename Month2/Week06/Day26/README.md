@@ -2,20 +2,11 @@
 ## Coding Challenge #22
 - "Quick Sort" available in https://github.com/LambdaSchool/CS1-Code-Challenges.git
 ***
-Ben Nelson
-Ryna Hamblin
-Tai The Thai
-Sean Chen
-Emily Sperry
-Christine Gierer
-GUEST LECTURER
-NO_VIDEO_RECORDED
-***
 # [1st Lecture](https://youtu.be/usriLC2tr98) w/Tai: Review Code Challenge #21: rockPaperScissor
 ***
 #### LUNCH
 ***
-# [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+# [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: vim
 ***
 # [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 ***
