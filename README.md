@@ -314,7 +314,7 @@ Pair Programming #9: PAIR_PROG_URL w/Lois Truby
 ### [DAY 26 NOTES](Month2/Week05/Day26/README.md)
 Code Challenge #22: https://github.com/LambdaSchool/CS1-Code-Challenges.git "Quick Sort"
 #### [1st Lecture](https://youtu.be/usriLC2tr98) w/Tai: Code Challenge #21 review rockPaperScissor
-#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: vim
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 
 ***
