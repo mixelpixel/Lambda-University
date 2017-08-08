@@ -313,7 +313,7 @@ Pair Programming #9: PAIR_PROG_URL w/Lois Truby
 ### Day 26: Tuesday, August 08
 ### [DAY 26 NOTES](Month2/Week05/Day26/README.md)
 Code Challenge #22: https://github.com/LambdaSchool/CS1-Code-Challenges.git "Quick Sort"
-#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Code Challenge #21 review rockPaperScissor
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Tai: Code Challenge #21 review rockPaperScissor
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 
