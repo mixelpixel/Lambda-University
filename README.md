@@ -306,7 +306,7 @@ Code Challenge #21: https://github.com/LambdaSchool/CS1-Code-Challenges.git "NEW
 LS-Testing-Mini: https://github.com/LambdaSchool/LS-Testing-Mini
 #### [5th Lecture](https://youtu.be/ujinGT484G8) w/Ryan Hamblin: LS-Testing-Mini Solution
 Pair Programming #9: PAIR_PROG_URL w/Lois Truby
-#### [6th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ryan Hamblin: Sprint / Q&A
+#### [6th Lecture](https://youtu.be/9GYAo-7wkgM) w/Ryan Hamblin: Sprint / Q&A
 
 ***
 
