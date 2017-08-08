@@ -1,6 +1,6 @@
 # Lambda University - August 08, 2017: Day 026, Tuesday
 ## Coding Challenge #22
-- "NEW_CODE_CHALLENGE" available in https://github.com/LambdaSchool/CS1-Code-Challenges.git
+- "Quick Sort" available in https://github.com/LambdaSchool/CS1-Code-Challenges.git
 ***
 Ben Nelson
 Ryna Hamblin
