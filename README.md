@@ -297,7 +297,7 @@ Code Challenge #20: https://github.com/LambdaSchool/CS1-Code-Challenges.git "Par
 
 ## Week 06: Aug. 7 - 11
 ### Day 25: Monday, August 07
-### [DAY 24 NOTES](Month2/Week05/Day25/README.md)
+### [DAY 25 NOTES](Month2/Week05/Day25/README.md)
 Code Challenge #21: https://github.com/LambdaSchool/CS1-Code-Challenges.git "Rock Paper Scissor"
 #### [1st Lecture](https://youtu.be/EWejyPwcfis) w/Tai: Code Challenge #20 review parallel
 #### [2nd Lecture](NO_VIDEO_RECORDED) w/Sean Chen: Routing Sprint Review
