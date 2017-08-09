@@ -297,7 +297,7 @@ Code Challenge #20: https://github.com/LambdaSchool/CS1-Code-Challenges.git "Par
 
 ## Week 06: Aug. 7 - 11
 ### Day 25: Monday, August 07
-### [DAY 25 NOTES](Month2/Week05/Day25/README.md)
+### [DAY 25 NOTES](Month2/Week06/Day25/README.md)
 Code Challenge #21: https://github.com/LambdaSchool/CS1-Code-Challenges.git "Rock Paper Scissor"
 #### [1st Lecture](https://youtu.be/EWejyPwcfis) w/Tai: Code Challenge #20 review parallel
 #### [2nd Lecture](NO_VIDEO_RECORDED) w/Sean Chen: Routing Sprint Review
@@ -311,7 +311,7 @@ Pair Programming #9: PAIR_PROG_URL w/Lois Truby
 ***
 
 ### Day 26: Tuesday, August 08
-### [DAY 26 NOTES](Month2/Week05/Day26/README.md)
+### [DAY 26 NOTES](Month2/Week06/Day26/README.md)
 Code Challenge #22: https://github.com/LambdaSchool/CS1-Code-Challenges.git "Quick Sort"
 #### [1st Lecture](https://youtu.be/usriLC2tr98) w/Tai: Code Challenge #21 review rockPaperScissor
 #### [Brown Bag](NO_VIDEO_RECORDED) w/Sean Chen: vim
@@ -320,7 +320,7 @@ Code Challenge #22: https://github.com/LambdaSchool/CS1-Code-Challenges.git "Qui
 ***
 
 ### Day 27: Wednesday, August 09
-### [DAY 27 NOTES](Month2/Week05/Day27/README.md)
+### [DAY 27 NOTES](Month2/Week06/Day27/README.md)
 Code Challenge #23: https://github.com/LambdaSchool/CS1-Code-Challenges.git "NEW_CODE_CHALLENGE"
 #### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Code Challenge #22 review quickSort
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
@@ -330,7 +330,7 @@ Pair Programming #10: PAIR_PROG_URL w/
 ***
 
 ### Day 28: Thursday, August 10
-### [DAY 28 NOTES](Month2/Week05/Day28/README.md)
+### [DAY 28 NOTES](Month2/Week06/Day28/README.md)
 Code Challenge #24: https://github.com/LambdaSchool/CS1-Code-Challenges.git "NEW_CODE_CHALLENGE"
 #### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Code Challenge #23 review PREVIOUS_CODE_CHALLENGE
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
@@ -339,7 +339,7 @@ Code Challenge #24: https://github.com/LambdaSchool/CS1-Code-Challenges.git "NEW
 ***
 
 ### Day 29: Friday, August 11
-### [DAY 29 NOTES](Month2/Week05/Day29/README.md)
+### [DAY 29 NOTES](Month2/Week06/Day29/README.md)
 Code Challenge #25: https://github.com/LambdaSchool/CS1-Code-Challenges.git "NEW_CODE_CHALLENGE"
 #### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Code Challenge #24 review PREVIOUS_CODE_CHALLENGE
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
