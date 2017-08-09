@@ -302,7 +302,7 @@ Code Challenge #21: https://github.com/LambdaSchool/CS1-Code-Challenges.git "Roc
 #### [1st Lecture](https://youtu.be/EWejyPwcfis) w/Tai: Code Challenge #20 review parallel
 #### [2nd Lecture](NO_VIDEO_RECORDED) w/Sean Chen: Routing Sprint Review
 #### [3rd Lecture](https://youtu.be/EIu4D0QWECM) w/Sean Chen: Routing Sprint Solution
-#### [4th Lecture](https://youtu.be/nTRxvncdyHY ) w/Ryan Hamblin: LS-Testing-Mini Lecture
+#### [4th Lecture](https://youtu.be/nTRxvncdyHY) Pre-Recorded w/Ryan Hamblin: LS-Testing-Mini Lecture
 LS-Testing-Mini: https://github.com/LambdaSchool/LS-Testing-Mini
 #### [5th Lecture](https://youtu.be/ujinGT484G8) w/Ryan Hamblin: LS-Testing-Mini Solution
 Pair Programming #9: PAIR_PROG_URL w/Lois Truby
@@ -323,7 +323,11 @@ Code Challenge #22: https://github.com/LambdaSchool/CS1-Code-Challenges.git "Qui
 ### [DAY 27 NOTES](Month2/Week06/Day27/README.md)
 Code Challenge #23: https://github.com/LambdaSchool/CS1-Code-Challenges.git "Selection Sort"
 #### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Tai: Code Challenge #22 review quickSort
-#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ryan Hamblin: LS-Testing Solution
+#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Karthik Viswanathan: LS-Testing Sprint Review
+#### [4th Lecture](https://youtu.be/K1RkG_irE9I) Pre-Recorded w/Karthik Viswanathan: LS-Node-Mini
+#### [5th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: LS-Node
+
 Pair Programming #10: PAIR_PROG_URL w/
 
 ***
