@@ -321,8 +321,8 @@ Code Challenge #22: https://github.com/LambdaSchool/CS1-Code-Challenges.git "Qui
 
 ### Day 27: Wednesday, August 09
 ### [DAY 27 NOTES](Month2/Week06/Day27/README.md)
-Code Challenge #23: https://github.com/LambdaSchool/CS1-Code-Challenges.git "NEW_CODE_CHALLENGE"
-#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Code Challenge #22 review quickSort
+Code Challenge #23: https://github.com/LambdaSchool/CS1-Code-Challenges.git "Selection Sort"
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Tai: Code Challenge #22 review quickSort
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 Pair Programming #10: PAIR_PROG_URL w/
@@ -332,7 +332,7 @@ Pair Programming #10: PAIR_PROG_URL w/
 ### Day 28: Thursday, August 10
 ### [DAY 28 NOTES](Month2/Week06/Day28/README.md)
 Code Challenge #24: https://github.com/LambdaSchool/CS1-Code-Challenges.git "NEW_CODE_CHALLENGE"
-#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Code Challenge #23 review PREVIOUS_CODE_CHALLENGE
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Code Challenge #23 review selectionSort
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 
