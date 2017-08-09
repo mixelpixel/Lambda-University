@@ -40,3 +40,6 @@
 [submodule "LS-Testing"]
 	path = LS-Testing
 	url = https://github.com/mixelpixel/LS-Testing.git
+[submodule "node-express-mini"]
+	path = node-express-mini
+	url = https://github.com/mixelpixel/node-express-mini.git
