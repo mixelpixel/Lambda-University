@@ -13,6 +13,14 @@
 # [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Karthik Viswanathan: LS-Testing Sprint Review
 ***
 # [4th Lecture](https://youtu.be/K1RkG_irE9I) Pre-Recorded w/Karthik Viswanathan: LS-Node-Mini
+- nodemon
+- JSON: JS Object Notation
+  - turning objects into strings and strings into objects
+  - JSON.stringify(obj)
+  - JSON.parse(str)
+- Postman
+  - res.json
+
 ***
 # [5th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: LS-Node
 - Pair Programming #10: PAIR_PROG_URL w/Latoyya
