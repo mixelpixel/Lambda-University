@@ -327,15 +327,14 @@ Code Challenge #23: https://github.com/LambdaSchool/CS1-Code-Challenges.git "Sel
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Karthik Viswanathan: LS-Testing Sprint Review
 #### [4th Lecture](https://youtu.be/K1RkG_irE9I) Pre-Recorded w/Karthik Viswanathan: LS-Node-Mini
 #### [5th Lecture](https://youtu.be/PZSWGzUCET8) w/Karthik Viswanathan: LS-Node-Mini Sprint Review
-
 Pair Programming #10: PAIR_PROG_URL w/
 
 ***
 
 ### Day 28: Thursday, August 10
 ### [DAY 28 NOTES](Month2/Week06/Day28/README.md)
-Code Challenge #24: https://github.com/LambdaSchool/CS1-Code-Challenges.git "NEW_CODE_CHALLENGE"
-#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Code Challenge #23 review selectionSort
+Code Challenge #24: https://github.com/LambdaSchool/CS1-Code-Challenges.git "Rotated Array"
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: Code Challenge #23 review selectionSort
 #### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Allan Murara: GraphQL
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
@@ -345,7 +344,7 @@ Code Challenge #24: https://github.com/LambdaSchool/CS1-Code-Challenges.git "NEW
 ### Day 29: Friday, August 11
 ### [DAY 29 NOTES](Month2/Week06/Day29/README.md)
 Code Challenge #25: https://github.com/LambdaSchool/CS1-Code-Challenges.git "NEW_CODE_CHALLENGE"
-#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Code Challenge #24 review PREVIOUS_CODE_CHALLENGE
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Code Challenge #24 review rotatedArray
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 
