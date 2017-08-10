@@ -3,7 +3,8 @@
 - "NEW_CODE_CHALLENGE" available in https://github.com/LambdaSchool/CS1-Code-Challenges.git
 ***
 Ben Nelson
-Ryna Hamblin
+Karthik Viswanathan
+Ryan Hamblin
 Tai The Thai
 Sean Chen
 Emily Sperry
