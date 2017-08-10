@@ -21,6 +21,9 @@ NO_VIDEO_RECORDED
 #### LUNCH
 ***
 # [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Allan Murara: GraphQL
+- https://www.howtographql.com
+- https://dev-blog.apollodata.com/why-graphql-is-the-future-3bec28193807
+
 ***
 # [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 ***
