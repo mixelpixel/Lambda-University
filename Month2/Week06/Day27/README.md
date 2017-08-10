@@ -22,10 +22,12 @@
   - res.json
 
 ***
-# [5th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: LS-Node
-- Pair Programming #10: PAIR_PROG_URL w/Latoyya
+# [5th Lecture](https://youtu.be/PZSWGzUCET8) w/Karthik Viswanathan: LS-Node-Mini Sprint Review
+- finalWord (the concealed word which the user is guessing)
+- wordSoFar (what the user sees)
 
 ***
-# Sprint / Q&A
+- Pair Programming #10: PAIR_PROG_URL w/Latoyya
+
 ***
 # fin
