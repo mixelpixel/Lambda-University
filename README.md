@@ -334,7 +334,7 @@ Pair Programming #10: PAIR_PROG_URL w/
 ### Day 28: Thursday, August 10
 ### [DAY 28 NOTES](Month2/Week06/Day28/README.md)
 Code Challenge #24: https://github.com/LambdaSchool/CS1-Code-Challenges.git "Rotated Array"
-#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: Code Challenge #23 review selectionSort
+#### [1st Lecture](https://youtu.be/x72nJktUCXw) w/Sean Chen: Code Challenge #23 review selectionSort
 #### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Allan Murara: GraphQL
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
