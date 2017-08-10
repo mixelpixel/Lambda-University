@@ -12,7 +12,7 @@ Christine Gierer
 GUEST LECTURER
 NO_VIDEO_RECORDED
 ***
-# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: Review Code Challenge #23: selectionSort
+# [1st Lecture](https://youtu.be/x72nJktUCXw) w/Sean Chen: Review Code Challenge #23: selectionSort
 - ES6 “Destructuring Assignment (Array Matching)”
 - https://www.ecma-international.org/ecma-262/6.0/#sec-destructuring-assignment
 - http://es6-features.org/#ArrayMatching
