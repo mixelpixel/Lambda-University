@@ -5,7 +5,7 @@
 Ben Nelson
 Karthik Viswanathan
 Ryna Hamblin
-Tai The Thai
+Tai Chulikavit
 Sean Chen
 Emily Sperry
 Christine Gierer
@@ -19,7 +19,7 @@ NO_VIDEO_RECORDED
 ***
 #### LUNCH
 ***
-# [Brown Bag](https://youtu.be/l4WQgb-bNoM) w/Speaker: topic
+# [Brown Bag](https://youtu.be/l4WQgb-bNoM) w/Darren Ames: Machine Learning BioInformatics
 ***
 # [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 ***
