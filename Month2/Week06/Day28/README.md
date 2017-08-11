@@ -15,4 +15,6 @@
 - https://dev-blog.apollodata.com/why-graphql-is-the-future-3bec28193807
 
 ***
+# [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ryan Hamblin: Lab Q&A
+***
 # fin
