@@ -3,8 +3,8 @@
 - "NEW_CODE_CHALLENGE" available in https://github.com/ryanhca/CS1-Code-Challenges
 ***
 Ben Nelson
-Ryan Hamblin
 Karthik Viswanathan
+Ryan Hamblin
 Tai The Thai
 Sean Chen
 Emily Sperry
