@@ -5,7 +5,7 @@
 Ben Nelson
 Karthik Viswanathan
 Ryan Hamblin
-Tai The Thai
+Tai Chulikavit
 Sean Chen
 Emily Sperry
 Christine Gierer
