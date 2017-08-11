@@ -12,17 +12,19 @@ Christine Gierer
 GUEST LECTURER
 NO_VIDEO_RECORDED
 ***
-# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #24: rotatedArray
+# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Tai: Review Code Challenge #24: rotatedArray
+***
+***
+# [2nd Review](https://youtu.be/l4WQgb-bNoM) w/Ryan Hamblin: Review Node Express Lab
 ***
 #### LUNCH
 ***
-# [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-***
-# [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+# [Brown Bag](https://youtu.be/l4WQgb-bNoM) w/Speaker: topic
 ***
 # [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 ***
 # [4th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+***
 # Sprint / Q&A
 ***
 # fin
