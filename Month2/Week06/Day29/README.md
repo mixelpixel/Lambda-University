@@ -1,6 +1,6 @@
 # Lambda University - August 11, 2017: Day 029, Friday
 ## Coding Challenge #25
-- "NEW_CODE_CHALLENGE" available in https://github.com/LambdaSchool/CS1-Code-Challenges.git
+- "Linked List Cycles" available in https://github.com/LambdaSchool/CS1-Code-Challenges.git
 ***
 Ben Nelson
 Karthik Viswanathan
