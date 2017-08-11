@@ -344,7 +344,7 @@ Code Challenge #24: https://github.com/LambdaSchool/CS1-Code-Challenges.git "Rot
 ### Day 29: Friday, August 11
 ### [DAY 29 NOTES](Month2/Week06/Day29/README.md)
 Code Challenge #25: https://github.com/LambdaSchool/CS1-Code-Challenges.git "Linked List Cycles"
-#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Code Challenge #24 review rotatedArray
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Tai: Code Challenge #24 review rotatedArray
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 
