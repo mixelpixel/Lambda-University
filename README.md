@@ -1,10 +1,10 @@
 # Lambda University
 https://github.com/LambdaSchool/LambdaCSA-Syllabus
-### !EASTER EGGS: Click on the ▶︎ black ▶︎ triangles ▶︎ to reveal the EASTER EGGS!
+<!-- ### !EASTER EGGS: Click on the ▶︎ black ▶︎ triangles ▶︎ to reveal the EASTER EGGS! -->
 ***
 
 
-<details><summary>Pre-Course Work</summary><p>
+<!-- <details><summary>Pre-Course Work</summary><p> -->
 
 
 - [Pre-Course Work](https://docs.google.com/document/d/1YKYxzNt6QZxnPw8xOT-Qyf1BY0cHb-Us1ydzZTphxRI/edit)
@@ -14,13 +14,13 @@ https://github.com/LambdaSchool/LambdaCSA-Syllabus
 - [Lambda University Curriculum](https://docs.google.com/document/d/1Csrb2C5H6mdVsIdUi_CdKB_bY__Lpnx_fWuV4vNdsck/edit)
 
 
-</p></details>
+<!-- </p></details> -->
 
 
 ***
 
 
-<details><summary>Month 1: July, 2017</summary><p>
+<!-- <details><summary>Month 1: July, 2017</summary><p> -->
 
 ## Week 01: July 3 - 7
 ### Day 01: Monday, July 3
@@ -230,13 +230,13 @@ Code Challenge #15: https://github.com/LambdaSchool/CS1-Code-Challenges.git "Bub
 #### [3rd Lecture](https://youtu.be/3pcWCi-3Rsw) w/Sean Chen: Sprint / Q&A
 
 
-</p></details>
+<!-- </p></details> -->
 
 
 ***
 
 
-<details><summary>Month 2: August, 2017</summary><p>
+<!-- <details><summary>Month 2: August, 2017</summary><p> -->
 
 
 # Month 2: August, 2017
@@ -370,13 +370,13 @@ Code Challenge #26: https://github.com/LambdaSchool/CS1-Code-Challenges.git "NEW
 ## Week 08: Aug. 27 - Sept. 1
 
 
-</p></details>
+<!-- </p></details> -->
 
 
 ***
 
 
-<details><summary>Month 3: September, 2017</summary><p>
+<!-- <details><summary>Month 3: September, 2017</summary><p> -->
 
 
 ## Week 09: Sept. 4 - 8
@@ -394,13 +394,13 @@ Code Challenge #26: https://github.com/LambdaSchool/CS1-Code-Challenges.git "NEW
 ## Week 12: Sept. 25 - 29
 
 
-</p></details>
+<!-- </p></details> -->
 
 
 ***
 
 
-<details><summary>Month 4: October, 2017</summary><p>
+<!-- <details><summary>Month 4: October, 2017</summary><p> -->
 
 
 ## Week 13: Oct. 2 - 6
@@ -418,13 +418,13 @@ Code Challenge #26: https://github.com/LambdaSchool/CS1-Code-Challenges.git "NEW
 ## Week 16: Oct. 23 - 27
 
 
-</p></details>
+<!-- </p></details> -->
 
 
 ***
 
 
-<details><summary>Month 5: November, 2017</summary><p>
+<!-- <details><summary>Month 5: November, 2017</summary><p> -->
 
 
 ## Week 17: Oct. 30 - Nov. 3
@@ -446,13 +446,13 @@ Code Challenge #26: https://github.com/LambdaSchool/CS1-Code-Challenges.git "NEW
 ## Week 21: Nov. 27 - Dec. 1
 
 
-</p></details>
+<!-- </p></details> -->
 
 
 ***
 
 
-<details><summary>Month 6: December, 2017</summary><p>
+<!-- <details><summary>Month 6: December, 2017</summary><p> -->
 
 
 ## Week 22: Dec. 4 - 8
@@ -470,13 +470,13 @@ Code Challenge #26: https://github.com/LambdaSchool/CS1-Code-Challenges.git "NEW
 ## Week 25: Dec. 25 Christmas!
 
 
-</p></details>
+<!-- </p></details> -->
 
 
 ***
 
 
-<details><summary>Additional Resources</summary><p>
+<!-- <details><summary>Additional Resources</summary><p> -->
 
 
 #### Lambda University:
