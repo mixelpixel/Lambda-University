@@ -1,6 +1,6 @@
 # Lambda University - MONTH ##, 2017: Day ###, WEEKday
 ## Coding Challenge #
-- "NEW_CODE_CHALLENGE" available in https://github.com/ryanhca/CS1-Code-Challenges
+- "NEW_CODE_CHALLENGE" available in https://github.com/LambdaSchool/CS1-Code-Challenges/tree/master/NAME
 ***
 Ben Nelson
 Karthik Viswanathan
