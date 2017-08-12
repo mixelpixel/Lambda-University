@@ -327,7 +327,7 @@ Code Challenge #23: https://github.com/LambdaSchool/CS1-Code-Challenges.git "Sel
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Karthik Viswanathan: LS-Testing Sprint Review
 #### [4th Lecture](https://youtu.be/K1RkG_irE9I) Pre-Recorded w/Karthik Viswanathan: LS-Node-Mini
 #### [5th Lecture](https://youtu.be/PZSWGzUCET8) w/Karthik Viswanathan: LS-Node-Mini Sprint Review
-Pair Programming #10: PAIR_PROG_URL w/
+Pair Programming #10: PAIR_PROG_URL w/Latoyya
 
 ***
 
@@ -336,8 +336,7 @@ Pair Programming #10: PAIR_PROG_URL w/
 Code Challenge #24: https://github.com/LambdaSchool/CS1-Code-Challenges.git "Rotated Array"
 #### [1st Lecture](https://youtu.be/x72nJktUCXw) w/Sean Chen: Code Challenge #23 review selectionSort
 #### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Allan Murara: GraphQL
-#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ryan Hamblin: Lab Q&A
 
 ***
 
@@ -345,8 +344,10 @@ Code Challenge #24: https://github.com/LambdaSchool/CS1-Code-Challenges.git "Rot
 ### [DAY 29 NOTES](Month2/Week06/Day29/README.md)
 Code Challenge #25: https://github.com/LambdaSchool/CS1-Code-Challenges.git "Linked List Cycles"
 #### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Tai: Code Challenge #24 review rotatedArray
-#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [2nd Review](https://youtu.be/l4WQgb-bNoM) w/Ryan Hamblin: Review Node Express Lab
+#### [Brown Bag](https://youtu.be/l4WQgb-bNoM) w/Darren Ames: Machine Learning BioInformatics
+#### [3rd Lecture](NO_VIDEO_RECORDED) w/Sean Chen: Lab Q&A
+
 
 
 ***
