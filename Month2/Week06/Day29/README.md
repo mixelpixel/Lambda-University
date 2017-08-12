@@ -1,16 +1,6 @@
 # Lambda University - August 11, 2017: Day 029, Friday
 ## Coding Challenge #25
-- "Linked List Cycles" available in https://github.com/LambdaSchool/CS1-Code-Challenges.git
-***
-Ben Nelson
-Karthik Viswanathan
-Ryan Hamblin
-Tai Chulikavit
-Sean Chen
-Emily Sperry
-Christine Gierer
-GUEST LECTURER
-NO_VIDEO_RECORDED
+- "Linked List Cycles" available in https://github.com/LambdaSchool/CS1-Code-Challenges/tree/master/linkedListCycle
 ***
 # [1st Lecture](https://youtu.be/PXlKyNFBaeg) w/Tai: Review Code Challenge #24: rotatedArray
 ***
