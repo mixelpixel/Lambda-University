@@ -16,11 +16,12 @@ NO_VIDEO_RECORDED
 ***
 # [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Karthik Viswanathan: node-express Lab Review
 ***
-#### LUNCH
-***
 # [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Karthik Viswanathan: node-express Lab Solution
 ***
+#### LUNCH
+***
 # [4th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+***
 # Sprint / Q&A
 ***
 # fin
