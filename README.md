@@ -361,8 +361,9 @@ Code Challenge #26: https://github.com/LambdaSchool/CS1-Code-Challenges/tree/mas
 #### [1st Lecture](https://youtu.be/FAbIdzLePUA) w/Tai Chulikavit: Code Challenge #25 review linkedListCycles
 #### [2nd Lecture](NO_VIDEO_RECORDED) w/Karthik Viswanathan: node-express Lab Review
 #### [3rd Lecture](https://youtu.be/kE3poobSJAk) w/Karthik Viswanathan: node-express Lab Solution
-#### [4th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ryan Hamblin: Mongo DB mini-sprint
+#### [4th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ryan Hamblin: Mongo DB Intro & mini-sprint
 https://github.com/LambdaSchool/mongo-I-mini/tree/master
+#### [5th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 
 ***
 

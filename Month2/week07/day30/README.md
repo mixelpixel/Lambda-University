@@ -20,7 +20,7 @@ NO_VIDEO_RECORDED
 ***
 #### LUNCH
 ***
-# [4th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ryan Hamblin: Mongo DB intro
+# [4th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ryan Hamblin: Mongo DB intro & mini-sprint
 - minisprint: https://github.com/LambdaSchool/mongo-I-mini/tree/master
 - adding a persistent layer to server side magic
 - databases!
@@ -116,6 +116,8 @@ server.get('/todos/:id', () => {
 - find (get a list of all)
 - find single item by id w/request params
 
+***
+# [5th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 ***
 # Sprint / Q&A
 ***
