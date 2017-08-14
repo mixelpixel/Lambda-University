@@ -359,7 +359,7 @@ Code Challenge #25: https://github.com/LambdaSchool/CS1-Code-Challenges/tree/mas
 ### [DAY 30 NOTES](Month2/Week07/Day30/README.md)
 Code Challenge #26: https://github.com/LambdaSchool/CS1-Code-Challenges/tree/master/blueSquares "Blue Squares"
 #### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Tai Chulikavit: Code Challenge #25 review linkedListCycles
-#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: node-express Lab Review
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 
 ***
@@ -373,7 +373,34 @@ Code Challenge #27: https://github.com/ryanhca/CS1-Code-Challenges/tree/master/N
 
 ***
 
+### Day 32: Wednesday, August 16
+### [DAY 32 NOTES](Month2/Week07/Day32/README.md)
+Code Challenge #28: https://github.com/ryanhca/CS1-Code-Challenges/tree/master/NAME "NEW_CODE_CHALLENGE"
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Code Challenge #27 PREVIOUS_CODE_CHALLENGE
+#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+
 ***
+
+### Day 33: Thursday, August 17
+### [DAY 33 NOTES](Month2/Week07/Day33/README.md)
+Code Challenge #29: https://github.com/ryanhca/CS1-Code-Challenges/tree/master/NAME "NEW_CODE_CHALLENGE"
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Code Challenge #28 PREVIOUS_CODE_CHALLENGE
+#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+
+***
+
+### Day 34: Thursday, August 18
+### [DAY 34 NOTES](Month2/Week07/Day34/README.md)
+Code Challenge #30: https://github.com/ryanhca/CS1-Code-Challenges/tree/master/NAME "NEW_CODE_CHALLENGE"
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Code Challenge #29 PREVIOUS_CODE_CHALLENGE
+#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+
+
+***
+
 
 ## Week 08: Aug. 21 - 25
 
