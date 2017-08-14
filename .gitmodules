@@ -52,3 +52,6 @@
 [submodule "node-express-mini-finished"]
 	path = node-express-mini-finished
 	url = https://github.com/LambdaSchool/node-express-mini-finished.git
+[submodule "mongo-I-mini"]
+	path = mongo-I-mini
+	url = https://github.com/mixelpixel/mongo-I-mini.git
