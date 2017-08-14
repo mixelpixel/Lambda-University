@@ -1,11 +1,11 @@
 # Lambda University - August 14, 2017: Day 030, Monday
 ## Coding Challenge #26
-- "NEW_CODE_CHALLENGE" available in https://github.com/ryanhca/CS1-Code-Challenges
+- "Blue Squares" available in https://github.com/ryanhca/CS1-Code-Challenges/tree/master/blueSquares
 ***
 Ben Nelson
 Karthik Viswanathan
 Ryan Hamblin
-Tai The Thai
+Tai Chulikavit
 Sean Chen
 Emily Sperry
 Christine Gierer
