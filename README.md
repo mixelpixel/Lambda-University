@@ -343,7 +343,7 @@ Code Challenge #24: https://github.com/LambdaSchool/CS1-Code-Challenges.git "Rot
 ### Day 29: Friday, August 11
 ### [DAY 29 NOTES](Month2/Week06/Day29/README.md)
 Code Challenge #25: https://github.com/LambdaSchool/CS1-Code-Challenges/tree/master/linkedListCycle "Linked List Cycles"
-#### [1st Lecture](https://youtu.be/PXlKyNFBaeg) w/Tai: Code Challenge #24 review rotatedArray
+#### [1st Lecture](https://youtu.be/PXlKyNFBaeg) w/Tai Chulikavit: Code Challenge #24 review rotatedArray
 #### [2nd Review](https://youtu.be/l4WQgb-bNoM) w/Ryan Hamblin: Review Node Express Lab
 #### [Brown Bag](https://youtu.be/l4WQgb-bNoM) w/Darren Ames: Machine Learning BioInformatics
 #### [3rd Lecture](NO_VIDEO_RECORDED) w/Sean Chen: Lab Q&A
@@ -353,13 +353,25 @@ Code Challenge #25: https://github.com/LambdaSchool/CS1-Code-Challenges/tree/mas
 ***
 
 
+
 ## Week 07: Aug. 14 - 18
 ### Day 30: Monday, August 14
 ### [DAY 30 NOTES](Month2/Week07/Day30/README.md)
-Code Challenge #26: NEW_CODE_CHALLENGE https://github.com/LambdaSchool/CS1-Code-Challenges/tree/master/NEW_CODE_CHALLENGE
-#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Code Challenge #25 review linkedListCycles
+Code Challenge #26: https://github.com/LambdaSchool/CS1-Code-Challenges/tree/master/blueSquares "Blue Squares"
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Tai Chulikavit: Code Challenge #25 review linkedListCycles
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+
+***
+
+### Day 31: Tuesday, August 15
+### [DAY 31 NOTES](Month2/Week07/Day31/README.md)
+Code Challenge #27: https://github.com/ryanhca/CS1-Code-Challenges/tree/master/NAME "NEW_CODE_CHALLENGE"
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Code Challenge #26 review blueSquares
+#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+
+***
 
 ***
 
