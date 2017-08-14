@@ -28,12 +28,12 @@ NO_VIDEO_RECORDED
 - Non-SQL (like MySQL is a "relational" or "tabular" style DB)
 - MongoDB uses "PSON" but the user interacts with JSON.
 - readable methods, e.g. .find() & .save() to find and save db info
-- Install MongoDB with homebrew & using `mogod`
+- Install MongoDB with homebrew & using `mongod`
 - https://www.mongodb.com/download-center?jmp=nav#community
 - db.bears.find().pretty() makes it look pretty
 - https://docs.mongodb.com/manual/mongo/
 - MONGO vs. MONGOOSE (An ORM)
-- add start: nodemonserver.js to package.json
+- add start: nodemon server.js to package.json scripts
 - use models.js for DB mapping
   - sending "typed" data
   - defining the SCHEMA modelling what our data will look like
@@ -77,7 +77,7 @@ NO_VIDEO_RECORDED
 - POST
   ```js
   server.post('/todos', (req, res) => {
-    const{ text, completed } = req.bodt;
+    const{ text, completed } = req.body;
     if (!text || !completed ) {
       // throw err;
       res.status(422);
