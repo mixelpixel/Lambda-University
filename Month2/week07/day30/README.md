@@ -20,7 +20,7 @@ NO_VIDEO_RECORDED
 ***
 #### LUNCH
 ***
-# [4th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ryan Hamblin: Mongo DB intro & mini-sprint
+# [4th Lecture](https://youtu.be/mc26S-0FeSA) w/Ryan Hamblin: Mongo DB intro & mini-sprint
 - minisprint: https://github.com/LambdaSchool/mongo-I-mini/tree/master
 - adding a persistent layer to server side magic
 - databases!
