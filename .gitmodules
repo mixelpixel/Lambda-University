@@ -46,3 +46,9 @@
 [submodule "node-express-lab"]
 	path = node-express-lab
 	url = https://github.com/mixelpixel/node-express-lab.git
+[submodule "node-express-lab-finished"]
+	path = node-express-lab-finished
+	url = https://github.com/LambdaSchool/node-express-lab-finished.git
+[submodule "node-express-mini-finished"]
+	path = node-express-mini-finished
+	url = https://github.com/LambdaSchool/node-express-mini-finished.git
