@@ -12,13 +12,13 @@ Christine Gierer
 GUEST LECTURER
 NO_VIDEO_RECORDED
 ***
-# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Tai Chulikavit: Review Code Challenge #25: linkedListCycles
+# [1st Lecture](https://youtu.be/FAbIdzLePUA) w/Tai Chulikavit: Review Code Challenge #25: linkedListCycles
 ***
-# [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: node-express Lab Review
+# [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Karthik Viswanathan: node-express Lab Review
 ***
 #### LUNCH
 ***
-# [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+# [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Karthik Viswanathan: node-express Lab Solution
 ***
 # [4th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 # Sprint / Q&A
