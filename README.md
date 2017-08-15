@@ -587,6 +587,7 @@ Code Challenge #30: https://github.com/ryanhca/CS1-Code-Challenges/tree/master/N
 #### ESLINTer:
 - npm: https://www.npmjs.com/package/eslint-watch
 - [AirBnB Style guide](https://github.com/airbnb/javascript#control-statements)
+- http://eslint.org/docs/user-guide/getting-started
 
 #### SUPPORT APPS
 - Text Editors / IDE's
