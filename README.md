@@ -370,7 +370,7 @@ https://github.com/LambdaSchool/mongo-I-mini/tree/master
 ### Day 31: Tuesday, August 15
 ### [DAY 31 NOTES](Month2/Week07/Day31/README.md)
 Code Challenge #27: https://github.com/ryanhca/CS1-Code-Challenges/tree/master/NAME "Last Recently Used Cache"
-#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Code Challenge #26 review blueSquares
+#### [1st Lecture](https://youtu.be/9EGlhs1BISo) w/Speaker: Code Challenge #26 review blueSquares
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 
@@ -535,6 +535,9 @@ Code Challenge #30: https://github.com/ryanhca/CS1-Code-Challenges/tree/master/N
 - https://docs.mongodb.com/manual/reference/mongo-shell/
 
 #### NODE
+
+#### JQuery
+- https://code.jquery.com/
 
 #### REACT
 - REACT FUNDAMENTALS: https://egghead.io/courses/react-fundamentals
