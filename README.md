@@ -371,6 +371,7 @@ https://github.com/LambdaSchool/mongo-I-mini/tree/master
 ### [DAY 31 NOTES](Month2/Week07/Day31/README.md)
 Code Challenge #27: https://github.com/ryanhca/CS1-Code-Challenges/tree/master/NAME "Last Recently Used Cache"
 #### [1st Lecture](https://youtu.be/9EGlhs1BISo) w/Speaker: Code Challenge #26 review blueSquares
+#### [Brown Bag](https://youtu.be/6FJwJcpfdfg) w/Evan Allen: Bitcoin
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 
