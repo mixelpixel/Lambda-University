@@ -18,7 +18,7 @@ NO_VIDEO_RECORDED
 ***
 #### LUNCH
 ***
-# [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+# [Brown Bag](https://youtu.be/6FJwJcpfdfg) w/Evan Allen: Bitcoin
 ***
 # [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 ***
