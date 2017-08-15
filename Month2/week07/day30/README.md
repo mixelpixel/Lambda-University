@@ -120,9 +120,9 @@ server.get('/todos/:id', () => {
 # [5th Lecture](https://youtu.be/y6d-b3p3tAA) w/Ryan Hamblin: Mongo-I Lab Q&A
 - mongo commands
 - `show dbs` list db's...
-- use(bears)
-- db.bears.find().pretty()
-- db.drop(bears) <<<< ?????Not sure
+- `use bears` use a particular db
+- `db.bears.find().pretty()` display contents nicely
+- `db.dropDatabase()` nuke db out of existence
 - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise
 
 
