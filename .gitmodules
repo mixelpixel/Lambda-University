@@ -55,6 +55,3 @@
 [submodule "mongo-I-mini"]
 	path = mongo-I-mini
 	url = https://github.com/mixelpixel/mongo-I-mini.git
-[submodule "LS-Mongo-I"]
-	path = LS-Mongo-I
-	url = https://github.com/mixelpixel/LS-Mongo-I.git
