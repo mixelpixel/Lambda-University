@@ -12,7 +12,9 @@ Christine Gierer
 GUEST LECTURER
 NO_VIDEO_RECORDED
 ***
-# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #26: blueSquares
+# [1st Lecture](https://youtu.be/9EGlhs1BISo) w/Emily Sperry: Review Code Challenge #26: blueSquares
+- https://code.jquery.com/
+
 ***
 #### LUNCH
 ***
