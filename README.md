@@ -534,6 +534,9 @@ Code Challenge #30: https://github.com/ryanhca/CS1-Code-Challenges/tree/master/N
 - https://www.mongodb.com/
 - https://docs.mongodb.com/manual/reference/mongo-shell/
 
+#### Mongoose
+- http://mongoosejs.com/docs/api.html#query_Query-remove
+
 #### NODE
 
 #### JQuery
