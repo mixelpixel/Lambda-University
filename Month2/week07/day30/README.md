@@ -117,6 +117,14 @@ server.get('/todos/:id', () => {
 - find single item by id w/request params
 
 ***
-# [5th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ryan Hamblin: Mongo-I Lab Q&A
+# [5th Lecture](https://youtu.be/y6d-b3p3tAA) w/Ryan Hamblin: Mongo-I Lab Q&A
+- mongo commands
+- `show dbs` list db's...
+- use(bears)
+- db.bears.find().pretty()
+- db.drop(bears) <<<< ?????Not sure
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise
+
+
 ***
 # fin
