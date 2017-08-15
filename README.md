@@ -369,7 +369,7 @@ https://github.com/LambdaSchool/mongo-I-mini/tree/master
 
 ### Day 31: Tuesday, August 15
 ### [DAY 31 NOTES](Month2/Week07/Day31/README.md)
-Code Challenge #27: https://github.com/ryanhca/CS1-Code-Challenges/tree/master/NAME "NEW_CODE_CHALLENGE"
+Code Challenge #27: https://github.com/ryanhca/CS1-Code-Challenges/tree/master/NAME "Last Recently Used Cache"
 #### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Code Challenge #26 review blueSquares
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
@@ -379,7 +379,7 @@ Code Challenge #27: https://github.com/ryanhca/CS1-Code-Challenges/tree/master/N
 ### Day 32: Wednesday, August 16
 ### [DAY 32 NOTES](Month2/Week07/Day32/README.md)
 Code Challenge #28: https://github.com/ryanhca/CS1-Code-Challenges/tree/master/NAME "NEW_CODE_CHALLENGE"
-#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Code Challenge #27 PREVIOUS_CODE_CHALLENGE
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Code Challenge #27 lruCache
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 
