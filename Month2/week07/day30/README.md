@@ -117,8 +117,6 @@ server.get('/todos/:id', () => {
 - find single item by id w/request params
 
 ***
-# [5th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-***
-# Sprint / Q&A
+# [5th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ryan Hamblin: Mongo-I Lab Q&A
 ***
 # fin
