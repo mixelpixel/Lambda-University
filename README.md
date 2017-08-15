@@ -530,6 +530,12 @@ Code Challenge #30: https://github.com/ryanhca/CS1-Code-Challenges/tree/master/N
 #### LSPro lectures:
 - [Callbacks](https://youtu.be/qxURd9khNgU)
 
+#### MONGO
+- https://www.mongodb.com/
+- https://docs.mongodb.com/manual/reference/mongo-shell/
+
+#### NODE
+
 #### REACT
 - REACT FUNDAMENTALS: https://egghead.io/courses/react-fundamentals
 - https://facebook.github.io/react/docs/hello-world.html
