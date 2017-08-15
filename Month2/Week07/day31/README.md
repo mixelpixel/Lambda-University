@@ -1,6 +1,6 @@
 # Lambda University - August 15, 2017: Day 031, Tuesday
 ## Coding Challenge #27
-- "NEW_CODE_CHALLENGE" available in https://github.com/LambdaSchool/CS1-Code-Challenges/tree/master/NAME
+- "Last Recently Used Cache" available in https://github.com/LambdaSchool/CS1-Code-Challenges/tree/master/NAME
 ***
 Ben Nelson
 Karthik Viswanathan
