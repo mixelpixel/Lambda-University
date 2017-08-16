@@ -16,13 +16,19 @@ NO_VIDEO_RECORDED
 ***
 #### LUNCH
 ***
-# [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+# [2nd Lecture](https://youtu.be/cSNmaz_Hi8w) w/Karthik Viswanathan: LS-Mongo-I Solution
+- https://github.com/LambdaSchool/LS-Mongo-I-finished
+
 ***
-# [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+# [3rd Lecture](NO_VIDEO_RECORDED) w/Ryan Hamblin: LS-Mongo-I Lab review
 ***
-# [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+# [4rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: LS-Mongo-II intro
+- https://www.youtube.com/playlist?list=PLWX9jswdDQ0Xr9-vvyMnQ7nXTPby5iwqE
+  - [Mongo II](https://youtu.be/dXqBgRHw_y4)
+  - [Mongo II Setup](https://youtu.be/JSzuL44eakA)
+
 ***
-# [4th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+# [5th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: mongo-II-mini review
 # Sprint / Q&A
 ***
 # fin
