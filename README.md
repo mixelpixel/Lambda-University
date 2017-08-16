@@ -379,8 +379,8 @@ Code Challenge #27: https://github.com/ryanhca/CS1-Code-Challenges/tree/master/N
 
 ### Day 32: Wednesday, August 16
 ### [DAY 32 NOTES](Month2/Week07/Day32/README.md)
-Code Challenge #28: https://github.com/ryanhca/CS1-Code-Challenges/tree/master/NAME "NEW_CODE_CHALLENGE"
-#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Code Challenge #27 lruCache
+Code Challenge #28: https://github.com/ryanhca/CS1-Code-Challenges/tree/master/NAME "Stack Of Plates"
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Karthik Viswanathan: Review Code Challenge #27: lruCache
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 
@@ -389,7 +389,7 @@ Code Challenge #28: https://github.com/ryanhca/CS1-Code-Challenges/tree/master/N
 ### Day 33: Thursday, August 17
 ### [DAY 33 NOTES](Month2/Week07/Day33/README.md)
 Code Challenge #29: https://github.com/ryanhca/CS1-Code-Challenges/tree/master/NAME "NEW_CODE_CHALLENGE"
-#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Code Challenge #28 PREVIOUS_CODE_CHALLENGE
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Code Challenge #28 stackOfPlates
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 
