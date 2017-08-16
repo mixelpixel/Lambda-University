@@ -12,7 +12,7 @@ Christine Gierer
 GUEST LECTURER
 NO_VIDEO_RECORDED
 ***
-# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Karthik Viswanathan: Review Code Challenge #27: lruCache
+# [1st Lecture](https://youtu.be/Y9vyiZ9qnlw) w/Karthik Viswanathan: Review Code Challenge #27: lruCache
 ***
 #### LUNCH
 ***
