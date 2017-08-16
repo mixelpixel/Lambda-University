@@ -1,16 +1,6 @@
 # Lambda University - August 15, 2017: Day 031, Tuesday
 ## Coding Challenge #27
-- "Last Recently Used Cache" available in https://github.com/LambdaSchool/CS1-Code-Challenges/tree/master/NAME
-***
-Ben Nelson
-Karthik Viswanathan
-Ryan Hamblin
-Tai Chulikavit
-Sean Chen
-Emily Sperry
-Christine Gierer
-GUEST LECTURER
-NO_VIDEO_RECORDED
+- "Last Recently Used Cache" available in https://github.com/LambdaSchool/CS1-Code-Challenges/tree/master/lruCache
 ***
 # [1st Lecture](https://youtu.be/9EGlhs1BISo) w/Emily Sperry: Review Code Challenge #26: blueSquares
 - https://code.jquery.com/
