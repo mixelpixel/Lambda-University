@@ -380,8 +380,10 @@ Code Challenge #27: https://github.com/ryanhca/CS1-Code-Challenges/tree/master/N
 ### [DAY 32 NOTES](Month2/Week07/Day32/README.md)
 Code Challenge #28: https://github.com/ryanhca/CS1-Code-Challenges/tree/master/NAME "Stack Of Plates"
 #### [1st Lecture](https://youtu.be/Y9vyiZ9qnlw) w/Karthik Viswanathan: Review Code Challenge #27: lruCache
-#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [2nd Lecture](https://youtu.be/cSNmaz_Hi8w) w/Karthik Viswanathan: LS-Mongo-I Solution
+#### [3rd Lecture](NO_VIDEO_RECORDED) w/Speaker: LS-Mongo-I Lab review
+#### [4rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: LS-Mongo-II intro
+#### [5th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: mongo-II-mini review
 
 ***
 
