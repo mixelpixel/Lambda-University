@@ -380,7 +380,7 @@ Code Challenge #27: https://github.com/ryanhca/CS1-Code-Challenges/tree/master/N
 ### Day 32: Wednesday, August 16
 ### [DAY 32 NOTES](Month2/Week07/Day32/README.md)
 Code Challenge #28: https://github.com/ryanhca/CS1-Code-Challenges/tree/master/NAME "Stack Of Plates"
-#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Karthik Viswanathan: Review Code Challenge #27: lruCache
+#### [1st Lecture](https://youtu.be/Y9vyiZ9qnlw) w/Karthik Viswanathan: Review Code Challenge #27: lruCache
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 
