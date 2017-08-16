@@ -364,6 +364,7 @@ Code Challenge #26: https://github.com/LambdaSchool/CS1-Code-Challenges/tree/mas
 #### [4th Lecture](https://youtu.be/mc26S-0FeSA) w/Ryan Hamblin: Mongo DB Intro & mini-sprint
 https://github.com/LambdaSchool/mongo-I-mini/tree/master
 #### [5th Lecture](https://youtu.be/y6d-b3p3tAA) w/Ryan Hamblin: Mongo-I Lab Q&A
+Pair Programming #11: https://github.com/LambdaSchool/LS-Mongo-I w/Ely
 
 ***
 
@@ -382,8 +383,11 @@ Code Challenge #28: https://github.com/ryanhca/CS1-Code-Challenges/tree/master/N
 #### [1st Lecture](https://youtu.be/Y9vyiZ9qnlw) w/Karthik Viswanathan: Review Code Challenge #27: lruCache
 #### [2nd Lecture](https://youtu.be/cSNmaz_Hi8w) w/Karthik Viswanathan: LS-Mongo-I Solution
 #### [3rd Lecture](NO_VIDEO_RECORDED) w/Speaker: LS-Mongo-I Lab review
-#### [4rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: LS-Mongo-II intro
+https://github.com/LambdaSchool/LS-Mongo-I-finished
+#### [4rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: LS-Mongo-II intro & mini:
+https://github.com/LambdaSchool/LS-Mongo-II-Mini
 #### [5th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: mongo-II-mini review
+Pair Programming #11: PAIR_PROG_URL w/Mercedes
 
 ***
 
