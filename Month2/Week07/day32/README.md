@@ -1,6 +1,6 @@
 # Lambda University - August 16, 2017: Day 032, Wednesday
 ## Coding Challenge #28
-- "NEW_CODE_CHALLENGE" available in https://github.com/LambdaSchool/CS1-Code-Challenges/tree/master/NAME
+- "Stack Of Plates" available in https://github.com/LambdaSchool/CS1-Code-Challenges/tree/master/stackOfPlates
 ***
 Ben Nelson
 Karthik Viswanathan
@@ -12,7 +12,7 @@ Christine Gierer
 GUEST LECTURER
 NO_VIDEO_RECORDED
 ***
-# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #27: lruCache
+# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Karthik Viswanathan: Review Code Challenge #27: lruCache
 ***
 #### LUNCH
 ***
