@@ -64,3 +64,6 @@
 [submodule "LS-Mongo-II"]
 	path = LS-Mongo-II
 	url = https://github.com/mixelpixel/LS-Mongo-II.git
+[submodule "LS-Mongo-I-finished"]
+	path = LS-Mongo-I-finished
+	url = https://github.com/mixelpixel/LS-Mongo-I-finished.git
