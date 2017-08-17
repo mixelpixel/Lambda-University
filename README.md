@@ -370,7 +370,7 @@ Pair Programming #11: https://github.com/LambdaSchool/LS-Mongo-I w/Ely
 
 ### Day 31: Tuesday, August 15
 ### [DAY 31 NOTES](Month2/Week07/Day31/README.md)
-Code Challenge #27: https://github.com/ryanhca/CS1-Code-Challenges/tree/master/NAME "Last Recently Used Cache"
+Code Challenge #27: https://github.com/ryanhca/CS1-Code-Challenges/tree/master/lruCache "Last Recently Used Cache"
 #### [1st Lecture](https://youtu.be/9EGlhs1BISo) w/Speaker: Code Challenge #26 review blueSquares
 #### [Brown Bag](https://youtu.be/6FJwJcpfdfg) w/Evan Allen: Bitcoin
 #### [2nd Lecture](https://youtu.be/jHmyGWLguv8) w/Speaker: Lab Q&A
@@ -379,7 +379,7 @@ Code Challenge #27: https://github.com/ryanhca/CS1-Code-Challenges/tree/master/N
 
 ### Day 32: Wednesday, August 16
 ### [DAY 32 NOTES](Month2/Week07/Day32/README.md)
-Code Challenge #28: https://github.com/ryanhca/CS1-Code-Challenges/tree/master/NAME "Stack Of Plates"
+Code Challenge #28: https://github.com/ryanhca/CS1-Code-Challenges/tree/master/stackOfPlates "Stack Of Plates"
 #### [1st Lecture](https://youtu.be/Y9vyiZ9qnlw) w/Karthik Viswanathan: Review Code Challenge #27: lruCache
 #### [2nd Lecture](https://youtu.be/cSNmaz_Hi8w) w/Karthik Viswanathan: LS-Mongo-I Solution
 #### [3rd Lecture](NO_VIDEO_RECORDED) w/Speaker: LS-Mongo-I Lab review
@@ -393,7 +393,7 @@ Pair Programming #11: https://github.com/LambdaSchool/LS-Mongo-II w/Mercedes
 
 ### Day 33: Thursday, August 17
 ### [DAY 33 NOTES](Month2/Week07/Day33/README.md)
-Code Challenge #29: https://github.com/ryanhca/CS1-Code-Challenges/tree/master/NAME "NEW_CODE_CHALLENGE"
+Code Challenge #29: https://github.com/ryanhca/CS1-Code-Challenges/tree/master/robotPaths "Robot Paths"
 #### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Code Challenge #28 stackOfPlates
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
@@ -403,7 +403,7 @@ Code Challenge #29: https://github.com/ryanhca/CS1-Code-Challenges/tree/master/N
 ### Day 34: Thursday, August 18
 ### [DAY 34 NOTES](Month2/Week07/Day34/README.md)
 Code Challenge #30: https://github.com/ryanhca/CS1-Code-Challenges/tree/master/NAME "NEW_CODE_CHALLENGE"
-#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Code Challenge #29 PREVIOUS_CODE_CHALLENGE
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Code Challenge #29 robotPaths
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 
