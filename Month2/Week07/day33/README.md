@@ -1,6 +1,6 @@
 # Lambda University - August 17, 2017: Day 033, Thursday
 ## Coding Challenge #29
-- "NEW_CODE_CHALLENGE" available in https://github.com/LambdaSchool/CS1-Code-Challenges/tree/master/NAME
+- "Robot Paths" available in https://github.com/LambdaSchool/CS1-Code-Challenges/tree/master/robotPaths
 ***
 Ben Nelson
 Karthik Viswanathan
