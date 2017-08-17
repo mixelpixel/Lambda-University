@@ -394,7 +394,7 @@ Pair Programming #11: https://github.com/LambdaSchool/LS-Mongo-II w/Mercedes
 ### Day 33: Thursday, August 17
 ### [DAY 33 NOTES](Month2/Week07/Day33/README.md)
 Code Challenge #29: https://github.com/ryanhca/CS1-Code-Challenges/tree/master/robotPaths "Robot Paths"
-#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Code Challenge #28 stackOfPlates
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Tai Chulikavit: Code Challenge #28 stackOfPlates
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 
