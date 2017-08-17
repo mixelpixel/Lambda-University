@@ -384,10 +384,10 @@ Code Challenge #28: https://github.com/ryanhca/CS1-Code-Challenges/tree/master/N
 #### [2nd Lecture](https://youtu.be/cSNmaz_Hi8w) w/Karthik Viswanathan: LS-Mongo-I Solution
 #### [3rd Lecture](NO_VIDEO_RECORDED) w/Speaker: LS-Mongo-I Lab review
 https://github.com/LambdaSchool/LS-Mongo-I-finished
-#### [4rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: LS-Mongo-II intro & mini:
+#### [4rd Lecture](https://www.youtube.com/playlist?list=PLWX9jswdDQ0Xr9-vvyMnQ7nXTPby5iwqE) w/Speaker: LS-Mongo-II intro & mini:
 https://github.com/LambdaSchool/LS-Mongo-II-Mini
-#### [5th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: mongo-II-mini review
-Pair Programming #11: PAIR_PROG_URL w/Mercedes
+#### [5th Lecture](https://youtu.be/QJOwc7-rk9A) w/Speaker: mongo-II-mini review
+Pair Programming #11: https://github.com/LambdaSchool/LS-Mongo-II w/Mercedes
 
 ***
 
