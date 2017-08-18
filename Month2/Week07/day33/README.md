@@ -12,11 +12,11 @@ Christine Gierer
 GUEST LECTURER
 NO_VIDEO_RECORDED
 ***
-# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Tai Chulikavit: Review Code Challenge #28: stackOfPlates
+# [1st Lecture](https://youtu.be/6Fznu7dDu2g) w/Tai Chulikavit: Review Code Challenge #28: stackOfPlates
 ***
 #### LUNCH
 ***
-# [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Thomson Comer: The Hyper Text transfer Protocol
+# [Brown Bag](https://youtu.be/d2YYm0qEszo) w/Thomson Comer: The Hyper Text transfer Protocol
 - https://github.com/thomcom
 - Protocol: a specific language
 - Inter-Processed Communication (IPC)
@@ -71,11 +71,6 @@ app.get('/', (req, res) => {
 - https://pascalprecht.github.io/2014/03/18/why-i-use-vim
 
 ***
-# [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-***
-# [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-***
-# [4th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-# Sprint / Q&A
+# [2nd Lecture](https://youtu.be/46y7cweCEM0) w/Ryan Hamblin: LS-Mongo-II Q&A
 ***
 # fin
