@@ -1,0 +1,32 @@
+{
+  "name": "hello_world",
+  "version": "1.0.0",
+  "description": "basic http",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.15.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mixelpixel/Lambda-University.git"
+  },
+  "keywords": [
+    "hello",
+    "world",
+    "http",
+    "node",
+    "express",
+    "server"
+  ],
+  "author": "Patrick Kennedy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mixelpixel/Lambda-University/issues"
+  },
+  "homepage": "https://github.com/mixelpixel/Lambda-University#readme"
+}
