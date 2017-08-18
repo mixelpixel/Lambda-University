@@ -1,6 +1,6 @@
 # Lambda University - August 18, 2017: Day 034, Friday
 ## Coding Challenge #30
-- "NEW_CODE_CHALLENGE" available in https://github.com/LambdaSchool/CS1-Code-Challenges/tree/master/NAME
+- "Common Characters" available in https://github.com/LambdaSchool/CS1-Code-Challenges/tree/master/commonCharacters
 ***
 Ben Nelson
 Karthik Viswanathan
