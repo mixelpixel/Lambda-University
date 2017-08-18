@@ -403,7 +403,7 @@ Code Challenge #29: https://github.com/ryanhca/CS1-Code-Challenges/tree/master/r
 ### Day 34: Thursday, August 18
 ### [DAY 34 NOTES](Month2/Week07/Day34/README.md)
 Code Challenge #30: https://github.com/ryanhca/CS1-Code-Challenges/tree/master/commonCharacters "Common Characters"
-#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Code Challenge #29 robotPaths
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Tai Chulikavit: Code Challenge #29 robotPaths
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 
