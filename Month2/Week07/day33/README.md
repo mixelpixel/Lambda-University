@@ -41,7 +41,7 @@ NO_VIDEO_RECORDED
 * express setup
 ********************/
 const express = require('express');
-const app = express():
+const app = express();
 
 /*******************
 * server
@@ -54,18 +54,18 @@ const server = app.listen(port, () => {
 /*******************
 * endpoint
 ********************/
-app.get('/', (req, res) => {
+app.get('/', (request, response) => {
   // console.log(req)
-  res.send('Hello, World!\n');
+  response.send('Hello, World!\n');
 });
 
 ```
-
+- `npm i --save express` (will make package-lock.json)
 - `node server.js`
 - `curl localhost:8081`
 
 - Live Reload
-- Make server public on the internet with:
+- Make server public on the internet with: ???
 
 - https://www.vim-adventures.com
 - https://pascalprecht.github.io/2014/03/18/why-i-use-vim
