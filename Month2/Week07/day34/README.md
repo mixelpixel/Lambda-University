@@ -16,7 +16,13 @@ NO_VIDEO_RECORDED
 ***
 #### LUNCH
 ***
-# [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+# [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Kent C. Dodds: Tools
+- http://slides.com/kentcdodds/js-tools/
+- https://kentcdodds.com/talks/
+- http://kcd.im/ama
+- http://kcd.im/semicolons
+- http://kcd.im/promises
+
 ***
 # [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 ***
