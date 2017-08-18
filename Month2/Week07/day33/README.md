@@ -2,16 +2,6 @@
 ## Coding Challenge #29
 - "Robot Paths" available in https://github.com/LambdaSchool/CS1-Code-Challenges/tree/master/robotPaths
 ***
-Ben Nelson
-Karthik Viswanathan
-Ryan Hamblin
-Tai Chulikavit
-Sean Chen
-Emily Sperry
-Christine Gierer
-GUEST LECTURER
-NO_VIDEO_RECORDED
-***
 # [1st Lecture](https://youtu.be/6Fznu7dDu2g) w/Tai Chulikavit: Review Code Challenge #28: stackOfPlates
 ***
 #### LUNCH
