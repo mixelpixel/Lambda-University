@@ -2,16 +2,6 @@
 ## Coding Challenge #30
 - "Common Characters" available in https://github.com/LambdaSchool/CS1-Code-Challenges/tree/master/commonCharacters
 ***
-Ben Nelson
-Karthik Viswanathan
-Ryan Hamblin
-Tai Chulikavit
-Sean Chen
-Emily Sperry
-Christine Gierer
-GUEST LECTURER
-NO_VIDEO_RECORDED
-***
 # [1st Lecture](https://youtu.be/7fAYivr-NJs) w/Tai Chulikavit: Review Code Challenge #29: robotPaths
 ***
 #### LUNCH
@@ -24,6 +14,6 @@ NO_VIDEO_RECORDED
 - http://kcd.im/promises
 
 ***
-# [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ben Nelson: Q&A
+# [2nd Lecture](NO_VIDEO_RECORDED) w/Ben Nelson: Q&A
 ***
 # fin
