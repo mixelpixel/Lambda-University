@@ -404,9 +404,8 @@ Code Challenge #29: https://github.com/ryanhca/CS1-Code-Challenges/tree/master/r
 ### [DAY 34 NOTES](Month2/Week07/Day34/README.md)
 Code Challenge #30: https://github.com/ryanhca/CS1-Code-Challenges/tree/master/commonCharacters "Common Characters"
 #### [1st Lecture](https://youtu.be/7fAYivr-NJs) w/Tai Chulikavit: Code Challenge #29 robotPaths
-#### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Kent C. Dodds: Tools
-#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [Brown Bag](https://youtu.be/M0v4Iizcw6c) w/Kent C. Dodds: Tools
+#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ben Nelson: Q&A
 
 
 ***
