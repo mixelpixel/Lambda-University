@@ -16,7 +16,7 @@ NO_VIDEO_RECORDED
 ***
 #### LUNCH
 ***
-# [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Kent C. Dodds: Tools
+# [Brown Bag](https://youtu.be/M0v4Iizcw6c) w/Kent C. Dodds: Tools
 - http://slides.com/kentcdodds/js-tools/
 - https://kentcdodds.com/talks/
 - http://kcd.im/ama
@@ -24,11 +24,6 @@ NO_VIDEO_RECORDED
 - http://kcd.im/promises
 
 ***
-# [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-***
-# [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-***
-# [4th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-# Sprint / Q&A
+# [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ben Nelson: Q&A
 ***
 # fin
