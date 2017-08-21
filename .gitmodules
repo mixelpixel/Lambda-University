@@ -76,3 +76,6 @@
 [submodule "LS-Mongo-II-finished"]
 	path = LS-Mongo-II-finished
 	url = https://github.com/mixelpixel/LS-Mongo-II-finished.git
+[submodule "Mongo-III-Mini-Solution"]
+	path = Mongo-III-Mini-Solution
+	url = https://github.com/LambdaSchool/Mongo-III-Mini-Solution
