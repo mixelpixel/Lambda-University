@@ -79,3 +79,6 @@
 [submodule "Mongo-III-Mini-Solution"]
 	path = Mongo-III-Mini-Solution
 	url = https://github.com/LambdaSchool/Mongo-III-Mini-Solution
+[submodule "Mongo-III"]
+	path = Mongo-III
+	url = https://github.com/mixelpixel/Mongo-III.git
