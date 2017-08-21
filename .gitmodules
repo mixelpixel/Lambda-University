@@ -67,3 +67,6 @@
 [submodule "LS-Mongo-I-finished"]
 	path = LS-Mongo-I-finished
 	url = https://github.com/mixelpixel/LS-Mongo-I-finished.git
+[submodule "LambdaCSA-Syllabus"]
+	path = LambdaCSA-Syllabus
+	url = https://github.com/LambdaSchool/LambdaCSA-Syllabus.git
