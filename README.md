@@ -416,8 +416,12 @@ Code Challenge #30: https://github.com/ryanhca/CS1-Code-Challenges/tree/master/c
 ### [DAY 35 NOTES](Month2/Week08/Day35/README.md)
 Code Challenge #31: https://github.com/ryanhca/CS1-Code-Challenges/tree/master/fizzbuzzTesting "FizzBizz Testing"
 #### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Tai Chulikavit: Code Challenge #30 commonCharacters
-#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [2nd Lecture](NO_VIDEO_RECORDED) w/Karthik Viswanathan: LS-Mongo-II Lab review
+#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Karthik Viswanathan: LS-Mongo-II Lab solution
+#### [4th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Mini
+#### [5th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Mini review
+#### [6th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+
 
 ***
 
