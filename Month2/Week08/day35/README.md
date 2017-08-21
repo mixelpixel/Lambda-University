@@ -20,7 +20,7 @@ NO_VIDEO_RECORDED
 - https://docs.google.com/document/d/1n6iwuWo0CWNYAXAW0IcEj4w2Lsz7ArnrqWGZ0WlTJeg/edit?usp=sharing
 
 ***
-# [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Karthik Viswanathan: LS-Mongo-II Lab solution
+# [3rd Lecture](https://youtu.be/q4FE0K4GGZs) w/Karthik Viswanathan: LS-Mongo-II Lab solution
 - use Promise.all when doing many things at once
 
 ***
