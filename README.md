@@ -414,8 +414,8 @@ Code Challenge #30: https://github.com/ryanhca/CS1-Code-Challenges/tree/master/c
 ## Week 08: Aug. 21 - 25
 ### Day 35: Monday, August 21
 ### [DAY 35 NOTES](Month2/Week08/Day35/README.md)
-Code Challenge #31: https://github.com/ryanhca/CS1-Code-Challenges/tree/master/NAME "NEW_CODE_CHALLENGE"
-#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Code Challenge #30 commonCharacters
+Code Challenge #31: https://github.com/ryanhca/CS1-Code-Challenges/tree/master/fizzbuzzTesting "FizzBizz Testing"
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Tai Chulikavit: Code Challenge #30 commonCharacters
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 
@@ -424,7 +424,7 @@ Code Challenge #31: https://github.com/ryanhca/CS1-Code-Challenges/tree/master/N
 ### Day 36: Tuesday, August 22
 ### [DAY 36 NOTES](Month2/Week08/Day36/README.md)
 Code Challenge #32: https://github.com/ryanhca/CS1-Code-Challenges/tree/master/NAME "NEW_CODE_CHALLENGE"
-#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Code Challenge #31 PREVIOUS_CODE_CHALLENGE
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Code Challenge #31 fizzbuzzTesting
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 
