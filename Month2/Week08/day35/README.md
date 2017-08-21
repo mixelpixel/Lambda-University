@@ -26,7 +26,7 @@ NO_VIDEO_RECORDED
 ***
 #### LUNCH
 ***
-# [4th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Mini
+# [4th Lecture](https://youtu.be/fGs7ww2NWyg) w/Sean Chen: LS-Mongo-III Mini Lecture
 ***
 # [5th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Mini review
 ***
