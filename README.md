@@ -418,7 +418,7 @@ Code Challenge #31: https://github.com/ryanhca/CS1-Code-Challenges/tree/master/f
 #### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Tai Chulikavit: Code Challenge #30 commonCharacters
 #### [2nd Lecture](NO_VIDEO_RECORDED) w/Karthik Viswanathan: LS-Mongo-II Lab review
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Karthik Viswanathan: LS-Mongo-II Lab solution
-#### [4th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Mini
+#### [4th Lecture](https://youtu.be/fGs7ww2NWyg) w/Sean Chen: LS-Mongo-III Mini Lecture
 #### [5th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Mini review
 #### [6th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 
