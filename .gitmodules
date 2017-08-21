@@ -73,3 +73,6 @@
 [submodule "Mongo-III-Mini"]
 	path = Mongo-III-Mini
 	url = https://github.com/mixelpixel/Mongo-III-Mini.git
+[submodule "LS-Mongo-II-finished"]
+	path = LS-Mongo-II-finished
+	url = https://github.com/mixelpixel/LS-Mongo-II-finished.git
