@@ -27,6 +27,8 @@ NO_VIDEO_RECORDED
 #### LUNCH
 ***
 # [4th Lecture](https://youtu.be/fGs7ww2NWyg) w/Sean Chen: LS-Mongo-III Mini Lecture
+- Mongo-III-Mini https://github.com/LambdaSchool/Mongo-III-Mini
+
 ***
 # [5th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Mini review
 ***
