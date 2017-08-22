@@ -13,7 +13,6 @@ GUEST LECTURER
 NO_VIDEO_RECORDED
 ***
 # [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Tai Chulikavit: Review Code Challenge #31: fizzbuzzTesting
-- https://jsperf.com/
 
 ***
 #### LUNCH
