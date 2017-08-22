@@ -13,7 +13,7 @@ Christine Gierer
 GUEST LECTURER
 NO_VIDEO_RECORDED
 ***
-# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Tai Chulikavit: Review Code Challenge #31: fizzbuzzTesting
+# [1st Lecture](https://youtu.be/-knrJcFaq-U) w/Tai Chulikavit: Review Code Challenge #31: fizzbuzzTesting
 
 ***
 #### LUNCH
