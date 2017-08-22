@@ -4,9 +4,10 @@
 ***
 Ben Nelson
 Karthik Viswanathan
+Thomson Comer
 Ryan Hamblin
-Tai Chulikavit
 Sean Chen
+Tai Chulikavit
 Emily Sperry
 Christine Gierer
 GUEST LECTURER
