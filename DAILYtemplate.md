@@ -27,7 +27,6 @@ NO_VIDEO_RECORDED
 ***
 # fin
 
-
 ********
 INDEX
 ********
