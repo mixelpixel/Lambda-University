@@ -30,9 +30,12 @@ NO_VIDEO_RECORDED
 - Mongo-III-Mini https://github.com/LambdaSchool/Mongo-III-Mini
 
 ***
-# [5th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Mini review
+# [5th Lecture](https://youtu.be/4G22XossnIY) w/Sean Chen: Mini review and Lab Intro
+- Mongo-III-Mini Solution: https://github.com/LambdaSchool/Mongo-III-Mini-Solution
+- LS-Mongo-III: https://github.com/LambdaSchool/Mongo-III w/Julian pp#13
+
 ***
-# [6th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+# [6th Lecture](NO_VIDEO_RECORDED) w/Sean Chen: Lab Q&A
 ***
 # Sprint / Q&A
 ***
