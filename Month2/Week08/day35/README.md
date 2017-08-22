@@ -37,6 +37,4 @@ NO_VIDEO_RECORDED
 ***
 # [6th Lecture](NO_VIDEO_RECORDED) w/Sean Chen: Lab Q&A
 ***
-# Sprint / Q&A
-***
 # fin
