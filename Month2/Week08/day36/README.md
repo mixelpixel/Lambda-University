@@ -1,6 +1,6 @@
 # Lambda University - August 22, 2017: Day 036, Tuesday
 ## Coding Challenge #32
-- "NEW_CODE_CHALLENGE" available in https://github.com/LambdaSchool/CS1-Code-Challenges/tree/master/NAME
+- "Longest Run" available in https://github.com/LambdaSchool/CS1-Code-Challenges/tree/master/longestRun
 ***
 Ben Nelson
 Karthik Viswanathan
