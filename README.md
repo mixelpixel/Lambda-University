@@ -428,7 +428,7 @@ Pair Programming #13: https://github.com/LambdaSchool/Mongo-III w/Julian
 ### Day 36: Tuesday, August 22
 ### [DAY 36 NOTES](Month2/Week08/Day36/README.md)
 Code Challenge #32: https://github.com/ryanhca/CS1-Code-Challenges/tree/master/longestRun "Longest Run"
-#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Code Challenge #31 fizzbuzzTesting
+#### [1st Lecture](https://youtu.be/-knrJcFaq-U) w/Tai Chulikavit: Code Challenge #31 fizzbuzzTesting
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 
