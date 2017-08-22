@@ -12,15 +12,15 @@
 ***
 # [3rd Lecture](NO_VIDEO_RECORDED) w/Ryan Hamblin: LS-Mongo-I Lab review
 ***
-# [4rd Lecture](https://www.youtube.com/playlist?list=PLWX9jswdDQ0Xr9-vvyMnQ7nXTPby5iwqE) w/Speaker: LS-Mongo-II intro & mini
+# [4rd Lecture](https://www.youtube.com/playlist?list=PLWX9jswdDQ0Xr9-vvyMnQ7nXTPby5iwqE) w/Ryan Hamblin: LS-Mongo-II intro & mini
 - https://www.youtube.com/playlist?list=PLWX9jswdDQ0Xr9-vvyMnQ7nXTPby5iwqE
   - [Mongo II](https://youtu.be/dXqBgRHw_y4)
   - [Mongo II Setup](https://youtu.be/JSzuL44eakA)
 - LS-Mongo-II-mini https://github.com/LambdaSchool/LS-Mongo-II-Mini
 
 ***
-# [5th Lecture](https://youtu.be/QJOwc7-rk9A) w/Speaker: mongo-II-mini review
-- Pair Programming #11: https://github.com/LambdaSchool/LS-Mongo-II w/Mercedes
+# [5th Lecture](https://youtu.be/QJOwc7-rk9A) w/Ryan Hamblin: mongo-II-mini review
+- Pair Programming #12: https://github.com/LambdaSchool/LS-Mongo-II w/Mercedes
 
 ***
 # fin
