@@ -2,17 +2,7 @@
 ## Coding Challenge #31
 - "FizzBizz Testing" available in https://github.com/LambdaSchool/CS1-Code-Challenges/tree/master/fizzbuzzTesting
 ***
-Ben Nelson
-Karthik Viswanathan
-Ryan Hamblin
-Tai Chulikavit
-Sean Chen
-Emily Sperry
-Christine Gierer
-GUEST LECTURER
-NO_VIDEO_RECORDED
-***
-# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Tai Chulikavit: Review Code Challenge #30: commonCharacters
+# [1st Lecture](https://youtu.be/-xoF-AYd-94) w/Tai Chulikavit: Review Code Challenge #30: commonCharacters
 - https://jsperf.com/
 
 ***
