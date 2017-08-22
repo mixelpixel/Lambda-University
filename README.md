@@ -382,12 +382,12 @@ Code Challenge #27: https://github.com/ryanhca/CS1-Code-Challenges/tree/master/l
 Code Challenge #28: https://github.com/ryanhca/CS1-Code-Challenges/tree/master/stackOfPlates "Stack Of Plates"
 #### [1st Lecture](https://youtu.be/Y9vyiZ9qnlw) w/Karthik Viswanathan: Review Code Challenge #27: lruCache
 #### [2nd Lecture](https://youtu.be/cSNmaz_Hi8w) w/Karthik Viswanathan: LS-Mongo-I Solution
-#### [3rd Lecture](NO_VIDEO_RECORDED) w/Speaker: LS-Mongo-I Lab review
+#### [3rd Lecture](NO_VIDEO_RECORDED) w/Ryan Hamblin: LS-Mongo-I Lab review
 https://github.com/LambdaSchool/LS-Mongo-I-finished
-#### [4rd Lecture](https://www.youtube.com/playlist?list=PLWX9jswdDQ0Xr9-vvyMnQ7nXTPby5iwqE) w/Speaker: LS-Mongo-II intro & mini:
+#### [4rd Lecture](https://www.youtube.com/playlist?list=PLWX9jswdDQ0Xr9-vvyMnQ7nXTPby5iwqE) w/Ryan Hamblin: LS-Mongo-II intro & mini:
 https://github.com/LambdaSchool/LS-Mongo-II-Mini
-#### [5th Lecture](https://youtu.be/QJOwc7-rk9A) w/Speaker: mongo-II-mini review
-Pair Programming #11: https://github.com/LambdaSchool/LS-Mongo-II w/Mercedes
+#### [5th Lecture](https://youtu.be/QJOwc7-rk9A) w/Ryan Hamblin: mongo-II-mini review
+Pair Programming #12: https://github.com/LambdaSchool/LS-Mongo-II w/Mercedes
 
 ***
 
@@ -419,9 +419,9 @@ Code Challenge #31: https://github.com/ryanhca/CS1-Code-Challenges/tree/master/f
 #### [2nd Lecture](NO_VIDEO_RECORDED) w/Karthik Viswanathan: LS-Mongo-II Lab review
 #### [3rd Lecture](https://youtu.be/q4FE0K4GGZs) w/Karthik Viswanathan: LS-Mongo-II Lab solution
 #### [4th Lecture](https://youtu.be/fGs7ww2NWyg) w/Sean Chen: LS-Mongo-III Mini Lecture
-#### [5th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Mini review
-#### [6th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-
+#### [5th Lecture](https://youtu.be/4G22XossnIY) w/Speaker: Mini review and Lab Intro
+#### [6th Lecture](NO_VIDEO_RECORDED) w/Sean Chen: Lab Q&A
+Pair Programming #13: https://github.com/LambdaSchool/Mongo-III w/Julian
 
 ***
 
