@@ -48,10 +48,10 @@
 	url = https://github.com/mixelpixel/node-express-lab.git
 [submodule "node-express-lab-finished"]
 	path = node-express-lab-finished
-	url = https://github.com/LambdaSchool/node-express-lab-finished.git
+	url = https://github.com/mixelpixel/node-express-lab-finished.git
 [submodule "node-express-mini-finished"]
 	path = node-express-mini-finished
-	url = https://github.com/LambdaSchool/node-express-mini-finished.git
+	url = https://github.com/mixelpixel/node-express-mini-finished.git
 [submodule "mongo-I-mini"]
 	path = mongo-I-mini
 	url = https://github.com/mixelpixel/mongo-I-mini.git
@@ -69,7 +69,7 @@
 	url = https://github.com/mixelpixel/LS-Mongo-I-finished.git
 [submodule "LambdaCSA-Syllabus"]
 	path = LambdaCSA-Syllabus
-	url = https://github.com/LambdaSchool/LambdaCSA-Syllabus.git
+	url = https://github.com/mixelpixel/LambdaCSA-Syllabus.git
 [submodule "Mongo-III-Mini"]
 	path = Mongo-III-Mini
 	url = https://github.com/mixelpixel/Mongo-III-Mini.git
@@ -78,7 +78,7 @@
 	url = https://github.com/mixelpixel/LS-Mongo-II-finished.git
 [submodule "Mongo-III-Mini-Solution"]
 	path = Mongo-III-Mini-Solution
-	url = https://github.com/LambdaSchool/Mongo-III-Mini-Solution
+	url = https://github.com/mixelpixel/Mongo-III-Mini-Solution
 [submodule "Mongo-III"]
 	path = Mongo-III
 	url = https://github.com/mixelpixel/Mongo-III.git
