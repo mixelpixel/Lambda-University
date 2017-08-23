@@ -13,18 +13,23 @@ Christine Gierer
 GUEST LECTURER
 NO_VIDEO_RECORDED
 ***
-# [1st Lecture](https://youtu.be/zOhzTE6XtYE) w/Tai Chulikavit: Review Code Challenge #32: longestRun
+# [1st Lecture](https://youtu.be/zOhzTE6XtYE) w/Sean Chen: Review Code Challenge #32: longestRun
 
 ***
 #### LUNCH
 ***
-# [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+# [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ryan Hamblin: LS-Mongo-III Solution
 ***
-# [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+# [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ryan Hamblin: LS-Mongo-III Lab Review
 ***
-# [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-***
-# [4th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+# [4th Lecture](https://youtu.be/lcTNZXJVwd4) w/Karthik Viswanathan: mini-lab intro
+> Note that I made a mistake at time 43:40. I wrote `hashA: "a"`, when I meant to write `[hashA]: "a"` on line 29. The former sets a property  with the literal key `"hashA"`, whereas the latter sets a property with the key being the *value of* the variable `hashA`. Sorry about that, wanted to clarify upfront.
+1. Middleware
+2. Sessions
+3. Passwords
+
+- combine all three to create an authentication system
+
 # Sprint / Q&A
 ***
 # fin
