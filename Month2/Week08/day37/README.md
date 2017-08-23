@@ -1,6 +1,6 @@
 # Lambda University - August 23, 2017: Day 037, Wednesday
 ## Coding Challenge #33
-- "NEW_CODE_CHALLENGE" available in https://github.com/LambdaSchool/CS1-Code-Challenges/tree/master/NAME
+- "Breadth First Search" available in https://github.com/LambdaSchool/CS1-Code-Challenges/tree/master/breadthFirstSearch
 ***
 Ben Nelson
 Karthik Viswanathan
