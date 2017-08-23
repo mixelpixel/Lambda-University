@@ -429,8 +429,8 @@ Pair Programming #13: https://github.com/LambdaSchool/Mongo-III w/Julian
 ### [DAY 36 NOTES](Month2/Week08/Day36/README.md)
 Code Challenge #32: https://github.com/ryanhca/CS1-Code-Challenges/tree/master/longestRun "Longest Run"
 #### [1st Lecture](https://youtu.be/-knrJcFaq-U) w/Tai Chulikavit: Code Challenge #31 fizzbuzzTesting
-#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [Brown Bag](https://youtu.be/ddGwdHOx-aA) w/Allan Murara: more graphql
+#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ryan Hamblin: Lab / Q&A
 
 ***
 
@@ -589,6 +589,7 @@ Code Challenge #35: https://github.com/ryanhca/CS1-Code-Challenges/tree/master/N
 
 #### Mongoose
 - http://mongoosejs.com/docs/api.html#query_Query-remove
+- https://www.lynda.com/Node-js-tutorials/Querying-data-Mongoose/604259/620678-4.html
 
 #### NODE
 
