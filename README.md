@@ -430,7 +430,7 @@ Pair Programming #13: https://github.com/LambdaSchool/Mongo-III w/Julian
 Code Challenge #32: https://github.com/ryanhca/CS1-Code-Challenges/tree/master/longestRun "Longest Run"
 #### [1st Lecture](https://youtu.be/-knrJcFaq-U) w/Tai Chulikavit: Code Challenge #31 fizzbuzzTesting
 #### [Brown Bag](https://youtu.be/ddGwdHOx-aA) w/Allan Murara: more graphql
-#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ryan Hamblin: Lab / Q&A
+#### [2nd Lecture](https://youtu.be/QcvC2CPHFv8) w/Ryan Hamblin: Lab / Q&A
 
 ***
 
