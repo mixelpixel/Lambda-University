@@ -13,8 +13,9 @@
 - https://www.howtographql.com/react-relay/1-getting-started/
 
 Mongo-III: https://files.slack.com/files-pri/T4JUEB3ME-F6SCGUSH3/download/zoom_0.mp4
+Mongoose: https://www.lynda.com/Node-js-tutorials/Querying-data-Mongoose/604259/620678-4.html
 
 ***
-# [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ryan Hamblin: Lab / Q&A
+# [2nd Lecture](https://youtu.be/QcvC2CPHFv8) w/Ryan Hamblin: Lab / Q&A
 ***
 # fin
