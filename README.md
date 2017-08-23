@@ -437,9 +437,10 @@ Code Challenge #32: https://github.com/ryanhca/CS1-Code-Challenges/tree/master/l
 ### Day 37: Wednesday, August 23
 ### [DAY 37 NOTES](Month2/Week08/Day37/README.md)
 Code Challenge #33: https://github.com/ryanhca/CS1-Code-Challenges/tree/master/breadthFirstSearch "Breadth First Search"
-#### [1st Lecture](https://youtu.be/zOhzTE6XtYE) w/Speaker: Code Challenge #32 longestRun
-#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [1st Lecture](https://youtu.be/zOhzTE6XtYE) w/Sean Chen: Code Challenge #32 longestRun
+#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ryan Hamblin: LS-Mongo-III Solution
+#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ryan Hamblin: LS-Mongo-III Lab Review
+#### [4th Lecture](https://youtu.be/lcTNZXJVwd4) w/Karthik Viswanathan: Authorization mini-lab intro
 
 ***
 
@@ -675,6 +676,7 @@ Code Challenge #35: https://github.com/ryanhca/CS1-Code-Challenges/tree/master/N
 
 ##### Unsorted
 - Ryan Sherill: [Extra Resources list](https://docs.google.com/document/d/1y5B_glCrLRo8Vnu93QMKjFrfAN3a-GFPzgGz76rTTIQ/edit)
+- Whiteboarding: https://www.lucidchart.com/
 
 ##### Some old school b.g. reading:
 - [Assembly Language Programming](https://archive.org/stream/8080a8085AssemblyLanguageProgramming/Leventhal-8080a-8085AssemblyLanguageProgramming)
