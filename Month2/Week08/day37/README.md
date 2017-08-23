@@ -24,11 +24,11 @@ NO_VIDEO_RECORDED
 ***
 # [4th Lecture](https://youtu.be/lcTNZXJVwd4) w/Karthik Viswanathan: mini-lab intro
 > Note that I made a mistake at time 43:40. I wrote `hashA: "a"`, when I meant to write `[hashA]: "a"` on line 29. The former sets a property  with the literal key `"hashA"`, whereas the latter sets a property with the key being the *value of* the variable `hashA`. Sorry about that, wanted to clarify upfront.
-1. Middleware
-2. Sessions
-3. Passwords
+1. @2m3s: [Middleware](https://youtu.be/lcTNZXJVwd4?t=2m3s)
+2. @20m57s: [Sessions](https://youtu.be/lcTNZXJVwd4?t=20m57s)
+3. @33m25s: [Passwords](https://youtu.be/lcTNZXJVwd4?t=33m25s)
 
-- combine all three to create an authentication system
+- combine all three to create an authentication system!
 
 # Sprint / Q&A
 ***
