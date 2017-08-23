@@ -436,7 +436,7 @@ Code Challenge #32: https://github.com/ryanhca/CS1-Code-Challenges/tree/master/l
 
 ### Day 37: Wednesday, August 23
 ### [DAY 37 NOTES](Month2/Week08/Day37/README.md)
-Code Challenge #33: https://github.com/ryanhca/CS1-Code-Challenges/tree/master/NAME "NEW_CODE_CHALLENGE"
+Code Challenge #33: https://github.com/ryanhca/CS1-Code-Challenges/tree/master/breadthFirstSearch "Breadth First Search"
 #### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Code Challenge #32 longestRun
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
@@ -446,7 +446,7 @@ Code Challenge #33: https://github.com/ryanhca/CS1-Code-Challenges/tree/master/N
 ### Day 38: Thursday, August 24
 ### [DAY 38 NOTES](Month2/Week#08/Day38/README.md)
 Code Challenge #34: https://github.com/ryanhca/CS1-Code-Challenges/tree/master/NAME "NEW_CODE_CHALLENGE"
-#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Code Challenge #33 PREVIOUS_CODE_CHALLENGE
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Code Challenge #33 breadthFirstSearch
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 
