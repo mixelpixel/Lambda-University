@@ -1,6 +1,6 @@
 # Lambda University - August 24, 2017: Day 038, Thursday
 ## Coding Challenge #34
-- "NEW_CODE_CHALLENGE" available in https://github.com/LambdaSchool/CS1-Code-Challenges/tree/master/NAME
+- "Vowel Count" available in https://github.com/LambdaSchool/CS1-Code-Challenges/tree/master/vowelCount
 ***
 Ben Nelson
 Karthik Viswanathan
@@ -13,7 +13,7 @@ Christine Gierer
 GUEST LECTURER
 NO_VIDEO_RECORDED
 ***
-# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Tai Chulikavit: Review Code Challenge #33: breadthFirstSearch
+# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #33: breadthFirstSearch
 
 ***
 #### LUNCH
