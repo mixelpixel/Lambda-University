@@ -2,25 +2,13 @@
 ## Coding Challenge #33
 - "Breadth First Search" available in https://github.com/LambdaSchool/CS1-Code-Challenges/tree/master/breadthFirstSearch
 ***
-Ben Nelson
-Karthik Viswanathan
-Thomson Comer
-Ryan Hamblin
-Sean Chen
-Tai Chulikavit
-Emily Sperry
-Christine Gierer
-GUEST LECTURER
-NO_VIDEO_RECORDED
-***
 # [1st Lecture](https://youtu.be/zOhzTE6XtYE) w/Sean Chen: Review Code Challenge #32: longestRun
-
 ***
 #### LUNCH
 ***
-# [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ryan Hamblin: LS-Mongo-III Solution
+# [2nd Lecture](https://youtu.be/7EdIJaYmMU8) w/Ryan Hamblin: LS-Mongo-III Solution
 ***
-# [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ryan Hamblin: LS-Mongo-III Lab Review
+# [3rd Lecture](NO_VIDEO_RECORDED) w/Ryan Hamblin: LS-Mongo-III Lab Review
 ***
 # [4th Lecture](https://youtu.be/lcTNZXJVwd4) w/Karthik Viswanathan: Authorization mini-lab intro
 > Note that I made a mistake at time 43:40. I wrote `hashA: "a"`, when I meant to write `[hashA]: "a"` on line 29. The former sets a property  with the literal key `"hashA"`, whereas the latter sets a property with the key being the *value of* the variable `hashA`. Sorry about that, wanted to clarify upfront.
@@ -38,7 +26,9 @@ NO_VIDEO_RECORDED
 - using object id in session to refer to the user info in mongo
 - middleware can dynamically define routes for us
 
-# [5th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Karthik Viswanathan: Authorization mini-lab Q&A
-# [6th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Karthik Viswanathan: Authorization Lab
+# [5th Lecture](https://youtu.be/wo4LhNZHZfE) w/Karthik Viswanathan: Authorization mini-lab Q&A
+# [6th Lecture](https://youtu.be/1N06A3pEAbA) w/Karthik Viswanathan: Authorization mini-Lab solution
+- https://github.com/LambdaSchool/Auth-Mini/blob/finished/src/server.js#L31-L71
+
 ***
 # fin
