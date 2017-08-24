@@ -82,3 +82,6 @@
 [submodule "Mongo-III"]
 	path = Mongo-III
 	url = https://github.com/mixelpixel/Mongo-III.git
+[submodule "Auth-Mini"]
+	path = Auth-Mini
+	url = https://github.com/mixelpixel/Auth-Mini.git
