@@ -450,7 +450,7 @@ Pair Programming #14: https://github.com/LambdaSchool/Auth w/Lois
 ### Day 38: Thursday, August 24
 ### [DAY 38 NOTES](Month2/Week#08/Day38/README.md)
 Code Challenge #34: https://github.com/ryanhca/CS1-Code-Challenges/tree/master/NAME "Vowel Count"
-#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ben Nelson: Code Challenge #33 breadthFirstSearch
+#### [1st Lecture](https://youtu.be/Jp-GolWBt-w) w/Ben Nelson: Code Challenge #33 breadthFirstSearch
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 
