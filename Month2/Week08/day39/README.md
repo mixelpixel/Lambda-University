@@ -13,17 +13,12 @@ Christine Gierer
 GUEST LECTURER
 NO_VIDEO_RECORDED
 ***
-# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Tai Chulikavit: Review Code Challenge #34: vowelCount
+#### [1st Lecture](https://youtu.be/pT-l5zBCbfI) w/Tai Chulikavit: Review Code Challenge #34 vowelCount
 ***
 #### LUNCH
 ***
-# [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+# [Brown Bag](https://youtu.be/p9mS-MDeESQ) w/Tai Chulikavit: Bullet Journaling
 ***
-# [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-***
-# [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-***
-# [4th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-# Sprint / Q&A
+# [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: LS-Auth Q&A
 ***
 # fin
