@@ -31,7 +31,6 @@ https://github.com/LambdaSchool/LambdaCSA-Syllabus
 - [Week 01 Homework Assignment](https://github.com/SunJieMing/Advanced-JavaScript)
 - [Week 01 Completed Homework](https://github.com/mixelpixel/Advanced-JavaScript)
 ##### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED): `constructor` Class Functions, `for` LOOPS, `do` `while` LOOPS & RECURSION
-
 ***
 
 ### Day 02: Wednesday, July 5
@@ -42,7 +41,6 @@ https://github.com/LambdaSchool/LambdaCSA-Syllabus
 #### Ben Nelson lectures
 ##### [3rd Lecture](https://youtu.be/2mIvc0wc0oI): D.R.Y. and Functions 101
 ##### [4th Lecture](https://youtu.be/Y3NRA2-kvbY): backtick string formatting, Method declaration shortcut, SPREAD operator, REST parameter, `arguments`, Classes
-
 ***
 
 ### Day 03: Thursday, July 6
@@ -54,7 +52,6 @@ https://github.com/LambdaSchool/LambdaCSA-Syllabus
 #### Ben Nelson lectures
 ##### [2nd Lecture](https://youtu.be/exSwdXfeBtI): Basic JS w/ES6 review & Q&A: variables, branching logic,  AirBnB style, Ternary, for loop, const v let, forEach, wordsToSentences problem
 ##### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED): End of day review & Q&A
-
 ***
 
 ### Day 04: Friday, July 7
@@ -81,7 +78,6 @@ Code Challenge #1: https://github.com/ryanhca/CS1-Code-Challenges "Longest Strin
 #### Ben Nelson lecture
 ##### [2nd Lecture](https://youtu.be/lZlV9d3t8z4): Data Structure, Big O Notation, Pair Programming
 Pair Programming #1: https://github.com/SunJieMing/LS-Data-Structures w/Drew Mueller
-
 ***
 
 ### Day 06: Tuesday, July 11
@@ -92,7 +88,6 @@ Code Challenge #2: https://github.com/ryanhca/CS1-Code-Challenges "Is Unique?"
 ##### [2nd Lecture](https://youtu.be/bAkjh-jZY8M): Brown Bag session, Visual Studio & IDE shortcuts
 #### Ben Nelson lecture
 ##### [3rd Lecture](https://youtu.be/7sMfjChMVaQ): Pair Prog #1 HASH TABLES & LINKED LISTS
-
 ***
 
 ### Day 07: Wednesday, July 12
@@ -104,7 +99,6 @@ Code Challenge #3: https://github.com/ryanhca/CS1-Code-Challenges "Reverse Case"
 ##### [3rd Lecture](https://youtu.be/uGohVrgYrpQ): Solutions to Data Structures Pair Programming #1
 ##### [4th Lecture](https://youtu.be/YKQSnvZGfDE): Pair Prog #2 - Data Structures 2: TREES, BINARY SEARCH TREE & GRAPHS
 Pair Programming #2: https://github.com/SunJieMing/LS-Data-Structures-II w/Manisha Lal
-
 ***
 
 ### Day 08: Thursday, July 13
@@ -113,7 +107,6 @@ Code Challenge #4: https://github.com/ryanhca/CS1-Code-Challenges "Largest Prime
 #### [1st Lecture](https://youtu.be/JWNE9lsFcYg) w/Tai The Thai: Review Code Challenge #3: reverseCase
 #### [2nd Lecture](https://youtu.be/pCdtDj4NGpA) w/Ryan Hamblin: Brown Bag - tips and thoughts on using Slack!
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ben Nelson: Q&A
-
 ***
 
 ### Day 09: Friday, July 14
@@ -136,7 +129,6 @@ Code Challenge #6: https://github.com/ryanhca/CS1-Code-Challenges "CallBack Prac
 #### [3rd Lecture](https://youtu.be/a7qTzbUVVsY) w/Sean Chen: Data Structures II Solutions - Tree, Binary Search Tree & Graph
 #### [4th Lecture](https://youtu.be/BV83yPgDXBQ) w/Ryan Hamblin: Sprint for DOM Pair Programming #3
 Pair Programming #3: https://github.com/ryanhca/LS-DOM.git w/John Wells
-
 ***
 
 ### Day 11: Tuesday, July 18
@@ -146,7 +138,6 @@ Code Challenge #7: https://github.com/ryanhca/CS1-Code-Challenges "For Loop Time
 #### [2nd Lecture](https://youtu.be/lD7CnIM21T4) w/Tai The Thai: Object[key: value] review
 #### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Tyge Johnson: Adult learning Theories
 #### 3rd Lecture w/Sean Chen: Sprint Q&A
-
 ***
 
 ### Day 12: Wednesday, July 19
@@ -156,7 +147,6 @@ Code Challenge #8: https://github.com/ryanhca/CS1-Code-Challenges "Binary Search
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ryan Hamblin: Pair Programming 3 Review
 #### [3rd Lecture](https://youtu.be/exFWxA8mGLo) w/Ryan Hamblin: Pair Programming 4 Introduction: REACT
 Pair Programming #4: https://github.com/ryanhca/LS-React-1.git w/Tyge Johnson
-
 ***
 
 ### Day 13: Thursday, July 20
@@ -165,7 +155,6 @@ Code Challenge #9: https://github.com/ryanhca/CS1-Code-Challenges "Brain Teaser:
 #### [1st Lecture](https://youtu.be/sfaJU2Fa2Ew) w/Ben Nelson: Review Code Challenge #8: binarySearch
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ben Nelson: Concurrency Model & Event Loop
 #### [3rd Lecture](https://youtu.be/B9P2_gkZJPY) w/Ryan Hamblin: Q&A / Review REACT
-
 ***
 
 ### Day 14: Friday, July 21
@@ -190,7 +179,6 @@ Code Challenge #11: https://github.com/ryanhca/CS1-Code-Challenges "String Compr
 #### [5th Lecture](https://youtu.be/8wAH4Hd2Jag) w/Sean Chen: LS-React-2 pt.2
 Pair Programming #5: https://github.com/ryanhca/LS-React-2.git w/Sarah Majors
 #### [6th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: Sprint Q&A
-
 ***
 
 ### Day 16: Tuesday, July 25
@@ -199,7 +187,6 @@ Code Challenge #12: https://github.com/ryanhca/CS1-Code-Challenges "Operators"
 #### [1st Lecture](https://youtu.be/52hnLC-6flY) w/Ryan Hamblin: Review Code Challenge #11 stringCompression
 #### Brown Bag w/Ryan Hamblin: Quokka
 #### 2nd Lecture w/Sean Chen: Sprint / Q&A
-
 ***
 
 ### Day 17: Wednesday, July 26
@@ -210,7 +197,6 @@ Code Challenge #13: https://github.com/ryanhca/CS1-Code-Challenges "Constructors
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ben Nelson: Sprint review
 #### [4th Lecture](https://youtu.be/wJatXrRg8rw) w/Ben Nelson: REDUX
 Pair Programming #6: https://github.com/sunjieming/LS-Redux.git w/Jiovan Melendez
-
 ***
 
 ### Day 18: Thursday, July 27
@@ -219,7 +205,6 @@ Code Challenge #14: https://github.com/ryanhca/CS1-Code-Challenges "Queue Stack"
 #### [1st Lecture](https://youtu.be/rAq7juBu7Nw) w/Ben Nelson: Review Code Challenge #13 constructors
 #### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Lois Truby: ASL & Deaf Culture
 #### [3rd Lecture](https://youtu.be/P1kvmVfcahE) w/Ryan Hamblin: Sprint / Q&A
-
 ***
 
 ### Day 19: Friday, July 28
@@ -251,7 +236,6 @@ Code Challenge #16: https://github.com/LambdaSchool/CS1-Code-Challenges.git "All
 #### [5th Lecture](https://youtu.be/thYVD3foBvg) w/Sean Chen: HTTP-Mini Sprint review
 Pair Programming #7: LS-AJAX w/Jesh Yoon
 #### [6th Lecture](NO_VIDEO_RECORDED) w/Ben Nelson: Sprint / Q&A
-
 ***
 
 ### Day 21: Tuesday, August 01
@@ -260,7 +244,6 @@ Code Challenge #17: https://github.com/LambdaSchool/CS1-Code-Challenges.git "Ins
 #### [1st Lecture](https://youtu.be/txVN2bLiDpg) w/Sean Chen: Code Challenge #16 review allAnagrams
 #### [Brown Bag](https://youtu.be/hR-1fClOXe4) w/Allan Muraya: "Square" metaphor
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ryan Hamblin: Review / Q&A
-
 ***
 
 ### Day 22: Wednesday, August 02
@@ -272,7 +255,6 @@ Code Challenge #18: https://github.com/LambdaSchool/CS1-Code-Challenges.git "Rot
 #### [4th Lecture](https://youtu.be/5eGGI4diNrU) w/Ryan Hamblin: SPA / React-Router
 Pair Programming #8: https://github.com/LambdaSchool/LS-Routing-Movies w/Ryan S
 #### [5th Lecture](https://youtu.be/OniWLLXqlnk) w/Ben Nelson: Single Page Application and React-Router
-
 ***
 
 ### Day 23: Thursday, August 03
@@ -281,7 +263,6 @@ Code Challenge #19: https://github.com/LambdaSchool/CS1-Code-Challenges.git "Log
 #### [1st Lecture](https://youtu.be/Hmi4Y7JluzM) w/Tai: Code Challenge #18 review rotateImage
 #### [Brown Bag](https://youtu.be/fcbLwbqWKjI) w/Patrick Kennedy: philosophy of computer science
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: Review / Q&A
-
 ***
 
 ### Day 24: Friday, August 04
@@ -307,7 +288,6 @@ LS-Testing-Mini: https://github.com/LambdaSchool/LS-Testing-Mini
 #### [5th Lecture](https://youtu.be/ujinGT484G8) w/Ryan Hamblin: LS-Testing-Mini Solution
 Pair Programming #9: PAIR_PROG_URL w/Lois Truby
 #### [6th Lecture](https://youtu.be/9GYAo-7wkgM) w/Ryan Hamblin: Sprint / Q&A
-
 ***
 
 ### Day 26: Tuesday, August 08
@@ -316,7 +296,6 @@ Code Challenge #22: https://github.com/LambdaSchool/CS1-Code-Challenges.git "Qui
 #### [1st Lecture](https://youtu.be/usriLC2tr98) w/Tai: Code Challenge #21 review rockPaperScissor
 #### [Brown Bag](NO_VIDEO_RECORDED) w/Sean Chen: vim
 #### [2nd Lecture](NO_VIDEO_RECORDED) w/Sean Chen: Sprint / Q&A
-
 ***
 
 ### Day 27: Wednesday, August 09
@@ -328,7 +307,6 @@ Code Challenge #23: https://github.com/LambdaSchool/CS1-Code-Challenges.git "Sel
 #### [4th Lecture](https://youtu.be/K1RkG_irE9I) Pre-Recorded w/Karthik Viswanathan: LS-Node-Mini
 #### [5th Lecture](https://youtu.be/PZSWGzUCET8) w/Karthik Viswanathan: LS-Node-Mini Sprint Review
 Pair Programming #10: PAIR_PROG_URL w/Latoyya
-
 ***
 
 ### Day 28: Thursday, August 10
@@ -337,7 +315,6 @@ Code Challenge #24: https://github.com/LambdaSchool/CS1-Code-Challenges.git "Rot
 #### [1st Lecture](https://youtu.be/x72nJktUCXw) w/Sean Chen: Code Challenge #23 review selectionSort
 #### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Allan Murara: GraphQL
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ryan Hamblin: Lab Q&A
-
 ***
 
 ### Day 29: Friday, August 11
@@ -349,9 +326,7 @@ Code Challenge #25: https://github.com/LambdaSchool/CS1-Code-Challenges/tree/mas
 #### [3rd Lecture](NO_VIDEO_RECORDED) w/Sean Chen: Lab Q&A
 
 
-
 ***
-
 
 
 ## Week 07: Aug. 14 - 18
@@ -365,7 +340,6 @@ Code Challenge #26: https://github.com/LambdaSchool/CS1-Code-Challenges/tree/mas
 https://github.com/LambdaSchool/mongo-I-mini/tree/master
 #### [5th Lecture](https://youtu.be/y6d-b3p3tAA) w/Ryan Hamblin: Mongo-I Lab Q&A
 Pair Programming #11: https://github.com/LambdaSchool/LS-Mongo-I w/Ely
-
 ***
 
 ### Day 31: Tuesday, August 15
@@ -374,7 +348,6 @@ Code Challenge #27: https://github.com/ryanhca/CS1-Code-Challenges/tree/master/l
 #### [1st Lecture](https://youtu.be/9EGlhs1BISo) w/Speaker: Code Challenge #26 review blueSquares
 #### [Brown Bag](https://youtu.be/6FJwJcpfdfg) w/Evan Allen: Bitcoin
 #### [2nd Lecture](https://youtu.be/jHmyGWLguv8) w/Speaker: Lab Q&A
-
 ***
 
 ### Day 32: Wednesday, August 16
@@ -388,7 +361,6 @@ https://github.com/LambdaSchool/LS-Mongo-I-finished
 https://github.com/LambdaSchool/LS-Mongo-II-Mini
 #### [5th Lecture](https://youtu.be/QJOwc7-rk9A) w/Ryan Hamblin: mongo-II-mini review
 Pair Programming #12: https://github.com/LambdaSchool/LS-Mongo-II w/Mercedes
-
 ***
 
 ### Day 33: Thursday, August 17
@@ -397,10 +369,9 @@ Code Challenge #29: https://github.com/ryanhca/CS1-Code-Challenges/tree/master/r
 #### [1st Lecture](https://youtu.be/6Fznu7dDu2g) w/Tai Chulikavit: Code Challenge #28 stackOfPlates
 #### [Brown Bag](https://youtu.be/d2YYm0qEszo) w/Thomson Comer: The Hyper Text transfer Protocol
 #### [2nd Lecture](https://youtu.be/46y7cweCEM0) w/Ryan Hamblin: LS-Mongo-II Q&A
-
 ***
 
-### Day 34: Thursday, August 18
+### Day 34: Friday, August 18
 ### [DAY 34 NOTES](Month2/Week07/Day34/README.md)
 Code Challenge #30: https://github.com/ryanhca/CS1-Code-Challenges/tree/master/commonCharacters "Common Characters"
 #### [1st Lecture](https://youtu.be/7fAYivr-NJs) w/Tai Chulikavit: Code Challenge #29 robotPaths
@@ -422,7 +393,6 @@ Code Challenge #31: https://github.com/ryanhca/CS1-Code-Challenges/tree/master/f
 #### [5th Lecture](https://youtu.be/4G22XossnIY) w/Speaker: Mini review and Lab Intro
 #### [6th Lecture](NO_VIDEO_RECORDED) w/Sean Chen: Lab Q&A
 Pair Programming #13: https://github.com/LambdaSchool/Mongo-III w/Julian
-
 ***
 
 ### Day 36: Tuesday, August 22
@@ -431,7 +401,6 @@ Code Challenge #32: https://github.com/ryanhca/CS1-Code-Challenges/tree/master/l
 #### [1st Lecture](https://youtu.be/-knrJcFaq-U) w/Tai Chulikavit: Code Challenge #31 fizzbuzzTesting
 #### [Brown Bag](https://youtu.be/ddGwdHOx-aA) w/Allan Murara: more graphql
 #### [2nd Lecture](https://youtu.be/QcvC2CPHFv8) w/Ryan Hamblin: Lab / Q&A
-
 ***
 
 ### Day 37: Wednesday, August 23
@@ -444,7 +413,6 @@ Code Challenge #33: https://github.com/ryanhca/CS1-Code-Challenges/tree/master/b
 #### [5th Lecture](https://youtu.be/wo4LhNZHZfE) w/Karthik Viswanathan: Authorization mini-lab Q&A
 #### [6th Lecture](https://youtu.be/1N06A3pEAbA) w/Karthik Viswanathan: Authorization mini-Lab solution
 Pair Programming #14: https://github.com/LambdaSchool/Auth w/Lois
-
 ***
 
 ### Day 38: Thursday, August 24
@@ -453,7 +421,6 @@ Code Challenge #34: https://github.com/ryanhca/CS1-Code-Challenges/tree/master/N
 #### [1st Lecture](https://youtu.be/Jp-GolWBt-w) w/Ben Nelson: Code Challenge #33 breadthFirstSearch
 #### [Brown Bag](https://youtu.be/iJAFcLJ7D1E) w/Latoyya Smith: SneakerHeadz!
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ben Nelson: LS-Auth Q&A
-
 ***
 
 ### Day 39: Friday, August 25
@@ -474,7 +441,6 @@ Code Challenge #36: https://github.com/ryanhca/CS1-Code-Challenges/tree/master/N
 #### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Code Challenge #35 PREVIOUS_CODE_CHALLENGE
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-
 ***
 
 ### Day 41: Tuesday, August 29
@@ -483,7 +449,6 @@ Code Challenge #37: https://github.com/ryanhca/CS1-Code-Challenges/tree/master/N
 #### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Code Challenge #36 PREVIOUS_CODE_CHALLENGE
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-
 ***
 
 ### Day 42: Wednesday, August 30
@@ -492,7 +457,6 @@ Code Challenge #38: https://github.com/ryanhca/CS1-Code-Challenges/tree/master/N
 #### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Code Challenge #37 PREVIOUS_CODE_CHALLENGE
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-
 ***
 
 ### Day 43: Thursday, August 31
@@ -501,7 +465,6 @@ Code Challenge #39: https://github.com/ryanhca/CS1-Code-Challenges/tree/master/N
 #### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Code Challenge #38 PREVIOUS_CODE_CHALLENGE
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-
 ***
 
 ### Day 44: Friday, September 01
