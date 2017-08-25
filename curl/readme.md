@@ -170,7 +170,7 @@ $  curl -v http://localhost:3000/view-counter
     < set-cookie: connect.sid=s%3AK-2XUQqoT4Cw7JPo_VIhXGIq03g8FTdv.xfw%2FCxZugBVxj2CGpBMPcK9R%2FrSTmXbdk6IXHSgQiCA; Path=/; HttpOnly
     ...
     * Connection #0 to host localhost left intact
-    {"viewCount":1}  <--------------------------------------------- Lookie Thar!
+    {"viewCount":1}   <-------------------------------------------- Lookie Thar!
 
 $  curl -H "Content-Type: application/json" -b "connect.sid=s%3AK-2XUQqoT4Cw7JPo_VIhXGIq03g8FTdv.xfw%2FCxZugBVxj2CGpBMPcK9R%2FrSTmXbdk6IXHSgQiCA" -v http://localhost:3000/view-counter
     {"viewCount":2}    <------------------------------------------------ YaY!!!!
