@@ -14,6 +14,7 @@ Reference material:
 5. `nodemon viewCounter.js` to launch the server so the
 6. `/users`, `/log-in`, `/me` & `/view-counter` routes are available
 7. on http://localhost:3000
+8. edit or create a `~/.curlrc` file and add `-w "\n"` so the `curl` command prints out ends with a "newline"
 
 ## 1. **POST**ing JSON objects to the '/users' route:
 Just like the Postman application, `curl` can send data through JSON objects:

@@ -1,3 +1,4 @@
+const mongoose = require('mongoose');
 const bodyParser = require('body-parser');
 const express = require('express');
 const session = require('express-session');
@@ -109,4 +110,19 @@ server.get('/me', userAuthMiddleware, (req, res) => {
   res.json(req.user);
 });
 
-server.listen(3000);
+mongoose.Promise = global.Promise;
+const connect = mongoose.connect(
+  'mongodb://localhost/users',
+  { useMongoClient: true }
+);
+/* eslint no-console: 0 */
+connect.then(() => {
+  const port = 3000;
+  server.listen(port);
+  console.log(`Server Listening on ${port}`);
+}, (err) => {
+  console.log('\n************************');
+  console.log("ERROR: Couldn't connect to MongoDB.");
+  console.log('ERROR: Do you have it running?????')
+  console.log('************************\n');
+});
