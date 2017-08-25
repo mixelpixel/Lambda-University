@@ -1,6 +1,7 @@
 # Verifying HTTP Methods with `curl`
 (examples from the LS-Auth Lab)
 - https://www.w3.org/Protocols/rfc2616/rfc2616-sec9.html
+- http://www.restapitutorial.com/lessons/httpmethods.html
 - https://stackoverflow.com/q/30760213/5225057
 - see also `man curl`
 
