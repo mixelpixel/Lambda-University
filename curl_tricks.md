@@ -1,0 +1,102 @@
+For the LS-Auth Lab
+
+### 1. POSTing JSON objects with `curl`
+```console
+$ curl -X POST -H "Content-Type: application/json" -d '{"username":"Bingo the Clown-o","password":"soincrediblyhardtohackthis"}' http://localhost:3000/users
+```
+
+
+### 2. GETting with persistent cookies:
+
+As an example, in Karthik’s demo viddy, he made the viewCounter route:
+```js
+const bodyParser = require('body-parser');
+const express = require('express');
+const session = require('express-session');
+
+const server = express();
+server.use(bodyParser.json());
+
+server.use(session({
+  secret: 'e5SPiqsEtjexkTj3Xqovsjzq8ovjfgVDFMfUzSmJO21dtXs4re',
+}));
+
+server.get('/view-counter', (req, res) => {
+  const persistentSession = req.session;
+  if (!persistentSession.viewCount) {
+    persistentSession.viewCount = 0;
+  }
+  persistentSession.viewCount++;
+  res.json({ viewCount: persistentSession.viewCount });
+});
+
+module.exports = { server };
+```
+
+To
+1. visit that route,
+2. GET the counter and
+3. set `curl` up for persistent cookies,
+...first enter this in your console:
+
+```console
+$ curl -v http://localhost:3000/view-counter
+```
+
+The `-v` option sets `curl` up to use a persistent cookie.
+
+Then in the return message from `curl`, note that the view count object is set with a value of 1. Also - and this is the important bit: look towards the bottom of the `curl` print out for the `set-cookie` data:
+
+```console
+$  curl -v http://localhost:3000/view-counter
+    *   Trying ::1...
+    * TCP_NODELAY set
+    * Connected to localhost (::1) port 3000 (#0)
+    > GET /view-counter HTTP/1.1
+    > Host: localhost:3000
+    > User-Agent: curl/7.54.0
+    > Accept: */*
+    >
+    < HTTP/1.1 200 OK
+    < X-Powered-By: Express
+    < Content-Type: application/json; charset=utf-8
+    < Content-Length: 15
+    < ETag: W/"f-S/x5i6y+O5xz5+BJCJHSQTCJ6H4"
+                  vvvvvvvvvvvvvvvvvvvvvvvvvv--just copy this bit--vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+    < set-cookie: connect.sid=s%3AY_yUqVkQUnUMWxkpDMiMqXZh-oTHqmby.H%2F8Jy3vQ52mNrj2BtytRRdlyQZxl5dWWdAu07QV8jNs; Path=/; HttpOnly
+    < Date: Fri, 25 Aug 2017 03:42:32 GMT
+    < Connection: keep-alive
+    <
+    * Connection #0 to host localhost left intact
+    {"viewCount":1}    <-------------------------------Whaddya know????
+```
+
+Copy the ONLY `connect.sid` assignment,
+i.e. `connect.sid=SUPERLONGSTRING_UP_UNTIL_THE_SEMI-COLON`
+...and then paste that into a `curl` command as the `-b` argument.
+This time you can leave off the `-v` option, but you also need the -H option to tell gurl what kind of data is being sent:
+
+i.e
+
+```
+curl -H "Content-Type: application/json" -b "NAME=VALUE" http://localhost:3000/view-counter
+```
+
+Now, when you enter this command into your console, the view counter will increase by one with each successive visit through `curl`!
+
+e.g.
+```console
+$  curl -v http://localhost:3000/view-counter
+    ...           vvvvvvvvvvvvvvvvvvvvvvvvvv--just copy this bit--vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+    < set-cookie: connect.sid=s%3AK-2XUQqoT4Cw7JPo_VIhXGIq03g8FTdv.xfw%2FCxZugBVxj2CGpBMPcK9R%2FrSTmXbdk6IXHSgQiCA; Path=/; HttpOnly
+    ...
+    * Connection #0 to host localhost left intact
+    {"viewCount":1}  <----------------------------------------------Lookie Thar!
+
+$  curl -H "Content-Type: application/json" -b "connect.sid=s%3AK-2XUQqoT4Cw7JPo_VIhXGIq03g8FTdv.xfw%2FCxZugBVxj2CGpBMPcK9R%2FrSTmXbdk6IXHSgQiCA" -v http://localhost:3000/view-counter
+    {"viewCount":2}    <------------------------------------------------ YaY!!!!
+
+$  curl -H "Content-Type: application/json" -b "connect.sid=s%3AK-2XUQqoT4Cw7JPo_VIhXGIq03g8FTdv.xfw%2FCxZugBVxj2CGpBMPcK9R%2FrSTmXbdk6IXHSgQiCA" -v http://localhost:3000/view-counter
+    {"viewCount":3}    <------------------------------ Third time's a charm!!!!!
+
+```
