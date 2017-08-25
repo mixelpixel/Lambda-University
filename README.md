@@ -463,10 +463,56 @@ Code Challenge #35: https://github.com/ryanhca/CS1-Code-Challenges/tree/master/N
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 
+
 ***
 
 
-## Week 08: Aug. 27 - Sept. 1
+## Week 09: Aug. 28 - Sept. 1
+### Day 40: Monday, August 28
+### [DAY 40 NOTES](Month2/Week09/Day40/README.md)
+Code Challenge #36: https://github.com/ryanhca/CS1-Code-Challenges/tree/master/NAME "NEW_CODE_CHALLENGE"
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Code Challenge #35 PREVIOUS_CODE_CHALLENGE
+#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+
+***
+
+### Day 41: Tuesday, August 29
+### [DAY 41 NOTES](Month2/Week09/Day41/README.md)
+Code Challenge #37: https://github.com/ryanhca/CS1-Code-Challenges/tree/master/NAME "NEW_CODE_CHALLENGE"
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Code Challenge #36 PREVIOUS_CODE_CHALLENGE
+#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+
+***
+
+### Day 42: Wednesday, August 30
+### [DAY 42 NOTES](Month2/Week09/Day42/README.md)
+Code Challenge #38: https://github.com/ryanhca/CS1-Code-Challenges/tree/master/NAME "NEW_CODE_CHALLENGE"
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Code Challenge #37 PREVIOUS_CODE_CHALLENGE
+#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+
+***
+
+### Day 43: Thursday, August 31
+### [DAY 43 NOTES](Month2/Week09/Day43/README.md)
+Code Challenge #39: https://github.com/ryanhca/CS1-Code-Challenges/tree/master/NAME "NEW_CODE_CHALLENGE"
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Code Challenge #38 PREVIOUS_CODE_CHALLENGE
+#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+
+***
+
+### Day 44: Friday, September 01
+### [DAY 44 NOTES](Month2/Week09/Day44/README.md)
+Code Challenge #40: https://github.com/ryanhca/CS1-Code-Challenges/tree/master/NAME "NEW_CODE_CHALLENGE"
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Code Challenge #39 PREVIOUS_CODE_CHALLENGE
+#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+
+
+***
 
 
 <!-- </p></details> -->
