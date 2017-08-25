@@ -366,7 +366,7 @@ Pair Programming #12: https://github.com/LambdaSchool/LS-Mongo-II w/Mercedes
 ### Day 33: Thursday, August 17
 ### [DAY 33 NOTES](Month2/Week07/Day33/README.md)
 Code Challenge #29: https://github.com/ryanhca/CS1-Code-Challenges/tree/master/robotPaths "Robot Paths"
-#### [1st Lecture](https://youtu.be/6Fznu7dDu2g) w/Tai Chulikavit: Code Challenge #28 stackOfPlates
+#### [1st Lecture](https://youtu.be/6Fznu7dDu2g) w/Tai Chulikavit: Review Code Challenge #28 stackOfPlates
 #### [Brown Bag](https://youtu.be/d2YYm0qEszo) w/Thomson Comer: The Hyper Text transfer Protocol
 #### [2nd Lecture](https://youtu.be/46y7cweCEM0) w/Ryan Hamblin: LS-Mongo-II Q&A
 ***
@@ -374,7 +374,7 @@ Code Challenge #29: https://github.com/ryanhca/CS1-Code-Challenges/tree/master/r
 ### Day 34: Friday, August 18
 ### [DAY 34 NOTES](Month2/Week07/Day34/README.md)
 Code Challenge #30: https://github.com/ryanhca/CS1-Code-Challenges/tree/master/commonCharacters "Common Characters"
-#### [1st Lecture](https://youtu.be/7fAYivr-NJs) w/Tai Chulikavit: Code Challenge #29 robotPaths
+#### [1st Lecture](https://youtu.be/7fAYivr-NJs) w/Tai Chulikavit: Review Code Challenge #29 robotPaths
 #### [Brown Bag](https://youtu.be/M0v4Iizcw6c) w/Kent C. Dodds: Tools
 #### [2nd Lecture](NO_VIDEO_RECORDED) w/Ben Nelson: Q&A
 
@@ -386,7 +386,7 @@ Code Challenge #30: https://github.com/ryanhca/CS1-Code-Challenges/tree/master/c
 ### Day 35: Monday, August 21
 ### [DAY 35 NOTES](Month2/Week08/Day35/README.md)
 Code Challenge #31: https://github.com/ryanhca/CS1-Code-Challenges/tree/master/fizzbuzzTesting "FizzBizz Testing"
-#### [1st Lecture](https://youtu.be/-xoF-AYd-94) w/Tai Chulikavit: Code Challenge #30 commonCharacters
+#### [1st Lecture](https://youtu.be/-xoF-AYd-94) w/Tai Chulikavit: Review Code Challenge #30 commonCharacters
 #### [2nd Lecture](NO_VIDEO_RECORDED) w/Karthik Viswanathan: LS-Mongo-II Lab review
 #### [3rd Lecture](https://youtu.be/q4FE0K4GGZs) w/Karthik Viswanathan: LS-Mongo-II Lab solution
 #### [4th Lecture](https://youtu.be/fGs7ww2NWyg) w/Sean Chen: LS-Mongo-III Mini Lecture
@@ -398,7 +398,7 @@ Pair Programming #13: https://github.com/LambdaSchool/Mongo-III w/Julian
 ### Day 36: Tuesday, August 22
 ### [DAY 36 NOTES](Month2/Week08/Day36/README.md)
 Code Challenge #32: https://github.com/ryanhca/CS1-Code-Challenges/tree/master/longestRun "Longest Run"
-#### [1st Lecture](https://youtu.be/-knrJcFaq-U) w/Tai Chulikavit: Code Challenge #31 fizzbuzzTesting
+#### [1st Lecture](https://youtu.be/-knrJcFaq-U) w/Tai Chulikavit: Review Code Challenge #31 fizzbuzzTesting
 #### [Brown Bag](https://youtu.be/ddGwdHOx-aA) w/Allan Murara: more graphql
 #### [2nd Lecture](https://youtu.be/QcvC2CPHFv8) w/Ryan Hamblin: Lab / Q&A
 ***
@@ -406,7 +406,7 @@ Code Challenge #32: https://github.com/ryanhca/CS1-Code-Challenges/tree/master/l
 ### Day 37: Wednesday, August 23
 ### [DAY 37 NOTES](Month2/Week08/Day37/README.md)
 Code Challenge #33: https://github.com/ryanhca/CS1-Code-Challenges/tree/master/breadthFirstSearch "Breadth First Search"
-#### [1st Lecture](https://youtu.be/zOhzTE6XtYE) w/Sean Chen: Code Challenge #32 longestRun
+#### [1st Lecture](https://youtu.be/zOhzTE6XtYE) w/Sean Chen: Review Code Challenge #32 longestRun
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ryan Hamblin: LS-Mongo-III Solution
 #### [3rd Lecture](https://youtu.be/7EdIJaYmMU8) w/Ryan Hamblin: LS-Mongo-III Lab Review
 #### [4th Lecture](https://youtu.be/lcTNZXJVwd4) w/Karthik Viswanathan: Authorization mini-lab intro
@@ -418,7 +418,7 @@ Pair Programming #14: https://github.com/LambdaSchool/Auth w/Lois
 ### Day 38: Thursday, August 24
 ### [DAY 38 NOTES](Month2/Week#08/Day38/README.md)
 Code Challenge #34: https://github.com/ryanhca/CS1-Code-Challenges/tree/master/NAME "Vowel Count"
-#### [1st Lecture](https://youtu.be/Jp-GolWBt-w) w/Ben Nelson: Code Challenge #33 breadthFirstSearch
+#### [1st Lecture](https://youtu.be/Jp-GolWBt-w) w/Ben Nelson: Review Code Challenge #33 breadthFirstSearch
 #### [Brown Bag](https://youtu.be/iJAFcLJ7D1E) w/Latoyya Smith: SneakerHeadz!
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ben Nelson: LS-Auth Q&A
 ***
@@ -426,9 +426,9 @@ Code Challenge #34: https://github.com/ryanhca/CS1-Code-Challenges/tree/master/N
 ### Day 39: Friday, August 25
 ### [DAY 39 NOTES](Month2/Week08/Day39/README.md)
 Code Challenge #35: https://github.com/ryanhca/CS1-Code-Challenges/tree/master/meanMedianMode "Mean Median Mode"
-#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Tai Chulikavit: Code Challenge #34 vowelCount
-#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [1st Lecture](https://youtu.be/pT-l5zBCbfI) w/Tai Chulikavit: Review Code Challenge #34 vowelCount
+#### [2nd Lecture](https://youtu.be/p9mS-MDeESQ) w/Tai Chulikavit: Bullet Journaling
+#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: LS-Auth Q&A
 
 
 ***
