@@ -5,7 +5,7 @@
 - https://stackoverflow.com/q/30760213/5225057
 - see also `man curl`
 
-## 1. **POST**ing JSON objects with `curl` to the '/users' route:
+## 1. **POST**ing JSON objects to the '/users' route:
 Just like the Postman application, `curl` can send data through JSON objects:
 ```js
 {
