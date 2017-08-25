@@ -451,8 +451,8 @@ Pair Programming #14: https://github.com/LambdaSchool/Auth w/Lois
 ### [DAY 38 NOTES](Month2/Week#08/Day38/README.md)
 Code Challenge #34: https://github.com/ryanhca/CS1-Code-Challenges/tree/master/NAME "Vowel Count"
 #### [1st Lecture](https://youtu.be/Jp-GolWBt-w) w/Ben Nelson: Code Challenge #33 breadthFirstSearch
-#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [Brown Bag](https://youtu.be/iJAFcLJ7D1E) w/Latoyya Smith: SneakerHeadz!
+#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ben Nelson: LS-Auth Q&A
 
 ***
 
