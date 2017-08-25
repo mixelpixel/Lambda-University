@@ -1,6 +1,6 @@
 # Lambda University - August 25, 2017: Day 039, Friday
 ## Coding Challenge #35
-- "NEW_CODE_CHALLENGE" available in https://github.com/LambdaSchool/CS1-Code-Challenges/tree/master/NAME
+- "Mean Median Mode" available in https://github.com/LambdaSchool/CS1-Code-Challenges/tree/master/NAME
 ***
 Ben Nelson
 Karthik Viswanathan
