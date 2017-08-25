@@ -25,9 +25,9 @@ $  curl -X POST -H "Content-Type: application/json" -d '{"username":"Bingo The C
 3. `-d` is for the actual data
 
 
-## 2. **GET**ting with persistent cookies:
+## 2. **GET**ting with persistent cookies from '/view-counter':
 
-As an example, in Karthik’s demo viddy, he made the viewCounter route:
+As an example, in Karthik’s demo viddy, he made the '/view-counter' route:
 ```js
 const bodyParser = require('body-parser');
 const express = require('express');
@@ -64,7 +64,9 @@ $ curl -v http://localhost:3000/view-counter
 
 The `-v` option sets `curl` up to use a persistent cookie.
 
-Then in the return message from `curl`, note that the view count object is set with a value of 1. Also - and this is the important bit: look towards the bottom of the `curl` print out for the `set-cookie` data:
+This is the first visit, so using this command will return the data object, { viewCount: 1 }.
+
+NOTE also - and this is the important bit: towards the bottom of the `curl` print out, just above the view count, look for the `set-cookie` data:
 
 ```console
 $  curl -v http://localhost:3000/view-counter
@@ -81,13 +83,13 @@ $  curl -v http://localhost:3000/view-counter
     < Content-Type: application/json; charset=utf-8
     < Content-Length: 15
     < ETag: W/"f-S/x5i6y+O5xz5+BJCJHSQTCJ6H4"
-                  vvvvvvvvvvvvvvvvvvvvvvvvvv--just copy this bit--vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+                  vvvvvvvvvvvvvvvvvvvvvvvvvvvv---just this bit---vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
     < set-cookie: connect.sid=s%3AY_yUqVkQUnUMWxkpDMiMqXZh-oTHqmby.H%2F8Jy3vQ52mNrj2BtytRRdlyQZxl5dWWdAu07QV8jNs; Path=/; HttpOnly
     < Date: Fri, 25 Aug 2017 03:42:32 GMT
     < Connection: keep-alive
     <
     * Connection #0 to host localhost left intact
-    {"viewCount":1}    <-------------------------------Whaddya know????
+    {"viewCount":1}    <---------------------------------- Hey, whaddya know????
 ```
 
 Copy the ONLY `connect.sid` assignment,
@@ -110,7 +112,7 @@ $  curl -v http://localhost:3000/view-counter
     < set-cookie: connect.sid=s%3AK-2XUQqoT4Cw7JPo_VIhXGIq03g8FTdv.xfw%2FCxZugBVxj2CGpBMPcK9R%2FrSTmXbdk6IXHSgQiCA; Path=/; HttpOnly
     ...
     * Connection #0 to host localhost left intact
-    {"viewCount":1}  <----------------------------------------------Lookie Thar!
+    {"viewCount":1}  <--------------------------------------------- Lookie Thar!
 
 $  curl -H "Content-Type: application/json" -b "connect.sid=s%3AK-2XUQqoT4Cw7JPo_VIhXGIq03g8FTdv.xfw%2FCxZugBVxj2CGpBMPcK9R%2FrSTmXbdk6IXHSgQiCA" -v http://localhost:3000/view-counter
     {"viewCount":2}    <------------------------------------------------ YaY!!!!
