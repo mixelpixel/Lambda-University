@@ -1,12 +1,27 @@
-For the LS-Auth Lab
+# Verifying HTTP Methods with `curl`
+(examples from the LS-Auth Lab)
 
-### 1. POSTing JSON objects with `curl`
+## 1. **POST**ing JSON objects with `curl` to the '/users' route:
+Just like the Postman application, `curl` can send data through JSON objects:
+```js
+{
+  "username":"some_name",
+  "password":"correcthorsebatterystaple"
+}
+```
+...and get the corresponding passwordHash in return:
+
 ```console
-$ curl -X POST -H "Content-Type: application/json" -d '{"username":"Bingo the Clown-o","password":"soincrediblyhardtohackthis"}' http://localhost:3000/users
+$  curl -X POST -H "Content-Type: application/json" -d '{"username":"Bingo The Clown-o","password":"soincrediblyhardtohackthis"}' http://localhost:3000/users
+  {"__v":0,"username":"Bingo The Clown-o","passwordHash":"$2a$11$lRHrlFuPWszbfzgvBw8NMehZ.M0zh/E/rv6Fx6NH1xaIFAFBGnJmm","_id":"599fa94427b8c3d1e2866d91"}
 ```
 
+1. `-X` specifies the HTTP method type
+2. `-H` specifies the data type
+3. `-d` is for the actual data
 
-### 2. GETting with persistent cookies:
+
+## 2. **GET**ting with persistent cookies:
 
 As an example, in Karthik’s demo viddy, he made the viewCounter route:
 ```js
