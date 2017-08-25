@@ -1,0 +1,23 @@
+{
+  "name": "view-counter",
+  "version": "0.0.1",
+  "description": "LambdaSchool Auth-Mini viewCount",
+  "main": "viewCounter.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mixelpixel/Auth.git"
+  },
+  "author": "Patrick Kennedy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mixelpixel/Auth/issues"
+  },
+  "homepage": "https://github.com/mixelpixel/Auth/viewCounter#readme",
+  "dependencies": {
+    "bcrypt": "^1.0.2",
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4",
+    "express-session": "^1.15.5",
+    "mongoose": "^4.11.7"
+  }
+}
