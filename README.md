@@ -426,7 +426,7 @@ Code Challenge #34: https://github.com/ryanhca/CS1-Code-Challenges/tree/master/N
 ### Day 39: Friday, August 25
 ### [DAY 39 NOTES](Month2/Week08/Day39/README.md)
 Code Challenge #35: https://github.com/ryanhca/CS1-Code-Challenges/tree/master/meanMedianMode "Mean Median Mode"
-#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Code Challenge #34 vowelCount
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Tai Chulikavit: Code Challenge #34 vowelCount
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 
