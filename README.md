@@ -605,6 +605,7 @@ Code Challenge #40: https://github.com/ryanhca/CS1-Code-Challenges/tree/master/N
 - https://www.lynda.com/Node-js-tutorials/Querying-data-Mongoose/604259/620678-4.html
 
 #### NODE
+- Express: https://expressjs.com/en/api.html
 
 #### JQuery
 - https://code.jquery.com/
