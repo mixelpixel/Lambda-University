@@ -428,7 +428,7 @@ Code Challenge #34: https://github.com/ryanhca/CS1-Code-Challenges/tree/master/N
 Code Challenge #35: https://github.com/ryanhca/CS1-Code-Challenges/tree/master/meanMedianMode "Mean Median Mode"
 #### [1st Lecture](https://youtu.be/pT-l5zBCbfI) w/Tai Chulikavit: Review Code Challenge #34 vowelCount
 #### [2nd Lecture](https://youtu.be/p9mS-MDeESQ) w/Tai Chulikavit: Bullet Journaling
-#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: LS-Auth Q&A
+#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ben Nelson: LS-Auth Q&A
 
 
 ***
