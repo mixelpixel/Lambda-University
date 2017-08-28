@@ -662,6 +662,7 @@ Code Challenge #40: https://github.com/ryanhca/CS1-Code-Challenges/tree/master/N
 	- http://underscorejs.org/underscore.js
 	- Easier to view in Chrome with [Pretty Print](https://chrome.google.com/webstore/detail/prettyprint/nipdlgebaanapcphbcidpmmmkcecpkhg?hl=en-US)
 - [Intro to Synchronous and Asynchronous code](https://www.pluralsight.com/guides/front-end-javascript/introduction-to-asynchronous-javascript)
+- https://javascript30.com
 
 #### ESLINTer:
 - npm: https://www.npmjs.com/package/eslint-watch
