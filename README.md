@@ -439,8 +439,9 @@ Code Challenge #35: https://github.com/ryanhca/CS1-Code-Challenges/tree/master/m
 ### [DAY 40 NOTES](Month2/Week09/Day40/README.md)
 Code Challenge #36: https://repl.it/student/submissions/1448448 "Sum Of Digits"
 #### [1st Lecture](https://youtu.be/SKz7oc4TIII) w/Ryan Hamblin: Review Code Challenge #35: meanMedianMode
-#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ben Nelson: LS-Auth Lab Sprint Review
-#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [2nd Lecture](NO_VIDEO_RECORDED) w/Ben Nelson: LS-Auth Lab Sprint Review
+#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ben Nelson: LS-Auth Solution
+#### [4th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: LS-Greenfield Q&A
 ***
 
 ### Day 41: Tuesday, August 29
