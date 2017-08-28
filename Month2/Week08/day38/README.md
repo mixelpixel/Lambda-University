@@ -8,6 +8,6 @@
 ***
 # [Brown Bag](https://youtu.be/iJAFcLJ7D1E) w/Latoyya Smith: SneakerHeadz!
 ***
-# [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ben Nelson: LS-Auth Q&A
+# [2nd Lecture](NO_VIDEO_RECORDED) w/Ben Nelson: LS-Auth Q&A
 ***
 # fin
