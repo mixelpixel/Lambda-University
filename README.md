@@ -437,7 +437,7 @@ Code Challenge #35: https://github.com/ryanhca/CS1-Code-Challenges/tree/master/m
 ## Week 09: Aug. 28 - Sept. 1
 ### Day 40: Monday, August 28
 ### [DAY 40 NOTES](Month2/Week09/Day40/README.md)
-Code Challenge #36: https://github.com/ryanhca/CS1-Code-Challenges/tree/master/NAME "NEW_CODE_CHALLENGE"
+Code Challenge #36: https://repl.it/student/submissions/1448448 "Sum Of Digits"
 #### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Code Challenge #35 meanMedianMode
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
@@ -446,7 +446,7 @@ Code Challenge #36: https://github.com/ryanhca/CS1-Code-Challenges/tree/master/N
 ### Day 41: Tuesday, August 29
 ### [DAY 41 NOTES](Month2/Week09/Day41/README.md)
 Code Challenge #37: https://github.com/ryanhca/CS1-Code-Challenges/tree/master/NAME "NEW_CODE_CHALLENGE"
-#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Code Challenge #36 PREVIOUS_CODE_CHALLENGE
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Code Challenge #36 sumOfDigits
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 ***
@@ -596,6 +596,14 @@ Code Challenge #40: https://github.com/ryanhca/CS1-Code-Challenges/tree/master/N
 #### LSPro lectures:
 - [Callbacks](https://youtu.be/qxURd9khNgU)
 
+#### REST
+- http://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm
+- http://www.looah.com/source/view/2284
+- Restful API with node, mongo, express & mongoose: http://fem-node-api.netlify.com/
+
+#### NODE
+- Express: https://expressjs.com/en/api.html
+
 #### MONGO
 - https://www.mongodb.com/
 - https://docs.mongodb.com/manual/reference/mongo-shell/
@@ -603,9 +611,6 @@ Code Challenge #40: https://github.com/ryanhca/CS1-Code-Challenges/tree/master/N
 #### Mongoose
 - http://mongoosejs.com/docs/api.html#query_Query-remove
 - https://www.lynda.com/Node-js-tutorials/Querying-data-Mongoose/604259/620678-4.html
-
-#### NODE
-- Express: https://expressjs.com/en/api.html
 
 #### JQuery
 - https://code.jquery.com/
