@@ -442,6 +442,7 @@ Code Challenge #36: https://repl.it/student/submissions/1448448 "Sum Of Digits"
 #### [2nd Lecture](NO_VIDEO_RECORDED) w/Ben Nelson: LS-Auth Lab Sprint Review
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ben Nelson: LS-Auth Solution
 #### [4th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: LS-Greenfield Q&A
+Solo Programming: https://github.com/mixelpixel/LS-Greenfield
 ***
 
 ### Day 41: Tuesday, August 29
