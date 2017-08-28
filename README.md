@@ -420,7 +420,7 @@ Pair Programming #14: https://github.com/LambdaSchool/Auth w/Lois
 Code Challenge #34: https://github.com/ryanhca/CS1-Code-Challenges/tree/master/NAME "Vowel Count"
 #### [1st Lecture](https://youtu.be/Jp-GolWBt-w) w/Ben Nelson: Review Code Challenge #33 breadthFirstSearch
 #### [Brown Bag](https://youtu.be/iJAFcLJ7D1E) w/Latoyya Smith: SneakerHeadz!
-#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ben Nelson: LS-Auth Q&A
+#### [2nd Lecture](NO_VIDEO_RECORDED) w/Ben Nelson: LS-Auth Q&A
 ***
 
 ### Day 39: Friday, August 25
