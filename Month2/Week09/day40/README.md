@@ -34,7 +34,11 @@ if (!username || !password) {
 ***
 #### LUNCH
 ***
-# [4th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+# [4th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: LS-Greenfield Q&A
+- https://javascript30.com/
+- https://swapi.co/
+- https://github.com/seanchen1991/raiden-versus
+
 ***
 # [5th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 ***
