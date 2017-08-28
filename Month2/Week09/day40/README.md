@@ -1,6 +1,6 @@
 # Lambda University - August 28, 2017: Day 040, Monday
 ## Coding Challenge #36
-- "NEW_CODE_CHALLENGE" available in https://github.com/LambdaSchool/CS1-Code-Challenges/tree/master/NAME
+- "Sum Of Digits" available in https://repl.it/student/submissions/1448448
 ***
 Ben Nelson
 Karthik Viswanathan
