@@ -21,7 +21,15 @@ NO_VIDEO_RECORDED
 - https://docs.google.com/document/d/1DnRLpHe_9b2YBz3BZBPlHwtfB_wPAttMbTdAbP18WDk/edit
 
 ***
-# [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+# [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ben Nelson: LS-Auth Solution
+- use username OR password check instead of individual checks, that way hackers can't tell if they have an active username!
+```
+const { username, password } = req.body;
+if (!username || !password) {
+  sendUserError('Please enter BOTH a USERNAME and a PASSWORD.', res);
+  return;
+```
+
 ***
 #### LUNCH
 ***
