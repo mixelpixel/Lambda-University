@@ -23,11 +23,12 @@ NO_VIDEO_RECORDED
 ***
 # [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ben Nelson: LS-Auth Solution
 - use username OR password check instead of individual checks, that way hackers can't tell if they have an active username!
-```
+```js
 const { username, password } = req.body;
 if (!username || !password) {
   sendUserError('Please enter BOTH a USERNAME and a PASSWORD.', res);
   return;
+}
 ```
 
 ***
