@@ -123,6 +123,6 @@ connect.then(() => {
 }, (err) => {
   console.log('\n************************');
   console.log("ERROR: Couldn't connect to MongoDB.");
-  console.log('ERROR: Do you have it running?????')
+  console.log('ERROR: Do you have it running?????');
   console.log('************************\n');
 });
