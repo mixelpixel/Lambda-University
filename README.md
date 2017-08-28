@@ -438,7 +438,7 @@ Code Challenge #35: https://github.com/ryanhca/CS1-Code-Challenges/tree/master/m
 ### Day 40: Monday, August 28
 ### [DAY 40 NOTES](Month2/Week09/Day40/README.md)
 Code Challenge #36: https://repl.it/student/submissions/1448448 "Sum Of Digits"
-#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Code Challenge #35 meanMedianMode
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ryan Hamblin: Code Challenge #35 meanMedianMode
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 ***
