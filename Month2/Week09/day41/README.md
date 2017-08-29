@@ -22,11 +22,6 @@ NO_VIDEO_RECORDED
 ***
 # [Brown Bag](https://youtu.be/qfbrWPV3mqI) w/Jesh Yoon: Japanese Mahjong
 ***
-# [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-***
-# [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-***
-# [4th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-# Sprint / Q&A
+# [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: LS-Greenfield Q&A
 ***
 # fin
