@@ -441,7 +441,7 @@ Code Challenge #36: https://repl.it/student/submissions/1448448 "Sum Of Digits"
 #### [1st Lecture](https://youtu.be/SKz7oc4TIII) w/Ryan Hamblin: Review Code Challenge #35: meanMedianMode
 #### [2nd Lecture](NO_VIDEO_RECORDED) w/Ben Nelson: LS-Auth Lab Sprint Review
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ben Nelson: LS-Auth Solution
-#### [4th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: LS-Greenfield Q&A
+#### [4th Lecture](NO_VIDEO_RECORDED) w/Sean Chen: LS-Greenfield Q&A
 Solo Programming: https://github.com/mixelpixel/LS-Greenfield
 ***
 
