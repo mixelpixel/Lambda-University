@@ -2,17 +2,6 @@
 ## Coding Challenge #36
 - "Sum Of Digits" available in https://repl.it/student/submissions/1448448
 ***
-Ben Nelson
-Karthik Viswanathan
-Thomson Comer
-Ryan Hamblin
-Sean Chen
-Tai Chulikavit
-Emily Sperry
-Christine Gierer
-GUEST LECTURER
-NO_VIDEO_RECORDED
-***
 # [1st Lecture](https://youtu.be/SKz7oc4TIII) w/Ryan Hamblin: Review Code Challenge #35: meanMedianMode
 - https://repl.it/K3ka/4
 
