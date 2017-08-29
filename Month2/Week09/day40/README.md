@@ -42,9 +42,4 @@ if (!username || !password) {
   3. https://github.com/seanchen1991/raiden-versus
 
 ***
-# [5th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-***
-# [6th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-# Sprint / Q&A
-***
 # fin
