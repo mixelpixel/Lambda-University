@@ -1,6 +1,6 @@
 # Lambda University - September 01, 2017: Day 044, Friday
 ## Coding Challenge #40
-- "NEW_CODE_CHALLENGE" available in https://github.com/LambdaSchool/CS1-Code-Challenges/tree/master/NAME
+- "NEW_CODE_CHALLENGE" available in https://repl.it/student/submissions/#
 ***
 Ben Nelson
 Karthik Viswanathan
@@ -14,6 +14,8 @@ GUEST LECTURER
 NO_VIDEO_RECORDED
 ***
 # [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #39: PREVIOUS_CODE_CHALLENGE
+- https://repl.it/student/submissions/#
+
 ***
 #### LUNCH
 ***
