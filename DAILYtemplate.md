@@ -1,6 +1,6 @@
 # Lambda University - MONTH ##, 2017: Day ###, WEEKday
 ## Coding Challenge #
-- "NEW_CODE_CHALLENGE" available in https://github.com/LambdaSchool/CS1-Code-Challenges/tree/master/NAME
+- "NEW_CODE_CHALLENGE" available in https://repl.it/student/submissions/#
 ***
 Ben Nelson
 Karthik Viswanathan
@@ -14,6 +14,8 @@ GUEST LECTURER
 NO_VIDEO_RECORDED
 ***
 # [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #??: PREVIOUS_CODE_CHALLENGE
+- https://repl.it/student/submissions/#
+
 ***
 #### LUNCH
 ***
@@ -34,7 +36,7 @@ INDEX
 
 ### Day ??: WEEKday, MONTH ??
 ### [DAY ## NOTES](Month2/Week##/Day##/README.md)
-Code Challenge #??: https://github.com/ryanhca/CS1-Code-Challenges/tree/master/NAME "NEW_CODE_CHALLENGE"
+Code Challenge #??: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
 #### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #?? PREVIOUS_CODE_CHALLENGE
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
