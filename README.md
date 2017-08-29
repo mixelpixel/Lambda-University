@@ -447,7 +447,7 @@ Solo Programming: https://github.com/mixelpixel/LS-Greenfield
 
 ### Day 41: Tuesday, August 29
 ### [DAY 41 NOTES](Month2/Week09/Day41/README.md)
-Code Challenge #37: https://github.com/ryanhca/CS1-Code-Challenges/tree/master/NAME "NEW_CODE_CHALLENGE"
+Code Challenge #37: https://repl.it/student/submissions/1454546 "NEW_CODE_CHALLENGE"
 #### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #36 sumOfDigits
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
@@ -455,15 +455,15 @@ Code Challenge #37: https://github.com/ryanhca/CS1-Code-Challenges/tree/master/N
 
 ### Day 42: Wednesday, August 30
 ### [DAY 42 NOTES](Month2/Week09/Day42/README.md)
-Code Challenge #38: https://github.com/ryanhca/CS1-Code-Challenges/tree/master/NAME "NEW_CODE_CHALLENGE"
-#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #37 PREVIOUS_CODE_CHALLENGE
+Code Challenge #38: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #37 armstrongNumbers
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 ***
 
 ### Day 43: Thursday, August 31
 ### [DAY 43 NOTES](Month2/Week09/Day43/README.md)
-Code Challenge #39: https://github.com/ryanhca/CS1-Code-Challenges/tree/master/NAME "NEW_CODE_CHALLENGE"
+Code Challenge #39: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
 #### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #38 PREVIOUS_CODE_CHALLENGE
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
@@ -471,7 +471,7 @@ Code Challenge #39: https://github.com/ryanhca/CS1-Code-Challenges/tree/master/N
 
 ### Day 44: Friday, September 01
 ### [DAY 44 NOTES](Month2/Week09/Day44/README.md)
-Code Challenge #40: https://github.com/ryanhca/CS1-Code-Challenges/tree/master/NAME "NEW_CODE_CHALLENGE"
+Code Challenge #40: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
 #### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #39 PREVIOUS_CODE_CHALLENGE
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
@@ -694,6 +694,10 @@ Code Challenge #40: https://github.com/ryanhca/CS1-Code-Challenges/tree/master/N
 	- http://www.csszengarden.com/
 	- [SASS](http://sass-lang.com/)
 	- [FLEXBOX](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+
+#### Interview prep
+- https://github.com/h5bp/Front-end-Developer-Interview-Questions#js-questions
+- https://www.toptal.com/javascript/interview-questions
 
 ##### Unsorted
 - Ryan Sherill: [Extra Resources list](https://docs.google.com/document/d/1y5B_glCrLRo8Vnu93QMKjFrfAN3a-GFPzgGz76rTTIQ/edit)
