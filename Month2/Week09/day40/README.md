@@ -34,7 +34,7 @@ if (!username || !password) {
 ***
 #### LUNCH
 ***
-# [4th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: LS-Greenfield Q&A
+# [4th Lecture](NO_VIDEO_RECORDED) w/Sean Chen: LS-Greenfield Q&A
 - https://github.com/mixelpixel/LS-Greenfield
 - Ideas:
   1. https://javascript30.com/
