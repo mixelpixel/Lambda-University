@@ -13,7 +13,7 @@ Christine Gierer
 GUEST LECTURER
 NO_VIDEO_RECORDED
 ***
-# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #36: sumOfDigits
+# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ben Nelson: Review Code Challenge #36: sumOfDigits
 - https://repl.it/student/submissions/1448448
 - https://coderwall.com/p/5tlhmw/converting-strings-to-number-in-javascript-pitfalls
 
