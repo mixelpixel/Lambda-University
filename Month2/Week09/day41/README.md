@@ -1,6 +1,6 @@
 # Lambda University - August 29, 2017: Day 041, Tuesday
 ## Coding Challenge #37
-- "NEW_CODE_CHALLENGE" available in https://github.com/LambdaSchool/CS1-Code-Challenges/tree/master/NAME
+- "Armstrong Numbers" available in https://repl.it/student/submissions/1454546
 ***
 Ben Nelson
 Karthik Viswanathan
