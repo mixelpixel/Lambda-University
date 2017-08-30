@@ -35,6 +35,7 @@ NO_VIDEO_RECORDED
 - https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage
 
 - CORS (Cross Origin Resource Sharing)
+- https://github.com/expressjs/cors
 - Same origin policy: same protocol, host and port
 - expressjs cors middleware
 - production use case, usually only add cors to routes you want to be public
