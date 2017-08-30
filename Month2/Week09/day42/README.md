@@ -13,7 +13,7 @@ Christine Gierer
 GUEST LECTURER
 NO_VIDEO_RECORDED
 ***
-# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #37: armstrongNumbers
+# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ben Nelson: Review Code Challenge #37: armstrongNumbers
 - https://repl.it/student/submissions/1454546
 
 ***
