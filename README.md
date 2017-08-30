@@ -458,8 +458,10 @@ Code Challenge #37: https://repl.it/student/submissions/1454546 "Armstrong Numbe
 ### [DAY 42 NOTES](Month2/Week09/Day42/README.md)
 Code Challenge #38: https://repl.it/student/submissions/1460542 "Reverse Number"
 #### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ben Nelson: Review Code Challenge #37 armstrongNumbers
-#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ivan Mora: LS-Greenfield review
+#### [3rd Lecture](NO_VIDEO_RECORDED) w/Ivan Mora: LS-Greenfield Review
+#### [4th Lecture](https://youtu.be/sqf1bh7kD3I) w/Sean Chen: LS-Client-Auth Intro
+###
 ***
 
 ### Day 43: Thursday, August 31
