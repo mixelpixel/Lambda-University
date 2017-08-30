@@ -30,6 +30,8 @@ NO_VIDEO_RECORDED
 - Sessions vs JSON Web Tokens (JWT)
 - w/JWT, client handles State instead of server maintaining each clients session data
 - JWT adds more complexity to the client, Sessions maight be simpler to implement, but not as scalable
+- https://github.com/auth0/node-jsonwebtoken
+- https://github.com/expressjs/session
 
 - Window.localStorage
 - https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage
