@@ -456,7 +456,7 @@ Code Challenge #37: https://repl.it/student/submissions/1454546 "Armstrong Numbe
 
 ### Day 42: Wednesday, August 30
 ### [DAY 42 NOTES](Month2/Week09/Day42/README.md)
-Code Challenge #38: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
+Code Challenge #38: https://repl.it/student/submissions/1460542 "Reverse Number"
 #### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #37 armstrongNumbers
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
@@ -465,7 +465,7 @@ Code Challenge #38: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
 ### Day 43: Thursday, August 31
 ### [DAY 43 NOTES](Month2/Week09/Day43/README.md)
 Code Challenge #39: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
-#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #38 PREVIOUS_CODE_CHALLENGE
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #38 reverseNumber
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 ***
