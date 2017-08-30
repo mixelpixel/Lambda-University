@@ -457,7 +457,7 @@ Code Challenge #37: https://repl.it/student/submissions/1454546 "Armstrong Numbe
 ### Day 42: Wednesday, August 30
 ### [DAY 42 NOTES](Month2/Week09/Day42/README.md)
 Code Challenge #38: https://repl.it/student/submissions/1460542 "Reverse Number"
-#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #37 armstrongNumbers
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ben Nelson: Review Code Challenge #37 armstrongNumbers
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 ***
