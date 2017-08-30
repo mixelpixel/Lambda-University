@@ -1,6 +1,6 @@
 # Lambda University - August 30, 2017: Day 042, Wednesday
 ## Coding Challenge #38
-- "NEW_CODE_CHALLENGE" available in https://repl.it/student/submissions/#
+- "Reverse Number" available in https://repl.it/student/submissions/1460542
 ***
 Ben Nelson
 Karthik Viswanathan
