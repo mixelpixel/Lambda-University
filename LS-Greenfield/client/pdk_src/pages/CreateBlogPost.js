@@ -24,7 +24,6 @@ export default class CreatePost extends Component {
     e.preventDefault();
     const { title, content } = this.state;
     const newPost = { title, content, author: localStorage.getItem('uuID') };
-    console.log(newPost);
     this.setState({content: '', title: ''});
     axios.post('http://localhost:3030/new-post', newPost)
       .then((data) => {

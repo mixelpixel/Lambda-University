@@ -1,30 +1,22 @@
 module.exports = (app) => {
-
+  //add your new routes here
+  // TODO: import in all the user controllers
   const userControllers = require('../controllers/userControllers');
   const postControllers = require('../controllers/postControllers');
-  // const commentControllers = require('../controllers/commentControllers');
 
   app.route('/new-user')
-      .post(userControllers.createUser);
-
+  .post(userControllers.createUser);
+  
   app.route('/login')
-      .post(userControllers.login);
-
+    .post(userControllers.login);
+  
   app.route('/new-post')
-      .post(postControllers.createPost);
-
+    .post(postControllers.createNewPost);
+  
   app.route('/posts')
-      .get(postControllers.listPosts);
-      // .delete(postControllers.deletePostById);
+    .get(postControllers.getAllBlogPosts);
 
-  // plural or single? I think the plural is just for the list of posts?
-  // app.route('/post/:id')
   app.route('/posts/:id')
-      .get(postControllers.getPostById)
-      .put(postControllers.updatePostById)
-      .put(postControllers.addComment);
-
-  // app.route('/posts/:id/comments')
-  //     .post(commentControllers.postComment);
-  //     .delete(commentControllers.deleteComment);
+    .get(postControllers.getPostById)
+    .put(postControllers.addCommentsToPost);
 };

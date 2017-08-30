@@ -10,8 +10,8 @@ export default class SingleBlogPost extends Component {
       post: {
         title: 'This is a FAKE blog post title',
         _id: '234lj23kjh',
-        author: {username: 'Patrick Saves the Day', _id: '345lkj43'},
         content: 'This is some FAKE content',
+        author: 'FAKE user!',
         comments: [
           {text:'This is a FAKE comment', author: 'Stanley Yelnats'},
         ]},
@@ -27,12 +27,13 @@ export default class SingleBlogPost extends Component {
 
   getBlogPost(){
     const { id } = this.props.match.params
+    // console.log(id);
     axios.get(`http://localhost:3030/posts/${id}`)
       .then((data) => {
         this.setState({post: data.data});
       })
       .catch((err) => {
-        console.log('Error on GET method to postById, you may want to check your create post endpoint', err );
+        console.log('Error on GET method to postById, check your create post endpoint', err );
       });
   }
 
@@ -52,7 +53,7 @@ export default class SingleBlogPost extends Component {
         }, 200);
       })
       .catch((err) => {
-        console.log('Something went wront with your "UPDATE" method on `posts/:id`')
+        console.log('Something went wrong with your "UPDATE" method on `posts/:id`')
       })
   }
 
@@ -64,9 +65,11 @@ export default class SingleBlogPost extends Component {
     const { title, comments, content, author } = this.state.post;
     return (
       <div>
-        <h4>Blog Post Title: {title}</h4>
-        <h5>Posted by: {author.username}</h5>
-        <div>Content: {content}</div>
+        <h4>{title}</h4>
+        <h5>{author}</h5>
+        {/* <h5>{author.username}</h5> */}
+        {/* <h5>{comments.author}</h5> */}
+        <div>{content}</div>
         {comments.map((comment, ind) => {
           return <Comment comment={comment} key={ind} />
         })}

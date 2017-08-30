@@ -5,8 +5,8 @@ export const Comment = (props) => {
   const { text, author } = props.comment;
   return (
     <div>
-      <div className="Comment">Comment: {text}</div>
-      <div className="Author">Comment by: {author.username}</div>
+      <div className="Comment">{text}</div>
+      <div className="Author">{author.username}</div>
     </div>
   )
 };
