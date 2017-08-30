@@ -88,3 +88,6 @@
 [submodule "Auth"]
 	path = Auth
 	url = https://github.com/mixelpixel/Auth.git
+[submodule "Client-Auth-Mini"]
+	path = Client-Auth-Mini
+	url = https://github.com/mixelpixel/Client-Auth-Mini.git
