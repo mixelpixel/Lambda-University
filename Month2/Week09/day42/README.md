@@ -6,6 +6,7 @@ Ben Nelson
 Karthik Viswanathan
 Thomson Comer
 Ryan Hamblin
+Ivan Mora
 Sean Chen
 Tai Chulikavit
 Emily Sperry
@@ -19,11 +20,31 @@ NO_VIDEO_RECORDED
 ***
 #### LUNCH
 ***
-# [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+# [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ivan Mora: LS-Greenfield Demo
 ***
-# [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+# [3rd Lecture](NO_VIDEO_RECORDED) w/Ivan Mora: LS-Greenfield Review
+- https://docs.google.com/document/d/1TAlJdhb7xnxOW_zPZ4MKuSSVmiTRksBcl9jkJ761z2o/edit
+
 ***
-# [4th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+# [4th Lecture](https://youtu.be/sqf1bh7kD3I) w/Sean Checn: LS-Client-Auth Intro
+- Sessions vs JSON Web Tokens (JWT)
+- w/JWT, client handles State instead of server maintaining each clients session data
+- JWT adds more complexity to the client, Sessions maight be simpler to implement, but not as scalable
+
+- Window.localStorage
+- https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage
+
+- CORS (Cross Origin Resource Sharing)
+- Same origin policy: same protocol, host and port
+- expressjs cors middleware
+- production use case, usually only add cors to routes you want to be public
+
+- React Higher Order Components
+- available only to authenticated users
+
+
+***
+# [5th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: LS-Client-Auth Intro
 # Sprint / Q&A
 ***
 # fin
