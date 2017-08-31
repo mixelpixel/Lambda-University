@@ -37,7 +37,7 @@
 
 ***
 # [5th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ryan Hamblin: LS-Client-Auth-mini solution & LS-Client-Auth release
-- Pair Programming #14: https://github.com/LambdaSchool/Client-Auth w/Steve
+- Pair Programming #15: https://github.com/LambdaSchool/Client-Auth w/Steve
 - Anecdotal example with Authentication: https://nokepro.com/login
 - JWT (pronounced "jot") https://jwt.io/
 - 3 parts Hash, Sha algo (has been hacked??),
