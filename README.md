@@ -467,7 +467,7 @@ Pair Programming #15: https://github.com/LambdaSchool/Client-Auth w/Steve
 
 ### Day 43: Thursday, August 31
 ### [DAY 43 NOTES](Month2/Week09/Day43/README.md)
-Code Challenge #39: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
+Code Challenge #39: https://repl.it/student/submissions/1467240 "Sort String"
 #### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #38 reverseNumber
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
@@ -476,7 +476,7 @@ Code Challenge #39: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
 ### Day 44: Friday, September 01
 ### [DAY 44 NOTES](Month2/Week09/Day44/README.md)
 Code Challenge #40: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
-#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #39 PREVIOUS_CODE_CHALLENGE
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #39 sortString
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 
