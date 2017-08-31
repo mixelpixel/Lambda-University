@@ -14,8 +14,8 @@ Christine Gierer
 GUEST LECTURER
 NO_VIDEO_RECORDED
 ***
-# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #39: PREVIOUS_CODE_CHALLENGE
-- https://repl.it/student/submissions/#
+# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #39: sortString
+- https://repl.it/student/submissions/1467240
 
 ***
 #### LUNCH
