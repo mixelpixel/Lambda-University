@@ -462,6 +462,7 @@ Code Challenge #38: https://repl.it/student/submissions/1460542 "Reverse Number"
 #### [3rd Lecture](NO_VIDEO_RECORDED) w/Ivan Mora: LS-Greenfield Review
 #### [4th Lecture](https://youtu.be/sqf1bh7kD3I) w/Sean Chen: LS-Client-Auth Intro
 ###
+Pair Programming #15: https://github.com/LambdaSchool/Client-Auth w/Steve
 ***
 
 ### Day 43: Thursday, August 31
