@@ -15,7 +15,7 @@
 
 ***
 # [4th Lecture](https://youtu.be/sqf1bh7kD3I) w/Sean Checn: LS-Client-Auth Intro
-https://github.com/LambdaSchool/Client-Auth-mini
+- https://github.com/LambdaSchool/Client-Auth-mini
 - Sessions vs JSON Web Tokens (JWT)
 - w/JWT, client handles State instead of server maintaining each clients session data
 - JWT adds more complexity to the client, Sessions maight be simpler to implement, but not as scalable
@@ -36,8 +36,8 @@ https://github.com/LambdaSchool/Client-Auth-mini
 
 
 ***
-# [5th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: LS-Client-Auth-mini review
-Pair Programming #14: https://github.com/LambdaSchool/Client-Auth w/Steve
+# [5th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: LS-Client-Auth-mini solution & LS-Client-Auth release
+- Pair Programming #14: https://github.com/LambdaSchool/Client-Auth w/Steve
 
 # Sprint / Q&A
 ***
