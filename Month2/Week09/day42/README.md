@@ -36,8 +36,17 @@
 
 
 ***
-# [5th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: LS-Client-Auth-mini solution & LS-Client-Auth release
+# [5th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ryan Hamblin: LS-Client-Auth-mini solution & LS-Client-Auth release
 - Pair Programming #14: https://github.com/LambdaSchool/Client-Auth w/Steve
+- Anecdotal example with Authentication: https://nokepro.com/login
+- JWT (pronounced "jot") https://jwt.io/
+- 3 parts Hash, Sha algo (has been hacked??),
+- express-passport https://www.npmjs.com/package/passport
+- protecting your endpoints
+- OAuth
+- `req.session.destroy()` vs Passports `req.logout()`
+- https://developer.mozilla.org/en-US/docs/Web/HTTP/Access_control_CORS
+- JWT is the architecture, e.g. passport uses JWT
 
 # Sprint / Q&A
 ***
