@@ -2,18 +2,6 @@
 ## Coding Challenge #38
 - "Reverse Number" available in https://repl.it/student/submissions/1460542
 ***
-Ben Nelson
-Karthik Viswanathan
-Thomson Comer
-Ryan Hamblin
-Ivan Mora
-Sean Chen
-Tai Chulikavit
-Emily Sperry
-Christine Gierer
-GUEST LECTURER
-NO_VIDEO_RECORDED
-***
 # [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ben Nelson: Review Code Challenge #37: armstrongNumbers
 - https://repl.it/student/submissions/1454546
 
@@ -27,6 +15,7 @@ NO_VIDEO_RECORDED
 
 ***
 # [4th Lecture](https://youtu.be/sqf1bh7kD3I) w/Sean Checn: LS-Client-Auth Intro
+https://github.com/LambdaSchool/Client-Auth-mini
 - Sessions vs JSON Web Tokens (JWT)
 - w/JWT, client handles State instead of server maintaining each clients session data
 - JWT adds more complexity to the client, Sessions maight be simpler to implement, but not as scalable
@@ -47,7 +36,9 @@ NO_VIDEO_RECORDED
 
 
 ***
-# [5th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: LS-Client-Auth Intro
+# [5th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: LS-Client-Auth-mini review
+Pair Programming #14: https://github.com/LambdaSchool/Client-Auth w/Steve
+
 # Sprint / Q&A
 ***
 # fin
