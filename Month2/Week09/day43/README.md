@@ -1,6 +1,6 @@
 # Lambda University - August 31, 2017: Day 043, Thursday
 ## Coding Challenge #39
-- "NEW_CODE_CHALLENGE" available in https://repl.it/student/submissions/#
+- "Sort String" available in https://repl.it/student/classrooms/27954
 ***
 Ben Nelson
 Karthik Viswanathan
