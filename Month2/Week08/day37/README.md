@@ -29,6 +29,7 @@
 # [5th Lecture](https://youtu.be/wo4LhNZHZfE) w/Karthik Viswanathan: Authorization mini-lab Q&A
 # [6th Lecture](https://youtu.be/1N06A3pEAbA) w/Karthik Viswanathan: Authorization mini-Lab solution
 - https://github.com/LambdaSchool/Auth-Mini/blob/finished/src/server.js#L31-L71
+- Pair Programming #14: https://github.com/LambdaSchool/Auth w/Lois
 
 ***
 # fin
