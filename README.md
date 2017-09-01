@@ -470,14 +470,14 @@ Pair Programming #15: https://github.com/LambdaSchool/Client-Auth w/Steve
 Code Challenge #39: https://repl.it/student/submissions/1467240 "Sort String"
 #### [1st Lecture](https://youtu.be/rxIwwe3kw2s) w/Tai Chulikavit: Review Code Challenge #38 reverseNumber
 #### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Tai Chulikavit: Piazza
-#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: LS-Client-Auth Q&A
+#### [2nd Lecture](https://youtu.be/fs-Yt8xi0MM) w/Sean Chen: LS-Client-Auth Q&A
 ***
 
 ### Day 44: Friday, September 01
 ### [DAY 44 NOTES](Month2/Week09/Day44/README.md)
 Code Challenge #40: https://repl.it/student/submissions/1472701 "Common Elements"
 #### [1st Lecture](https://youtu.be/rZmvDJNrPl4) w/Ivan Mora: Review Code Challenge #39 sortString & commonElements
-#### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Ely Alamillo: Simple Web Server Steup
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 
