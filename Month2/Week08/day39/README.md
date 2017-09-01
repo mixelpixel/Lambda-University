@@ -8,6 +8,6 @@
 ***
 # [Brown Bag](https://youtu.be/p9mS-MDeESQ) w/Tai Chulikavit: Bullet Journaling
 ***
-# [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ben Nelson: LS-Auth Q&A
+# [2nd Lecture](https://youtu.be/7tGys0-ItnM) w/Ben Nelson: LS-Auth Q&A
 ***
 # fin
