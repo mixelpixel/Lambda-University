@@ -10,6 +10,6 @@
 ***
 # [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Tai Chulikavit: Piazza
 ***
-# [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: LS-Client-Auth Q&A
+# [2nd Lecture](https://youtu.be/fs-Yt8xi0MM) w/Sean Chen: LS-Client-Auth Q&A
 ***
 # fin
