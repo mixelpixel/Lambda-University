@@ -1,6 +1,6 @@
 # Lambda University - September 01, 2017: Day 044, Friday
 ## Coding Challenge #40
-- "NEW_CODE_CHALLENGE" available in https://repl.it/student/submissions/#
+- "Common Elements" available in https://repl.it/student/submissions/1472701
 ***
 Ben Nelson
 Karthik Viswanathan
