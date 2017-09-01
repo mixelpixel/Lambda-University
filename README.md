@@ -458,7 +458,7 @@ Code Challenge #37: https://repl.it/student/submissions/1454546 "Armstrong Numbe
 ### [DAY 42 NOTES](Month2/Week09/Day42/README.md)
 Code Challenge #38: https://repl.it/student/submissions/1460542 "Reverse Number"
 #### [1st Lecture](https://youtu.be/rXC7bsRuE8A) w/Ben Nelson: Review Code Challenge #37 armstrongNumbers
-#### [2nd Lecture](NO_VIDEO_RECORDED) w/Ivan Mora: LS-Greenfield Demo
+#### [2nd Lecture](NO_VIDEO_RECORDED) w/Ivan Mora: LS-Greenfield Student Demos
 #### [3rd Lecture](NO_VIDEO_RECORDED) w/Ivan Mora: LS-Greenfield Review
 #### [4th Lecture](https://youtu.be/sqf1bh7kD3I) w/Sean Chen: LS-Client-Auth Intro
 #### [5th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ryan Hamblin: LS-Client-Auth-mini solution & LS-Client-Auth release
@@ -469,13 +469,15 @@ Pair Programming #15: https://github.com/LambdaSchool/Client-Auth w/Steve
 ### [DAY 43 NOTES](Month2/Week09/Day43/README.md)
 Code Challenge #39: https://repl.it/student/submissions/1467240 "Sort String"
 #### [1st Lecture](https://youtu.be/rxIwwe3kw2s) w/Tai Chulikavit: Review Code Challenge #38 reverseNumber
+#### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Tai Chulikavit: Piazza
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: LS-Client-Auth Q&A
 ***
 
 ### Day 44: Friday, September 01
 ### [DAY 44 NOTES](Month2/Week09/Day44/README.md)
 Code Challenge #40: https://repl.it/student/submissions/1472701 "Common Elements"
-#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #39 sortString
+#### [1st Lecture](https://youtu.be/rZmvDJNrPl4) w/Ivan Mora: Review Code Challenge #39 sortString & commonElements
+#### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 
