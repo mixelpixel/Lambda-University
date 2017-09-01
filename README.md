@@ -428,7 +428,7 @@ Code Challenge #34: https://github.com/ryanhca/CS1-Code-Challenges/tree/master/N
 Code Challenge #35: https://github.com/ryanhca/CS1-Code-Challenges/tree/master/meanMedianMode "Mean Median Mode"
 #### [1st Lecture](https://youtu.be/pT-l5zBCbfI) w/Tai Chulikavit: Review Code Challenge #34 vowelCount
 #### [2nd Lecture](https://youtu.be/p9mS-MDeESQ) w/Tai Chulikavit: Bullet Journaling
-#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ben Nelson: LS-Auth Q&A
+#### [3rd Lecture](https://youtu.be/7tGys0-ItnM) w/Ben Nelson: LS-Auth Q&A
 
 
 ***
@@ -440,7 +440,7 @@ Code Challenge #35: https://github.com/ryanhca/CS1-Code-Challenges/tree/master/m
 Code Challenge #36: https://repl.it/student/submissions/1448448 "Sum Of Digits"
 #### [1st Lecture](https://youtu.be/SKz7oc4TIII) w/Ryan Hamblin: Review Code Challenge #35: meanMedianMode
 #### [2nd Lecture](NO_VIDEO_RECORDED) w/Ben Nelson: LS-Auth Lab Sprint Review
-#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ben Nelson: LS-Auth Solution
+#### [3rd Lecture](https://youtu.be/MSo52B7lfPg) w/Ben Nelson: LS-Auth Solution
 #### [4th Lecture](NO_VIDEO_RECORDED) w/Sean Chen: LS-Greenfield Q&A
 Solo Programming: https://github.com/mixelpixel/LS-Greenfield
 ***
@@ -457,7 +457,7 @@ Code Challenge #37: https://repl.it/student/submissions/1454546 "Armstrong Numbe
 ### Day 42: Wednesday, August 30
 ### [DAY 42 NOTES](Month2/Week09/Day42/README.md)
 Code Challenge #38: https://repl.it/student/submissions/1460542 "Reverse Number"
-#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ben Nelson: Review Code Challenge #37 armstrongNumbers
+#### [1st Lecture](https://youtu.be/rXC7bsRuE8A) w/Ben Nelson: Review Code Challenge #37 armstrongNumbers
 #### [2nd Lecture](NO_VIDEO_RECORDED) w/Ivan Mora: LS-Greenfield Demo
 #### [3rd Lecture](NO_VIDEO_RECORDED) w/Ivan Mora: LS-Greenfield Review
 #### [4th Lecture](https://youtu.be/sqf1bh7kD3I) w/Sean Chen: LS-Client-Auth Intro
@@ -468,7 +468,7 @@ Pair Programming #15: https://github.com/LambdaSchool/Client-Auth w/Steve
 ### Day 43: Thursday, August 31
 ### [DAY 43 NOTES](Month2/Week09/Day43/README.md)
 Code Challenge #39: https://repl.it/student/submissions/1467240 "Sort String"
-#### [1st Lecture](https://youtu.be/rxIwwe3kw2s) w/Speaker: Review Code Challenge #38 reverseNumber
+#### [1st Lecture](https://youtu.be/rxIwwe3kw2s) w/Tai Chulikavit: Review Code Challenge #38 reverseNumber
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 ***
