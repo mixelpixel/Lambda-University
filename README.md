@@ -469,8 +469,7 @@ Pair Programming #15: https://github.com/LambdaSchool/Client-Auth w/Steve
 ### [DAY 43 NOTES](Month2/Week09/Day43/README.md)
 Code Challenge #39: https://repl.it/student/submissions/1467240 "Sort String"
 #### [1st Lecture](https://youtu.be/rxIwwe3kw2s) w/Tai Chulikavit: Review Code Challenge #38 reverseNumber
-#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: LS-Client-Auth Q&A
 ***
 
 ### Day 44: Friday, September 01
