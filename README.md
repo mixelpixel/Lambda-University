@@ -474,7 +474,7 @@ Code Challenge #39: https://repl.it/student/submissions/1467240 "Sort String"
 
 ### Day 44: Friday, September 01
 ### [DAY 44 NOTES](Month2/Week09/Day44/README.md)
-Code Challenge #40: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
+Code Challenge #40: https://repl.it/student/submissions/1472701 "Common Elements"
 #### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #39 sortString
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
@@ -491,8 +491,14 @@ Code Challenge #40: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
 
 <!-- <details><summary>Month 3: September, 2017</summary><p> -->
 
-
+# Month 3: September, 2017
 ## Week 09: Sept. 4 - 8
+### Day 45: Monday, September 03
+### [DAY 45 NOTES](Month2/Week09/Day45/README.md)
+Code Challenge #41: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #40 commonElements
+#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 
 ***
 
@@ -516,6 +522,7 @@ Code Challenge #40: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
 <!-- <details><summary>Month 4: October, 2017</summary><p> -->
 
 
+# Month 4: October, 2017
 ## Week 13: Oct. 2 - 6
 
 ***
@@ -540,6 +547,7 @@ Code Challenge #40: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
 <!-- <details><summary>Month 5: November, 2017</summary><p> -->
 
 
+# Month 5: November, 2017
 ## Week 17: Oct. 30 - Nov. 3
 
 ***
@@ -568,6 +576,7 @@ Code Challenge #40: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
 <!-- <details><summary>Month 6: December, 2017</summary><p> -->
 
 
+# Month 6: December, 2017
 ## Week 22: Dec. 4 - 8
 
 ***
