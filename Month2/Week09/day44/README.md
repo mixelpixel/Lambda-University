@@ -14,7 +14,7 @@ Christine Gierer
 GUEST LECTURER
 NO_VIDEO_RECORDED
 ***
-# [1st Lecture](https://youtu.be/rxIwwe3kw2s) w/Speaker: Review Code Challenge #39: sortString
+# [1st Lecture](https://youtu.be/rZmvDJNrPl4) w/Ivan Mora: Review Code Challenge #39: sortString & commonElements
 - https://repl.it/student/submissions/1467240
 
 ***
