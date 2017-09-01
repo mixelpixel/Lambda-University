@@ -20,7 +20,7 @@ NO_VIDEO_RECORDED
 ***
 #### LUNCH
 ***
-# [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Ely Alamillo: Simple Web Server Steup
+# [Brown Bag](https://youtu.be/DiClVxqZIWE) w/Ely Alamillo: Simple Web Server Steup
 ***
 # [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 ***
