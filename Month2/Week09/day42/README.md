@@ -8,7 +8,7 @@
 ***
 #### LUNCH
 ***
-# [2nd Lecture](NO_VIDEO_RECORDED) w/Ivan Mora: LS-Greenfield Demo
+# [2nd Lecture](NO_VIDEO_RECORDED) w/Ivan Mora: LS-Greenfield Student Demos
 ***
 # [3rd Lecture](NO_VIDEO_RECORDED) w/Ivan Mora: LS-Greenfield Review
 - https://docs.google.com/document/d/1TAlJdhb7xnxOW_zPZ4MKuSSVmiTRksBcl9jkJ761z2o/edit
