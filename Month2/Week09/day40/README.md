@@ -10,7 +10,7 @@
 - https://docs.google.com/document/d/1DnRLpHe_9b2YBz3BZBPlHwtfB_wPAttMbTdAbP18WDk/edit
 
 ***
-# [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ben Nelson: LS-Auth Solution
+# [3rd Lecture](https://youtu.be/MSo52B7lfPg) w/Ben Nelson: LS-Auth Solution
 - use username OR password check instead of individual checks, that way hackers can't tell if they have an active username!
 ```js
 const { username, password } = req.body;
