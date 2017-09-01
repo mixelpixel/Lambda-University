@@ -2,18 +2,6 @@
 ## Coding Challenge #39
 - "Sort String" available in https://repl.it/student/classrooms/27954
 ***
-Ben Nelson
-Karthik Viswanathan
-Thomson Comer
-Ryan Hamblin
-Ivan Mora
-Sean Chen
-Tai Chulikavit
-Emily Sperry
-Christine Gierer
-GUEST LECTURER
-NO_VIDEO_RECORDED
-***
 # [1st Lecture](https://youtu.be/rxIwwe3kw2s) w/Tai Chulikavit: Review Code Challenge #38: reverseNumber
 - https://repl.it/student/submissions/1460542
 
