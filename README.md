@@ -477,7 +477,7 @@ Code Challenge #39: https://repl.it/student/submissions/1467240 "Sort String"
 ### [DAY 44 NOTES](Month2/Week09/Day44/README.md)
 Code Challenge #40: https://repl.it/student/submissions/1472701 "Common Elements"
 #### [1st Lecture](https://youtu.be/rZmvDJNrPl4) w/Ivan Mora: Review Code Challenge #39 sortString & commonElements
-#### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Ely Alamillo: Simple Web Server Steup
+#### [Brown Bag](https://youtu.be/DiClVxqZIWE) w/Ely Alamillo: Simple Web Server Steup
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 
