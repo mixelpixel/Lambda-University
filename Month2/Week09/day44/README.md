@@ -10,7 +10,7 @@
 ***
 # [Brown Bag](https://youtu.be/DiClVxqZIWE) w/Ely Alamillo: Simple Web Server Steup
 ***
-# [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ben Nelson: LS-Client-Auth Q&A
+# [2nd Lecture](https://youtu.be/H7Bet3ji8DU) w/Ben Nelson: LS-Client-Auth Q&A
 - console commands in Chrome Dev Tool
   - localStorage.setItem({...: ...})
   - localStorage.getItem({...})
