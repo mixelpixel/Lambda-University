@@ -500,7 +500,7 @@ Code Challenge #41: https://repl.it/student/submissions/1489170 "Reverse Linked 
 #### [1st Lecture](https://youtu.be/vY7Azkz6xwc) w/Tai Chulikavit: Review Code Challenge #41: reverseLinkedList
 #### [2nd Lecture](NO_VIDEO_RECORDED) w/Sean Chen: LS-Client-Auth review
 #### [3rd Lecture](https://youtu.be/GfA1MOVnXCo) w/Sean Chen: LS-Client-Auth solution
-#### [4th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ben Nelson: Documentation and TDD
+#### [4th Lecture](https://youtu.be/otSW2ZpBa2U) w/Ben Nelson: Documentation and TDD
 ***
 
 ### Day 46: Wednesday, September 06
