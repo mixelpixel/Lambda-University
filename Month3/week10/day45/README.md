@@ -1,4 +1,4 @@
-# Lambda University - September 04, 2017: Day 045, Monday
+# Lambda University - September 05, 2017: Day 045, Tuesday
 ## Coding Challenge #41
 - "NEW_CODE_CHALLENGE" available in https://repl.it/student/submissions/#
 ***
@@ -14,7 +14,7 @@ Christine Gierer
 GUEST LECTURER
 NO_VIDEO_RECORDED
 ***
-# [1st Lecture](https://youtu.be/rxIwwe3kw2s) w/Speaker: Review Code Challenge #40: commonElements
+# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #40: commonElements
 - https://repl.it/student/submissions/1472701
 
 ***
