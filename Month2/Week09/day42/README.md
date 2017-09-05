@@ -2,7 +2,7 @@
 ## Coding Challenge #38
 - "Reverse Number" available in https://repl.it/student/submissions/1460542
 ***
-# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ben Nelson: Review Code Challenge #37: armstrongNumbers
+# [1st Lecture](https://youtu.be/rXC7bsRuE8A) w/Ben Nelson: Review Code Challenge #37: armstrongNumbers
 - https://repl.it/student/submissions/1454546
 
 ***
