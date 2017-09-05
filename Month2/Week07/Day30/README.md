@@ -8,7 +8,7 @@
 ***
 # [3rd Lecture](https://youtu.be/kE3poobSJAk) w/Karthik Viswanathan: node-express Lab Solution
 ***
-#### LUNCH
+##### LUNCH
 ***
 # [4th Lecture](https://youtu.be/mc26S-0FeSA) w/Ryan Hamblin: Mongo DB intro & mini-sprint
 - minisprint: https://github.com/LambdaSchool/mongo-I-mini/tree/master
