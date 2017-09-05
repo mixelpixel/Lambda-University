@@ -8,7 +8,7 @@
 ***
 #### LUNCH
 ***
-# [Brown Bag](https://youtu.be/6FJwJcpfdfg) w/Evan Allen: Bitcoin
+# [Brown Bag](https://youtu.be/6FJwJcpfdfg) w/Evan Allen: Bitcoin & cryptocurrency
 ***
 # [2nd Lecture](https://youtu.be/jHmyGWLguv8) w/Ryan Hamblin: Lab Q&A
 ***
