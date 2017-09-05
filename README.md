@@ -498,8 +498,8 @@ Code Challenge #40: https://repl.it/student/submissions/1472701 "Common Elements
 ### [DAY 45 NOTES](Month3/Week10/Day45/README.md)
 Code Challenge #41: https://repl.it/student/submissions/1489170 "Reverse Linked List"
 #### [1st Lecture](https://youtu.be/vY7Azkz6xwc) w/Tai Chulikavit: Review Code Challenge #41: reverseLinkedList
-#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: LS-Client-Auth review
-#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: LS-Client-Auth solution
+#### [2nd Lecture](NO_VIDEO_RECORDED) w/Sean Chen: LS-Client-Auth review
+#### [3rd Lecture](https://youtu.be/GfA1MOVnXCo) w/Sean Chen: LS-Client-Auth solution
 #### [4th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ben Nelson: Documentation and TDD
 ***
 
