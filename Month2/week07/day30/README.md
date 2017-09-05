@@ -13,7 +13,7 @@
 # [4th Lecture](https://youtu.be/mc26S-0FeSA) w/Ryan Hamblin: Mongo DB intro & mini-sprint
 - minisprint: https://github.com/LambdaSchool/mongo-I-mini/tree/master
 - adding a persistent layer to server side magic
-- databases!
+- databases!!!
 - MongoDB is fairly new. It is a JSON Data Base
 - Non-SQL (like MySQL is a "relational" or "tabular" style DB)
 - MongoDB uses "PSON" but the user interacts with JSON.
