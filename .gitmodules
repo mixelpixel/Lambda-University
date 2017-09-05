@@ -97,3 +97,6 @@
 [submodule "LS-Auth-JWT"]
 	path = LS-Auth-JWT
 	url = https://github.com/mixelpixel/LS-Auth-JWT.git
+[submodule "Server-Testing"]
+	path = Server-Testing
+	url = https://github.com/mixelpixel/Server-Testing.git
