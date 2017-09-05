@@ -497,12 +497,12 @@ Code Challenge #40: https://repl.it/student/submissions/1472701 "Common Elements
 ### Day 45: Tuesday, September 05
 ### [DAY 45 NOTES](Month3/Week10/Day45/README.md)
 Code Challenge #41: https://repl.it/student/submissions/1489170 "Reverse Linked List"
-#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #41 reverseLinkedList
-#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Tai Chulikavit: Review Code Challenge #41: reverseLinkedList
+#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: LS-Client-Auth review
+#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: LS-Client-Auth solution
 ***
 
-### Day 46: WEEKday, September 06
+### Day 46: Wednesday, September 06
 ### [DAY 46 NOTES](Month3/Week10/Day46/README.md)
 Code Challenge #42: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
 #### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #42 NEW_CODE_CHALLENGE
@@ -510,7 +510,7 @@ Code Challenge #42: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 ***
 
-### Day 47: WEEKday, September 07
+### Day 47: Thursday, September 07
 ### [DAY 47 NOTES](Month3/Week10/Day47/README.md)
 Code Challenge #43: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
 #### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #43 NEW_CODE_CHALLENGE
@@ -518,7 +518,7 @@ Code Challenge #43: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 ***
 
-### Day 48: WEEKday, September 08
+### Day 48: Friday, September 08
 ### [DAY 48 NOTES](Month3/Week10/Day48/README.md)
 Code Challenge #44: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
 #### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #44 NEW_CODE_CHALLENGE
