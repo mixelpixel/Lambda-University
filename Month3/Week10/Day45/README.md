@@ -18,11 +18,11 @@ NO_VIDEO_RECORDED
 - https://repl.it/student/submissions/1489170
 
 ***
-# [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: LS-Client-Auth review
+# [2nd Lecture](NO_VIDEO_RECORDED) w/Sean Chen: LS-Client-Auth review
 - https://docs.google.com/document/d/1rpiPDUx7awfDmN_i_i5HyeYdluV6t5FhIMJCRqALPak/edit
 
 ***
-# [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: LS-Client-Auth solution
+# [3rd Lecture](https://youtu.be/GfA1MOVnXCo) w/Sean Chen: LS-Client-Auth solution
 - set up cors() options for JWT server?
 - all additional middleware constructed w/outside libraries
 - extra credit review
