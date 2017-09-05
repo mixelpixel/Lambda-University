@@ -30,7 +30,11 @@ NO_VIDEO_RECORDED
 ***
 #### LUNCH
 ***
-# [4th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+# [4th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ben Nelson: Documentation
+- https://developer.github.com/v3/git/commits/
+- A.P.I. = Application Programming Interface
+- R.E.S.T. = REpresentational State Transfer
+
 ***
 # [5th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 # Sprint / Q&A
