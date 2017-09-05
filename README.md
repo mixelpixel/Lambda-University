@@ -496,8 +496,8 @@ Code Challenge #40: https://repl.it/student/submissions/1472701 "Common Elements
 ## Week 09: Sept. 5 - 8
 ### Day 45: Tuesday, September 05
 ### [DAY 45 NOTES](Month2/Week09/Day45/README.md)
-Code Challenge #41: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
-#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #41 NEW_CODE_CHALLENGE
+Code Challenge #41: https://repl.it/student/submissions/1489170 "Reverse Linked List"
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #41 reverseLinkedList
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 ***
