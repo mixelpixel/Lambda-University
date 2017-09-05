@@ -493,13 +493,38 @@ Code Challenge #40: https://repl.it/student/submissions/1472701 "Common Elements
 <!-- <details><summary>Month 3: September, 2017</summary><p> -->
 
 # Month 3: September, 2017
-## Week 09: Sept. 4 - 8
-### Day 45: Monday, September 03
+## Week 09: Sept. 5 - 8
+### Day 45: Tuesday, September 05
 ### [DAY 45 NOTES](Month2/Week09/Day45/README.md)
 Code Challenge #41: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
 #### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #40 commonElements
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+***
+
+### Day 46: WEEKday, September 06
+### [DAY 46 NOTES](Month2/Week09/Day46/README.md)
+Code Challenge #42: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #41 PREVIOUS_CODE_CHALLENGE
+#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+***
+
+### Day 47: WEEKday, September 07
+### [DAY 47 NOTES](Month2/Week09/Day47/README.md)
+Code Challenge #43: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #42 PREVIOUS_CODE_CHALLENGE
+#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+***
+
+### Day 48: WEEKday, September 08
+### [DAY 48 NOTES](Month2/Week09/Day48/README.md)
+Code Challenge #44: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #43 PREVIOUS_CODE_CHALLENGE
+#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+***
 
 ***
 
