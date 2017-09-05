@@ -42,20 +42,28 @@ NO_VIDEO_RECORDED
 - get db running...
 - app.js
 ```js
+const mongoose = require('mongoose');
+const server = require('./server');
 
-8080
+mongoose.connect('mongodb://localhost/food', {}, (err) => {
+  if (err) return console.log(err);
+  console.log('connected to food DB');
+});
+
+server.listen(8080, () => {
+  console.log('server listening on port 8080');
+});
 ```
 
 - server.js
 ```js
 const express = require('express');
-const bodyParser = require('body-parser';)
+const bodyParser = require('body-parser');
 const Food = require('./food');
 
 const server = express();
 server.use(bodyParser.json());
 
-// routes (to be tested)
 server.get('/food', (req, res) => {
   Food.find({}, (err, food) => {
     if (err) return res.send(err);
@@ -77,26 +85,26 @@ module.exports = server;
 - food.js
 ```js
 const mongoose = require('mongoose');
-const { Schema, model } = mongoose;
+const { Schema } = mongoose;
 
 const FoodSchema = new Schema({
   name: {
     type: String,
-    require: true,
+    required: true,
     unique: true
   }
 });
 
 FoodSchema.methods.getName = function() {
   return this.name;
-}
+};
 
 FoodSchema.statics.getAllFoods = function(cb) {
-  Food.find((), (err, food) => {
+  Food.find({}, (err, food) => {
     if (err) return cb(err);
     cb(food);
   });
-}
+};
 
 const Food = mongoose.model('Food', FoodSchema);
 
@@ -105,14 +113,15 @@ module.exports = Food;
 
 - routes.test.js
 ```js
-const mongoose = require('mongoos');
-mongoose.connect('mongodb://localhost/test')
+const mongoose = require('mongoose');
+mongoose.connect('mongodb://localhost/test');
 
 const Food = require('./food');
-const server = require('/server');
+const server = require('./server');
 
-const chai, { expect } = require('chai');
-const chaiHTTP = require('chai-http')
+const chai = require('chai');
+const expect = chai.expect;
+const chaiHTTP = require('chai-http');
 
 chai.use(chaiHTTP);
 
@@ -127,49 +136,67 @@ describe('/food', () => {
   describe('[GET] /food', () => {
     it('should get all of the food', (done) => {
       chai.request(server)
-      .get('/food')
-      .end((err, res) => {
-        if (err) return console.log(err);
-        expect(res.status).to.equal(200);
-        expect(Array.isArray(res.body)).to.equal(true);
-        expect(res.body.length).to.equal(0);
-        done();
-      });
+        .get('/food')
+        .end((err, res) => {
+          if (err) return console.log(err);
+          expect(res.status).to.equal(200);
+          expect(Array.isArray(res.body)).to.equal(true);
+          expect(res.body.length).to.equal(0);
+          done();
+        });
     });
   });
 
   describe('[POST] /food', () => {
-    it('should get all of the food', (done) => {
+    it('should add a new food', (done) => {
       const food = {
         name: 'Hot Dog'
-      }
+      };
+
       chai.request(server)
-      .post('/food')
-      .send(food)
-      .end((err, res) => {
-        if (err) return console.log(err);
-        expect(res.status).to.equal(200);
-        expect(res.body.name).to.equal.('Hot Dog');
-        done();
-      });
+        .post('/food')
+        .send(food)
+        .end((err, res) => {
+          if (err) return console.log(err);
+          expect(res.status).to.equal(200);
+          expect(res.body.name).to.equal('Hot Dog');
+          done();
+        });
     });
   });
-
 });
 
 ```
 
-- mocha tests:
+- mocha tests, package.json:
 ```json
-"scripts": {
-  "test": "mocha *.test.js"
+{
+  "name": "server-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha *.test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "chai": "^4.1.2",
+    "chai-http": "^3.0.0",
+    "express": "^4.15.4",
+    "mocha": "^3.5.0",
+    "mongoose": "^4.11.10",
+    "sinon": "^3.2.1"
+  }
 }
+
 ```
 
 - models.test.js
 ```js
-const mongoose = require('mongoos');
-mongoose.connect('mongodb://localhost/test')
+const mongoose = require('mongoose');
+mongoose.connect('mongodb://localhost/test');
 const Food = require('./food');
 
 const chai = require('chai');
@@ -177,35 +204,29 @@ const { expect } = chai;
 const sinon = require('sinon');
 
 describe('Food', () => {
-  beforeEach(() => {
-    sinon.stub(Food, 'find')
-  });
-
-  afterEach(() => {
-    Food.find.restore();
-  });
-
-  describe('#getName()', () => { // describe a model on the method
+  describe('#getName()', () => {
     it('should return the name of the food', () => {
-      const food = new Food ({
+      const food = new Food({
         name: 'Rib Steak'
       });
       expect(food.getName()).to.equal('Rib Steak');
+    });
     it('should return a string', () => {
-      const food = new Food ({
+      const food = new Food({
         name: 'Rib Steak'
       });
       expect(typeof food.getName()).to.equal('string');
     });
   });
-  describe('#getAllFoods', () => {
-      it('should return all the foods', () => {
-        Food.find.yields(null, [{ name: 'pumpkin pie' }]);
-      });
 
+  describe('#getAllFoods()', () => {
+    it('should return all the foods', () => {
+      sinon.stub(Food, 'find');
+      Food.find.yields(null, [{ name: 'pumpkin pie'}]);
       Food.getAllFoods((foods) => {
         expect(foods.length).to.equal(1);
         expect(foods[0].name).to.equal('pumpkin pie');
+        Food.find.restore();
       });
     });
   });
