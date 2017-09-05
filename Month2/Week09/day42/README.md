@@ -16,22 +16,25 @@
 ***
 # [4th Lecture](https://youtu.be/sqf1bh7kD3I) w/Sean Checn: LS-Client-Auth Intro
 - https://github.com/LambdaSchool/Client-Auth-mini
-- Sessions vs JSON Web Tokens (JWT)
-- w/JWT, client handles State instead of server maintaining each clients session data
-- JWT adds more complexity to the client, Sessions maight be simpler to implement, but not as scalable
-- https://github.com/auth0/node-jsonwebtoken
-- https://github.com/expressjs/session
-
-- Window.localStorage
-- https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage
-
-- CORS (Cross Origin Resource Sharing)
-- https://github.com/expressjs/cors
-- Same origin policy: same protocol, host and port
-- expressjs cors middleware
-- production use case, usually only add cors to routes you want to be public
-
-- React Higher Order Components
+### [@50s](https://youtu.be/sqf1bh7kD3I?t=50s) - Sessions vs JSON Web Tokens (JWT)
+1. Sessions vs JSON Web Tokens (JWT)
+  - w/JWT, client handles State instead of server maintaining each clients session data
+  - JWT adds more complexity to the client, Sessions maight be simpler to implement, but not as scalable
+  - https://github.com/auth0/node-jsonwebtoken
+  - https://github.com/expressjs/session
+### [@7m22s](https://youtu.be/sqf1bh7kD3I?t=7m22s) - Local storage
+2. Local storage
+  - Window.localStorage
+  - https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage
+  - `localStorage.setItem()`, `localStorage.getItem()`, `localStorage.removeItem()`
+### [@10m30s](https://youtu.be/sqf1bh7kD3I?t=10m30s) - C.O.R.S.
+3. CORS (Cross Origin Resource Sharing)
+  - https://github.com/expressjs/cors
+  - Same origin policy: same protocol, host and port
+  - expressjs cors middleware
+  - production use case, usually only add cors to routes you want to be public
+### [@15m50s](https://youtu.be/sqf1bh7kD3I?t=15m50s) - HOC
+4. React Higher Order Components - HOC
 - available only to authenticated users
 
 
