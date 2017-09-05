@@ -94,3 +94,6 @@
 [submodule "Client-Auth"]
 	path = Client-Auth
 	url = https://github.com/mixelpixel/Client-Auth.git
+[submodule "LS-Auth-JWT"]
+	path = LS-Auth-JWT
+	url = https://github.com/mixelpixel/LS-Auth-JWT.git
