@@ -30,7 +30,7 @@ NO_VIDEO_RECORDED
 ***
 #### LUNCH
 ***
-# [4th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ben Nelson: Documentation and TDD
+# [4th Lecture](https://youtu.be/otSW2ZpBa2U) w/Ben Nelson: Documentation and TDD
 - https://developer.github.com/v3/git/commits/ example
 - A.P.I. = Application Programming Interface
 - R.E.S.T. = REpresentational State Transfer
