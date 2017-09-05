@@ -4,6 +4,7 @@
 ***
 # [1st Lecture](https://youtu.be/rZmvDJNrPl4) w/Ivan Mora: Review Code Challenge #39: sortString & commonElements
 - https://repl.it/student/submissions/1467240
+- https://repl.it/student/submissions/1472701
 
 ***
 #### LUNCH
