@@ -14,19 +14,21 @@ Christine Gierer
 GUEST LECTURER
 NO_VIDEO_RECORDED
 ***
-# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #41: reverseLinkedList
+# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Tai Chulikavit: Review Code Challenge #41: reverseLinkedList
 - https://repl.it/student/submissions/1489170
 
 ***
+# [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: LS-Client-Auth review
+- https://docs.google.com/document/d/1rpiPDUx7awfDmN_i_i5HyeYdluV6t5FhIMJCRqALPak/edit
+
+***
+# [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: LS-Client-Auth solution
+***
 #### LUNCH
 ***
-# [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-***
-# [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-***
-# [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-***
 # [4th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+***
+# [5th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 # Sprint / Q&A
 ***
 # fin
