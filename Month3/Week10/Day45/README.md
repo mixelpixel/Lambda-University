@@ -35,6 +35,11 @@ NO_VIDEO_RECORDED
 - A.P.I. = Application Programming Interface
 - R.E.S.T. = REpresentational State Transfer
 - markdown doc to list routes, write out info about endpoints for API, then write tests, then write code
+
+## [@11m57s](https://youtu.be/otSW2ZpBa2U?t=11m57s) The Workflow
+
+## [@16m35s](https://youtu.be/otSW2ZpBa2U?t=16m35s) Building the server
+
 - make an app.js file and `npm init`
 - using mocha and jai (or jest)
 - mongoose express body-parser mocha chai sinon chai-http
