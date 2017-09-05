@@ -21,7 +21,7 @@
   > Accept: */*
   ```
 
-- metadata... Header data
+- metadata... Header data...
 
 - make a dir, cd in
 - npm install express
