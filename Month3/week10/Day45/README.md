@@ -23,6 +23,10 @@ NO_VIDEO_RECORDED
 
 ***
 # [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: LS-Client-Auth solution
+- set up cors() options for JWT server?
+- all additional middleware constructed w/outside libraries
+- extra credit review
+
 ***
 #### LUNCH
 ***
