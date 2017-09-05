@@ -752,6 +752,8 @@ Code Challenge #44: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
 
 
 ***
-
+### git notes
+- `git config core.ignorecase false`
+- most projects set up as submodules
 
 ## fin.
