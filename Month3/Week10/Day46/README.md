@@ -3,7 +3,6 @@
 - "Collatz Sequence" available in https://repl.it/student/submissions/1498763
 ***
 Ben Nelson
-Karthik Viswanathan
 Thomson Comer
 Ryan Hamblin
 Ivan Mora
@@ -21,7 +20,7 @@ NO_VIDEO_RECORDED
 ***
 #### LUNCH
 ***
-# [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+# [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Sarah Majors: Maker movement / Maker culture
 ***
 # [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 ***
