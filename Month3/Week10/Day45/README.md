@@ -40,6 +40,8 @@ NO_VIDEO_RECORDED
 
 ## [@16m35s](https://youtu.be/otSW2ZpBa2U?t=16m35s) Building the server
 
+## [@36m46s](https://youtu.be/otSW2ZpBa2U?t=36m46s) Writing the tests
+
 - make an app.js file and `npm init`
 - using mocha and jai (or jest)
 - mongoose express body-parser mocha chai sinon chai-http
