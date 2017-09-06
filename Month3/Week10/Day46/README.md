@@ -1,6 +1,6 @@
 # Lambda University - September 06, 2017: Day 046, Wednesday
 ## Coding Challenge #42
-- "NEW_CODE_CHALLENGE" available in https://repl.it/student/submissions/#
+- "Collatz Sequence" available in https://repl.it/student/submissions/1498763
 ***
 Ben Nelson
 Karthik Viswanathan
@@ -14,8 +14,9 @@ Christine Gierer
 GUEST LECTURER
 NO_VIDEO_RECORDED
 ***
-# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #42: NEW_CODE_CHALLENGE
-- https://repl.it/student/submissions/#
+# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #42: collatzSequence
+- https://repl.it/student/submissions/1498763
+- https://repl.it/student/assignments/351164/model_solution?fromSubmissionId=1498763
 
 ***
 #### LUNCH
