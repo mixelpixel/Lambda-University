@@ -3,7 +3,6 @@
 - "NEW_CODE_CHALLENGE" available in https://repl.it/student/submissions/#
 ***
 Ben Nelson
-Karthik Viswanathan
 Thomson Comer
 Ryan Hamblin
 Ivan Mora
