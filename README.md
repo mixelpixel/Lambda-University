@@ -506,7 +506,8 @@ Code Challenge #41: https://repl.it/student/submissions/1489170 "Reverse Linked 
 ### Day 46: Wednesday, September 06
 ### [DAY 46 NOTES](Month3/Week10/Day46/README.md)
 Code Challenge #42: https://repl.it/student/submissions/1498763 "Collatz Sequence"
-#### [1st Lecture](https://youtu.be/aW-KYfWrsMk) w/Speaker: Review Code Challenge #42 collatzSequence
+#### [1st Lecture](https://youtu.be/aW-KYfWrsMk) w/Tai Chulikavit: Review Code Challenge #42 collatzSequence
+#### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Sarah Majors: Maker movement / Maker culture
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 ***
