@@ -2,18 +2,6 @@
 ## Coding Challenge #41
 - "Reverse Linked List" available in https://repl.it/student/submissions/1489170
 ***
-Ben Nelson
-Karthik Viswanathan
-Thomson Comer
-Ryan Hamblin
-Ivan Mora
-Sean Chen
-Tai Chulikavit
-Emily Sperry
-Christine Gierer
-GUEST LECTURER
-NO_VIDEO_RECORDED
-***
 # [1st Lecture](https://youtu.be/vY7Azkz6xwc) w/Tai Chulikavit: Review Code Challenge #41: reverseLinkedList
 - https://repl.it/student/submissions/1489170
 
