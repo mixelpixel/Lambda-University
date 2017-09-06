@@ -506,7 +506,7 @@ Code Challenge #41: https://repl.it/student/submissions/1489170 "Reverse Linked 
 ### Day 46: Wednesday, September 06
 ### [DAY 46 NOTES](Month3/Week10/Day46/README.md)
 Code Challenge #42: https://repl.it/student/submissions/1498763 "Collatz Sequence"
-#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #42 collatzSequence
+#### [1st Lecture](https://youtu.be/aW-KYfWrsMk) w/Speaker: Review Code Challenge #42 collatzSequence
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 ***
@@ -748,6 +748,16 @@ Code Challenge #44: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
 - [An Introduction To Microprocessors Volume 1](https://archive.org/stream/AnIntroductionToMicroprocessorsVolume1/Osborne-AnIntroductionToMicroprocessorsVolume1)
 - https://archive.org/details/bitsavers_intel
 
+##### Thoughts from Karthik to Ryan S:
+> I think there's a few levels of understanding you should consider. Being able to make applications using Node.js and client-side JavaScript is one level. Most of LS will focus on this, and if you keep building (especially if you're really interested in what specifically you're building), while persevering through the problems, you'll learn the necessary skills.
+
+> But the next level of understanding comes from realizing the problems and trade-offs in your development process. Yes, you're able to build a website, but what about your code is hard to understand? What mistakes do you keep making? What is it about the tools and abstractions that cause you to make mistakes, and how can you redesign them to avoid errors? Does the issue stem from inconsistent naming, global state, dynamic typing, the asynchronous nature of callbacks, the lack of parallelism, the programming language itself?
+
+> JavaScript and Node.js, like any piece of technology, have chosen to balance a set of trade-offs. The decisions that have been made in the development of this language and runtime are not perfect, and reflect the authors' intentions and ideas. While you can master JavaScript, if you never experience the alternatives, you're severely restricting your understanding of trade-offs.
+
+> Many of the latest trends and advances in JavaScript come from other languages and paradigms. The declarative nature of React and the single state atom defined by Redux stem from functional programming, where purity and state monads have been emphasized and realized for years. In like manner, the dynamic/weak typing of JavaScript can often result in code that's difficult to understand and maintain in the long run. Innovations like Typescript and Flow bring static typing, as seen in various other languages, to JavaScript.
+
+> I strongly recommend not limiting yourself to JavaScript and Node.js. Break out of your comfort zone to understand different programming languages and paradigms, as they'll shape your thinking of programming in general. Once you've understood how to do something, always ask yourself what was difficult or what went wrong. Question your development process, and try to understand the best way to improve how you tackle problems. This will give you a mastery that's above any single language—a mastery that fundamentally understands trade-offs and approaches that shape the thinking behind programming.
 
 </p></details>
 
