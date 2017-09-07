@@ -13,7 +13,7 @@ Christine Gierer
 GUEST LECTURER
 NO_VIDEO_RECORDED
 ***
-# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Tai Chulikavit: Review Code Challenge #43: routeBetweenNodes
+# [1st Lecture](https://youtu.be/LBq-BqqT_H8) w/Tai Chulikavit: Review Code Challenge #43: routeBetweenNodes
 - https://repl.it/student/assignments/371414/model_solution?fromSubmissionId=1510620
 
 ***
