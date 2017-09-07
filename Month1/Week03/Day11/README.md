@@ -6,8 +6,8 @@
 ***
 #### LUNCH
 ***
-# [Brown Bag](URL) w/Tyge Johnson: "Adult Learning"
-- VIDEO_RECORDED
-# 3rd Lecture w/Sean Chen: Sprint Q&A
+# [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Tyge Johnson: "Adult Learning"
+
+# [3rd Lecture](NO_VIDEO_RECORDED) w/Sean Chen: Sprint Q&A
 ***
 #### fin
