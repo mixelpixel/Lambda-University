@@ -516,7 +516,7 @@ Code Challenge #42: https://repl.it/student/submissions/1498763 "Collatz Sequenc
 ### Day 47: Thursday, September 07
 ### [DAY 47 NOTES](Month3/Week10/Day47/README.md)
 Code Challenge #43: https://repl.it/student/submissions/1510620 "Route Between Nodes"
-#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #43 routeBetweenNodes
+#### [1st Lecture](https://youtu.be/LBq-BqqT_H8) w/Tai Chulikavit: Review Code Challenge #43 routeBetweenNodes
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 ***
