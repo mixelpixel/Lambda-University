@@ -32,6 +32,8 @@
 
 ## [@1h03m10s](https://youtu.be/otSW2ZpBa2U?t=1h03m10s) Model tests
 
+## []() Stubbing
+
 - make an app.js file and `npm init`
 - using mocha and jai (or jest)
 - mongoose express body-parser mocha chai sinon chai-http
