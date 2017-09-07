@@ -1,6 +1,6 @@
 # Lambda University - September 07, 2017: Day 047, Thursday
 ## Coding Challenge #43
-- "NEW_CODE_CHALLENGE" available in https://repl.it/student/submissions/#
+- "Route Between Nodes" available in https://repl.it/student/submissions/1510620
 ***
 Ben Nelson
 Thomson Comer
@@ -13,8 +13,8 @@ Christine Gierer
 GUEST LECTURER
 NO_VIDEO_RECORDED
 ***
-# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #43: NEW_CODE_CHALLENGE
-- https://repl.it/student/submissions/#
+# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Tai Chulikavit: Review Code Challenge #43: routeBetweenNodes
+- https://repl.it/student/assignments/371414/model_solution?fromSubmissionId=1510620
 
 ***
 #### LUNCH
