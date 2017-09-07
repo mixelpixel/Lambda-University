@@ -7,7 +7,7 @@
 
 ***
 
-# 2nd Lecture w/Sean Chen: Class Review of Data Structures II
+# [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: Class Review of Data Structures II
 - NO VIDEO RECORDED, anonymous class comments on Pair Prog 2
 
 ***
@@ -106,7 +106,7 @@ html, body{
 
 ***
 
-# [4th Lecture](URL) w/Ben Nelson: Q&A
+# [5th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ben Nelson: Q&A
 - VIDEO RECORDED
 - DOM project: start with base HTML structure and layout, THEN move to HiFi
 - try and get to replicating button hover "animations" and using JavaScript
