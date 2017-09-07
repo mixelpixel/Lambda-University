@@ -16,6 +16,10 @@
 # [Brown Bag](https://youtu.be/eM52fBUp4II) w/Ryan Hamblin: Combating Imposter Syndrome, Finding Value in Disaster
 
 ***
-# [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Lab Q&A
+# [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ben Nelson: LS-Server-Testing Lab Q&A
+- PUT request returns modified doc
+- https://www.npmjs.com/package/async
+- http://bluebirdjs.com/docs/api/promise.coroutine.html
+
 ***
 # fin
