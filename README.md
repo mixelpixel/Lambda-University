@@ -125,9 +125,10 @@ Code Challenge #5: https://github.com/ryanhca/CS1-Code-Challenges "Even Occurenc
 ### [DAY 10 NOTES](Month1/Week03/Day10/README.md)
 Code Challenge #6: https://github.com/ryanhca/CS1-Code-Challenges "CallBack Practice"
 #### [1st Lecture](https://youtu.be/GPLF6kWI2KY) w/Tai The Thai: Review Code Challenge #5: evenOccurences
-#### 2nd Lecture w/Sean Chen: Class Poll/Review - Data Structures II (NO VIDEO RECORDED)
+#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: Class Poll/Review - Data Structures II
 #### [3rd Lecture](https://youtu.be/a7qTzbUVVsY) w/Sean Chen: Data Structures II Solutions - Tree, Binary Search Tree & Graph
 #### [4th Lecture](https://youtu.be/BV83yPgDXBQ) w/Ryan Hamblin: Sprint for DOM Pair Programming #3
+#### [5th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ben Nelson: Q&A
 Pair Programming #3: https://github.com/ryanhca/LS-DOM.git w/John Wells
 ***
 
@@ -137,7 +138,7 @@ Code Challenge #7: https://github.com/ryanhca/CS1-Code-Challenges "For Loop Time
 #### [1st Lecture](https://youtu.be/LJLl7v3UUJo) w/Tai The Thai: Review Code Challenge #6: callbackPractice
 #### [2nd Lecture](https://youtu.be/lD7CnIM21T4) w/Tai The Thai: Object[key: value] review
 #### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Tyge Johnson: Adult learning Theories
-#### 3rd Lecture w/Sean Chen: Sprint Q&A
+#### [3rd Lecture](NO_VIDEO_RECORDED) w/Sean Chen: Sprint Q&A
 ***
 
 ### Day 12: Wednesday, July 19
