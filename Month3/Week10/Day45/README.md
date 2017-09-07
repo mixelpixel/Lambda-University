@@ -32,7 +32,7 @@
 
 ## [@1h03m10s](https://youtu.be/otSW2ZpBa2U?t=1h03m10s) Model tests
 
-## []() Stubbing
+## [@1h13m10s](https://youtu.be/otSW2ZpBa2U?t=1h13m10s) Stubbing w/Sinon
 
 - make an app.js file and `npm init`
 - using mocha and jai (or jest)
