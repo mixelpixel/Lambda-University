@@ -13,6 +13,8 @@
 - https://www.openrov.com/
 - https://github.com/OpenROV
 
+# [Brown Bag](https://youtu.be/eM52fBUp4II) w/Ryan Hamblin: Combating Imposter Syndrome, Finding Value in Disaster
+
 ***
 # [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Lab Q&A
 ***
