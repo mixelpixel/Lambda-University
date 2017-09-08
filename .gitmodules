@@ -100,3 +100,6 @@
 [submodule "Server-Testing"]
 	path = Server-Testing
 	url = https://github.com/mixelpixel/Server-Testing.git
+[submodule "Mobile-I"]
+	path = Mobile-I
+	url = https://github.com/mixelpixel/Mobile-I.git
