@@ -18,7 +18,7 @@
 ***
 #### LUNCH
 ***
-# [4th Lecture](https://youtu.be/otSW2ZpBa2U) w/Ben Nelson: Documentation and TDD
+# [4th Lecture](https://youtu.be/otSW2ZpBa2U) w/Ben Nelson: Documentation and TDD - LS-Server-Testing
 - https://developer.github.com/v3/git/commits/ example
 - A.P.I. = Application Programming Interface
 - R.E.S.T. = REpresentational State Transfer
@@ -233,7 +233,6 @@ describe('Food', () => {
 ```
 
 ***
-# [5th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-# Sprint / Q&A
+# [5th Lecture](NO_VIDEO_RECORDED) w/Sean Chen: Server-Testing Q&A
 ***
 # fin
