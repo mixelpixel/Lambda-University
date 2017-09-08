@@ -519,9 +519,9 @@ Code Challenge #42: https://repl.it/student/submissions/1498763 "Collatz Sequenc
 ### [DAY 47 NOTES](Month3/Week10/Day47/README.md)
 Code Challenge #43: https://repl.it/student/submissions/1510620 "Route Between Nodes"
 #### [1st Lecture](https://youtu.be/LBq-BqqT_H8) w/Tai Chulikavit: Review Code Challenge #43 routeBetweenNodes
-#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ben Nelson: LS-Server-Testing solution
+#### [2nd Lecture](https://youtu.be/vOWNLYE63fM) w/Ben Nelson: LS-Server-Testing solution
 #### [3rd Lecture](NO_VIDEO_RECORDED) w/Ben Nelson: LS-Server-Testing review
-#### [4th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ben Nelson: LS-React-Native
+#### [4th Lecture](https://youtu.be/xeUinxnjlgI) w/Ben Nelson: LS-Mobile-I - React Native
 Pair Programming #17: https://github.com/LambdaSchool/Mobile-I w/Jason
 ***
 
@@ -536,6 +536,14 @@ Code Challenge #44: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
 ***
 
 ## Week 10: Sept. 11 -15
+### Day 49: Monday, September 11
+### [DAY 49 NOTES](Month2/Week11/Day49/README.md)
+Code Challenge #??: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #?? PREVIOUS_CODE_CHALLENGE
+#### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+
 
 ***
 
