@@ -323,7 +323,7 @@ Code Challenge #24: https://github.com/LambdaSchool/CS1-Code-Challenges.git "Rot
 Code Challenge #25: https://github.com/LambdaSchool/CS1-Code-Challenges/tree/master/linkedListCycle "Linked List Cycles"
 #### [1st Lecture](https://youtu.be/PXlKyNFBaeg) w/Tai Chulikavit: Code Challenge #24 review rotatedArray
 #### [2nd Review](https://youtu.be/l4WQgb-bNoM) w/Ryan Hamblin: Review Node Express Lab
-#### [Brown Bag](https://youtu.be/l4WQgb-bNoM) w/Darren Ames: Machine Learning BioInformatics
+#### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Darren Ames: Machine Learning BioInformatics
 #### [3rd Lecture](NO_VIDEO_RECORDED) w/Sean Chen: Lab Q&A
 
 
