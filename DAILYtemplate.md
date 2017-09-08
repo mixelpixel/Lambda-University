@@ -14,7 +14,7 @@ GUEST LECTURER
 NO_VIDEO_RECORDED
 ***
 # [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #??: NEW_CODE_CHALLENGE
-- https://repl.it/student/submissions/#
+- https://repl.it/student/assignments/######/model_solution?fromSubmissionId=????
 
 ***
 #### LUNCH
