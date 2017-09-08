@@ -7,7 +7,7 @@
   * https://facebook.github.io/react-native/docs/getting-started.html
   * https://facebook.github.io/react-native/docs/style.html
   * http://www.reactnative.com/
-  * http://rationalappdev.com
+  * http://rationalappdev.com <~~~~ per Ryan S. Looks like an awesome resource!!!
 * iOS
 * Android
 * Text
@@ -38,6 +38,7 @@
     - https://www.genymotion.com/fun-zone/
     - https://docs.genymotion.com/Content/01_Get_Started/Installation.htm
     - https://docs.expo.io/versions/latest/guides/genymotion.html#genymotion
+    - install per [this tutorial](http://rationalappdev.com/3-steps-to-build-your-first-mobile-app-with-react-native/)?
   - Should I install the exp-cli? https://docs.expo.io/versions/latest/guides/exp-cli.html
 2. Open the design images in `/designs` and replicate those images using the concepts that we have covered. - OKAY √
 ## Useful Resources
