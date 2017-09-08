@@ -35,7 +35,7 @@ INDEX
 ********
 
 ### Day ??: WEEKday, MONTH ??
-### [DAY ## NOTES](Month2/Week##/Day##/README.md)
+### [DAY ## NOTES](Month#/Week##/Day##/README.md)
 Code Challenge #??: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
 #### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #?? PREVIOUS_CODE_CHALLENGE
 #### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
