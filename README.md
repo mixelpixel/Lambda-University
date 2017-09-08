@@ -501,7 +501,9 @@ Code Challenge #41: https://repl.it/student/submissions/1489170 "Reverse Linked 
 #### [1st Lecture](https://youtu.be/vY7Azkz6xwc) w/Tai Chulikavit: Review Code Challenge #41: reverseLinkedList
 #### [2nd Lecture](NO_VIDEO_RECORDED) w/Sean Chen: LS-Client-Auth review
 #### [3rd Lecture](https://youtu.be/GfA1MOVnXCo) w/Sean Chen: LS-Client-Auth solution
-#### [4th Lecture](https://youtu.be/otSW2ZpBa2U) w/Ben Nelson: Documentation and TDD
+#### [4th Lecture](https://youtu.be/otSW2ZpBa2U) w/Ben Nelson: Documentation and TDD - LS-Server-Testing
+#### [5th Lecture](NO_VIDEO_RECORDED) w/Sean Chen: LS-Server-Testing Q&A
+Pair Programming #16: https://github.com/LambdaSchool/Server-Testing Solo
 ***
 
 ### Day 46: Wednesday, September 06
@@ -517,8 +519,10 @@ Code Challenge #42: https://repl.it/student/submissions/1498763 "Collatz Sequenc
 ### [DAY 47 NOTES](Month3/Week10/Day47/README.md)
 Code Challenge #43: https://repl.it/student/submissions/1510620 "Route Between Nodes"
 #### [1st Lecture](https://youtu.be/LBq-BqqT_H8) w/Tai Chulikavit: Review Code Challenge #43 routeBetweenNodes
-#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ben Nelson: LS-Server-Testing solution
+#### [3rd Lecture](NO_VIDEO_RECORDED) w/Ben Nelson: LS-Server-Testing review
+#### [4th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ben Nelson: LS-React-Native
+Pair Programming #17: https://github.com/LambdaSchool/Mobile-I w/Jason
 ***
 
 ### Day 48: Friday, September 08
