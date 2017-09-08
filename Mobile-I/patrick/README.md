@@ -7,6 +7,7 @@
   * https://facebook.github.io/react-native/docs/getting-started.html
   * https://facebook.github.io/react-native/docs/style.html
   * http://www.reactnative.com/
+  * http://rationalappdev.com
 * iOS
 * Android
 * Text
