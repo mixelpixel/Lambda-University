@@ -32,7 +32,7 @@
 ## [@0s](https://youtu.be/xeUinxnjlgI) Welcome to React Native Background & Context for buildig Mobile Apps
 ## [@13m17s](https://youtu.be/xeUinxnjlgI?t=13m17s) High Level Introduction
 ## [@20m43s](https://youtu.be/xeUinxnjlgI?t=20m43s) Basic implementation
-## [@33m14s](https://youtu.be/xeUinxnjlgI?t=33m14s) Flexing Flexbox
+## [@33m14s](https://youtu.be/xeUinxnjlgI?t=33m14s) Flexing with Flexbox
 
 
 # Sprint / Q&A
