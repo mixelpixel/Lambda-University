@@ -1,6 +1,6 @@
 # Lambda University - September 08, 2017: Day 048, Friday
 ## Coding Challenge #44
-- "NEW_CODE_CHALLENGE" available in https://repl.it/student/submissions/#
+- "Sum and Product" available in https://repl.it/student/submissions/1521337
 ***
 Ben Nelson
 Thomson Comer
@@ -13,8 +13,8 @@ Christine Gierer
 GUEST LECTURER
 NO_VIDEO_RECORDED
 ***
-# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #44: NEW_CODE_CHALLENGE
-- https://repl.it/student/submissions/#
+# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Tai Chulikavit: Review Code Challenge #44: sumAndProduct
+- https://repl.it/student/assignments/367850/model_solution?fromSubmissionId=1521337
 
 ***
 #### LUNCH
