@@ -529,6 +529,7 @@ Pair Programming #17: https://github.com/LambdaSchool/Mobile-I w/Jason
 ### [DAY 48 NOTES](Month3/Week10/Day48/README.md)
 Code Challenge #44: https://repl.it/student/submissions/1521337 "Sum and Product"
 #### [1st Lecture](https://youtu.be/fnf9Vm7BP-Y) w/Tai Chulikavit: Review Code Challenge #44 sumAndProduct
+#### [Brown Bag](https://youtu.be/plBd25SMy1Q) w/Patrick Kennedy: Git: `git` & GitHub
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 ***
