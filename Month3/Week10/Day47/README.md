@@ -2,17 +2,6 @@
 ## Coding Challenge #43
 - "Route Between Nodes" available in https://repl.it/student/submissions/1510620
 ***
-Ben Nelson
-Thomson Comer
-Ryan Hamblin
-Ivan Mora
-Sean Chen
-Tai Chulikavit
-Emily Sperry
-Christine Gierer
-GUEST LECTURER
-NO_VIDEO_RECORDED
-***
 # [1st Lecture](https://youtu.be/LBq-BqqT_H8) w/Tai Chulikavit: Review Code Challenge #43: routeBetweenNodes
 - https://repl.it/student/assignments/371414/model_solution?fromSubmissionId=1510620
 
