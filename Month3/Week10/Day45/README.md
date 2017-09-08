@@ -23,6 +23,7 @@
 - A.P.I. = Application Programming Interface
 - R.E.S.T. = REpresentational State Transfer
 - markdown doc to list routes, write out info about endpoints for API, then write tests, then write code
+- mongoose reference: https://www.lynda.com/Node-js-tutorials/Querying-data-Mongoose/604259/620678-4.html
 
 ## [@11m57s](https://youtu.be/otSW2ZpBa2U?t=11m57s) The Workflow
 
