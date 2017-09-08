@@ -103,3 +103,6 @@
 [submodule "Mobile-I"]
 	path = Mobile-I
 	url = https://github.com/mixelpixel/Mobile-I.git
+[submodule "Git-Foo"]
+	path = Git-Foo
+	url = https://github.com/mixelpixel/Git-Foo.git
