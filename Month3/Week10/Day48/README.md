@@ -13,7 +13,7 @@ Christine Gierer
 GUEST LECTURER
 NO_VIDEO_RECORDED
 ***
-# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Tai Chulikavit: Review Code Challenge #44: sumAndProduct
+# [1st Lecture](https://youtu.be/fnf9Vm7BP-Y) w/Tai Chulikavit: Review Code Challenge #44: sumAndProduct
 - https://repl.it/student/assignments/367850/model_solution?fromSubmissionId=1521337
 
 ***
