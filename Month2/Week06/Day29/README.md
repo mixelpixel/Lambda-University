@@ -8,7 +8,7 @@
 ***
 #### LUNCH
 ***
-# [Brown Bag](https://youtu.be/l4WQgb-bNoM) w/Darren Ames: Machine Learning BioInformatics
+# [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Darren Ames: Machine Learning BioInformatics
 ***
 # [3rd Lecture](NO_VIDEO_RECORDED) w/Sean Chen: Sprint / Q&A
 ***
