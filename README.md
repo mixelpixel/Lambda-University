@@ -527,8 +527,8 @@ Pair Programming #17: https://github.com/LambdaSchool/Mobile-I w/Jason
 
 ### Day 48: Friday, September 08
 ### [DAY 48 NOTES](Month3/Week10/Day48/README.md)
-Code Challenge #44: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
-#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #44 NEW_CODE_CHALLENGE
+Code Challenge #44: https://repl.it/student/submissions/1521337 "Sum and Product"
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Tai Chulikavit: Review Code Challenge #44 sumAndProduct
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 ***
