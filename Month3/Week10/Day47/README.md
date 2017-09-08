@@ -20,7 +20,7 @@
 # [4th Lecture](https://youtu.be/xeUinxnjlgI) w/Ben Nelson: LS-Mobile-I - React Native
 - https://github.com/LambdaSchool/Mobile-I
 - converts JS into Java and Onjective-C
-  - C#: microsoft, objective-C: apple
+  - C#: microsoft, objective-C: apple (& Swift used for iOS stuff)
 - emphasis on code reuse
 - NO HTML in the JSX
 - Views (like <div>) Text (like paragrap <p>) Image (<img>)
@@ -28,6 +28,11 @@
   - snake casing switches to camel casing
 - Download Expo.io on lappy and Expo Client on iPhone
 - Android vs iPhone development challenges
+
+## [@0s](https://youtu.be/xeUinxnjlgI) Welcome to React Native Background & Context for buildig Mobile Apps
+## [@13m17s](https://youtu.be/xeUinxnjlgI?t=13m17s) High Level Introduction
+## [@20m43s](https://youtu.be/xeUinxnjlgI?t=20m43s) Basic implementation
+
 
 # Sprint / Q&A
 ***
