@@ -652,6 +652,9 @@ Code Challenge #45: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
 #### LSPro lectures:
 - [Callbacks](https://youtu.be/qxURd9khNgU)
 
+#### C++
+- https://media.pearsoncmg.com/aw/ecs_gaddis_sowcpp_cs_8/mpl/videonotes.html
+
 #### REST
 - http://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm
 - http://www.looah.com/source/view/2284
