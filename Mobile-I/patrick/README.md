@@ -8,6 +8,11 @@
   * https://facebook.github.io/react-native/docs/style.html
   * http://www.reactnative.com/
   * http://rationalappdev.com <~~~~ per Ryan S. Looks like an awesome resource!!!
+  * ADDITIONAL RESOURCES
+  * https://snack.expo.io/
+  * https://repl.it/languages/react_native
+  * https://github.com/rnplay
+  * https://appetize.io/
 * iOS
 * Android
 * Text
@@ -20,6 +25,7 @@
   * https://docs.expo.io/versions/latest/guides/exp-cli.html
 * Flexbox
   * https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+  * https://codepen.io/enxaneta/full/adLPwv
 ## Assignment
 1. Go to expo.io and download the desktop XDE for developing React Native applications. - OKAY √
   - Expo XDE Version 2.20.1 (2.20.1) per https://expo.io/@mixelpixel
