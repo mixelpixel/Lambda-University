@@ -6,7 +6,6 @@ export default class Comments extends React.Component {
   render() {
     return (
       <View style={styles.comments}>
-        {/* <Text>This TEXT is from /components/comments.js</Text> */}
         <View style={styles.comment}>
           <Text style={styles.commentText}>
             Some User: A comment on the picture
