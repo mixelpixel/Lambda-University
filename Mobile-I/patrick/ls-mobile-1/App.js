@@ -1,6 +1,12 @@
 import React from 'react';
-import { StyleSheet, Text, View } from 'react-native';
-import { styles } from './CSS/stylesheet'; // <~~~~ importing the CSS StyleSheet
+import { View } from 'react-native';
+// import { View, Text } from 'react-native';
+import { styles } from './css/stylesheet';
+
+import Header from './components/header';
+import Display from './components/display';
+import Buttons from './components/buttons';
+import Comments from './components/comments';
 
 export default class App extends React.Component {
   // constructor() { // not using right now, but just like React
@@ -10,44 +16,14 @@ export default class App extends React.Component {
   //   };
   // }
   render() {
-    console.log('Well, hello there!')
-    // console.log(StyleSheet.create()); <~~~~ Look at the *.md files in node_modules/react-native/docs !!!
+    console.log('Well, hello there!');
     return ( // the JSX is different than in React
       <View style={styles.container}>
-        <Text>Open up App.js to start working on your app!</Text>
-        <Text>This is totally cool!</Text>
-        <View style={styles.child}>
-          <Text style={styles.text1}>
-            First
-          </Text>
-        </View>
-        <View style={styles.child}>
-          <Text style={styles.text2}>
-            Second
-          </Text>
-        </View>
-        <View style={styles.child}>
-          <Text style={styles.text3}>
-            Third
-          </Text>
-        </View>
-        <Text>Open up App.js to start working on your app!</Text>
-        <Text>This is totally cool!</Text>
-        <View style={styles.child2}>
-          <Text style={styles.text1}>
-            First
-          </Text>
-        </View>
-        <View style={styles.child2}>
-          <Text style={styles.text2}>
-            Second
-          </Text>
-        </View>
-        <View style={styles.child2}>
-          <Text style={styles.text3}>
-            Third
-          </Text>
-        </View>
+        {/* <Text>This TEXT is from App.js</Text> */}
+        <Header />
+        <Display />
+        <Buttons />
+        <Comments />
       </View>
     );
   }

@@ -4,7 +4,7 @@ import { StyleSheet, Text, View, Image } from 'react-native';
 export default class App extends React.Component {
   render() {
     console.log('Well, hello there!')
-    return ( 
+    return (
       <View style={styles.container}>
         <View style={styles.child1}>
           <View>
@@ -31,7 +31,7 @@ export default class App extends React.Component {
         </View>
         <View style={styles.child4}>
           <View style={[styles.child4Box1, styles.marginsLR]}>
-            < Text style={styles.text2}>USER A</Text>
+            <Text style={styles.text2}>USER A</Text>
           </View>
           <View style={[styles.child4Box2, styles.marginsLR]}>
             <Text style={styles.text2}>USER B</Text>
@@ -49,10 +49,10 @@ export default class App extends React.Component {
     //       </Text>
     //     </View>
     //     <View style={styles.child}>
-          
+
     //     </View>
     //     <View style={styles.child}>
-          
+
     //     </View>
     //   </View>
     //   <View>
