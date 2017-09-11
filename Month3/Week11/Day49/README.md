@@ -116,7 +116,7 @@ export default class Content extends React.Component {
 
 ```
 
-- @~20min Q&A blahblahblah
+- @~20min Q&A
 - @~30m repeating out a bunch of content
   - https://facebook.github.io/react-native/docs/flatlist.html
 - async display new component
