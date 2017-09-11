@@ -1,6 +1,6 @@
 # Lambda University - September 11, 2017: Day 049, Monday
 ## Coding Challenge #45
-- "Deep Equality" available in https://repl.it/student/submissions/1538402
+- "Deep Equality" available in https://repl.it/student/submissions/1539350
 ***
 Ben Nelson
 Thomson Comer
@@ -14,7 +14,7 @@ GUEST LECTURER
 NO_VIDEO_RECORDED
 ***
 # [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Tai Chulikavit: Review Code Challenge #45: deepEquality
-- https://repl.it/student/assignment/#
+- https://repl.it/student/assignments/385242/model_solution?fromSubmissionId=1539350
 
 ***
 #### LUNCH
