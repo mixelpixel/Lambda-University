@@ -531,9 +531,10 @@ Code Challenge #44: https://repl.it/student/submissions/1521337 "Sum and Product
 #### [1st Lecture](https://youtu.be/fnf9Vm7BP-Y) w/Tai Chulikavit: Review Code Challenge #44 sumAndProduct
 #### [Brown Bag](https://youtu.be/plBd25SMy1Q) w/Patrick Kennedy: Git: `git` & GitHub
 #### [2nd Lecture](https://youtu.be/PpRMJi2ByKU) w/Tai Chulikavit: LS-Mobile-I Q&A
-***
+
 
 ***
+
 
 ## Week 10: Sept. 11 -15
 ### Day 49: Monday, September 11
