@@ -22,6 +22,10 @@ export const styles = StyleSheet.create({
     flex: 10,
     // borderWidth: 1,
     // borderColor: 'green',
+    backgroundColor: 'yellow',
+    // resizeMode: 'contain'
+    // resizeMode: 'cover'
+    // resizeMode:'stretch'
   },
 
   // BUTTONS
@@ -46,6 +50,12 @@ export const styles = StyleSheet.create({
   buttonText: {
     // borderWidth: 1,
     // borderColor: 'purple',
+  },
+
+  actualButtonText: {
+    borderWidth: 1,
+    borderColor: 'purple',
+    // height: 15,
   },
 
   // COMMENTS

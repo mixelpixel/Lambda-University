@@ -9,8 +9,8 @@ export default class Display extends React.Component {
     return (
       <View style={styles.display}>
         <Image
-          // source={require('../media/9_8_PM_meeting.png')}
-          source={{ uri: 'http://d23dyxeqlo5psv.cloudfront.net/cat.gif' }}
+          source={require('../media/9_8_PM_meeting.png')}
+          // source={{ uri: 'http://d23dyxeqlo5psv.cloudfront.net/cat.gif' }}
           style={{ height: height / 2, width: width }}
           // resizeMode='contain'
           // resizeMode='cover'
