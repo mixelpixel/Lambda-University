@@ -28,7 +28,7 @@ NO_VIDEO_RECORDED
 ***
 # [4th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: LS-Mobile-II
 - https://reactnavigation.org/docs/intro
-- Stack navigator
+- Stack Navigator & Axios
 - using `react-navigation` and `axios`
 ```js
 import React from 'react';
