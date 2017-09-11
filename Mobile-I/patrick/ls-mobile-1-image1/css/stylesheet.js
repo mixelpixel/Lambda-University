@@ -26,6 +26,7 @@ export const styles = StyleSheet.create({
     // resizeMode: 'contain'
     // resizeMode: 'cover'
     // resizeMode:'stretch'
+    alignSelf: 'stretch',
   },
 
   // BUTTONS
