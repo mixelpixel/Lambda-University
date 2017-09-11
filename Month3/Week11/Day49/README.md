@@ -13,15 +13,15 @@ Christine Gierer
 GUEST LECTURER
 NO_VIDEO_RECORDED
 ***
-# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Tai Chulikavit: Review Code Challenge #45: deepEquality
+# [1st Lecture](https://youtu.be/PpRMJi2ByKU) w/Tai Chulikavit: Review Code Challenge #45: deepEquality
 - https://repl.it/student/assignments/385242/model_solution?fromSubmissionId=1539350
 
 ***
-# [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: LS-Mobile-I review
-- 
+# [2nd Lecture](NO_VIDEO_RECORDED) w/Ben Nelson: LS-Mobile-I review
+- https://docs.google.com/document/d/1ruo4bEf6NVPsG1UYnSvN347uuDDbdYGQ-DTMlzAFPds/edit?usp=sharing
 
 ***
-# [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: LS-Mobile-I Solution
+# [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ben Nelson: LS-Mobile-I Solution
 ***
 #### LUNCH
 ***
