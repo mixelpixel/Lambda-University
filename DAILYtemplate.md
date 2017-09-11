@@ -41,3 +41,4 @@ Code Challenge #??: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
 #### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+Pair Programming #??: https://github.com/LambdaSchool/????? w/???
