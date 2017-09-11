@@ -13,7 +13,8 @@ Christine Gierer
 GUEST LECTURER
 NO_VIDEO_RECORDED
 ***
-# [1st Lecture](https://youtu.be/PpRMJi2ByKU) w/Tai Chulikavit: Review Code Challenge #45: deepEquality
+# [1st Lecture pt1](https://youtu.be/PpRMJi2ByKU) w/Tai Chulikavit: Review Code Challenge #45: deepEquality
+- [1st Lecture pt2](https://youtu.be/aPBH-Vde8BU)
 - https://repl.it/student/assignments/385242/model_solution?fromSubmissionId=1539350
 
 ***
