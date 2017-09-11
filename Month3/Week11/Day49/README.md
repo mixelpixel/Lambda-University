@@ -18,6 +18,8 @@ NO_VIDEO_RECORDED
 
 ***
 # [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: LS-Mobile-I review
+- 
+
 ***
 # [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: LS-Mobile-I Solution
 ***
