@@ -30,6 +30,7 @@ NO_VIDEO_RECORDED
 - https://reactnavigation.org/docs/intro
 - Stack Navigator & Axios
 - using `react-navigation` and `axios`
+- The following code was transcribed during lecture and is otherwise available in the solution branch of the project repository: https://github.com/LambdaSchool/Mobile-II/tree/example
 ```js
 import React from 'react';
 import { StyleSheet, Text, View, Button, TextInput } from 'react-native';
