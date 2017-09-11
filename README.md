@@ -543,8 +543,8 @@ Code Challenge #45: https://repl.it/student/submissions/1539350 "Deep Equality"
 - [1st Lecture pt2](https://youtu.be/aPBH-Vde8BU)
 #### [2nd Lecture](NO_VIDEO_RECORDED) w/Ben Nelson: LS-Mobile-I review
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ben Nelson: LS-Mobile-I Solution
-
-Pair Programming #18: https://github.com/LambdaSchool/Mobile-II w/???
+#### [4th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: LS-Mobile-II
+Pair Programming #18: https://github.com/LambdaSchool/Mobile-II w/Jason
 
 ***
 
