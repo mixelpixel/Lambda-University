@@ -17,14 +17,17 @@ NO_VIDEO_RECORDED
 - https://repl.it/student/assignments/385242/model_solution?fromSubmissionId=1539350
 
 ***
+# [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: LS-Mobile-I review
+***
+# [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: LS-Mobile-I Solution
+***
 #### LUNCH
 ***
-# [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+# [4th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: LS-Mobile-II
 ***
-# [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+# [5th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: LS-Mobile-II-Mini
 ***
-# [4th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-# Sprint / Q&A
+# [6th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic Q&A
 
 Pair Programming #18: https://github.com/LambdaSchool/Mobile-II w/???
 
