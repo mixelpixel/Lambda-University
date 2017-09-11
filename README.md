@@ -540,6 +540,7 @@ Code Challenge #44: https://repl.it/student/submissions/1521337 "Sum and Product
 ### [DAY 49 NOTES](Month3/Week11/Day49/README.md)
 Code Challenge #45: https://repl.it/student/submissions/1539350 "Deep Equality"
 #### [1st Lecture](https://youtu.be/PpRMJi2ByKU) w/Tai Chulikavit: Review Code Challenge #45 deepEquality
+- [1st Lecture pt2](https://youtu.be/aPBH-Vde8BU)
 #### [2nd Lecture](NO_VIDEO_RECORDED) w/Ben Nelson: LS-Mobile-I review
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ben Nelson: LS-Mobile-I Solution
 
