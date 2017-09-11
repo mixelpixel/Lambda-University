@@ -27,6 +27,7 @@ NO_VIDEO_RECORDED
 #### LUNCH
 ***
 # [4th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: LS-Mobile-II
+- Pair Programming #18: https://github.com/LambdaSchool/Mobile-II w/Jason
 - https://reactnavigation.org/docs/intro
 - Stack Navigator & Axios
 - using `react-navigation` and `axios`
@@ -167,11 +168,6 @@ export default class Async extends React.component {
 - TextInput
 
 ***
-# [5th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: LS-Mobile-II-Mini
-***
-# [6th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic Q&A
-
-Pair Programming #18: https://github.com/LambdaSchool/Mobile-II w/???
-
+# [5th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: LS-Mobile-II Q&A
 ***
 # fin
