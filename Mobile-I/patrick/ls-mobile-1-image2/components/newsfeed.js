@@ -5,6 +5,12 @@ import { StyleSheet, View, Image, Dimensions, Text } from 'react-native';
 const { width, height } = Dimensions.get('window');
 
 export default class NewsFeed extends React.Component {
+  constructor() { // not using right now, but just like React
+    super();
+    this.state = {
+
+    };
+  }
   render() {
     return (
       <View style={styles.newsfeed}>

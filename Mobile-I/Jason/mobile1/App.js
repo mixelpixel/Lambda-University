@@ -1,21 +1,28 @@
 import React from 'react';
-import { StyleSheet, Text, View, Image } from 'react-native';
+import { StyleSheet, Text, View, Dimensions, Image } from 'react-native';
+
+const { width, height } = Dimensions.get('window');
 
 export default class App extends React.Component {
   render() {
     console.log('Well, hello there!')
     return (
       <View style={styles.container}>
+{/*         
+        { <Image 
+          style={{ height: height, width: width }}
+          source={{uri: 'https://media.tenor.com/images/7f7f2882899755a705a2953b6fcfc263/tenor.gif'}}
+          />} */}
         <View style={styles.child1}>
           <View>
-            <Text style={styles.text1}>Header</Text>
+            <Text style={styles.textHeader}>Header</Text>
           </View>
         </View>
         <View style={styles.child2}>
-          <Text style={styles.text1}>IMAGE</Text>
+          
           <Image
-          style={{width: 50, height: 50}}
-          source={{uri: 'https://facebook.github.io/react/img/logo_og.png'}}
+          style={{ height: height / 2, width: width }}
+          source={{uri: 'http://www.writeups.org/wp-content/uploads/Agent-Smith-Matrix-Hugo-Weaving-1-a.jpg'}}
           />
         </View>
         <View style={styles.child3}>
@@ -81,30 +88,42 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
     // display: 'flex',
-    backgroundColor: 'salmon',
+    // backgroundColor: 'salmon',
     // alignItems: 'center',
     marginTop: 20,
+    // display: 'flex',
+    
   },
+  // imageBackground: {
+    
+  // },
 
   child1: {
-    flex: 1,
+    flex: 12,
     borderWidth: 1,
-    borderColor: 'red',
+    borderColor: 'black',
+  },
+  textHeader: {
+    fontSize: 18,
+    textAlign: 'center',
   },
 
   child2: {
-    flex: 4,
-    borderWidth: 1,
-    borderColor: 'green',
+    flex: 50,
+    // borderWidth: 1,
+    // borderColor: 'green',
+    // resizeMode: 'stretch',
+    paddingBottom: 25,
   },
 
   child3: {
-    flex: 1,
+    flex: 10,
     // height: 10,
     // width: 140,
-    borderWidth: 1,
+    // borderWidth: 1,
     flexDirection: 'row',
     alignItems: 'center',
+    marginTop: 30,
   },
   child3Box1: {
     flex: 1,
@@ -128,16 +147,21 @@ const styles = StyleSheet.create({
   },
 
   child4: {
-    flex: 1,
+    flex: 27,
     // height: 25,
     // width: 300,
-    borderWidth: 1,
-    borderColor: 'black',
+    // borderWidth: 1,
+    // borderColor: 'black',
     justifyContent: 'center',
+    // marginBottom: 75,
+    // bottom: 25,
+    marginBottom: 60,
+    // position: 'absolute',
   },
   marginsLR: {
     marginLeft: 10,
     marginRight: 10,
+    marginBottom: 3,
   },
   child4Box1: {
     flex: 1,
@@ -152,7 +176,9 @@ const styles = StyleSheet.create({
     borderWidth: 1,
   },
   text2: {
-    textAlign: 'center',
+    textAlign: 'left',
+    paddingLeft: 3,
+    paddingTop: 8,
     fontSize: 12,
   }
 });
