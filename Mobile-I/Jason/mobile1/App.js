@@ -8,81 +8,56 @@ export default class App extends React.Component {
     console.log('Well, hello there!')
     return (
       <View style={styles.container}>
-{/*         
-        { <Image 
-          style={{ height: height, width: width }}
-          source={{uri: 'https://media.tenor.com/images/7f7f2882899755a705a2953b6fcfc263/tenor.gif'}}
-          />} */}
-        <View style={styles.child1}>
-          <View>
-            <Text style={styles.textHeader}>Header</Text>
+        <Image style={{ height: height, width: width }}
+        source={{uri: 'https://media.tenor.com/images/7f7f2882899755a705a2953b6fcfc263/tenor.gif'}}>
+            
+          <View style={styles.child1}>
+              <Text style={styles.textHeader}>Header</Text>
           </View>
-        </View>
-        <View style={styles.child2}>
-          
-          <Image
-          style={{ height: height / 2, width: width }}
-          source={{uri: 'http://www.writeups.org/wp-content/uploads/Agent-Smith-Matrix-Hugo-Weaving-1-a.jpg'}}
-          />
-        </View>
-        <View style={styles.child3}>
-          <View style={styles.child3Box1}>
-            <Text style={styles.text1}>LIKE</Text>
+
+
+          <View style={styles.child2}>
+            <Image
+            style={{ height: height / 2, width: width }}
+            source={{uri: 'https://static.giantbomb.com/uploads/original/15/155745/2179153-18079_26016.gif'}}
+            />
           </View>
-          <View style={styles.child3Box2}>
-            <Text style={styles.text1}>SHARE</Text>
+
+
+          <View style={styles.child3}>
+            <View style={styles.child3Box1}>
+              <Text style={styles.text1}>LIKE</Text>
+            </View>
+            <View style={styles.child3Box2}>
+              <Text style={styles.text1}>SHARE</Text>
+            </View>
+            <View style={styles.child3Box3}>
+              <Text style={styles.text1}>COMMENT</Text>
+            </View>
           </View>
-          <View style={styles.child3Box3}>
-            <Text style={styles.text1}>COMMENT</Text>
+
+
+          <View style={styles.child4}>
+            <View style={[styles.child4Box1, styles.marginsLR]}>
+              <Text style={styles.text2}>Some User: A comment on the picture</Text>
+            </View>
+            <View style={[styles.child4Box2, styles.marginsLR]}>
+              <Text style={styles.text2}>Another User: A comment on the picture</Text>
+            </View>
+            <View style={[styles.child4Box3, styles.marginsLR]}>
+              <Text style={styles.text2}>And Another User: A comment on the picture</Text>
+            </View>
           </View>
-        </View>
-        <View style={styles.child4}>
-          <View style={[styles.child4Box1, styles.marginsLR]}>
-            <Text style={styles.text2}>USER A</Text>
-          </View>
-          <View style={[styles.child4Box2, styles.marginsLR]}>
-            <Text style={styles.text2}>USER B</Text>
-          </View>
-          <View style={[styles.child4Box3, styles.marginsLR]}>
-            <Text style={styles.text2}>USER C</Text>
-          </View>
-        </View>
+        </Image>
       </View>
-    //   <View style={styles.container}>
-    //   <View>
-    //     <View style={styles.child}>
-    //       <Text style={styles.text1}>
-    //         Like
-    //       </Text>
-    //     </View>
-    //     <View style={styles.child}>
 
-    //     </View>
-    //     <View style={styles.child}>
+// uri:'https://static.giantbomb.com/uploads/original/15/155745/2179153-18079_26016.gif'
 
-    //     </View>
-    //   </View>
-    //   <View>
-    //   <View style={styles.child1}>
-    //     <Text style={styles.text2}>
-    //       Some User: A comment on the picture
-    //     </Text>
-    //   </View>
-    //   <View style={styles.child1}>
-    //     <Text style={styles.text2}>
-    //       Another User: A comment on the picture
-    //     </Text>
-    //   </View>
-    //   <View style={styles.child1}>
-    //     <Text style={styles.text2}>
-    //       And Another User: A comment on the picture
-    //     </Text>
-    //   </View>
-    // </View>
-    // </View>
     );
   }
 }
+
+
 
 const styles = StyleSheet.create({
   container: {
@@ -91,8 +66,10 @@ const styles = StyleSheet.create({
     // backgroundColor: 'salmon',
     // alignItems: 'center',
     marginTop: 20,
+    // zIndex: 'auto',
     // display: 'flex',
-    
+    // backfaceVisibility: 'visible'
+    // imageBackground: uri:'https://media.tenor.com/images/7f7f2882899755a705a2953b6fcfc263/tenor.gif' ,
   },
   // imageBackground: {
     
@@ -102,10 +79,15 @@ const styles = StyleSheet.create({
     flex: 12,
     borderWidth: 1,
     borderColor: 'black',
+    backgroundColor: 'black',
+    marginLeft: 110,
+    marginRight: 110,
   },
   textHeader: {
     fontSize: 18,
     textAlign: 'center',
+    color: 'white',
+
   },
 
   child2: {
@@ -123,7 +105,8 @@ const styles = StyleSheet.create({
     // borderWidth: 1,
     flexDirection: 'row',
     alignItems: 'center',
-    marginTop: 30,
+    marginTop: 35,
+    height: 15,
   },
   child3Box1: {
     flex: 1,
