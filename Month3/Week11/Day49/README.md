@@ -27,6 +27,144 @@ NO_VIDEO_RECORDED
 #### LUNCH
 ***
 # [4th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: LS-Mobile-II
+- https://reactnavigation.org/docs/intro
+- Stack navigator
+- using `react-navigation` and `axios`
+```js
+import React from 'react';
+import { StyleSheet, Text, View, Button, TextInput } from 'react-native';
+import { StackNavigator } from 'react-navigator';
+
+import Content from './Content';
+import Async from './Async';
+
+class Home extends React.Component {
+  constructor(props) {
+    super(props);
+    this.state = {
+      email: '',
+    };
+  }
+
+  static navigationOptions = { // works with back arrow
+    title: 'Home Page',
+  }
+
+  render() {
+    return (
+      <View style-{styles.container}>
+        <Text>enter your email address:</Text>
+        <TextInput
+          style={ width: 50 }
+          onChangeInput={(email) => this.setState({ email })}
+          value={this.state.email} />
+        <Button
+          title={'View Content'}
+          onPress={() => {
+            this.props.navigation.navigate(Content);
+        }} />
+        <Button
+          title={'View Async Content'}
+          onPress={() => {
+            this.props.navigation.navigate(Async);
+        }} />
+      </View>
+    );
+  }
+}
+
+const styles = StyleSheet.create({
+  // boilerplate for container: {}
+})
+
+const Routes = StackNavigator({ // stackNav passes props
+  Home: { screen: Home }, // component corresponds with view
+  Content: { screen: Content }, // first Content matchs this.props.navigation.navigate(Content);
+  Async: { screen: Async },
+})
+
+export default Routes;
+```
+
+```js
+import React from 'react';
+import { StyleSheet, Text, View, FlatList } from 'react-native';
+
+export default class Content extends React.Component {
+  constructor(props) {
+    super(props);
+    this.state = {
+      foods: [{ text: 'Pineapple' }, { text: 'Tomato' }]
+    };
+  }
+
+  static navigationOptions = {
+    title: 'Content Page',
+  }
+  render() {
+    return (
+      <View>
+        <FlatList
+          data={ this.state.foods}
+          renderItem={({ item }) => {
+            return <Text>{ item.text }</Text>;
+          }} />
+      </View>
+    )
+  }
+}
+
+```
+
+- @~20min Q&A blahblahblah
+- @~30m repeating out a bunch of content
+  - https://facebook.github.io/react-native/docs/flatlist.html
+- async display new component
+```js
+import React from 'react';
+import {
+  StyleSheet,
+  Text,
+  View,
+  FlatList
+} from 'react-native';
+import axios from 'axios';
+
+export default class Async extends React.component {
+  constructor(peops) {
+    super(props);
+    this.state = {
+      posts: [],
+    }
+  }
+
+  componentDidMunt() {
+    axios.get('https://jsonplaceholder.typicode.com/posts').then((response) => { // then sends a promise!!!
+      this.setState({
+        posts: response,
+      });
+    });
+  }
+
+  render() {
+    return (
+      // <Text>{ this.state.posts }</Text>
+      <View>
+        <FlatList
+          data={ this.state.posts}
+          renderItem={({ item }) => {
+            return <Text>{ item.title }</Text>;
+          }} />
+      </View>
+    )
+  }
+}
+```
+
+- using axios
+- Ben makes a server for a GET response
+- TextInput
+
 ***
 # [5th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: LS-Mobile-II-Mini
 ***
