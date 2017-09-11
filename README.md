@@ -539,9 +539,9 @@ Code Challenge #44: https://repl.it/student/submissions/1521337 "Sum and Product
 ### Day 49: Monday, September 11
 ### [DAY 49 NOTES](Month3/Week11/Day49/README.md)
 Code Challenge #45: https://repl.it/student/submissions/1539350 "Deep Equality"
-#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Tai Chulikavit: Review Code Challenge #45 deepEquality
-#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [1st Lecture](https://youtu.be/PpRMJi2ByKU) w/Tai Chulikavit: Review Code Challenge #45 deepEquality
+#### [2nd Lecture](NO_VIDEO_RECORDED) w/Ben Nelson: LS-Mobile-I review
+#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ben Nelson: LS-Mobile-I Solution
 
 Pair Programming #18: https://github.com/LambdaSchool/Mobile-II w/???
 
