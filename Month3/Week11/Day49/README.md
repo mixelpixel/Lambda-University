@@ -13,13 +13,11 @@ Christine Gierer
 GUEST LECTURER
 NO_VIDEO_RECORDED
 ***
-# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #45: deepEquality
+# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Tai Chulikavit: Review Code Challenge #45: deepEquality
 - https://repl.it/student/assignment/#
 
 ***
 #### LUNCH
-***
-# [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 ***
 # [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 ***
@@ -27,5 +25,8 @@ NO_VIDEO_RECORDED
 ***
 # [4th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 # Sprint / Q&A
+
+Pair Programming #18: https://github.com/LambdaSchool/Mobile-II w/???
+
 ***
 # fin
