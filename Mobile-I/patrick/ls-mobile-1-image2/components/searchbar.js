@@ -5,7 +5,7 @@ const { width, height } = Dimensions.get('window');
 
 export default class SearchBar extends React.Component {
   state = {
-    inputValue: "search"
+    inputValue: "🔍 search"
   };
 
   _handleTextChange = inputValue => {
@@ -18,7 +18,7 @@ export default class SearchBar extends React.Component {
         <TextInput
            value={this.state.inputValue}
            onChangeText={this._handleTextChange}
-           style={{ width: width * .9, height: 30, padding: 8 }}
+           style={styles.input}
          />
       </View>
     );
@@ -28,9 +28,17 @@ export default class SearchBar extends React.Component {
 const styles = StyleSheet.create({
   searchbar: {
     borderWidth: 1,
-    borderColor: 'red',
-    backgroundColor: 'pink',
+    // borderColor: 'red',
+    // backgroundColor: 'pink',
+    height: 25,
     borderRadius: 20,
     marginLeft: 30,
+    marginRight: 5,
+    marginTop: 2,
+    marginBottom: 2,
+  },
+  input: {
+    width: width * .9,
+    padding: 8,
   },
 });

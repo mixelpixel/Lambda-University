@@ -1,6 +1,6 @@
 # Lambda University - September 11, 2017: Day 049, Monday
 ## Coding Challenge #45
-- "NEW_CODE_CHALLENGE" available in https://repl.it/student/submissions/#
+- "Deep Equality" available in https://repl.it/student/submissions/1538402
 ***
 Ben Nelson
 Thomson Comer
@@ -13,8 +13,8 @@ Christine Gierer
 GUEST LECTURER
 NO_VIDEO_RECORDED
 ***
-# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #??: NEW_CODE_CHALLENGE
-- https://repl.it/student/submissions/#
+# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #45: deepEquality
+- https://repl.it/student/assignment/#
 
 ***
 #### LUNCH

@@ -12,18 +12,9 @@ export default class Banner extends React.Component {
         <Image
           // source={require('../media/9_8_PM_meeting.png')}
           source={{ uri: 'http://d23dyxeqlo5psv.cloudfront.net/cat.gif' }}
-          style={{ height: height / 5, width: width / 2 }}
+          style={{ height: height / 5, width: width }}
           // resizeMode='contain'
           // resizeMode='cover'
-        />
-        <Image
-          source={require('../media/9_8_PM_meeting.png')}
-          // source={{ uri: 'http://d23dyxeqlo5psv.cloudfront.net/cat.gif' }}
-          // style={{ height: height / 5, width: width / 2 }}
-          // resizeMode='contain'
-          // resizeMode='cover'
-          // resizeMode='stretch'
-          style={styles.stretch}
         />
       </View>
     );
@@ -31,14 +22,10 @@ export default class Banner extends React.Component {
 }
 
 const styles = StyleSheet.create({
-  stretch: {
-    height: height / 5,
-    width: width / 2
-  },
   banner: {
-    borderWidth: 1,
-    borderColor: 'blue',
-    backgroundColor: 'gold',
     flexDirection: 'row',
+    // borderWidth: 1,
+    // borderColor: 'blue',
+    // backgroundColor: 'gold',
   },
 });
