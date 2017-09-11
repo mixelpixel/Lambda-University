@@ -1,11 +1,9 @@
 # React Router Mini
-
 Topics:
   * Single Page Applications
   * Routing, declaritive component based routing
   * Browser vs Hash History
   * Path and Component
-
 
 ## Project Description
 
