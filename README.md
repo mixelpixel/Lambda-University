@@ -798,6 +798,7 @@ Code Challenge #46: https://repl.it/student/submissions/1548411 "Telephone Words
 ##### Unsorted
 - Ryan Sherill: [Extra Resources list](https://docs.google.com/document/d/1y5B_glCrLRo8Vnu93QMKjFrfAN3a-GFPzgGz76rTTIQ/edit)
 - Whiteboarding: https://www.lucidchart.com/
+- https://github.com/MunGell/awesome-for-beginners
 
 ##### Some old school b.g. reading:
 - [Assembly Language Programming](https://archive.org/stream/8080a8085AssemblyLanguageProgramming/Leventhal-8080a-8085AssemblyLanguageProgramming)
