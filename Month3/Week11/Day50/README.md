@@ -1,6 +1,6 @@
 # Lambda University - September 12, 2017: Day 050, Tuesday
 ## Coding Challenge 46
-- "NEW_CODE_CHALLENGE" available in https://repl.it/student/submissions/#
+- "Telephone Words" available in https://repl.it/student/submissions/1550720
 ***
 Ben Nelson
 Thomson Comer
@@ -13,8 +13,8 @@ Christine Gierer
 GUEST LECTURER
 NO_VIDEO_RECORDED
 ***
-# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #46: NEW_CODE_CHALLENGE
-- https://repl.it/student/assignments/######/model_solution?fromSubmissionId=????
+# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #46: telephoneWords
+- https://piazza.com/class/j63w1pdyopf7kj?cid=44
 
 ***
 #### LUNCH
