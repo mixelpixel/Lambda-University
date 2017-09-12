@@ -547,12 +547,26 @@ Code Challenge #45: https://repl.it/student/submissions/1539350 "Deep Equality"
 #### [4th Lecture](https://youtu.be/EYToM5ZutRA) w/Speaker: LS-Mobile-II
 Pair Programming #18: https://github.com/LambdaSchool/Mobile-II w/Jason
 #### [5th Lecture](https://youtu.be/EO92iInOCmE) w/Speaker: LS-Mobile-II Q&A
+***
+
+### Day 50: Tuesday, September 12
+### [DAY 50 NOTES](Month#/Week11/Day50/README.md)
+Code Challenge #46: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #46 NEW_CODE_CHALLENGE
+#### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+***
+
 
 ***
+
 
 ## Week 11: Sept. 18 - 22
 
+
 ***
+
 
 ## Week 12: Sept. 25 - 29
 
@@ -569,15 +583,21 @@ Pair Programming #18: https://github.com/LambdaSchool/Mobile-II w/Jason
 # Month 4: October, 2017
 ## Week 13: Oct. 2 - 6
 
+
 ***
+
 
 ## Week 14: Oct. 9 - 13
 
+
 ***
+
 
 ## Week 15: Oct. 16 - 20
 
+
 ***
+
 
 ## Week 16: Oct. 23 - 27
 
@@ -594,19 +614,27 @@ Pair Programming #18: https://github.com/LambdaSchool/Mobile-II w/Jason
 # Month 5: November, 2017
 ## Week 17: Oct. 30 - Nov. 3
 
+
 ***
+
 
 ## Week 18: Nov. 6 - 10
 
+
 ***
+
 
 ## Week 19: Nov. 13 - 17
 
+
 ***
+
 
 ## Week 20: Nov. 20 - 24
 
+
 ***
+
 
 ## Week 21: Nov. 27 - Dec. 1
 
@@ -623,15 +651,21 @@ Pair Programming #18: https://github.com/LambdaSchool/Mobile-II w/Jason
 # Month 6: December, 2017
 ## Week 22: Dec. 4 - 8
 
+
 ***
+
 
 ## Week 23: Dec. 11 - 15
 
+
 ***
+
 
 ## Week 24: Dec. 18 - 22
 
+
 ***
+
 
 ## Week 25: Dec. 25 Christmas!
 
@@ -664,6 +698,7 @@ Pair Programming #18: https://github.com/LambdaSchool/Mobile-II w/Jason
 
 #### NODE
 - Express: https://expressjs.com/en/api.html
+- http://stackabuse.com/how-to-uninstall-node-js-from-mac-osx/
 
 #### MONGO
 - https://www.mongodb.com/
