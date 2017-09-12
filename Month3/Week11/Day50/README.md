@@ -25,6 +25,7 @@ NO_VIDEO_RECORDED
 - compile to JS or binary
 - Reason is a layer over Ocaml: https://ocaml.org/
 - like Flow - an optional Type system to JS
+- https://github.com/reasonml/reason-react
 
 ***
 # [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
