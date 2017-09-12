@@ -34,6 +34,8 @@ $  curl -X POST -H "Content-Type: application/json" -d '{"username":"Bingo The C
 1. `-X` specifies the HTTP method type
 2. `-H` specifies the data type
 3. `-d` is for the actual data
+4. `-b` is for the cookie jar (I think)
+5. `-v` is for persistence (I think)
 
 ## 2. **POST**ing a username and password to '/log-in':
 ```console
@@ -180,3 +182,33 @@ $  curl -H "Content-Type: application/json" -b "connect.sid=s%3AK-2XUQqoT4Cw7JPo
     {"viewCount":3}    <------------------------------ Third time's a charm!!!!!
 
 ```
+
+## 5. From the Mobile-II project: SignUp, SignIn and accessing Restricted Content
+
+`curl` (alternative to Postman) for signup, signin and get all users content:
+1) SIGNUP
+```
+$  curl -X POST -H "Content-Type: application/json" -d '{"email":"fred@fred.com","password":"12345"}' -v https://mobile-server-ii.herokuapp.com/users
+```
+this will return an object like:
+```
+{"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI1OWI4NTExZGZlNmVkODAwMTE5Y2VjNzkiLCJpYXQiOjE1MDUyNTE2MTQ4NjV9.OBEFWFiJHpdGh1RZEYjgJiDdscG4PVfnELmrKwdHOJE","user":{"__v":0,"email":"fred@fred.com","password":"$2a$10$GIY/iw.A9yphc0ut1kKuPua6LiKpUKEl0zampkwND0/1DLt5xHuzS","_id":"59b8511dfe6ed800119cec79","todos":[]}}
+```
+
+2) SIGNIN
+```
+$  curl -X POST -H "Content-Type: application/json" -d '{"email":"fred@fred.com","password":"12345"}' -v https://mobile-server-ii.herokuapp.com/signin
+```
+this will return a similar object:
+```
+{"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI1OWI4NTExZGZlNmVkODAwMTE5Y2VjNzkiLCJpYXQiOjE1MDUyNTE2NDc2MjB9.0cp7qTMw-wgDYkV9Bj0ZwOADAhIWR7t3j_oerqxtdIg","user":{"_id":"59b8511dfe6ed800119cec79","email":"fred@fred.com","password":"$2a$10$GIY/iw.A9yphc0ut1kKuPua6LiKpUKEl0zampkwND0/1DLt5xHuzS","__v":0,"todos":[]}}
+```
+…copy the token value from the signin’s return object, and the use it to get the restricted content:
+
+3)  CONTENT
+```
+$  curl -X GET -H "authorization: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI1OWI4NTExZGZlNmVkODAwMTE5Y2VjNzkiLCJpYXQiOjE1MDUyNTE2NDc2MjB9.0cp7qTMw-wgDYkV9Bj0ZwOADAhIWR7t3j_oerqxtdIg" -v https://mobile-server-ii.herokuapp.com/users
+```
+…and a whole buncha username and hashed passwords will come your way
+
+:smile:
