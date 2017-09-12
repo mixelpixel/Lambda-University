@@ -13,7 +13,7 @@ Christine Gierer
 GUEST LECTURER
 NO_VIDEO_RECORDED
 ***
-# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #46: telephoneWords
+# [1st Lecture](https://youtu.be/iI-h7_L7Lnc) w/Sean Chen: Review Code Challenge #46: telephoneWords
 - https://piazza.com/class/j63w1pdyopf7kj?cid=44
 
 ***
