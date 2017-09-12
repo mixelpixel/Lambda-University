@@ -494,7 +494,7 @@ Code Challenge #40: https://repl.it/student/submissions/1472701 "Common Elements
 <!-- <details><summary>Month 3: September, 2017</summary><p> -->
 
 # Month 3: September, 2017
-## Week 09: Sept. 5 - 8
+## Week 10: Sept. 5 - 8
 ### Day 45: Tuesday, September 05
 ### [DAY 45 NOTES](Month3/Week10/Day45/README.md)
 Code Challenge #41: https://repl.it/student/submissions/1489170 "Reverse Linked List"
@@ -536,7 +536,7 @@ Code Challenge #44: https://repl.it/student/submissions/1521337 "Sum and Product
 ***
 
 
-## Week 10: Sept. 11 -15
+## Week 11: Sept. 11 -15
 ### Day 49: Monday, September 11
 ### [DAY 49 NOTES](Month3/Week11/Day49/README.md)
 Code Challenge #45: https://repl.it/student/submissions/1539350 "Deep Equality"
