@@ -760,6 +760,7 @@ Code Challenge #46: https://repl.it/student/submissions/1548411 "Telephone Words
 - [Intro to Synchronous and Asynchronous code](https://www.pluralsight.com/guides/front-end-javascript/introduction-to-asynchronous-javascript)
 - https://javascript30.com
 - BUILD CROSS PLATFORM DESKTOP APPS WITH JS/HTML/CSS: https://electron.atom.io/
+- http://javascript.crockford.com/popular.html
 
 #### ESLINTer:
 - npm: https://www.npmjs.com/package/eslint-watch
