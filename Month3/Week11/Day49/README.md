@@ -22,11 +22,11 @@ NO_VIDEO_RECORDED
 - https://docs.google.com/document/d/1ruo4bEf6NVPsG1UYnSvN347uuDDbdYGQ-DTMlzAFPds/edit?usp=sharing
 
 ***
-# [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ben Nelson: LS-Mobile-I Solution
+# [3rd Lecture](https://youtu.be/pOKIJ1KFkQM) w/Ben Nelson: LS-Mobile-I Solution
 ***
 #### LUNCH
 ***
-# [4th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: LS-Mobile-II
+# [4th Lecture](https://youtu.be/EYToM5ZutRA) w/Speaker: LS-Mobile-II
 - Pair Programming #18: https://github.com/LambdaSchool/Mobile-II w/Jason
 - https://reactnavigation.org/docs/intro
 - Stack Navigator & Axios
@@ -168,6 +168,6 @@ export default class Async extends React.component {
 - TextInput
 
 ***
-# [5th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: LS-Mobile-II Q&A
+# [5th Lecture](https://youtu.be/EO92iInOCmE) w/Speaker: LS-Mobile-II Q&A
 ***
 # fin
