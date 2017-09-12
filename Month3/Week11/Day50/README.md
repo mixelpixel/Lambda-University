@@ -19,7 +19,13 @@ NO_VIDEO_RECORDED
 ***
 #### LUNCH
 ***
-# [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+# [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Jared Forsythe: Reason
+- JavaScript flavored Ocamel
+- a solid TYPE system
+- compile to JS or binary
+- Reason is a layer over Ocaml: https://ocaml.org/
+- like Flow - an optional Type system to JS
+
 ***
 # [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 ***
