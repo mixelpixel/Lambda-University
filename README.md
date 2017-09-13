@@ -554,8 +554,7 @@ Pair Programming #18: https://github.com/LambdaSchool/Mobile-II w/Jason
 Code Challenge #46: https://repl.it/student/submissions/1548411 "Telephone Words"
 #### [1st Lecture](https://youtu.be/iI-h7_L7Lnc) w/Sean Chen: Review Code Challenge #46 telephoneWords
 #### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Jared Forsythe: Reason
-#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [2nd Lecture](https://youtu.be/WE4K9E4YuvI) w/Ben Nelson: LS-Mobile-II Q&A
 ***
 
 
