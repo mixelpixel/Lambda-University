@@ -115,3 +115,6 @@
 [submodule "LS-Mobile-III-Example"]
 	path = LS-Mobile-III-Example
 	url = https://github.com/mixelpixel/LS-Mobile-III-Example.git
+[submodule "Mobile-Server"]
+	path = Mobile-Server
+	url = https://github.com/mixelpixel/Mobile-Server.git
