@@ -112,3 +112,6 @@
 [submodule "recursion-prompts"]
 	path = recursion-prompts
 	url = https://github.com/mixelpixel/recursion-prompts.git
+[submodule "LS-Mobile-III-Example"]
+	path = LS-Mobile-III-Example
+	url = https://github.com/mixelpixel/LS-Mobile-III-Example.git
