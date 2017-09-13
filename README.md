@@ -557,6 +557,16 @@ Code Challenge #46: https://repl.it/student/submissions/1548411 "Telephone Words
 #### [2nd Lecture](https://youtu.be/WE4K9E4YuvI) w/Ben Nelson: LS-Mobile-II Q&A
 ***
 
+### Day 51: Wednesday, September 13
+### [DAY 51 NOTES](Month#/Week11/Day51/README.md)
+Code Challenge #47: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #?? NEW_CODE_CHALLENGE
+#### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+Pair Programming #??: https://github.com/LambdaSchool/????? w/???
+***
+
 
 ***
 
