@@ -1,6 +1,6 @@
 # Lambda University - September 13, 2017: Day 051, Wednesday
 ## Coding Challenge #47
-- "NEW_CODE_CHALLENGE" available in https://repl.it/student/submissions/#
+- "Is Twin Prime?" available in https://repl.it/student/submissions/1559885
 ***
 Ben Nelson
 Thomson Comer
@@ -13,7 +13,7 @@ Christine Gierer
 GUEST LECTURER
 NO_VIDEO_RECORDED
 ***
-# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #47: NEW_CODE_CHALLENGE
+# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #47: isTwinPrime
 - https://repl.it/student/assignments/######/model_solution?fromSubmissionId=????
 
 ***
