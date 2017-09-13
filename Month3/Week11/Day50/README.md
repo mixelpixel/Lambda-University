@@ -29,11 +29,48 @@ NO_VIDEO_RECORDED
 - https://reasonml.github.io
 
 ***
-# [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-***
-# [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-***
-# [4th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-# Lab / Q&A
+# [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ben Nelson: LS-Mobile-II Q&A
+```js
+<TextInput
+  style={styles.textInput}
+  onChangeText={(email) => this.setState({ email })}
+  value={this.state.email}
+/>
+<TextInput
+  style={styles.textInput}
+  onChangeText={(password) => this.setState({ password })}
+  value={this.state.password}
+/>
+```
+
+- https://github.com/SunJieMing/LS-Mobile-III-Example/blob/master/main.js
+
+```js
+signUp() {
+  axios.post('https://mobile-server-ii.herokuapp.com/users', {
+    email: this.state.email,
+    password: this.state.password,
+  }).then((response) => {
+    if (response.data.code === 11000) {
+      return this.setState({
+        error: 'Email already taken',
+      });
+    }
+    AsyncStorage.setItem('token', response.data.token).then(() => {
+      this.props.navigate('TodoList');
+    });
+  }).catch((error) => {
+    console.log(error);
+  });
+}
+```
+
+```js
+        <Button
+          title={'Submit'}
+          onPress={this.signUp}
+        />
+```
+
 ***
 # fin
