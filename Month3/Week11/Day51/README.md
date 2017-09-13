@@ -14,7 +14,7 @@ GUEST LECTURER
 NO_VIDEO_RECORDED
 ***
 # [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #47: isTwinPrime
-- https://repl.it/student/assignments/######/model_solution?fromSubmissionId=????
+- https://repl.it/student/assignments/395908/model_solution?fromSubmissionId=1559885
 
 ***
 #### LUNCH
