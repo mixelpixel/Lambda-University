@@ -118,3 +118,6 @@
 [submodule "Mobile-Server"]
 	path = Mobile-Server
 	url = https://github.com/mixelpixel/Mobile-Server.git
+[submodule "DevOps-Deployment"]
+	path = DevOps-Deployment
+	url = https://github.com/mixelpixel/DevOps-Deployment.git
