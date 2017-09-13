@@ -109,3 +109,6 @@
 [submodule "Mobile-II"]
 	path = Mobile-II
 	url = https://github.com/mixelpixel/Mobile-II.git
+[submodule "recursion-prompts"]
+	path = recursion-prompts
+	url = https://github.com/mixelpixel/recursion-prompts.git
