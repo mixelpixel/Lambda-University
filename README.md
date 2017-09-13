@@ -553,14 +553,14 @@ Pair Programming #18: https://github.com/LambdaSchool/Mobile-II w/Jason
 ### [DAY 50 NOTES](Month#/Week11/Day50/README.md)
 Code Challenge #46: https://repl.it/student/submissions/1548411 "Telephone Words"
 #### [1st Lecture](https://youtu.be/iI-h7_L7Lnc) w/Sean Chen: Review Code Challenge #46 telephoneWords
-#### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Jared Forsythe: Reason
+#### [Brown Bag](https://youtu.be/qs2praedUwQ) w/Jared Forsythe: Reason
 #### [2nd Lecture](https://youtu.be/WE4K9E4YuvI) w/Ben Nelson: LS-Mobile-II Q&A
 ***
 
 ### Day 51: Wednesday, September 13
 ### [DAY 51 NOTES](Month#/Week11/Day51/README.md)
 Code Challenge #47: https://repl.it/student/submissions/# "Is Twin Prime?"
-#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #47: isTwinPrime
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Tai Chulikavit: Review Code Challenge #47: isTwinPrime
 #### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
