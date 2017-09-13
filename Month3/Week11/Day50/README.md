@@ -8,7 +8,7 @@
 ***
 #### LUNCH
 ***
-# [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Jared Forsythe: Reason
+# [Brown Bag](https://youtu.be/qs2praedUwQ) w/Jared Forsythe: Reason
 - JavaScript flavored Ocamel
 - a solid TYPE system
 - compile to JS or binary
