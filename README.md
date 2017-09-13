@@ -561,10 +561,12 @@ Code Challenge #46: https://repl.it/student/submissions/1548411 "Telephone Words
 ### [DAY 51 NOTES](Month#/Week11/Day51/README.md)
 Code Challenge #47: https://repl.it/student/submissions/# "Is Twin Prime?"
 #### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Tai Chulikavit: Review Code Challenge #47: isTwinPrime
-#### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-Pair Programming #??: https://github.com/LambdaSchool/????? w/???
+#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ben Nelson: LS-Mobile-II solution
+#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Tai Chulikavit: LS-Mobile-II review
+#### [4th Lecture](https://youtu.be/vIa66wXNVOc) w/Thomson Comer: DevOps & Deployment intro
+#### [5th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Tai Chulikavit: ngrok & DevOps & Deployment mini
+#### [6th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Thomson Comer: DevOps & Deployment Q&A
+Pair Programming #19: https://github.com/LambdaSchool/DevOps-Deployment w/Tyge
 ***
 
 
