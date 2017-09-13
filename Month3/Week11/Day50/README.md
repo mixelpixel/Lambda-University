@@ -1,5 +1,5 @@
 # Lambda University - September 12, 2017: Day 050, Tuesday
-## Coding Challenge 46
+## Coding Challenge #46
 - "Telephone Words" available in https://repl.it/student/submissions/1550720
 ***
 # [1st Lecture](https://youtu.be/iI-h7_L7Lnc) w/Sean Chen: Review Code Challenge #46: telephoneWords
@@ -16,6 +16,10 @@
 - like Flow - an optional Type system to JS
 - https://github.com/reasonml/reason-react
 - https://reasonml.github.io
+- the slides https://jaredforsyth.com/reason-javascript-flavored-ocaml/
+- my reactconf talk about types (proptypes vs flow vs linting) https://www.youtube.com/watch?v=V1po0BT7kac
+- the slides from that talk https://jaredforsyth.com/type-systems-js-dev/
+- twitter https://twitter.com/jaredforsyth
 
 ***
 # [2nd Lecture](https://youtu.be/WE4K9E4YuvI) w/Ben Nelson: LS-Mobile-II Q&A
