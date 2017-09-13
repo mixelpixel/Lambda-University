@@ -212,3 +212,11 @@ $  curl -X GET -H "authorization: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiO
 …and a whole buncha username and hashed passwords will come your way
 
 :smile:
+
+4) TODOS
+To enter a `curl` request with multiple headers, e.g. a Content-Type and an authorization token, _both_ headers need to be pre-pended with the -H flag, e.g.
+```
+$  curl -X POST -H "authorization: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI1OWI5NzMwOTgwMTJhODAwMTEyYmU1MjUiLCJpYXQiOjE1MDUzMzQ2ODcxNTZ9.5_zvJRpJmEtO4AR4xvg5cxm6tFrPJAExqgrS6J7RCFs" -H "Content-Type: application/json" -d '{"text":"bake a cake"}' https://mobile-server-ii.herokuapp.com/todos
+
+{"_id":"59b973098012a800112be525","email":"ely@ely.com","password":"$2a$10$73Sonm7Sy19dnLwWtSpuZeqnVTUFN65AHHWD2ws8KEnvAZW/03YHq","__v":1,"todos":[{"text":"bake a cake","_id":"59b999748012a800112be5dc","completed":false}]}
+```
