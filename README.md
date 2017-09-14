@@ -573,8 +573,8 @@ Pair Programming #19: https://github.com/LambdaSchool/DevOps-Deployment w/Tyge
 ### [DAY 52 NOTES](Month3/Week11/Day52/README.md)
 Code Challenge #48: https://repl.it/student/submissions/1571861 "CSS Animations"
 #### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Emily Sperry: Review Code Challenge #48: CSS Animations
-#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Thomson Comer: Docker and LS-DevOps setup
-#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Thomson Comer: more Docker and LS-DevOps setup
+#### [2nd Lecture](VIDEO_RECORDED_BUT_DEPRECATED_PER_FOLLOWING_VIDDY) w/Thomson Comer: Docker and LS-DevOps setup
+#### [3rd Lecture](https://youtu.be/_76fHf8HcuY) w/Thomson Comer: more Docker and LS-DevOps setup
 ***
 
 
