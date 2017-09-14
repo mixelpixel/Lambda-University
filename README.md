@@ -550,7 +550,7 @@ Pair Programming #18: https://github.com/LambdaSchool/Mobile-II w/Jason
 ***
 
 ### Day 50: Tuesday, September 12
-### [DAY 50 NOTES](Month#/Week11/Day50/README.md)
+### [DAY 50 NOTES](Month3/Week11/Day50/README.md)
 Code Challenge #46: https://repl.it/student/submissions/1548411 "Telephone Words"
 #### [1st Lecture](https://youtu.be/iI-h7_L7Lnc) w/Sean Chen: Review Code Challenge #46 telephoneWords
 #### [Brown Bag](https://youtu.be/qs2praedUwQ) w/Jared Forsythe: Reason
@@ -558,7 +558,7 @@ Code Challenge #46: https://repl.it/student/submissions/1548411 "Telephone Words
 ***
 
 ### Day 51: Wednesday, September 13
-### [DAY 51 NOTES](Month#/Week11/Day51/README.md)
+### [DAY 51 NOTES](Month3/Week11/Day51/README.md)
 Code Challenge #47: https://repl.it/student/submissions/# "Is Twin Prime?"
 #### [1st Lecture](https://youtu.be/wNPKVuKBWxo) w/Tai Chulikavit: Review Code Challenge #47: isTwinPrime
 #### [2nd Lecture](https://youtu.be/u2A_7eOs0nQ) w/Ben Nelson: LS-Mobile-II solution
@@ -569,17 +569,26 @@ Code Challenge #47: https://repl.it/student/submissions/# "Is Twin Prime?"
 Pair Programming #19: https://github.com/LambdaSchool/DevOps-Deployment w/Tyge
 ***
 
+### Day 52: Thursday, September 14
+### [DAY 52 NOTES](Month3/Week11/Day52/README.md)
+Code Challenge #48: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #48 NEW_CODE_CHALLENGE
+#### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+***
+
 
 ***
 
 
-## Week 11: Sept. 18 - 22
+## Week 12: Sept. 18 - 22
 
 
 ***
 
 
-## Week 12: Sept. 25 - 29
+## Week 13: Sept. 25 - 29
 
 
 <!-- </p></details> -->
@@ -592,25 +601,25 @@ Pair Programming #19: https://github.com/LambdaSchool/DevOps-Deployment w/Tyge
 
 
 # Month 4: October, 2017
-## Week 13: Oct. 2 - 6
+## Week 14: Oct. 2 - 6
 
 
 ***
 
 
-## Week 14: Oct. 9 - 13
+## Week 15: Oct. 9 - 13
 
 
 ***
 
 
-## Week 15: Oct. 16 - 20
+## Week 16: Oct. 16 - 20
 
 
 ***
 
 
-## Week 16: Oct. 23 - 27
+## Week 17: Oct. 23 - 27
 
 
 <!-- </p></details> -->
@@ -623,31 +632,31 @@ Pair Programming #19: https://github.com/LambdaSchool/DevOps-Deployment w/Tyge
 
 
 # Month 5: November, 2017
-## Week 17: Oct. 30 - Nov. 3
+## Week 18: Oct. 30 - Nov. 3
 
 
 ***
 
 
-## Week 18: Nov. 6 - 10
+## Week 19: Nov. 6 - 10
 
 
 ***
 
 
-## Week 19: Nov. 13 - 17
+## Week 20: Nov. 13 - 17
 
 
 ***
 
 
-## Week 20: Nov. 20 - 24
+## Week 21: Nov. 20 - 24
 
 
 ***
 
 
-## Week 21: Nov. 27 - Dec. 1
+## Week 22: Nov. 27 - Dec. 1
 
 
 <!-- </p></details> -->
@@ -660,25 +669,25 @@ Pair Programming #19: https://github.com/LambdaSchool/DevOps-Deployment w/Tyge
 
 
 # Month 6: December, 2017
-## Week 22: Dec. 4 - 8
+## Week 23: Dec. 4 - 8
 
 
 ***
 
 
-## Week 23: Dec. 11 - 15
+## Week 24: Dec. 11 - 15
 
 
 ***
 
 
-## Week 24: Dec. 18 - 22
+## Week 25: Dec. 18 - 22
 
 
 ***
 
 
-## Week 25: Dec. 25 Christmas!
+## Week 26: Dec. 25 Christmas!
 
 
 <!-- </p></details> -->
@@ -733,6 +742,11 @@ Pair Programming #19: https://github.com/LambdaSchool/DevOps-Deployment w/Tyge
 - http://www.automationfuel.com/sass-react-webpack/
 - https://react-bootstrap.github.io/
 - REACT FOR BEGINNERS: https://reactforbeginners.com/
+- http://6.470.scripts.mit.edu/2014/slides/React-MIT.pdf
+- https://github.com/petehunt/react-howto
+##### REACT-NATIVE
+- https://github.com/ReactNativeNews/react-native-newsletter
+- https://github.com/ReactNativeNews/React-Native-Apps
 
 #### REDUX
 - The intro tutorial series from http://redux.js.org:
