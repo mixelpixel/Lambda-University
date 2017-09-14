@@ -47,9 +47,11 @@ CMD ["node", "/server.js"]
 ```
 
 ```console
+export PROJECT_ID=lambda-devops
+
 docker build -t gcr.io/${PROJECT_ID}/lambda-devops:v1 .
 
-docker run -d -v $(pwd)/:/config gcr.io/${PROJECT_ID}/lambda-devops:v1
+docker run -d -p 8080:8080 gcr.io/${PROJECT_ID}/lambda-devops:v1
 
 gcloud docker -- push gcr.io/${PROJECT_ID}/lambda-devops:v1
 ```
