@@ -15,17 +15,8 @@ NO_VIDEO_RECORDED
 ***
 # [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Emily Sperry: Review Code Challenge #48: CSS Animations
 ***
-# [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Thomson Comer: Docker and LS-DevOps setup
+# [2nd Lecture](VIDEO_RECORDED_BUT_DEPRECATED_PER_FOLLOWING_VIDDY) w/Thomson Comer: Docker and LS-DevOps setup
 - `env | grep PROJECT`
-```
-FROM node:5.4
-COPY package.json package.json
-WORKDIR /
-RUN npm install
-COPY server.js /
-CMD ["node", "/server.js"]
-```
-
 - https://codelabs.developers.google.com/codelabs/cloud-slack-bot/index.html#8
 
 ```console
@@ -35,7 +26,7 @@ ECT_ID}/devops-deployment/backend:v1
 
 ***
 #### LUNCH
-# [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Thomson Comer: more Docker and LS-DevOps setup
+# [3rd Lecture](https://youtu.be/_76fHf8HcuY) w/Thomson Comer: more Docker and LS-DevOps setup
 ```
 FROM node:5.4
 COPY package.json package.json
@@ -58,8 +49,13 @@ gcloud docker -- push gcr.io/${PROJECT_ID}/lambda-devops:v1
 
 - 1Password https://1password.com/
 
+![docker.png](docker.png)
+![express_server.png](express_server.png)
+![Dockerfile.png](Dockerfile.png)
+
+
 ***
-# [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+# [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Austen Allred: Startups!
 ***
 # [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 ***
