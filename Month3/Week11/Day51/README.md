@@ -17,12 +17,19 @@
 
 ***
 # [4th Lecture](https://youtu.be/vIa66wXNVOc) w/Thomson Comer: DevOps & Deployment intro
-- deployment: taking your code and making it available for others to use.
-- DevOps: goes to the internet and to your customer, DevOps is the part between you and the customer.
-  - getting your code to server(s) and from server(s) to client
+### [@49](https://youtu.be/vIa66wXNVOc?t=49s) WHAT ARE DEVOPS & DEPLOYMENT?
+- Deployment: taking your local code and making it available for others to use. E.g.
+  1. Deploying to the web
+  2. Firmware code for hardware
+  3. internally deploying a toolset or library to your team
+- Development Operations: goes to the internet and to your customer, DevOps is the part between you and the customer.
+  1. Deploying websites in a professional environment on the web
+  2. getting your code to server(s) and from server(s) (i.e. the delivery through the internet) to client
+  3. INFRASTRUCTURE and how to use it effectively
+https://www.lucidchart.com/documents/edit/006e89fb-e3fc-43a8-bc62-16e5dc8f7b82?shared=true&
 
-### []()
-- SIMPLE DEVOPS Process: (each step involves MILLIONS of lines of code)
+### [6m40s](https://youtu.be/vIa66wXNVOc?t=6m40s) SIMPLE DEVOPS
+- Process: (each step involves MILLIONS of lines of code)
 1. Configuring a computer (OS, hardware)
 2. Connect a computer to the internet (or any network)
 3. Configure software to open a socket, listens for and respond to connections (now Your code can run on this machine). Apache/old, now "nginx"
@@ -49,7 +56,7 @@
 - https://ngrok.com/
 
 # [5th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Tai Chulikavit: ngrok & DevOps & Deployment mini
-# [6th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Thomson Comer: DevOps & Deployment Q&A
+# [6th Lecture](https://youtu.be/IPUZj48-dMg) w/Thomson Comer: DevOps & Deployment Q&A
 - Pair Programming #19: https://github.com/LambdaSchool/DevOps-Deployment w/Tyge
 - continuuos integration & automatic deployment
 - continuuous integration pipeline
