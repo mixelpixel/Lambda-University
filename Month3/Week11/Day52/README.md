@@ -35,6 +35,27 @@ ECT_ID}/devops-deployment/backend:v1
 
 ***
 #### LUNCH
+# [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Thomson Comer: more Docker and LS-DevOps setup
+```
+FROM node:5.4
+COPY package.json package.json
+WORKDIR /
+RUN npm install
+COPY server.js /
+EXPOSE 8080
+CMD ["node", "/server.js"]
+```
+
+```console
+docker build -t gcr.io/${PROJECT_ID}/lambda-devops:v1 .
+
+docker run -d -v $(pwd)/:/config gcr.io/${PROJECT_ID}/lambda-devops:v1
+
+gcloud docker -- push gcr.io/${PROJECT_ID}/lambda-devops:v1
+```
+
+- 1Password https://1password.com/
+
 ***
 # [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 ***
