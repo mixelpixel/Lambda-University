@@ -571,8 +571,8 @@ Pair Programming #19: https://github.com/LambdaSchool/DevOps-Deployment w/Tyge
 
 ### Day 52: Thursday, September 14
 ### [DAY 52 NOTES](Month3/Week11/Day52/README.md)
-Code Challenge #48: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
-#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #48 NEW_CODE_CHALLENGE
+Code Challenge #48: https://repl.it/student/submissions/1571861 "CSS Animations"
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Emily Sperry: Review Code Challenge #48: CSS Animations
 #### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
@@ -818,6 +818,7 @@ Code Challenge #48: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
 	- http://cssreference.io/animations/
 	- https://webdesign.tutsplus.com/tutorials/a-beginners-introduction-to-css-animation--cms-21068
 	- https://developer.mozilla.org/en-US/docs/Web/CSS/animation
+	- https://cssanimation.rocks/portal/
 
 #### Interview prep
 - https://github.com/h5bp/Front-end-Developer-Interview-Questions#js-questions
