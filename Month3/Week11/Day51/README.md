@@ -63,6 +63,9 @@ NO_VIDEO_RECORDED
 # [6th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Thomson Comer: DevOps & Deployment Q&A
 - Pair Programming #19: https://github.com/LambdaSchool/DevOps-Deployment w/Tyge
 - continuuos integration & automatic deployment
+- continuuous integration pipeline
+- google tools
+
 
 ***
 # fin
