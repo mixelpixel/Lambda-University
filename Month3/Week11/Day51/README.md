@@ -62,6 +62,7 @@
 # [6th Lecture](https://youtu.be/IPUZj48-dMg) w/Thomson Comer: DevOps & Deployment Q&A
 - Pair Programming #19: https://github.com/LambdaSchool/DevOps-Deployment w/Tyge
 - **continuuos integration** & **automatic deployment**
+- continuuous integration environment
 - continuuous integration pipeline
 - google tools google cloud platform cloud-slack-bot
 - Jenkins-Hudson
