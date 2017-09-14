@@ -754,7 +754,7 @@ Code Challenge #48: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
 - Redux dev tools: https://github.com/zalmoxisus/redux-devtools-extension
 - [History of Redux](http://threedevsandamaybe.com/the-history-of-react-and-flux-with-dan-abramov/)
 - https://www.reax.io/blog/2016/07/07/quick-guide-to-react-and-redux/
-- LEGENDARY RYAN HAMBLIN REACT REDUC ROUTING LECTURE: https://youtu.be/GNJg_K8DG2Q
+- LEGENDARY RYAN HAMBLIN REACT REDUX ROUTING LECTURE: https://youtu.be/GNJg_K8DG2Q
 
 #### AXIOS
 - https://github.com/mzabriskie/axios
@@ -815,6 +815,9 @@ Code Challenge #48: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
 	- http://www.csszengarden.com/
 	- [SASS](http://sass-lang.com/)
 	- [FLEXBOX](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+	- http://cssreference.io/animations/
+	- https://webdesign.tutsplus.com/tutorials/a-beginners-introduction-to-css-animation--cms-21068
+	- https://developer.mozilla.org/en-US/docs/Web/CSS/animation
 
 #### Interview prep
 - https://github.com/h5bp/Front-end-Developer-Interview-Questions#js-questions
