@@ -26,9 +26,9 @@
   1. Deploying websites in a professional environment on the web
   2. getting your code to server(s) and from server(s) (i.e. the delivery through the internet) to client
   3. INFRASTRUCTURE and how to use it effectively
-https://www.lucidchart.com/documents/edit/006e89fb-e3fc-43a8-bc62-16e5dc8f7b82?shared=true&
 
 ### [6m40s](https://youtu.be/vIa66wXNVOc?t=6m40s) SIMPLE DEVOPS
+[Simple Dev Ops](https://www.lucidchart.com/documents/edit/006e89fb-e3fc-43a8-bc62-16e5dc8f7b82?shared=true&)
 - Process: (each step involves MILLIONS of lines of code)
 1. Configuring a computer (OS, hardware)
 2. Connect a computer to the internet (or any network)
@@ -42,6 +42,8 @@ https://www.lucidchart.com/documents/edit/006e89fb-e3fc-43a8-bc62-16e5dc8f7b82?s
 6. Make software DATA CONSISTENT(e.g. how to deal with simultaneous data submissions)
 
 ### [@18m30s](https://youtu.be/vIa66wXNVOc?=18m30s) "That's 'Simple' DevOps"
+- usenet (thank you DARPA)
+> "One of these was in someone's basement and it had a wire connected to it."
 
 ### [@21m30s](https://youtu.be/vIa66wXNVOc?t=21m30s) "Things are more complicated now"
 - IP Addresses
@@ -53,17 +55,16 @@ https://www.lucidchart.com/documents/edit/006e89fb-e3fc-43a8-bc62-16e5dc8f7b82?s
 - https the "s" is Security TLS transport Level Security, uses port 443 instead of 80.
 - digicert.com SSL & PKI (public/private key pair)
 - self sign certificates
-- https://ngrok.com/
+- https://ngrok.com/ <~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ THIS!!!!!!!!!!!
 
 # [5th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Tai Chulikavit: ngrok & DevOps & Deployment mini
 # [6th Lecture](https://youtu.be/IPUZj48-dMg) w/Thomson Comer: DevOps & Deployment Q&A
 - Pair Programming #19: https://github.com/LambdaSchool/DevOps-Deployment w/Tyge
-- continuuos integration & automatic deployment
+- **continuuos integration** & **automatic deployment**
 - continuuous integration pipeline
 - google tools google cloud platform cloud-slack-bot
 - Jenkins-Hudson
 - https://en.wikipedia.org/wiki/Comparison_of_continuous_integration_software
-- [Simple Dev Ops](https://www.lucidchart.com/invitations/accept/4854f86f-f03b-4877-8b27-d6caeca774f0)
 - [Continous Integration](https://www.lucidchart.com/invitations/accept/bcf25fe7-0ceb-4f5c-966b-97705455d0a3)
 
 ***
