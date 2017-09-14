@@ -28,7 +28,7 @@
   3. INFRASTRUCTURE and how to use it effectively
 
 ### [6m40s](https://youtu.be/vIa66wXNVOc?t=6m40s) SIMPLE DEVOPS
-[Simple Dev Ops](https://www.lucidchart.com/documents/edit/006e89fb-e3fc-43a8-bc62-16e5dc8f7b82?shared=true&)
+[Simple Dev Ops CHART](https://www.lucidchart.com/documents/edit/006e89fb-e3fc-43a8-bc62-16e5dc8f7b82?shared=true&)
 - Process: (each step involves MILLIONS of lines of code)
 1. Configuring a computer (OS, hardware)
 2. Connect a computer to the internet (or any network)
@@ -53,6 +53,7 @@
 - DNS
 - whois guarding
 - https the "s" is Security TLS transport Level Security, uses port 443 instead of 80.
+- certificates
 - digicert.com SSL & PKI (public/private key pair)
 - self sign certificates
 - https://ngrok.com/ <~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ THIS!!!!!!!!!!!
@@ -65,7 +66,7 @@
 - google tools google cloud platform cloud-slack-bot
 - Jenkins-Hudson
 - https://en.wikipedia.org/wiki/Comparison_of_continuous_integration_software
-- [Continous Integration](https://www.lucidchart.com/invitations/accept/bcf25fe7-0ceb-4f5c-966b-97705455d0a3)
+- [Continous Integration CHART](https://www.lucidchart.com/invitations/accept/bcf25fe7-0ceb-4f5c-966b-97705455d0a3)
 
 ***
 # fin
