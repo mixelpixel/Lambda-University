@@ -2,17 +2,17 @@
 ## Coding Challenge #47
 - "Is Twin Prime?" available in https://repl.it/student/submissions/1559885
 ***
-# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Tai Chulikavit: Review Code Challenge #47: isTwinPrime
+# [1st Lecture](https://youtu.be/wNPKVuKBWxo) w/Tai Chulikavit: Review Code Challenge #47: isTwinPrime
 - https://repl.it/student/assignments/395908/model_solution?fromSubmissionId=1559885
 
 ***
 #### LUNCH
 ***
-# [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ben Nelson: LS-Mobile-II solution
+# [2nd Lecture](https://youtu.be/u2A_7eOs0nQ) w/Ben Nelson: LS-Mobile-II solution
 - https://github.com/SunJieMing/Mobile-Server
 
 ***
-# [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Tai Chulikavit: LS-Mobile-II review
+# [3rd Lecture](NO_VIDEO_RECORDED) w/Tai Chulikavit: LS-Mobile-II review
 - https://docs.google.com/document/d/1itmqvls2ksdJNl1RmyySBD41XQxF66W7ZsMz0Z2mAJs/edit?usp=sharing
 
 ***
@@ -53,7 +53,11 @@
 - Pair Programming #19: https://github.com/LambdaSchool/DevOps-Deployment w/Tyge
 - continuuos integration & automatic deployment
 - continuuous integration pipeline
-- google tools
+- google tools google cloud platform cloud-slack-bot
+- Jenkins-Hudson
+- https://en.wikipedia.org/wiki/Comparison_of_continuous_integration_software
+- [Simple Dev Ops](https://www.lucidchart.com/invitations/accept/4854f86f-f03b-4877-8b27-d6caeca774f0)
+- [Continous Integration](https://www.lucidchart.com/invitations/accept/bcf25fe7-0ceb-4f5c-966b-97705455d0a3)
 
 ***
 # fin
