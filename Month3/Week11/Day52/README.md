@@ -1,6 +1,6 @@
 # Lambda University - September 14, 2017: Day 052, Thursday
 ## Coding Challenge #48
-- "NEW_CODE_CHALLENGE" available in https://repl.it/student/submissions/#
+- "CSS Animations" available in https://repl.it/student/submissions/1571861
 ***
 Ben Nelson
 Thomson Comer
@@ -13,9 +13,7 @@ Christine Gierer
 GUEST LECTURER
 NO_VIDEO_RECORDED
 ***
-# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #48: NEW_CODE_CHALLENGE
-- https://repl.it/student/assignments/######/model_solution?fromSubmissionId=????
-
+# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Emily Sperry: Review Code Challenge #48: CSS Animations
 ***
 #### LUNCH
 ***
