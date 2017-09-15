@@ -57,12 +57,20 @@ gcloud docker -- push gcr.io/${PROJECT_ID}/lambda-devops:v1
 # [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Austen Allred: Startups!
 ***
 # [4th Lecture](https://youtu.be/19Cjc88IDeE) w/Thomson Comer: LS DevOps / Deployment Q&A
-- Kubernetes
-- https://youtu.be/4ht22ReBjno
+- Kubernetes: https://youtu.be/4ht22ReBjno
 ```
 If you see an issue with "Container Engine API is not enabled", you need to click into your Google Cloud project settings and go to Container Engine, then it will enable the API for you.
 
 ^^^ From the video, otherwise you can work through the tutorial directly.
 ```
+
+- a note from Julian in Slack
+> Something I found helps is make your PROJECT_ID like this:
+> `export PROJECT_ID=$(gcloud config list --format 'value(core.project)')`
+> the PROJECT_ID is unique so the one Thomson uses is actually different then yours. That code basically does some magic and pulls your actual id for you.
+
+- a note from Sarah in Slack
+> The view logs button in the Error Reporting window is useful
+
 ***
 # fin
