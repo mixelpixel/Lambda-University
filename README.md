@@ -572,9 +572,11 @@ Pair Programming #19: https://github.com/LambdaSchool/DevOps-Deployment w/Tyge
 ### Day 52: Thursday, September 14
 ### [DAY 52 NOTES](Month3/Week11/Day52/README.md)
 Code Challenge #48: https://repl.it/student/submissions/1571861 "CSS Animations"
-#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Emily Sperry: Review Code Challenge #48: CSS Animations
+#### [1st Lecture](https://youtu.be/2M9caq3E8pM) w/Emily Sperry: Review Code Challenge #48: CSS Animations
 #### [2nd Lecture](VIDEO_RECORDED_BUT_DEPRECATED_PER_FOLLOWING_VIDDY) w/Thomson Comer: Docker and LS-DevOps setup
 #### [3rd Lecture](https://youtu.be/_76fHf8HcuY) w/Thomson Comer: more Docker and LS-DevOps setup
+#### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Austen Allred: Startups!
+#### [4th Lecture](https://youtu.be/19Cjc88IDeE) w/Thomson Comer: LS DevOps / Deployment Q&A
 ***
 
 
@@ -798,6 +800,9 @@ Code Challenge #48: https://repl.it/student/submissions/1571861 "CSS Animations"
 	- [Visual Studio](https://code.visualstudio.com)
 - Zoom for meetings: https://zoom.us/j/858115322
 - class polling: https://b.socrative.com/student/
+
+#### Development Operations & Deployment
+- https://youtu.be/4ht22ReBjno
 
 #### Computer Science
 - BIG O NOTATION
