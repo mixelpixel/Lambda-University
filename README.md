@@ -577,6 +577,15 @@ Code Challenge #48: https://repl.it/student/submissions/1571861 "CSS Animations"
 #### [4th Lecture](https://youtu.be/19Cjc88IDeE) w/Thomson Comer: LS DevOps / Deployment Q&A
 ***
 
+### Day 53: Friday, September 15
+### [DAY 53 NOTES](Month3/Week11/Day53/README.md)
+Code Challenge #49: https://repl.it/student/submissions/1581604 "Roman Numeral Encoder"
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #49 romanNumeralEncoder
+#### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+***
+
 
 ***
 
@@ -822,6 +831,8 @@ Code Challenge #48: https://repl.it/student/submissions/1571861 "CSS Animations"
 	- https://webdesign.tutsplus.com/tutorials/a-beginners-introduction-to-css-animation--cms-21068
 	- https://developer.mozilla.org/en-US/docs/Web/CSS/animation
 	- https://cssanimation.rocks/portal/
+- CAREER
+	- https://www.reddit.com/r/cscareerquestions/
 
 #### Interview prep
 - https://github.com/h5bp/Front-end-Developer-Interview-Questions#js-questions
