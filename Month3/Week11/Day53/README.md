@@ -13,8 +13,8 @@ Christine Gierer
 GUEST LECTURER
 NO_VIDEO_RECORDED
 ***
-# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #49: romanNumeralEncoder
-- https://repl.it/student/assignments/######/model_solution?fromSubmissionId=????
+# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Emily Sperry: Review Code Challenge #49: romanNumeralEncoder
+- https://repl.it/student/assignments/404208/model_solution?fromSubmissionId=1581604
 
 ***
 #### LUNCH
