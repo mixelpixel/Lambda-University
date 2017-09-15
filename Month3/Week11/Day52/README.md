@@ -53,13 +53,15 @@ gcloud docker -- push gcr.io/${PROJECT_ID}/lambda-devops:v1
 ![express_server.png](express_server.png)
 ![Dockerfile.png](Dockerfile.png)
 
-
 ***
 # [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Austen Allred: Startups!
 ***
-# [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-***
-# [4th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-# Lab / Q&A
+# [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Thomson Comer: LS DevOps / Deployment Q&A
+- Kubernetes
+```
+If you see an issue with "Container Engine API is not enabled", you need to click into your Google Cloud project settings and go to Container Engine, then it will enable the API for you.
+
+^^^ From the video, otherwise you can work through the tutorial directly.
+```
 ***
 # fin
