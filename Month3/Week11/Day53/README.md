@@ -26,6 +26,10 @@ http://www.cs.princeton.edu/courses/archive/spr09/cos333/beautiful.html
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp/test
 also: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions
+http://files.hii-tech.com/book/Oreilly.Mastering.Regular.Expressions.3rd.Edition.Aug.2006.pdf <~~~ THIS BOOK
+```console
+$ man re_format
+```
 
 ***
 # [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
