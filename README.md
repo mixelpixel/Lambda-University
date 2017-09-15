@@ -800,6 +800,7 @@ Code Challenge #48: https://repl.it/student/submissions/1571861 "CSS Animations"
 - class polling: https://b.socrative.com/student/
 
 #### Development Operations & Deployment
+- http://awsdevops.io/
 - https://youtu.be/4ht22ReBjno
 
 #### Computer Science
