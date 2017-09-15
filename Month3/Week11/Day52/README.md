@@ -2,17 +2,6 @@
 ## Coding Challenge #48
 - "CSS Animations" available in https://repl.it/student/submissions/1571861
 ***
-Ben Nelson
-Thomson Comer
-Ryan Hamblin
-Ivan Mora
-Sean Chen
-Tai Chulikavit
-Emily Sperry
-Christine Gierer
-GUEST LECTURER
-NO_VIDEO_RECORDED
-***
 # [1st Lecture](https://youtu.be/2M9caq3E8pM) w/Emily Sperry: Review Code Challenge #48: CSS Animations
 ***
 # [2nd Lecture](VIDEO_RECORDED_BUT_DEPRECATED_PER_FOLLOWING_VIDDY) w/Thomson Comer: Docker and LS-DevOps setup
