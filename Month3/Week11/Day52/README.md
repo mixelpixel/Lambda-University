@@ -28,6 +28,7 @@ CMD ["node", "/server.js"]
 
 ```console
 export PROJECT_ID=lambda-devops
+export PROJECT_ID=$(gcloud config list --format 'value(core.project)')
 
 docker build -t gcr.io/${PROJECT_ID}/lambda-devops:v1 .
 
