@@ -19,7 +19,7 @@ NO_VIDEO_RECORDED
 ***
 #### LUNCH
 ***
-# [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Wesley Harvey: Regular Expressions
+# [Brown Bag](https://youtu.be/pKCwl4OGm2c) w/Wesley Harvey: Regular Expressions
 http://www.regular-expressions.info/
 https://www.bell-labs.com/usr/dmr/www/qedman.pdf
 http://www.cs.princeton.edu/courses/archive/spr09/cos333/beautiful.html
@@ -32,11 +32,6 @@ $ man re_format
 ```
 
 ***
-# [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-***
-# [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-***
-# [4th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-# Lab / Q&A
+# [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Thomson Comer: LS-DevOp-Deployment Q&A
 ***
 # fin
