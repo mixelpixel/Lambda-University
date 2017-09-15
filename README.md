@@ -581,7 +581,7 @@ Code Challenge #48: https://repl.it/student/submissions/1571861 "CSS Animations"
 ### [DAY 53 NOTES](Month3/Week11/Day53/README.md)
 Code Challenge #49: https://repl.it/student/submissions/1581604 "Roman Numeral Encoder"
 #### [1st Lecture](https://youtu.be/BEIF6yT-I-8) w/Emily Sperry: Review Code Challenge #49 romanNumeralEncoder
-#### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [Brown Bag](https://youtu.be/pKCwl4OGm2c) w/Wesley Harvey: Regular Expressions
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 ***
