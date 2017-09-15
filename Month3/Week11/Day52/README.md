@@ -13,7 +13,7 @@ Christine Gierer
 GUEST LECTURER
 NO_VIDEO_RECORDED
 ***
-# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Emily Sperry: Review Code Challenge #48: CSS Animations
+# [1st Lecture](https://youtu.be/2M9caq3E8pM) w/Emily Sperry: Review Code Challenge #48: CSS Animations
 ***
 # [2nd Lecture](VIDEO_RECORDED_BUT_DEPRECATED_PER_FOLLOWING_VIDDY) w/Thomson Comer: Docker and LS-DevOps setup
 - `env | grep PROJECT`
@@ -56,8 +56,9 @@ gcloud docker -- push gcr.io/${PROJECT_ID}/lambda-devops:v1
 ***
 # [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Austen Allred: Startups!
 ***
-# [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Thomson Comer: LS DevOps / Deployment Q&A
+# [4th Lecture](https://youtu.be/19Cjc88IDeE) w/Thomson Comer: LS DevOps / Deployment Q&A
 - Kubernetes
+- https://youtu.be/4ht22ReBjno
 ```
 If you see an issue with "Container Engine API is not enabled", you need to click into your Google Cloud project settings and go to Container Engine, then it will enable the API for you.
 
