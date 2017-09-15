@@ -451,8 +451,6 @@ Solo Programming: https://github.com/mixelpixel/LS-Greenfield
 Code Challenge #37: https://repl.it/student/submissions/1454546 "Armstrong Numbers"
 #### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ben Nelson: Review Code Challenge #36 sumOfDigits
 #### [Brown Bag](https://youtu.be/qfbrWPV3mqI) w/Jesh Yoon: Japanese Mahjong
-#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 ***
 
 ### Day 42: Wednesday, August 30
