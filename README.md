@@ -811,6 +811,10 @@ Code Challenge #49: https://repl.it/student/submissions/1581604 "Roman Numeral E
 #### Development Operations & Deployment
 - http://awsdevops.io/
 - https://youtu.be/4ht22ReBjno
+- https://www.docker.com/
+- https://kukulinski.com/10-most-common-reasons-kubernetes-deployments-fail-part-1/
+- https://kukulinski.com/10-most-common-reasons-kubernetes-deployments-fail-part-2/
+- https://kubernetes.io/docs/user-guide/kubectl-cheatsheet/
 
 #### Computer Science
 - BIG O NOTATION
