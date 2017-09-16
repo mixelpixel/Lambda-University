@@ -2,17 +2,6 @@
 ## Coding Challenge #49
 - "Roman Numeral Encoder" available in https://repl.it/student/submissions/1581604
 ***
-Ben Nelson
-Thomson Comer
-Ryan Hamblin
-Ivan Mora
-Sean Chen
-Tai Chulikavit
-Emily Sperry
-Christine Gierer
-GUEST LECTURER
-NO_VIDEO_RECORDED
-***
 # [1st Lecture](https://youtu.be/BEIF6yT-I-8) w/Emily Sperry: Review Code Challenge #49: romanNumeralEncoder
 - https://repl.it/student/assignments/404208/model_solution?fromSubmissionId=1581604
 
@@ -32,9 +21,11 @@ $ man re_format
 ```
 
 ***
-# [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Thomson Comer: LS-DevOp-Deployment Q&A
+# [2nd Lecture](https://youtu.be/jVjZFRdkuA4) w/Thomson Comer: LS-DevOp-Deployment Back End
 - problems with local state...
-- Fronted
+
+# [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Thomson Comer: LS-DevOp-Deployment Front End
+- Frontend
 - https://mlab.com/ for mongoDB hosting there is a free tier
 - https://www.1and1.com/ for 11 dollars for a year
 
