@@ -33,5 +33,10 @@ $ man re_format
 
 ***
 # [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Thomson Comer: LS-DevOp-Deployment Q&A
+- problems with local state...
+- Fronted
+- https://mlab.com/ for mongoDB hosting there is a free tier
+- https://www.1and1.com/ for 11 dollars for a year
+
 ***
 # fin
