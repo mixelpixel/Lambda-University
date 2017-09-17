@@ -718,6 +718,7 @@ Code Challenge #49: https://repl.it/student/submissions/1581604 "Roman Numeral E
 
 #### C++
 - https://media.pearsoncmg.com/aw/ecs_gaddis_sowcpp_cs_8/mpl/videonotes.html
+- http://www-bcf.usc.edu/~dkempe/CS104/08-29.pdf
 
 #### REST
 - http://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm
@@ -848,6 +849,9 @@ http://files.hii-tech.com/book/Oreilly.Mastering.Regular.Expressions.3rd.Edition
 ```console
 $ man re_format
 ```
+- VIM
+	- https://vim-adventures.com/
+	- http://www.vimgenius.com/
 
 
 #### Interview prep
