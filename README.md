@@ -8,6 +8,7 @@ https://github.com/LambdaSchool/LambdaCSA-Syllabus
 
 
 - [Pre-Course Work](https://docs.google.com/document/d/1YKYxzNt6QZxnPw8xOT-Qyf1BY0cHb-Us1ydzZTphxRI/edit)
+	- ([updated pre-course work](https://docs.google.com/document/d/1tHol5Hl72qMCckpkP6L1uMoGmCt-Tnd7fFbETlhZi3s/edit#))
 	1. I earned a [Standford CS 101 Certificate](https://prod-cert-bucket.s3.amazonaws.com/downloads/9081486833cb4f1586f69479d17c6bb3/Statement.pdf)!
 	2. To be completed:
 		- Lambda Pro's [React](https://lambdaschool.com/pro/react), Node, ES6, and Mongo courses
@@ -583,7 +584,7 @@ Code Challenge #49: https://repl.it/student/submissions/1581604 "Roman Numeral E
 #### [1st Lecture](https://youtu.be/BEIF6yT-I-8) w/Emily Sperry: Review Code Challenge #49 romanNumeralEncoder
 #### [Brown Bag](https://youtu.be/pKCwl4OGm2c) w/Wesley Harvey: Regular Expressions
 #### [2nd Lecture](https://youtu.be/jVjZFRdkuA4) w/Thomson Comer: LS-DevOp-Deployment Back End
-#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Thomson Comer: LS-DevOp-Deployment Front End
+#### [3rd Lecture](https://youtu.be/6fthxZVGQUs) w/Thomson Comer: LS-DevOp-Deployment Front End
 ***
 
 
