@@ -9,8 +9,7 @@
 - https://codelabs.developers.google.com/codelabs/cloud-slack-bot/index.html#8
 
 ```console
-docker run -d gcr.io/${PROJ
-ECT_ID}/devops-deployment/backend:v1
+docker run -d gcr.io/${PROJECT_ID}/devops-deployment/backend:v1
 ```
 
 ***
