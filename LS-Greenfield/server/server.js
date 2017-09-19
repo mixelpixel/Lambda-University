@@ -72,7 +72,7 @@ server.get('/users', (req, res) => {
   });
 });
 
-server.post('/users', (req, res) => {
+server.post('/user', (req, res) => {
   const { username } = req.body;
   if (!username) {
     res.status(STATUS_USER_ERROR);
@@ -90,7 +90,7 @@ server.post('/users', (req, res) => {
   });
 });
 
-server.get('/users/:id', (req, res) => {
+server.get('/user/:id', (req, res) => {
   const { id } = req.params;
   User.find({ _id: id }, (err, user) => {
     if (err) {
@@ -102,7 +102,7 @@ server.get('/users/:id', (req, res) => {
   });
 });
 
-server.delete('/users/:id', (req, res) => {
+server.delete('/user/:id', (req, res) => {
   const { id } = req.params;
   User.remove({ _id: id }, (err, user) => {
     if (err) {
