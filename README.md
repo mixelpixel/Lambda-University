@@ -585,13 +585,16 @@ Code Challenge #49: https://repl.it/student/submissions/1581604 "Roman Numeral E
 #### [Brown Bag](https://youtu.be/pKCwl4OGm2c) w/Wesley Harvey: Regular Expressions
 #### [2nd Lecture](https://youtu.be/jVjZFRdkuA4) w/Thomson Comer: LS-DevOp-Deployment Back End
 #### [3rd Lecture](https://youtu.be/6fthxZVGQUs) w/Thomson Comer: LS-DevOp-Deployment Front End
-***
 
 
 ***
 
 
 ## Week 12: Sept. 18 - 22
+### Day 54: Monday, September 18
+### [DAY 54 NOTES](Month3/Week12/Day54/README.md)
+***
+
 
 
 ***
