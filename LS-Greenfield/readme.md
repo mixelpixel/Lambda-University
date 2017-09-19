@@ -1,2 +1,7 @@
+My goal is to tie together aspects of the Mongo, Client-Auth and Server-Testing projects to create a blog which I can deploy on the Google Cloud Platform.
+
 # SERVER
-Currently whether installing with yarn or npm, the `"eslint-plugin-import": "^2.7.0",` is raising an error. I think this might be an Atom thing? Either way, I'm gonna pull it altogether.
+
+# SCHEMA
+
+# TESTS

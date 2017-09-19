@@ -1,17 +1,66 @@
+/* #################################
+*  EXPRESS SETUP
+*  ################################# */
 const express = require('express');
+
+const server = express();
+
+/* #################################
+*  MONGO DATABASE SETUP
+*  ################################# */
 const mongoose = require('mongoose');
-const bodyParser = require('body-parser');
 
 const { User } = require('./models/User.js');
 const { Post } = require('./models/Post.js');
 
-const server = express();
+
+/* #################################
+*  ENDPOINT SETUP
+*  ################################# */
+const bodyParser = require('body-parser');
+
 server.use(bodyParser.json());
 
 const STATUS_USER_ERROR = 422;
 const STATUS_SERVER_ERROR = 500;
 
-// routes for users
+/* #################################
+*  INDEX ROUTE
+*  ################################# */
+
+server.get('/', (request, response) => {
+  response.send('Hello World!\n');
+});
+
+server.get('/version', (request, response) => {
+  response.send('1.0.0\n');
+});
+
+/* #################################
+*  HELPER FUNCTIONS
+*  ################################# */
+
+// const sendUserError = (err, res) => {
+//   res.status(STATUS_USER_ERROR);
+//   if (err && err.message) {
+//     res.json({ message: err.message, stack: err.stack });
+//   } else {
+//     res.json({ error: err });
+//   }
+// };
+// const sendServerError = (err, res) => {
+//   res.status(STATUS_SERVER_ERROR);
+//   if (err && err.message) {
+//     res.json({ message: err.message, stack: err.stack });
+//   } else {
+//     res.json({ error: err });
+//   }
+// };
+
+/* #################################
+*  ROUTES FOR USERS
+*  ################################# */
+
 server.get('/users', (req, res) => {
   User.find({}, (err, users) => {
     if (err) {
@@ -43,7 +92,7 @@ server.post('/users', (req, res) => {
 
 server.get('/users/:id', (req, res) => {
   const { id } = req.params;
-  User.find({_id: id}, (err, user) => {
+  User.find({ _id: id }, (err, user) => {
     if (err) {
       res.status(STATUS_SERVER_ERROR);
       res.json({ error: 'we could not find the user' });
@@ -55,22 +104,24 @@ server.get('/users/:id', (req, res) => {
 
 server.delete('/users/:id', (req, res) => {
   const { id } = req.params;
-  User.remove({_id: id}, (err, user) => {
+  User.remove({ _id: id }, (err, user) => {
     if (err) {
       res.status(STATUS_SERVER_ERROR);
-      res.json({ error: 'the id provided does not match any in the db' })
+      res.json({ error: 'the id provided does not match any in the db' });
       return;
     } else if (user.result.n === 0) {
-      res.json({ error: 'user not found'})
+      res.json({ error: 'user not found' });
       return;
     }
     res.json(user);
   });
 });
 
-// routes for blog
+/* #################################
+*  ROUTES FOR BLOG POSTS
+*  ################################# */
 server.get('/posts', (req, res) => {
-  Blog.find({}, (err, post) => {
+  Post.find({}, (err, post) => {
     if (err) {
       res.status(STATUS_USER_ERROR);
       res.json(err);
@@ -87,7 +138,7 @@ server.post('/posts', (req, res) => {
     res.json({ error: 'please provide title and contents' });
     return;
   }
-  const post = new Blog({ title, contents });
+  const post = new Post({ title, contents });
   post.save((err) => {
     if (err) {
       res.status(STATUS_SERVER_ERROR);
@@ -100,7 +151,7 @@ server.post('/posts', (req, res) => {
 
 server.get('/posts/:id', (req, res) => {
   const { id } = req.params;
-  Blog.find({_id: id}, (err, post) => {
+  Post.find({ _id: id }, (err, post) => {
     if (err) {
       res.status(STATUS_SERVER_ERROR);
       res.json({ error: 'we could not find the blog post' });
@@ -128,7 +179,7 @@ server.put('/posts/:id', (req, res) => {
     res.json({ error: 'Please modify the CONTENTS too.' });
     return;
   }
-  Blog.updateOne({ _id: id }, updates, (err) => {
+  Post.updateOne({ _id: id }, updates, (err) => {
     if (err) {
       res.status(STATUS_SERVER_ERROR);
       res.json(`There is no: ${err.value}`);
@@ -140,31 +191,41 @@ server.put('/posts/:id', (req, res) => {
 
 server.delete('/posts/:id', (req, res) => {
   const { id } = req.params;
-  Blog.remove({_id: id}, (err, post) => {
+  Post.remove({ _id: id }, (err, post) => {
     if (err) {
       res.status(STATUS_SERVER_ERROR);
-      res.json({ error: 'the id provided does not match any in the db' })
+      res.json({ error: 'the id provided does not match any in the db' });
       return;
     } else if (post.result.n === 0) {
-      res.json({ error: 'post not found'})
+      res.json({ error: 'post not found' });
       return;
     }
     res.json(post);
   });
 });
 
+/* #################################
+*  MONGO DATABASE CONNECTION
+*  ################################# */
+
+/* eslint no-console: 0 */
 mongoose.Promise = global.Promise;
-const connect = mongoose.connect(
-  'mongodb://localhost/users',
-  { useMongoClient: true }
-);
+const connect = mongoose.connect('mongodb://localhost/users', { useMongoClient: true }, (err) => {
+  if (err) return console.log('\nyoYOyo-yo!!! WTF, yo??????\n', err);
+  console.log('DUDE! You are like totally connected to the BLOG DataBase, man!\nLike, all your chakras are, like, totally... cool...\ny\'know, like: lined up and in balance, man... Whoa.\n');
+});
+
+/* #################################
+*  SERVER!
+*  ################################# */
 
 connect.then(() => {
-  const port = 3000;
-  server.listen(port);
-  console.log(`Server Listening on ${port}`);
+  const PORT = 3000;
+  const HOST = '0.0.0.0';
+  server.listen(PORT);
+  console.log(`Ye Ol' Server is listening on ${PORT}`);
 }, (err) => {
   console.log('\n************************');
-  console.log("ERROR: Couldn't connect to MongoDB. Do you have it running?");
+  console.log("ERROR: Couldn't connect to MongoDB.\nDo you have it running?");
   console.log('************************\n');
 });
