@@ -760,6 +760,9 @@ Code Challenge #49: https://repl.it/student/submissions/1581604 "Roman Numeral E
 - REACT FOR BEGINNERS: https://reactforbeginners.com/
 - http://6.470.scripts.mit.edu/2014/slides/React-MIT.pdf
 - https://github.com/petehunt/react-howto
+- https://reactarmory.com/resources/lifecycle-simulators#State-updates
+- https://reactarmory.com/resources/lifecycle-simulators#Prop-updates
+- https://reactarmory.com/guides/context-free-react-router
 ##### REACT-NATIVE
 - https://github.com/ReactNativeNews/react-native-newsletter
 - https://github.com/ReactNativeNews/React-Native-Apps
