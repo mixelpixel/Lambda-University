@@ -1,7 +1,8 @@
 # Lambda University - September 18, 2017: Day 054, Monday
 ***
-[Lambda School Mini Bootcamp: ES6](https://youtu.be/IPMvxZR9Me8)
-[Lambda School Mini Bootcamp Homework](https://repl.it/student/classrooms/30706)
+[Lambda School Mini Bootcamp: ES6 Lesson ONE](https://youtu.be/IPMvxZR9Me8)
+- https://gist.github.com/ryanhca/6342ee7bc499e2fe293348e045cbf732
+[Lambda School Mini Bootcamp Lesson ONE Homework](https://repl.it/student/classrooms/30706)
 [Pre-coursework](https://docs.google.com/document/d/1tHol5Hl72qMCckpkP6L1uMoGmCt-Tnd7fFbETlhZi3s/edit#)
 http://jsforcats.com
 https://lambdaschool.com/submit-precourse
