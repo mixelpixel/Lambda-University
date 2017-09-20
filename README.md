@@ -609,7 +609,6 @@ Code Challenge #49: https://repl.it/student/submissions/1581604 "Roman Numeral E
 
 ### Day 58: Friday, September 22
 ### [DAY 58 NOTES](Month3/Week12/Day58/README.md)
-***
 
 
 ***
