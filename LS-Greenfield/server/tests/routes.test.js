@@ -4,7 +4,7 @@ const chaiHTTP = require('chai-http');
 
 const server = require('../server');
 
-// mongoose.connect('mongodb://localhost/test'); // ~~~> , { useMongoClient: true }, (err) => {...}
+mongoose.connect('mongodb://localhost/test'); // ~~~> , { useMongoClient: true }, (err) => {...}
 /* eslint no-console: 0 */
 mongoose.connect('mongodb://localhost/test', { useMongoClient: true }, (err) => {
   if (err) return console.log(err);
@@ -19,6 +19,38 @@ mongoose.Promise = global.Promise;
 
 const expect = chai.expect;
 chai.use(chaiHTTP);
+
+describe('Basic Server', () => {
+  describe('[GET] /', () => {
+    it('should GET a Hello World confirmation', (done) => {
+      // chai.request(server)
+      chai.request('http://localhost:3000')
+      .get('/')
+      .end((err, res) => {
+        if (err) return console.log('Are you sure the server and the DB are running?', err.response.error);
+        expect(res.status).to.equal(200);
+        expect(typeof res.text).to.equal('string');
+        expect(res.text).to.equal('Hello World!\n');
+        done();
+      });
+    });
+  });
+
+  describe('[GET] /version', () => {
+    it('should GET a version #', (done) => {
+      // chai.request(server)
+      chai.request('http://localhost:3000')
+      .get('/version')
+      .end((err, res) => {
+        if (err) return console.log('Are you sure the server and the DB are running?', err.response.error);
+        expect(res.status).to.equal(200);
+        expect(typeof res.text).to.equal('string');
+        expect(res.text).to.equal('1.0.0\n');
+        done();
+      });
+    });
+  });
+});
 
 // describe('/food', () => {
 //   // https://mochajs.org/#describing-hooks

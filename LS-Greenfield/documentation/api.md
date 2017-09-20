@@ -82,7 +82,6 @@ HTTP METHODS: https://www.w3.org/Protocols/rfc2616/rfc2616-sec9.html
 ***
 # /
 ## GET root confirmation
-- curl localhost:3000
 - ROUTE: **GET /**
 - RESPONSE: `STATUS 200 OK` https://http.cat/200
 - RETURN: `String`
@@ -94,7 +93,6 @@ Hello World!
 
 # /version
 ## GET project version number
-- curl localhost:3000/version
 - ROUTE: **GET /version**
 - RESPONSE: `STATUS 200 OK` https://http.cat/200
 - RETURN: `String`
@@ -103,7 +101,6 @@ Hello World!
 $  curl localhost:3000/version
 1.0.0
 ```
-
 
 # /user
 ## GET all database entries
