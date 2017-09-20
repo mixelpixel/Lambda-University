@@ -599,6 +599,18 @@ Code Challenge #49: https://repl.it/student/submissions/1581604 "Roman Numeral E
 ### [DAY 55 NOTES](Month3/Week12/Day55/README.md)
 ***
 
+### Day 56: Wednesday, September 20
+### [DAY 56 NOTES](Month3/Week12/Day56/README.md)
+***
+
+### Day 57: Thursday, September 21
+### [DAY 57 NOTES](Month3/Week12/Day57/README.md)
+***
+
+### Day 58: Friday, September 22
+### [DAY 58 NOTES](Month3/Week12/Day58/README.md)
+***
+
 
 ***
 
