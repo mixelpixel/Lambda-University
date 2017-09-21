@@ -918,7 +918,7 @@ If `git submodule add <URL>` was used to set up a git repository as a submodule 
 5. Delete the relevant submodule section from the super-projects .gitmodules file (i.e. remove the listing of the problem submodule).
 6. Stage the .gitmodules changes `git add .gitmodules`
 7. Delete the relevant sunmodule section from super-projects .git/config.
-8. Run `git rm --cached -rf path_to_submodule` where "path_to_submodule" is the actual path to the submodule.
+8. Run `git rm --cached -rf path_to_submodule` where `path_to_submodule` is the actual path to the submodule.
 9. Run `rm -rf .git/modules/path_to_submodule`.
 10. Commit `git commit -m "Removed submodule commit message"`.
 11. Delete the now untracked submodule files: `rm -rf path_to_submodule`
