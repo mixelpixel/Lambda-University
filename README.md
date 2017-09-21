@@ -908,5 +908,22 @@ $ man re_format
 ### git notes
 - `git config core.ignorecase false`
 - most projects set up as submodules
+- A NOTE on reconfiguring submodules:
+
+If `git submodule add <URL>` was used to set up a git repository as a submodule within a "super-project" and the submodule is NOT committing within the super-project as a single object (i.e. if you are having to commit each individual file from the submodule), then follow these steps to reconfigure:
+1. Save all work in the submodule.
+2. Stage and commit all file changes.
+3. Push all commits to GitHub.
+4. Make a safety copy of the submodule folder if you are cautious
+5. Delete the relevant submodule section from the super-projects .gitmodules file (i.e. remove the listing of the problem submodule).
+6. Stage the .gitmodules changes `git add .gitmodules`
+7. Delete the relevant sunmodule section from super-projects .git/config.
+8. Run `git rm --cached -rf path_to_submodule` where "path_to_submodule" is the actual path to the submodule.
+9. Run `rm -rf .git/modules/path_to_submodule`.
+10. Commit `git commit -m "Removed submodule commit message"`.
+11. Delete the now untracked submodule files: `rm -rf path_to_submodule`
+12. `git submodule add <URL>`
+13. Test to see if a change (fwiw, modify two files) in the submodule is handled as a single object when committing in the super-project.
+14. Success? Delete the safety copy of the submodule project.
 
 ## fin.
