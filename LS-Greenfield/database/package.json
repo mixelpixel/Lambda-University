@@ -1,0 +1,36 @@
+{
+  "name": "LS-Greenfield",
+  "version": "1.0.0",
+  "author": "Patrick Kennedy",
+  "homepage": "https://github.com/mixelpixel/LS-Greenfield#README",
+  "bugs": {
+    "url": "https://github.com/mixelpixel/LS-Greefield/issues"
+  },
+  "description": "simple blogging database",
+  "license": "ISC",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mixelpixel/LS-Greenfield.git"
+  },
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "eslint *.js && mocha -R nyan tests",
+    "watch": "npm test -- --watch"
+  },
+  "dependencies": {
+    "babel-preset-env": "^1.6.0",
+    "body-parser": "^1.17.2",
+    "chai": "^4.1.2",
+    "chai-http": "^3.0.0",
+    "eslint": "^3.17.1",
+    "eslint-config-airbnb": "^14.1.0",
+    "eslint-plugin-import": "^2.7.0",
+    "eslint-plugin-jsx-a11y": "^3.0.2",
+    "eslint-plugin-react": "^6.9.0",
+    "express": "^4.15.4",
+    "mocha": "^3.5.0",
+    "mongoose": "^4.11.7",
+    "sinon": "^3.2.1"
+  }
+}
