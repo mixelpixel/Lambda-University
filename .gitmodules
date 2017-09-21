@@ -121,3 +121,6 @@
 [submodule "Personal-Project"]
 	path = Personal-Project
 	url = https://github.com/mixelpixel/Personal-Project.git
+[submodule "LS-Greenfield"]
+	path = LS-Greenfield
+	url = https://github.com/mixelpixel/LS-Greenfield.git
