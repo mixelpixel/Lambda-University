@@ -617,11 +617,12 @@ Code Challenge #49: https://repl.it/student/submissions/1581604 "Roman Numeral E
 ## Week 13: Sept. 25 - 29
 ### Day 59: Monday, September 25
 ### [DAY 59 NOTES](Month3/Week13/Day59/README.md)
-Code Challenge #??: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
-#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #?? NEW_CODE_CHALLENGE
-#### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+Code Challenge #50: https://repl.it/student/submissions/1664305 "Stack Machine"
+#### [1st Lecture](https://youtu.be/w-kcXRj0Tu4) w/Tai Chulikavit: Review Code Challenge #50: stackMachine
+#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Thomson Comer: LS-DevOps & Deployment review
+#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Thomson Comer: LS-DevOps & Deployment solution
+#### [4th Lecture](https://youtu.be/QuPWki6vMMI) w/Thomson Comer: Computer Architecture One Intro
+#### [5th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Thomson Comer: Computer Architecture One
 Pair Programming #??: https://github.com/LambdaSchool/????? w/???
 ***
 
