@@ -13,7 +13,7 @@ Christine Gierer
 GUEST LECTURER
 NO_VIDEO_RECORDED
 ***
-# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Tai Chulikavit: Review Code Challenge #50: stackMachine
+# [1st Lecture](https://youtu.be/w-kcXRj0Tu4) w/Tai Chulikavit: Review Code Challenge #50: stackMachine
 - https://repl.it/student/submissions/1664305
 
 ***
@@ -29,7 +29,7 @@ NO_VIDEO_RECORDED
 ***
 #### LUNCH
 ***
-# [4th Lecture](https://youtu.be/QuPWki6vMMI) w/Thomson Comer: Computer Architecture One
+# [4th Lecture](https://youtu.be/QuPWki6vMMI) w/Thomson Comer: Computer Architecture One Intro
 - Theory and Hardware
 ### [@2m43s](https://youtu.be/QuPWki6vMMI?=2m43s) Tansistors
   - How to build a computer from scratch
@@ -53,7 +53,9 @@ NO_VIDEO_RECORDED
 #### [@39m16s](https://youtu.be/QuPWki6vMMI?=39m16s) i7 CPU on motherboard
 #### [@49m32s](https://youtu.be/QuPWki6vMMI?=49m32s) i7 CPU behavior
 
-
+***
+# [5th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Thomson Comer: Computer Architecture One
+***
 # Lab / Q&A
 ***
 # fin
