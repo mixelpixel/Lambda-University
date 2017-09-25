@@ -41,13 +41,17 @@ NO_VIDEO_RECORDED
   - semi-conductor transistors (shrinkable) replaced vacuum tubes (very big)
 
 ### [@12m37s](https://youtu.be/QuPWki6vMMI?=12m37s) Computer Architecture
-
 #### [@20m26s](https://youtu.be/QuPWki6vMMI?=20m26s) Busses
   - I/O to peripheral devices and network interface
   - DMA Direct Memory Access
 
 ### [@28m15s](https://youtu.be/QuPWki6vMMI?=28m15s) Layout
   - Heat dissapation
+  - North Bridge
+  - RAM
+#### [@36m51s](https://youtu.be/QuPWki6vMMI?=36m51s) CPU bottom
+#### [@39m16s](https://youtu.be/QuPWki6vMMI?=39m16s) i7 CPU on motherboard
+#### [@49m32s](https://youtu.be/QuPWki6vMMI?=49m32s) i7 CPU behavior
 
 
 # Lab / Q&A
