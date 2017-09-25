@@ -17,8 +17,6 @@ NO_VIDEO_RECORDED
 - https://repl.it/student/submissions/1664305
 
 ***
-#### LUNCH
-***
 # [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Thomson Comer: LS-DevOps & Deployment review
 - https://docs.google.com/document/d/18ZxwbF7ozYshfl7vDEQBLTDpzwgENnu7aHcPDm6Fcno/edit
 - https://www.udemy.com/learn-devops-the-complete-kubernetes-course/
@@ -26,7 +24,10 @@ NO_VIDEO_RECORDED
 ***
 # [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Thomson Comer: LS-DevOps & Deployment solution
 - https://www.namecheap.com/
+- https://hub.docker.com/
 
+***
+#### LUNCH
 ***
 # [4th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 # Lab / Q&A
