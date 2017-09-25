@@ -615,8 +615,48 @@ Code Challenge #49: https://repl.it/student/submissions/1581604 "Roman Numeral E
 
 
 ## Week 13: Sept. 25 - 29
-### Day 59: Monay, September 25
+### Day 59: Monday, September 25
 ### [DAY 59 NOTES](Month3/Week13/Day59/README.md)
+Code Challenge #??: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #?? NEW_CODE_CHALLENGE
+#### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+Pair Programming #??: https://github.com/LambdaSchool/????? w/???
+***
+
+### Day 60: Tuesday, September 26
+### [DAY 60 NOTES](Month3/Week13/Day60/README.md)
+Code Challenge #??: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #?? NEW_CODE_CHALLENGE
+#### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+Pair Programming #??: https://github.com/LambdaSchool/????? w/???
+***
+
+### Day 61: Wednesday, September 27
+### [DAY 61 NOTES](Month3/Week13/Day61/README.md)
+Code Challenge #??: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #?? NEW_CODE_CHALLENGE
+#### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+Pair Programming #??: https://github.com/LambdaSchool/????? w/???
+***
+
+### Day 62: Thursday, September 28
+### [DAY 62 NOTES](Month3/Week13/Day62/README.md)
+Code Challenge #??: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #?? NEW_CODE_CHALLENGE
+#### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+Pair Programming #??: https://github.com/LambdaSchool/????? w/???
+***
+
+### Day 63: Friday, September 29
+### [DAY 63 NOTES](Month3/Week13/Day63/README.md)
 Code Challenge #??: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
 #### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #?? NEW_CODE_CHALLENGE
 #### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
