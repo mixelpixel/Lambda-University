@@ -124,3 +124,6 @@
 [submodule "LS-Greenfield"]
 	path = LS-Greenfield
 	url = https://github.com/mixelpixel/LS-Greenfield.git
+[submodule "Computer-Architecture-One"]
+	path = Computer-Architecture-One
+	url = https://github.com/mixelpixel/Computer-Architecture-One.git
