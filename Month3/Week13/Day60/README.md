@@ -21,11 +21,6 @@ NO_VIDEO_RECORDED
 ***
 # [Brown Bag](https://youtu.be/BQIoxKE4MqY) w/Zack Argyle: Web Engineering
 ***
-# [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-***
-# [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-***
-# [4th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-# Lab / Q&A
+# [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Q&A
 ***
 # fin
