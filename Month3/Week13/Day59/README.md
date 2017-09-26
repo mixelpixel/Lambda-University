@@ -54,8 +54,35 @@ NO_VIDEO_RECORDED
 #### [@49m32s](https://youtu.be/QuPWki6vMMI?=49m32s) i7 CPU behavior
 
 ***
-# [5th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Thomson Comer: Computer Architecture One
-***
-# Lab / Q&A
+# [5th Lecture](https://youtu.be/82F93iymaaU) w/Thomson Comer: Computer Architecture One
+- https://www.lucidchart.com/invitations/accept/0e138e6b-8fd6-4233-8bb9-cb956227c6a1
+- The general purpose CPU abstracts all the other stuff
+```
+#inputfile
+00000001 # initialize
+00000010 # SET register
+00000000 # register #0
+00000100 # SAVE next
+```
+
+`#` denotes a comment
+each of the 8-digit numbers digits represents a wire with a binary state, 0 - off, 1 - on.
+
+- B.I.O.S. basic input output system
+
+- setInterval to make a clock
+- load file with fs `import fs`
+- memory register
+- instruction register execute
+
+# [6th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Collaboration: Computer Architecture One
+
+# [7th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Thomson Comer: Computer Architecture One Q&A
+- https://nodejs.org/docs/latest/api/process.html#process_process_argv
+- https://nodejs.org/api/stream.html
+- https://docs.nodejitsu.com/articles/advanced/streams/how-to-use-fs-create-read-stream/
+- get interger commands (wires) from file
+- multiply eight and nine
+
 ***
 # fin
