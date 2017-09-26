@@ -633,7 +633,7 @@ Pair Programming #20: https://github.com/LambdaSchool/Computer-Architecture-One 
 Code Challenge #51: https://repl.it/student/submissions/1677604 "Combine Two Strings"
 #### [1st Lecture](https://youtu.be/lcTbfgMlNNE) w/Sean Chen: Review Code Challenge #51: combineTwoStrings
 #### [Brown Bag](https://youtu.be/BQIoxKE4MqY) w/Zack Argyle: Web Engineering
-#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [2nd Lecture](https://youtu.be/kP29RbUD7bY) w/Thomson Comer: Stay on target
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 ***
 
