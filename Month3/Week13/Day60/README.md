@@ -19,7 +19,7 @@ NO_VIDEO_RECORDED
 ***
 #### LUNCH
 ***
-# [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Zack Argyle: Web Engineering
+# [Brown Bag](https://youtu.be/BQIoxKE4MqY) w/Zack Argyle: Web Engineering
 ***
 # [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 ***
