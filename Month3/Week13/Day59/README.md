@@ -2,17 +2,6 @@
 ## Coding Challenge #50
 - "Stack Machine" available in https://repl.it/student/submissions/1664305
 ***
-Ben Nelson
-Thomson Comer
-Ryan Hamblin
-Ivan Mora
-Sean Chen
-Tai Chulikavit
-Emily Sperry
-Christine Gierer
-GUEST LECTURER
-NO_VIDEO_RECORDED
-***
 # [1st Lecture](https://youtu.be/w-kcXRj0Tu4) w/Tai Chulikavit: Review Code Challenge #50: stackMachine
 - https://repl.it/student/submissions/1664305
 
@@ -55,6 +44,7 @@ NO_VIDEO_RECORDED
 
 ***
 # [5th Lecture](https://youtu.be/82F93iymaaU) w/Thomson Comer: Computer Architecture One
+### [@52m54s](https://youtu.be/82F93iymaaU?=52m54s) The procedure
 - https://www.lucidchart.com/invitations/accept/0e138e6b-8fd6-4233-8bb9-cb956227c6a1
 - The general purpose CPU abstracts all the other stuff
 ```
@@ -75,7 +65,7 @@ each of the 8-digit numbers digits represents a wire with a binary state, 0 - of
 - memory register
 - instruction register execute
 
-# [6th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Collaboration: Computer Architecture One
+# [6th Lecture](VIDEO_RECORDED_NOT_POSTED) Collaboration: Computer Architecture One
 
 # [7th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Thomson Comer: Computer Architecture One Q&A
 - https://nodejs.org/docs/latest/api/process.html#process_process_argv
