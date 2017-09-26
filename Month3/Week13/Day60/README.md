@@ -1,6 +1,6 @@
 # Lambda University - September 26, 2017: Day 060, Tuesday
 ## Coding Challenge #51
-- "Combine Two Strings" available in https://repl.it/student/submissions/1674863
+- "Combine Two Strings" available in https://repl.it/student/submissions/1677604
 ***
 Ben Nelson
 Thomson Comer
