@@ -623,17 +623,18 @@ Code Challenge #50: https://repl.it/student/submissions/1664305 "Stack Machine"
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Thomson Comer: LS-DevOps & Deployment solution
 #### [4th Lecture](https://youtu.be/QuPWki6vMMI) w/Thomson Comer: Computer Architecture One Intro
 #### [5th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Thomson Comer: Computer Architecture One
-Pair Programming #??: https://github.com/LambdaSchool/????? w/???
+#### [6th Lecture](VIDEO_RECORDED_NOT_POSTED) Collaboration: Computer Architecture One
+#### [7th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Thomson Comer: Computer Architecture One Q&A
+Pair Programming #20: https://github.com/LambdaSchool/Computer-Architecture-One w/Steve
 ***
 
 ### Day 60: Tuesday, September 26
 ### [DAY 60 NOTES](Month3/Week13/Day60/README.md)
-Code Challenge #??: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
-#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #?? NEW_CODE_CHALLENGE
-#### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+Code Challenge #51: https://repl.it/student/submissions/1674863 "Combine Two Strings"
+#### [1st Lecture](https://youtu.be/lcTbfgMlNNE) w/Sean Chen: Review Code Challenge #51: combineTwoStrings
+#### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Zack Argyle: Web Engineering
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-Pair Programming #??: https://github.com/LambdaSchool/????? w/???
 ***
 
 ### Day 61: Wednesday, September 27
@@ -643,7 +644,6 @@ Code Challenge #??: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
 #### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-Pair Programming #??: https://github.com/LambdaSchool/????? w/???
 ***
 
 ### Day 62: Thursday, September 28
@@ -653,7 +653,6 @@ Code Challenge #??: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
 #### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-Pair Programming #??: https://github.com/LambdaSchool/????? w/???
 ***
 
 ### Day 63: Friday, September 29
@@ -663,7 +662,6 @@ Code Challenge #??: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
 #### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-Pair Programming #??: https://github.com/LambdaSchool/????? w/???
 ***
 
 
