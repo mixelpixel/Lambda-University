@@ -622,7 +622,7 @@ Code Challenge #50: https://repl.it/student/submissions/1664305 "Stack Machine"
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Thomson Comer: LS-DevOps & Deployment review
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Thomson Comer: LS-DevOps & Deployment solution
 #### [4th Lecture](https://youtu.be/QuPWki6vMMI) w/Thomson Comer: Computer Architecture One Intro
-#### [5th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Thomson Comer: Computer Architecture One
+#### [5th Lecture](https://youtu.be/82F93iymaaU) w/Thomson Comer: Computer Architecture One
 #### [6th Lecture](VIDEO_RECORDED_NOT_POSTED) Collaboration: Computer Architecture One
 #### [7th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Thomson Comer: Computer Architecture One Q&A
 Pair Programming #20: https://github.com/LambdaSchool/Computer-Architecture-One w/Steve
@@ -639,8 +639,8 @@ Code Challenge #51: https://repl.it/student/submissions/1677604 "Combine Two Str
 
 ### Day 61: Wednesday, September 27
 ### [DAY 61 NOTES](Month3/Week13/Day61/README.md)
-Code Challenge #??: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
-#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #?? NEW_CODE_CHALLENGE
+Code Challenge #52: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #52 NEW_CODE_CHALLENGE
 #### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
@@ -648,8 +648,8 @@ Code Challenge #??: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
 
 ### Day 62: Thursday, September 28
 ### [DAY 62 NOTES](Month3/Week13/Day62/README.md)
-Code Challenge #??: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
-#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #?? NEW_CODE_CHALLENGE
+Code Challenge #53: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #53 NEW_CODE_CHALLENGE
 #### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
@@ -657,8 +657,8 @@ Code Challenge #??: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
 
 ### Day 63: Friday, September 29
 ### [DAY 63 NOTES](Month3/Week13/Day63/README.md)
-Code Challenge #??: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
-#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #?? NEW_CODE_CHALLENGE
+Code Challenge #54: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #54 NEW_CODE_CHALLENGE
 #### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
@@ -923,6 +923,7 @@ $ man re_format
 	- http://www.vimgenius.com/
 - CS Engineering
 	- https://www.youtube.com/user/eaterbc
+	- https://eater.net/8bit/
 	- [registers and RAM](https://www.youtube.com/watch?v=fpnE6UAfbtU)
 
 
