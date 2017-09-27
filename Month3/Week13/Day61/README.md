@@ -1,6 +1,6 @@
 # Lambda University - September 27, 2017: Day 061, Wednesday
 ## Coding Challenge #52
-- "NEW_CODE_CHALLENGE" available in https://repl.it/student/submissions/#
+- "Sum Digit Power" available in https://repl.it/student/submissions/1684889
 ***
 Ben Nelson
 Thomson Comer
@@ -13,7 +13,7 @@ Christine Gierer
 GUEST LECTURER
 NO_VIDEO_RECORDED
 ***
-# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #52: NEW_CODE_CHALLENGE
+# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #52: sumDigitPower
 - https://repl.it/student/assignments/######/model_solution?fromSubmissionId=????
 
 ***
