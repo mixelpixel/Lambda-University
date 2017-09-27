@@ -14,7 +14,7 @@ GUEST LECTURER
 NO_VIDEO_RECORDED
 ***
 # [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #52: sumDigitPower
-- https://repl.it/student/assignments/######/model_solution?fromSubmissionId=????
+- https://repl.it/student/assignments/439262/model_solution?fromSubmissionId=1684889
 
 ***
 #### LUNCH
