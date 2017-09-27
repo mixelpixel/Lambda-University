@@ -634,16 +634,16 @@ Code Challenge #51: https://repl.it/student/submissions/1677604 "Combine Two Str
 #### [1st Lecture](https://youtu.be/lcTbfgMlNNE) w/Sean Chen: Review Code Challenge #51: combineTwoStrings
 #### [Brown Bag](https://youtu.be/BQIoxKE4MqY) w/Zack Argyle: Web Engineering
 #### [2nd Lecture](https://youtu.be/kP29RbUD7bY) w/Thomson Comer: Stay on target
-#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Thomson Comer: LS-CA1 Q&A
+#### [3rd Lecture](https://youtu.be/ti29qrVGG1k) w/Thomson Comer: LS-CA1 Q&A
 ***
 
 ### Day 61: Wednesday, September 27
 ### [DAY 61 NOTES](Month3/Week13/Day61/README.md)
 Code Challenge #52: https://repl.it/student/submissions/1684889 "Sum Digit Power"
-#### [1st Lecture](https://youtu.be/sG8YnMyKohA) w/Speaker: Review Code Challenge #52 sumDigitPower
-#### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [1st Lecture](https://youtu.be/sG8YnMyKohA) w/Ben Nelson: Review Code Challenge #52 sumDigitPower
+#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Thomson Comer: LS Computer Architecture One solution
+#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Thomson Comer: LS Computer Architecture Two introduction
+Pair Programming #21: - https://github.com/LambdaSchool/Computer-Architecture-Two w/???
 ***
 
 ### Day 62: Thursday, September 28
