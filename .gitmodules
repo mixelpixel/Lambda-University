@@ -127,3 +127,6 @@
 [submodule "Computer-Architecture-One"]
 	path = Computer-Architecture-One
 	url = https://github.com/mixelpixel/Computer-Architecture-One.git
+[submodule "Computer-Architecture-Two"]
+	path = Computer-Architecture-Two
+	url = https://github.com/mixelpixel/Computer-Architecture-Two.git
