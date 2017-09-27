@@ -921,6 +921,9 @@ $ man re_format
 - VIM
 	- https://vim-adventures.com/
 	- http://www.vimgenius.com/
+- CS Engineering
+	- https://www.youtube.com/user/eaterbc
+	- [registers and RAM](https://www.youtube.com/watch?v=fpnE6UAfbtU)
 
 
 #### Interview prep
