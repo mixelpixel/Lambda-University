@@ -44,6 +44,7 @@
 
 ***
 # [5th Lecture](https://youtu.be/82F93iymaaU) w/Thomson Comer: Computer Architecture One
+- https://github.com/LambdaSchool/Computer-Architecture-One
 ### [@52m54s](https://youtu.be/82F93iymaaU?=52m54s) The procedure
 - https://www.lucidchart.com/invitations/accept/0e138e6b-8fd6-4233-8bb9-cb956227c6a1
 - The general purpose CPU abstracts all the other stuff
