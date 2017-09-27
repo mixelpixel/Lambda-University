@@ -14,6 +14,6 @@
 - https://www.lucidchart.com/invitations/accept/0e138e6b-8fd6-4233-8bb9-cb956227c6a1
 
 ***
-# [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Thomson Comer: LS-CA1 Q&A
+# [3rd Lecture](https://youtu.be/ti29qrVGG1k) w/Thomson Comer: LS-CA1 Q&A
 ***
 # fin
