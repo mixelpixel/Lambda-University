@@ -639,8 +639,8 @@ Code Challenge #51: https://repl.it/student/submissions/1677604 "Combine Two Str
 
 ### Day 61: Wednesday, September 27
 ### [DAY 61 NOTES](Month3/Week13/Day61/README.md)
-Code Challenge #52: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
-#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #52 NEW_CODE_CHALLENGE
+Code Challenge #52: https://repl.it/student/submissions/1684889 "Sum Digit Power"
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #52 sumDigitPower
 #### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
