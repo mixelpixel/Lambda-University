@@ -8,9 +8,23 @@
 ***
 #### LUNCH
 ***
-# [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Thomson Comer: LS Computer Architecture One solution
+# [2nd Lecture](https://youtu.be/2YI1zyfHapI) w/Thomson Comer: LS Computer Architecture One solution
 ***
 # [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Thomson Comer: LS Computer Architecture Two introduction
 - https://github.com/LambdaSchool/Computer-Architecture-Two
+- NEtwork interface cards
+- msgs across a set of wires - a bus. USB bus is special - connects through PCI bus. USB devices connect through an interrupt
+- GRFX pipeline
+- 3 main peripherals
+1. persistent storage
+2. output to the user & input from keyboard/mouse
+3. network
+
+network card
+hard disk
+video card
+
+http://www.torforgeblog.com/2017/04/03/how-can-we-make-technology-that-frees-us-rather-than-enslaves-us/
+
 ***
 # fin
