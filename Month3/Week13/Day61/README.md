@@ -10,7 +10,7 @@
 ***
 # [2nd Lecture](https://youtu.be/2YI1zyfHapI) w/Thomson Comer: LS Computer Architecture One solution
 ***
-# [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Thomson Comer: LS Computer Architecture Two introduction
+# [3rd Lecture](https://youtu.be/_ivSbOPoJNk) w/Thomson Comer: LS Computer Architecture Two introduction
 - https://github.com/LambdaSchool/Computer-Architecture-Two
 - NEtwork interface cards
 - msgs across a set of wires - a bus. USB bus is special - connects through PCI bus. USB devices connect through an interrupt
