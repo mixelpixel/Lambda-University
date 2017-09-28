@@ -13,8 +13,8 @@ Christine Gierer
 GUEST LECTURER
 NO_VIDEO_RECORDED
 ***
-# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Tai Chulikavit: Review Code Challenge #53: primeReduction
-- https://repl.it/student/assignments/######/model_solution?fromSubmissionId=????
+# [1st Lecture](https://youtu.be/u3p5kZtAAHY) w/Tai Chulikavit: Review Code Challenge #53: primeReduction
+- https://piazza.com/class/j63w1pdyopf7kj?cid=57
 
 ***
 #### LUNCH
