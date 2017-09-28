@@ -24,6 +24,8 @@ network card
 hard disk
 video card
 
+["IT DEPENDS"](https://youtu.be/_ivSbOPoJNk?=49m47s)
+
 http://www.torforgeblog.com/2017/04/03/how-can-we-make-technology-that-frees-us-rather-than-enslaves-us/
 
 ***
