@@ -642,14 +642,14 @@ Code Challenge #51: https://repl.it/student/submissions/1677604 "Combine Two Str
 Code Challenge #52: https://repl.it/student/submissions/1684889 "Sum Digit Power"
 #### [1st Lecture](https://youtu.be/sG8YnMyKohA) w/Ben Nelson: Review Code Challenge #52 sumDigitPower
 #### [2nd Lecture](https://youtu.be/2YI1zyfHapI) w/Thomson Comer: LS Computer Architecture One solution
-#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Thomson Comer: LS Computer Architecture Two introduction
+#### [3rd Lecture](https://youtu.be/_ivSbOPoJNk) w/Thomson Comer: LS Computer Architecture Two introduction
 Pair Programming #21: - https://github.com/LambdaSchool/Computer-Architecture-Two w/???
 ***
 
 ### Day 62: Thursday, September 28
 ### [DAY 62 NOTES](Month3/Week13/Day62/README.md)
-Code Challenge #53: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
-#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #53 NEW_CODE_CHALLENGE
+Code Challenge #53: https://repl.it/student/submissions/1695186 "Prime Reduction"
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Tai Chulikavit: Review Code Challenge #53 primeReduction
 #### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
@@ -926,6 +926,7 @@ $ man re_format
 	- https://eater.net/8bit/
 	- [registers and RAM](https://www.youtube.com/watch?v=fpnE6UAfbtU)
 - Technology that frees us: http://www.torforgeblog.com/2017/04/03/how-can-we-make-technology-that-frees-us-rather-than-enslaves-us/
+- Algorithms: https://www.dropbox.com/sh/8xapslslciddg26/AAC--Q61twdgkUMYSNJOIUVMa?dl=0
 
 #### Interview prep
 - https://github.com/h5bp/Front-end-Developer-Interview-Questions#js-questions
