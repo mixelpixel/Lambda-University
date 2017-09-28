@@ -1,6 +1,6 @@
 # Lambda University - September 28, 2017: Day 062, Thursday
-## Coding Challenge #
-- "NEW_CODE_CHALLENGE" available in https://repl.it/student/submissions/#
+## Coding Challenge #53
+- "Prime Reduction" available in https://repl.it/student/submissions/1695186
 ***
 Ben Nelson
 Thomson Comer
@@ -13,7 +13,7 @@ Christine Gierer
 GUEST LECTURER
 NO_VIDEO_RECORDED
 ***
-# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #??: NEW_CODE_CHALLENGE
+# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Tai Chulikavit: Review Code Challenge #53: primeReduction
 - https://repl.it/student/assignments/######/model_solution?fromSubmissionId=????
 
 ***
