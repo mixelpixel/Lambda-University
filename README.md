@@ -649,7 +649,7 @@ Pair Programming #21: - https://github.com/LambdaSchool/Computer-Architecture-Tw
 ### Day 62: Thursday, September 28
 ### [DAY 62 NOTES](Month3/Week13/Day62/README.md)
 Code Challenge #53: https://repl.it/student/submissions/1695186 "Prime Reduction"
-#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Tai Chulikavit: Review Code Challenge #53 primeReduction
+#### [1st Lecture](https://youtu.be/u3p5kZtAAHY) w/Tai Chulikavit: Review Code Challenge #53 primeReduction
 #### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
