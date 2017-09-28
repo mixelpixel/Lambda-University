@@ -641,7 +641,7 @@ Code Challenge #51: https://repl.it/student/submissions/1677604 "Combine Two Str
 ### [DAY 61 NOTES](Month3/Week13/Day61/README.md)
 Code Challenge #52: https://repl.it/student/submissions/1684889 "Sum Digit Power"
 #### [1st Lecture](https://youtu.be/sG8YnMyKohA) w/Ben Nelson: Review Code Challenge #52 sumDigitPower
-#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Thomson Comer: LS Computer Architecture One solution
+#### [2nd Lecture](https://youtu.be/2YI1zyfHapI) w/Thomson Comer: LS Computer Architecture One solution
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Thomson Comer: LS Computer Architecture Two introduction
 Pair Programming #21: - https://github.com/LambdaSchool/Computer-Architecture-Two w/???
 ***
@@ -925,7 +925,7 @@ $ man re_format
 	- https://www.youtube.com/user/eaterbc
 	- https://eater.net/8bit/
 	- [registers and RAM](https://www.youtube.com/watch?v=fpnE6UAfbtU)
-
+- Technology that frees us: http://www.torforgeblog.com/2017/04/03/how-can-we-make-technology-that-frees-us-rather-than-enslaves-us/
 
 #### Interview prep
 - https://github.com/h5bp/Front-end-Developer-Interview-Questions#js-questions
