@@ -43,7 +43,7 @@ gcloud docker -- push gcr.io/${PROJECT_ID}/lambda-devops:v1
 ![Dockerfile.png](Dockerfile.png)
 
 ***
-# [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Austen Allred: Startups!
+# [Brown Bag](https://youtu.be/-3i0n9RbeX4) w/Austen Allred: Startups!
 ***
 # [4th Lecture](https://youtu.be/19Cjc88IDeE) w/Thomson Comer: LS DevOps / Deployment Q&A Kubernetes
 - Kubernetes: https://youtu.be/4ht22ReBjno
