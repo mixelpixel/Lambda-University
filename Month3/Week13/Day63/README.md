@@ -1,6 +1,6 @@
 # Lambda University - September 29, 2017: Day 063, Friday
 ## Coding Challenge #54
-- "NEW_CODE_CHALLENGE" available in https://repl.it/student/submissions/#
+- "Full Adder" available in https://repl.it/student/submissions/1704948
 ***
 Ben Nelson
 Thomson Comer
@@ -13,7 +13,7 @@ Christine Gierer
 GUEST LECTURER
 NO_VIDEO_RECORDED
 ***
-# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #54: NEW_CODE_CHALLENGE
+# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #54: fullAdder
 - https://repl.it/student/assignments/######/model_solution?fromSubmissionId=????
 
 ***
