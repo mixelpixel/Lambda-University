@@ -656,8 +656,8 @@ Code Challenge #53: https://repl.it/student/submissions/1695186 "Prime Reduction
 
 ### Day 63: Friday, September 29
 ### [DAY 63 NOTES](Month3/Week13/Day63/README.md)
-Code Challenge #54: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
-#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #54 NEW_CODE_CHALLENGE
+Code Challenge #54: https://repl.it/student/submissions/1704948 "Full Adder"
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #54 fullAdder
 #### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
