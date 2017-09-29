@@ -8,7 +8,7 @@
 ***
 #### LUNCH
 ***
-# [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Emily Sperry: Overwatch
+# [Brown Bag](https://youtu.be/MslTB3ZAD7E) w/Emily Sperry: Overwatch
 ***
 # [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Thomson Comer: LS Computer Architecture Two Q&A
 ***
