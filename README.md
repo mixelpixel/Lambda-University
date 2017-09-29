@@ -574,7 +574,7 @@ Code Challenge #48: https://repl.it/student/submissions/1571861 "CSS Animations"
 #### [1st Lecture](https://youtu.be/2M9caq3E8pM) w/Emily Sperry: Review Code Challenge #48: CSS Animations
 #### [2nd Lecture](VIDEO_RECORDED_BUT_DEPRECATED_PER_FOLLOWING_VIDDY) w/Thomson Comer: Docker and LS-DevOps setup
 #### [3rd Lecture](https://youtu.be/_76fHf8HcuY) w/Thomson Comer: more Docker and LS-DevOps setup
-#### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Austen Allred: Startups!
+#### [Brown Bag](https://youtu.be/-3i0n9RbeX4) w/Austen Allred: Startups!
 #### [4th Lecture](https://youtu.be/19Cjc88IDeE) w/Thomson Comer: LS DevOps / Deployment Q&A
 ***
 
@@ -658,7 +658,7 @@ Code Challenge #53: https://repl.it/student/submissions/1695186 "Prime Reduction
 ### [DAY 63 NOTES](Month3/Week13/Day63/README.md)
 Code Challenge #54: https://repl.it/student/submissions/1704948 "Full Adder"
 #### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #54 fullAdder
-#### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Emily Sperry: Overwatch
+#### [Brown Bag](https://youtu.be/MslTB3ZAD7E) w/Emily Sperry: Overwatch
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Thomson Comer: LS Computer Architecture Two Q&A
 ***
 
