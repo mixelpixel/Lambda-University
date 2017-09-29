@@ -19,7 +19,10 @@ NO_VIDEO_RECORDED
 ***
 #### LUNCH
 ***
-# [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+# [Brown Bag](https://youtu.be/e1IgY2jQT9M) w/Thomson Comer: Log All The Things
+- https://www.denverstartupweek.org/schedule/3517-log-all-the-things
+- https://www.loggly.com
+
 ***
 # [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 ***
