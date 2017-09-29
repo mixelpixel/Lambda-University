@@ -658,9 +658,8 @@ Code Challenge #53: https://repl.it/student/submissions/1695186 "Prime Reduction
 ### [DAY 63 NOTES](Month3/Week13/Day63/README.md)
 Code Challenge #54: https://repl.it/student/submissions/1704948 "Full Adder"
 #### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #54 fullAdder
-#### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Emily Sperry: Overwatch
+#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Thomson Comer: LS Computer Architecture Two Q&A
 ***
 
 
@@ -774,9 +773,11 @@ Code Challenge #54: https://repl.it/student/submissions/1704948 "Full Adder"
 
 #### Lambda University:
 - Lambda University's Google Calendar [Invite](https://www.google.com/calendar/render?cid=bGFtYmRhc2Nob29sLmNvbV81dmJxNzByMWpnOG5kdmQxNGJoYTVzbWJqY0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&invEmailKey=mixelpix@mac.com:84d4f84c0778cc54f71761d34d12b62c328804d5)
-- Tyge Johnson's Collection of Lecture [videos](https://docs.google.com/spreadsheets/d/1vkjyltR9gWK2Qsq3azn8nUuqXuGV7xa8tNxOSpmZ0Ag/edit#gid=0)
+- Tyge Johnson's Collection of [Lecture videos](https://docs.google.com/spreadsheets/d/1vkjyltR9gWK2Qsq3azn8nUuqXuGV7xa8tNxOSpmZ0Ag/edit#gid=0)
 - "[Cracking the Coding Interview](http://www.crackingthecodinginterview.com/)" by Gayle Laakmann McDowell
 	- https://github.com/careercup/CtCI-6th-Edition
+- CS2 lectures: https://docs.google.com/spreadsheets/d/1k87GF1O-5b0oF2mr0i7aaBs7aIkvExFxu12HcZdOoXY/edit#gid=505824829
+
 
 #### LSPro lectures:
 - [Callbacks](https://youtu.be/qxURd9khNgU)
