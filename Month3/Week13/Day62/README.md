@@ -2,17 +2,6 @@
 ## Coding Challenge #53
 - "Prime Reduction" available in https://repl.it/student/submissions/1695186
 ***
-Ben Nelson
-Thomson Comer
-Ryan Hamblin
-Ivan Mora
-Sean Chen
-Tai Chulikavit
-Emily Sperry
-Christine Gierer
-GUEST LECTURER
-NO_VIDEO_RECORDED
-***
 # [1st Lecture](https://youtu.be/u3p5kZtAAHY) w/Tai Chulikavit: Review Code Challenge #53: primeReduction
 - https://piazza.com/class/j63w1pdyopf7kj?cid=57
 
@@ -24,11 +13,6 @@ NO_VIDEO_RECORDED
 - https://www.loggly.com
 
 ***
-# [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-***
-# [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-***
-# [4th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-# Lab / Q&A
+# [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Thomson Comer: LS-Computer Architecture Two Q&A
 ***
 # fin
