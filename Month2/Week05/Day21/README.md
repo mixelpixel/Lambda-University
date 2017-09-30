@@ -12,6 +12,6 @@
 ***
 # [Brown Bag](https://youtu.be/hR-1fClOXe4) w/Allan Muraya: "Square" metaphor
 ***
-# [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Sprint / Q&A
+# [2nd Lecture](https://youtu.be/agyufmrlB3o) w/Ryan Hamblin: Redux Q&A
 ***
 # fin
