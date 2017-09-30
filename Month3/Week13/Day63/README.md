@@ -2,7 +2,7 @@
 ## Coding Challenge #54
 - "Full Adder" available in https://repl.it/student/submissions/1704948
 ***
-# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Tai Chulikavit: Review Code Challenge #54: fullAdder
+# [1st Lecture](NO_VIDEO_RECORDED) w/Tai Chulikavit: Review Code Challenge #54: fullAdder
 - Extended 'til Monday
 
 ***
