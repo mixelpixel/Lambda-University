@@ -1,4 +1,5 @@
-[Code Challenge #10](CS1-Code-Challenges/cc10array/array.js)
+[Code Challenge #10](CS1-Code-Challenges/cc10array)
+[Code Challenge #10](https://github.com/mixelpixel/CS1-Code-Challenges/tree/6f65d83c76d30833623eda4f8a8a541886e5403d/cc10array)
 
 
 # Lambda University
