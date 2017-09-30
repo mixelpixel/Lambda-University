@@ -130,3 +130,6 @@
 [submodule "curl"]
 	path = curl
 	url = https://github.com/mixelpixel/curl.git
+[submodule "node-express-mini"]
+	path = node-express-mini
+	url = https://github.com/mixelpixel/node-express-mini.git
