@@ -659,7 +659,6 @@ Code Challenge #53: https://repl.it/student/submissions/1695186 "Prime Reduction
 Code Challenge #54: https://repl.it/student/submissions/1704948 "Full Adder"
 #### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #54 fullAdder
 #### [Brown Bag](https://youtu.be/MslTB3ZAD7E) w/Emily Sperry: Overwatch
-#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Thomson Comer: LS Computer Architecture Two Q&A
 ***
 
 
