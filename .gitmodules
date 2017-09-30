@@ -127,3 +127,6 @@
 [submodule "Computer-Architecture-Two"]
 	path = Computer-Architecture-Two
 	url = https://github.com/mixelpixel/Computer-Architecture-Two.git
+[submodule "Mobile-I"]
+	path = Mobile-I
+	url = https://github.com/mixelpixel/Mobile-I.git
