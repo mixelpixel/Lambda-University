@@ -3,6 +3,8 @@ https://github.com/LambdaSchool/LambdaCSA-Syllabus
 <!-- ### !EASTER EGGS: Click on the ▶︎ black ▶︎ triangles ▶︎ to reveal the EASTER EGGS! -->
 ***
 [XXXXX](BrownBag/ThomsonTalk/package.json)
+[Code Challenge #10](CS1-Code-Challenges)
+
 
 <!-- <details><summary>Pre-Course Work</summary><p> -->
 
