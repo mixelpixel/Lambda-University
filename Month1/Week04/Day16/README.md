@@ -8,12 +8,13 @@
 ***
 #### LUNCH
 ***
-# Brown Bag w/Ryan Hamblin: Quokka
+# [Brown Bag](NO_VIDEO_RECORDED) w/Ryan Hamblin: Quokka
 ***
-# 2nd Lecture w/Sean Chen: Sprint / Q&A
+# [2nd Lecture](NO_VIDEO_RECORDED) w/Sean Chen: Sprint / Q&A
 - super() vs super(props)
 - only need super(props) when you want to access this.props in the constructor
 - ?still have access to it in the component?
 - https://stackoverflow.com/questions/30571875/whats-the-difference-between-super-and-superprops-in-react-when-using-e#34995257
+
 ***
 # fin
