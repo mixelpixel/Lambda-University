@@ -3,7 +3,7 @@
 - "Full Adder" available in https://repl.it/student/submissions/1704948
 ***
 # [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Tai Chulikavit: Review Code Challenge #54: fullAdder
-- https://repl.it/student/assignments/######/model_solution?fromSubmissionId=????
+- Extended 'til Monday
 
 ***
 #### LUNCH
