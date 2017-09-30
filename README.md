@@ -161,7 +161,7 @@ Code Challenge #9: https://github.com/ryanhca/CS1-Code-Challenges "Brain Teaser:
 
 ### Day 14: Friday, July 21
 ### [DAY 14 NOTES](Month1/Week03/Day14/README.md)
-Code Challenge #10: https://github.com/ryanhca/CS1-Code-Challenges "Array"
+[Code Challenge #10](CS1-Code-Challenges/cc10 array/array.js): https://github.com/ryanhca/CS1-Code-Challenges "Array"
 #### [1st Lecture](https://youtu.be/jVfmcDDC-lY) w/Tai: Review Code Challenge #9: waterBucket
 #### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Jason Campbell: "Insurance Basics"
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ben Nelson: Syllabus & State of the Program address
