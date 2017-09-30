@@ -6,7 +6,7 @@
 ***
 # [1st Lecture](https://youtu.be/EWejyPwcfis) w/Tai: Review Code Challenge #20: parallel
 ***
-# [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: Routing Sprint Review
+# [2nd Lecture](https://youtu.be/EIu4D0QWECM) w/Sean Chen: Routing Sprint Review
 ***
 # [3rd Lecture](https://youtu.be/EIu4D0QWECM) w/Sean Chen: Routing Sprint Solution
 - https://facebook.github.io/react/docs/higher-order-components.html
