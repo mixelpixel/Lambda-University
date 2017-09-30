@@ -124,7 +124,7 @@ Code Challenge #5: https://github.com/ryanhca/CS1-Code-Challenges "Even Occurenc
 ## Week 03: July 17 - 21
 ### Day 10: Monday, July 17
 ### [DAY 10 NOTES](Month1/Week03/Day10/README.md)
-[Code Challenge #6](https://github.com/mixelpixel/CS1-Code-Challenges/tree/6f65d83c76d30833623eda4f8a8a541886e5403d/cc06callbackPractice): https://github.com/ryanhca/CS1-Code-Challenges "CallBack Practice"
+Code Challenge #6: https://github.com/ryanhca/CS1-Code-Challenges "CallBack Practice"
 #### [1st Lecture](https://youtu.be/GPLF6kWI2KY) w/Tai The Thai: Review Code Challenge #5: evenOccurences
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: Class Poll/Review - Data Structures II
 #### [3rd Lecture](https://youtu.be/a7qTzbUVVsY) w/Sean Chen: Data Structures II Solutions - Tree, Binary Search Tree & Graph
@@ -135,7 +135,7 @@ Pair Programming #3: https://github.com/ryanhca/LS-DOM.git w/John Wells
 
 ### Day 11: Tuesday, July 18
 ### [DAY 11 NOTES](Month1/Week03/Day11/README.md)
-[Code Challenge #7](): https://github.com/ryanhca/CS1-Code-Challenges "For Loop Timeout()"
+Code Challenge #7: https://github.com/ryanhca/CS1-Code-Challenges "For Loop Timeout()"
 #### [1st Lecture](https://youtu.be/LJLl7v3UUJo) w/Tai The Thai: Review Code Challenge #6: callbackPractice
 #### [2nd Lecture](https://youtu.be/lD7CnIM21T4) w/Tai The Thai: Object[key: value] review
 #### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Tyge Johnson: Adult learning Theories
@@ -161,7 +161,7 @@ Code Challenge #9: https://github.com/ryanhca/CS1-Code-Challenges "Brain Teaser:
 
 ### Day 14: Friday, July 21
 ### [DAY 14 NOTES](Month1/Week03/Day14/README.md)
-[Code Challenge #10](https://github.com/mixelpixel/CS1-Code-Challenges/tree/6f65d83c76d30833623eda4f8a8a541886e5403d/cc10array): https://github.com/ryanhca/CS1-Code-Challenges "Array"
+Code Challenge #10: https://github.com/ryanhca/CS1-Code-Challenges "Array"
 #### [1st Lecture](https://youtu.be/jVfmcDDC-lY) w/Tai: Review Code Challenge #9: waterBucket
 #### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Jason Campbell: "Insurance Basics"
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Ben Nelson: Syllabus & State of the Program address
