@@ -13,15 +13,15 @@ Christine Gierer
 GUEST LECTURER
 NO_VIDEO_RECORDED
 ***
-# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #54: fullAdder
+# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Tai Chulikavit: Review Code Challenge #54: fullAdder
 -
 
 ***
+# [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Thomson Comer: Computer Architecture Two Review
+- https://docs.google.com/a/lambdaschool.com/document/d/1Lg6EpQUBaPzx_LunogI7XPiRMkfpctNoQP-1gks093E/edit?usp=sharing
+
+***
 #### LUNCH
-***
-# [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-***
-# [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 ***
 # [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 ***
