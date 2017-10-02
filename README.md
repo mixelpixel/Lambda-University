@@ -675,8 +675,8 @@ Code Challenge #54: https://repl.it/student/submissions/1704948 "Full Adder"
 ## Week 14: Oct. 2 - 6
 ### Day 64: Monday, October 02
 ### [DAY 64 NOTES](Month#/Week##/Day64/README.md)
-Code Challenge #55: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
-#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #55 NEW_CODE_CHALLENGE
+Code Challenge #54: https://repl.it/student/submissions/# "Full Adder"
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #54 fullAdder
 #### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
@@ -685,8 +685,8 @@ Pair Programming #22: https://github.com/LambdaSchool/????? w/???
 
 ### Day 65: Tuesday, October 03
 ### [DAY 65 NOTES](Month#/Week##/Day65/README.md)
-Code Challenge #56: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
-#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #56 NEW_CODE_CHALLENGE
+Code Challenge #55: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #55 NEW_CODE_CHALLENGE
 #### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
@@ -694,8 +694,8 @@ Code Challenge #56: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
 
 ### Day 66: Wednesday, October 04
 ### [DAY 66 NOTES](Month#/Week##/Day66/README.md)
-Code Challenge #57: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
-#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #57 NEW_CODE_CHALLENGE
+Code Challenge #56: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #56 NEW_CODE_CHALLENGE
 #### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
@@ -704,8 +704,8 @@ Pair Programming #23: https://github.com/LambdaSchool/????? w/???
 
 ### Day 67: Thursday, October 05
 ### [DAY 67 NOTES](Month#/Week##/Day67/README.md)
-Code Challenge #58: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
-#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #58 NEW_CODE_CHALLENGE
+Code Challenge #57: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #57 NEW_CODE_CHALLENGE
 #### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
