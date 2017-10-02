@@ -1,6 +1,6 @@
 # Lambda University - October 02, 2017: Day 064, Monday
 ## Coding Challenge #54 - extended from Friday
-- "Full Adder" available in 
+- "Full Adder" available in https://repl.it/student/submissions/1721915
 ***
 Ben Nelson
 Thomson Comer
