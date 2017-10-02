@@ -26,9 +26,10 @@ NO_VIDEO_RECORDED
 
 ***
 #### LUNCH
-
 ***
-# [4th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+# [4th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Thomson Comer: Computer Architecture Three Mini
+# [5th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+# [6th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 # Lab / Q&A
 ***
 # fin
