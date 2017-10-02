@@ -1,5 +1,5 @@
 # Lambda University - October 03, 2017: Day 065, Tuesday
-## Coding Challenge #56
+## Coding Challenge #55
 - "NEW_CODE_CHALLENGE" available in https://repl.it/student/submissions/#
 ***
 Ben Nelson
@@ -13,7 +13,7 @@ Christine Gierer
 GUEST LECTURER
 NO_VIDEO_RECORDED
 ***
-# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #56: NEW_CODE_CHALLENGE
+# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #55: NEW_CODE_CHALLENGE
 - https://repl.it/student/assignments/######/model_solution?fromSubmissionId=????
 
 ***
