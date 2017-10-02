@@ -676,9 +676,8 @@ Code Challenge #54: https://repl.it/student/submissions/1704948 "Full Adder"
 ### Day 64: Monday, October 02
 ### [DAY 64 NOTES](Month#/Week##/Day64/README.md)
 Code Challenge #54: https://repl.it/student/submissions/1721915 "Full Adder"
-#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #54 fullAdder
-#### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Tai Chulikavit: Review Code Challenge #54 fullAdder
+#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Thomson Comer: Computer Architecture Two Review
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 Pair Programming #22: https://github.com/LambdaSchool/????? w/???
 ***
