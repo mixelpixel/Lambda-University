@@ -675,7 +675,7 @@ Code Challenge #54: https://repl.it/student/submissions/1704948 "Full Adder"
 ## Week 14: Oct. 2 - 6
 ### Day 64: Monday, October 02
 ### [DAY 64 NOTES](Month#/Week##/Day64/README.md)
-Code Challenge #54: https://repl.it/student/submissions/# "Full Adder"
+Code Challenge #54: https://repl.it/student/submissions/1721915 "Full Adder"
 #### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #54 fullAdder
 #### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
