@@ -22,6 +22,7 @@ NO_VIDEO_RECORDED
 
 ***
 # [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Thomson Comer: Computer Architecture Two Solution
+- peripherals
 
 ***
 #### LUNCH
