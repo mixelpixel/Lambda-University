@@ -682,7 +682,7 @@ Code Challenge #54: https://repl.it/student/submissions/1721915 "Full Adder"
 #### [3rd Lecture](https://youtu.be/4q3LlOZLjPo) w/Thomson Comer: Computer Architecture Two Solution
 #### [4th Lecture](https://youtu.be/RQ0cu_vbCPw) w/Thomson Comer: Operating Systems Intro
 #### [5th Lecture](https://youtu.be/upqmNSdpHi4) w/Thomson Comer: Operating Systems
-#### [6th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Thomson Comer: Operating Systems Q&A
+#### [6th Lecture](NO_VIDEO_RECORDED) w/Thomson Comer: Operating Systems Q&A
 Pair Programming #22: https://github.com/LambdaSchool/Operating-Systems-One w/Antonio
 ***
 
