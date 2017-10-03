@@ -35,7 +35,7 @@
 - Process Scheduler
 - System calls can only be made in C (or assembly)
 - How to get answers for C when using it?
-- vim hex mode: `:%!xxd`
+- vim hex mode: `:%!xxd` https://vi.stackexchange.com/a/2234
 - `$ echo $?` will display the return value of the compiled C program file
 - if C program returns other than 0, that's a msg that something went wrong.
 
@@ -111,20 +111,22 @@ int main (int argc, char** argv) {
   printf("%d\n", argc);
   printf("%f\n", argc); // <~~~ prints 0.0000 WHY?
 
-  // dynamic!!!!
+  // dynamic
   for(int i = 0; i < argc; ++i) {
     printf("%s\n", argc[i]);
   }
 
   printf("%f\n", mixedFunction(0.0));
-  printf("%c\n", (int)mixedFunction(0.0)); // forced type conversion
+  // forced type conversion
+  printf("%c\n", (int)mixedFunction(0.0));
 }
 
 lat_lon myLocation;
 myLocation.lat = 22.5;
 myLocation.lon = 21.3;
 printf("%p\n", myLocation);
-printf("%p\n", &myLocation); //& memory location
+// & memory location
+printf("%p\n", &myLocation);
 ```
 
 # [6th Lecture](NO_VIDEO_RECORDED) w/Thomson Comer: Operating Systems Q&A
