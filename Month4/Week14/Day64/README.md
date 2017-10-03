@@ -127,6 +127,6 @@ printf("%p\n", myLocation);
 printf("%p\n", &myLocation); //& memory location
 ```
 
-# [6th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Thomson Comer: Operating Systems Q&A
+# [6th Lecture](NO_VIDEO_RECORDED) w/Thomson Comer: Operating Systems Q&A
 ***
 # fin
