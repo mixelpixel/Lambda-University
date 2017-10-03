@@ -1,6 +1,6 @@
 # Lambda University - October 03, 2017: Day 065, Tuesday
 ## Coding Challenge #55
-- "NEW_CODE_CHALLENGE" available in https://repl.it/student/submissions/#
+- "Overlapping Rectangles" available in https://repl.it/student/submissions/1731362
 ***
 Ben Nelson
 Thomson Comer
@@ -13,8 +13,8 @@ Christine Gierer
 GUEST LECTURER
 NO_VIDEO_RECORDED
 ***
-# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #55: NEW_CODE_CHALLENGE
-- https://repl.it/student/assignments/######/model_solution?fromSubmissionId=????
+# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Tai Chulikavit: Review Code Challenge #55: overlappingRectangles
+-
 
 ***
 #### LUNCH
