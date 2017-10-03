@@ -13,6 +13,7 @@ https://github.com/LambdaSchool/LambdaCSA-Syllabus
 	2. To be completed:
 		- Lambda Pro's [React](https://lambdaschool.com/pro/react), Node, ES6, and Mongo courses
 - [Lambda University Curriculum](https://docs.google.com/document/d/1Csrb2C5H6mdVsIdUi_CdKB_bY__Lpnx_fWuV4vNdsck/edit)
+- [Hiring Partners](https://docs.google.com/spreadsheets/d/1--7sg8s4Dxq-YN8BNlMmxYmKJrMlHOiaOVBZmZT8km8/edit#gid=0)
 
 
 </p></details>
@@ -676,13 +677,13 @@ Code Challenge #54: https://repl.it/student/submissions/1704948 "Full Adder"
 ### Day 64: Monday, October 02
 ### [DAY 64 NOTES](Month#/Week##/Day64/README.md)
 Code Challenge #54: https://repl.it/student/submissions/1721915 "Full Adder"
-#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Tai Chulikavit: Review Code Challenge #54 fullAdder
+#### [1st Lecture](https://youtu.be/_8xm0EaSrUc) w/Tai Chulikavit: Review Code Challenge #54 fullAdder
 #### [2nd Lecture](NO_VIDEO_RECORDED) w/Thomson Comer: Computer Architecture Two Review
-#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Thomson Comer: Computer Architecture Two Solution
-#### [4th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Thomson Comer: Computer Architecture Three Mini
-###
-###
-Pair Programming #22: https://github.com/LambdaSchool/Computer-Architecture-Three w/Antonio
+#### [3rd Lecture](https://youtu.be/4q3LlOZLjPo) w/Thomson Comer: Computer Architecture Two Solution
+#### [4th Lecture](https://youtu.be/RQ0cu_vbCPw) w/Thomson Comer: Operating Systems Intro
+#### [5th Lecture](https://youtu.be/upqmNSdpHi4) w/Thomson Comer: Operating Systems
+#### [6th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Thomson Comer: Operating Systems Q&A
+Pair Programming #22: https://github.com/LambdaSchool/Operating-Systems-One w/Antonio
 ***
 
 ### Day 65: Tuesday, October 03
