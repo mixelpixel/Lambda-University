@@ -133,3 +133,6 @@
 [submodule "node-express-mini"]
 	path = node-express-mini
 	url = https://github.com/mixelpixel/node-express-mini.git
+[submodule "Operating-Systems-One"]
+	path = Operating-Systems-One
+	url = https://github.com/mixelpixel/Operating-Systems-One.git
