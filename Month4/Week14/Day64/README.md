@@ -2,8 +2,8 @@
 ## Coding Challenge #54 - extended from Friday
 - "Full Adder" available in https://repl.it/student/submissions/1721915
 ***
-# [1st Lecture](https://youtu.be/_8xm0EaSrUc) w/Tai Chulikavit: Review Code Challenge #54: fullAdder
--
+# [1st Lecture](https://youtu.be/9Rqk8aV8-SU) w/Tai Chulikavit: Review Code Challenge #54: fullAdder
+- https://piazza.com/class/j63w1pdyopf7kj?cid=59
 
 ***
 # [2nd Lecture](NO_VIDEO_RECORDED) w/Thomson Comer: Computer Architecture Two Review
