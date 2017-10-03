@@ -689,8 +689,8 @@ Pair Programming #22: https://github.com/LambdaSchool/Operating-Systems-One w/An
 ### Day 65: Tuesday, October 03
 ### [DAY 65 NOTES](Month#/Week##/Day65/README.md)
 Code Challenge #55: https://repl.it/student/submissions/1731362 "Overlapping Rectangles"
-#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Tai Chulikavit: Review Code Challenge #55 overlappingRectangles
-#### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [1st Lecture](https://youtu.be/PS732Ig7Uow) w/Sean Chen: Review Code Challenge #55 overlappingRectangles
+#### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Eric Blancas: Esports and Competitive Gaming
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 ***
