@@ -675,7 +675,7 @@ Code Challenge #54: https://repl.it/student/submissions/1704948 "Full Adder"
 # Month 4: October, 2017
 ## Week 14: Oct. 2 - 6
 ### Day 64: Monday, October 02
-### [DAY 64 NOTES](Month#/Week##/Day64/README.md)
+### [DAY 64 NOTES](Month#/Week14/Day64/README.md)
 Code Challenge #54: https://repl.it/student/submissions/1721915 "Full Adder"
 #### [1st Lecture](https://youtu.be/9Rqk8aV8-SU) w/Tai Chulikavit: Review Code Challenge #54 fullAdder
 #### [2nd Lecture](NO_VIDEO_RECORDED) w/Thomson Comer: Computer Architecture Two Review
@@ -687,7 +687,7 @@ Pair Programming #22: https://github.com/LambdaSchool/Operating-Systems-One w/An
 ***
 
 ### Day 65: Tuesday, October 03
-### [DAY 65 NOTES](Month#/Week##/Day65/README.md)
+### [DAY 65 NOTES](Month#/Week14/Day65/README.md)
 Code Challenge #55: https://repl.it/student/submissions/1731362 "Overlapping Rectangles"
 #### [1st Lecture](https://youtu.be/PS732Ig7Uow) w/Sean Chen: Review Code Challenge #55 overlappingRectangles
 #### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Eric Blancas: Esports and Competitive Gaming
@@ -695,7 +695,7 @@ Code Challenge #55: https://repl.it/student/submissions/1731362 "Overlapping Rec
 ***
 
 ### Day 66: Wednesday, October 04
-### [DAY 66 NOTES](Month#/Week##/Day66/README.md)
+### [DAY 66 NOTES](Month#/Week14/Day66/README.md)
 #### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Tai: Code Challenge Review
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Thomson Comer: LS Operating Systems One solution
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Thomson Comer: LS Operating Systems One review
@@ -704,7 +704,7 @@ Pair Programming #23: https://github.com/LambdaSchool/The-C-Programming-Language
 ***
 
 ### Day 67: Thursday, October 05
-### [DAY 67 NOTES](Month#/Week##/Day67/README.md)
+### [DAY 67 NOTES](Month#/Week14/Day67/README.md)
 Code Challenge #56: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
 #### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #56 NEW_CODE_CHALLENGE
 #### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
@@ -713,7 +713,7 @@ Code Challenge #56: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
 ***
 
 ### Day 68: Friday, October 06
-### [DAY 68 NOTES](Month#/Week##/Day68/README.md)
+### [DAY 68 NOTES](Month#/Week14/Day68/README.md)
 Code Challenge #57: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
 #### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #57 NEW_CODE_CHALLENGE
 #### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
