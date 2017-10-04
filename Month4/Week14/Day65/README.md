@@ -2,17 +2,6 @@
 ## Coding Challenge #55
 - "Overlapping Rectangles" available in https://repl.it/student/submissions/1731362
 ***
-Ben Nelson
-Thomson Comer
-Ryan Hamblin
-Ivan Mora
-Sean Chen
-Tai Chulikavit
-Emily Sperry
-Christine Gierer
-GUEST LECTURER
-NO_VIDEO_RECORDED
-***
 # [1st Lecture](https://youtu.be/PS732Ig7Uow) w/Sean Chen: Review Code Challenge #55: overlappingRectangles
 - https://piazza.com/class/j63w1pdyopf7kj?cid=60
 
