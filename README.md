@@ -999,6 +999,8 @@ $ man re_format
 
 > I strongly recommend not limiting yourself to JavaScript and Node.js. Break out of your comfort zone to understand different programming languages and paradigms, as they'll shape your thinking of programming in general. Once you've understood how to do something, always ask yourself what was difficult or what went wrong. Question your development process, and try to understand the best way to improve how you tackle problems. This will give you a mastery that's above any single language—a mastery that fundamentally understands trade-offs and approaches that shape the thinking behind programming.
 
+Also: https://lambdaschoolpro.slack.com/archives/G5TDU61DE/p1506989692000102
+
 </p></details>
 
 
