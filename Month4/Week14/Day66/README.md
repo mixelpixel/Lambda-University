@@ -1,6 +1,4 @@
 # Lambda University - October 04, 2017: Day 066, Wednesday
-## Coding Challenge #56
-- "NEW_CODE_CHALLENGE" available in https://repl.it/student/submissions/#
 ***
 Ben Nelson
 Thomson Comer
@@ -13,9 +11,7 @@ Christine Gierer
 GUEST LECTURER
 NO_VIDEO_RECORDED
 ***
-# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #56: NEW_CODE_CHALLENGE
-- https://repl.it/student/assignments/######/model_solution?fromSubmissionId=????
-
+# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Tai: Code Challenge Review
 ***
 #### LUNCH
 ***
