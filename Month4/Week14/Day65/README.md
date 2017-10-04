@@ -10,6 +10,6 @@
 ***
 # [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Eric Blancas: Esports and Competitive Gaming
 ***
-# [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Thomson Comer: Operating Systems One Q&A
+# [2nd Lecture](NO_VIDEO_RECORDED) w/Thomson Comer: Operating Systems One Q&A
 ***
 # fin
