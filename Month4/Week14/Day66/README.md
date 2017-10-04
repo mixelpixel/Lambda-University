@@ -108,7 +108,7 @@ int main (int argc, char** argv) {
 - Nothing you write on a computer does not become C or get executed by C
 
 - The build process
-- ~16m does gcc produce machine specific binary or just machine executable binaries?
+- [@15m30s](https://youtu.be/tadDAQpjAE4?t=15m30s) does gcc produce machine specific binary or just machine executable binaries?
 
 # [5th Lecture](https://youtu.be/tadDAQpjAE4) w/Thomson Comer: The C Programming Language Q&A
 ***
