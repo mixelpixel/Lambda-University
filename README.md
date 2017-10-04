@@ -691,14 +691,13 @@ Pair Programming #22: https://github.com/LambdaSchool/Operating-Systems-One w/An
 Code Challenge #55: https://repl.it/student/submissions/1731362 "Overlapping Rectangles"
 #### [1st Lecture](https://youtu.be/PS732Ig7Uow) w/Sean Chen: Review Code Challenge #55 overlappingRectangles
 #### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Eric Blancas: Esports and Competitive Gaming
-#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Thomson Comer: Operating Systems One Q&A
+#### [2nd Lecture](NO_VIDEO_RECORDED) w/Thomson Comer: Operating Systems One Q&A
 ***
 
 ### Day 66: Wednesday, October 04
 ### [DAY 66 NOTES](Month#/Week##/Day66/README.md)
 #### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Tai: Code Challenge Review
-#### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Thomson Comer: LS Operating Systems One solution
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 Pair Programming #23: https://github.com/LambdaSchool/????? w/???
 ***
@@ -976,6 +975,9 @@ $ man re_format
 #### Interview prep
 - https://github.com/h5bp/Front-end-Developer-Interview-Questions#js-questions
 - https://www.toptal.com/javascript/interview-questions
+
+#### TO DO
+- https://flight-manual.atom.io/hacking-atom/sections/package-word-count/
 
 ##### Unsorted
 - Ryan Sherill: [Extra Resources list](https://docs.google.com/document/d/1y5B_glCrLRo8Vnu93QMKjFrfAN3a-GFPzgGz76rTTIQ/edit)
