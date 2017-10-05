@@ -99,6 +99,6 @@ int main (int argc, char** argv) {
 - The build process
 - [@15m30s](https://youtu.be/tadDAQpjAE4?t=15m30s) does gcc produce machine specific binary or just machine executable binaries?
 
-# [5th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Thomson Comer: The C Programming Language
+# [5th Lecture](https://youtu.be/IbcUJJhsz5c) w/Thomson Comer: The C Programming Language
 ***
 # fin
