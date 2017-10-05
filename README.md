@@ -700,6 +700,7 @@ Code Challenge #55: https://repl.it/student/submissions/1731362 "Overlapping Rec
 #### [2nd Lecture](https://youtu.be/TIS_03jK4P4) w/Thomson Comer: LS Operating Systems One solution
 #### [3rd Lecture](NO_VIDEO_RECORDED) w/Thomson Comer: LS Operating Systems One review
 #### [4th Lecture](https://youtu.be/tadDAQpjAE4) w/Thomson Comer: The C Programming Language Intro
+#### [5th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Thomson Comer: The C Programming Language
 Pair Programming #23: https://github.com/LambdaSchool/The-C-Programming-Language w/Antonio
 ***
 
