@@ -81,7 +81,6 @@ int main (int argc, char** argv) {
 
 ```
 
-
 ***
 # [3rd Lecture](NO_VIDEO_RECORDED) w/Thomson Comer: LS Operating Systems One review
 - https://docs.google.com/document/d/1PP9qbD0ZzhPHtc6Dft9BVy714UdqH3szitxyPsSR7jQ/edit?usp=sharing
