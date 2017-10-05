@@ -697,10 +697,10 @@ Code Challenge #55: https://repl.it/student/submissions/1731362 "Overlapping Rec
 ### Day 66: Wednesday, October 04
 ### [DAY 66 NOTES](Month4/Week14/Day66/README.md)
 #### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Tai: Code Challenge Review
-#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Thomson Comer: LS Operating Systems One solution
-#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Thomson Comer: LS Operating Systems One review
+#### [2nd Lecture](https://youtu.be/TIS_03jK4P4) w/Thomson Comer: LS Operating Systems One solution
+#### [3rd Lecture](NO_VIDEO_RECORDED) w/Thomson Comer: LS Operating Systems One review
 #### [4th Lecture](https://youtu.be/tadDAQpjAE4) w/Thomson Comer: The C Programming Language Intro
-Pair Programming #23: https://github.com/LambdaSchool/The-C-Programming-Language w/???
+Pair Programming #23: https://github.com/LambdaSchool/The-C-Programming-Language w/Antonio
 ***
 
 ### Day 67: Thursday, October 05
