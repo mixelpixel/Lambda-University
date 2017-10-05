@@ -1,6 +1,6 @@
 # Lambda University - October 05, 2017: Day 067, Thursday
 ## Coding Challenge #56
-- "NEW_CODE_CHALLENGE" available in https://repl.it/student/submissions/#
+- "Merge Sort" available in https://repl.it/student/submissions/1746465
 ***
 Ben Nelson
 Thomson Comer
@@ -13,7 +13,7 @@ Christine Gierer
 GUEST LECTURER
 NO_VIDEO_RECORDED
 ***
-# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #56: NEW_CODE_CHALLENGE
+# [1st Lecture](https://youtu.be/oMlOBuyazv4) w/Ryan Hamblin: Review Code Challenge #56: mergeSort
 - https://repl.it/student/assignments/######/model_solution?fromSubmissionId=????
 
 ***
