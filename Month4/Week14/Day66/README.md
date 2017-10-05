@@ -1,21 +1,10 @@
 # Lambda University - October 04, 2017: Day 066, Wednesday
 ***
-Ben Nelson
-Thomson Comer
-Ryan Hamblin
-Ivan Mora
-Sean Chen
-Tai Chulikavit
-Emily Sperry
-Christine Gierer
-GUEST LECTURER
-NO_VIDEO_RECORDED
-***
 # [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Tai: Code Challenge Review
 ***
 #### LUNCH
 ***
-# [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Thomson Comer: LS Operating Systems One solution
+# [2nd Lecture](https://youtu.be/TIS_03jK4P4) w/Thomson Comer: LS Operating Systems One solution
 What the Operating System does:
 1. Managing memory & memory virtualization
 2. Process management and process scheduling
@@ -94,7 +83,7 @@ int main (int argc, char** argv) {
 
 
 ***
-# [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Thomson Comer: LS Operating Systems One review
+# [3rd Lecture](NO_VIDEO_RECORDED) w/Thomson Comer: LS Operating Systems One review
 - https://docs.google.com/document/d/1PP9qbD0ZzhPHtc6Dft9BVy714UdqH3szitxyPsSR7jQ/edit?usp=sharing
 
 ***
@@ -110,6 +99,6 @@ int main (int argc, char** argv) {
 - The build process
 - [@15m30s](https://youtu.be/tadDAQpjAE4?t=15m30s) does gcc produce machine specific binary or just machine executable binaries?
 
-# [5th Lecture](https://youtu.be/tadDAQpjAE4) w/Thomson Comer: The C Programming Language Q&A
+# [5th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Thomson Comer: The C Programming Language Q&A
 ***
 # fin
