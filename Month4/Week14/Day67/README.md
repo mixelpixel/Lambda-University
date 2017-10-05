@@ -2,19 +2,8 @@
 ## Coding Challenge #56
 - "Merge Sort" available in https://repl.it/student/submissions/1746465
 ***
-Ben Nelson
-Thomson Comer
-Ryan Hamblin
-Ivan Mora
-Sean Chen
-Tai Chulikavit
-Emily Sperry
-Christine Gierer
-GUEST LECTURER
-NO_VIDEO_RECORDED
-***
 # [1st Lecture](https://youtu.be/oMlOBuyazv4) w/Ryan Hamblin: Review Code Challenge #56: mergeSort
-- https://repl.it/student/assignments/######/model_solution?fromSubmissionId=????
+- https://repl.it/student/assignments/458240/model_solution?fromSubmissionId=1746465
 
 ***
 #### LUNCH
