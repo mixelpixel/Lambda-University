@@ -100,5 +100,6 @@ int main (int argc, char** argv) {
 - [@15m30s](https://youtu.be/tadDAQpjAE4?t=15m30s) does gcc produce machine specific binary or just machine executable binaries?
 
 # [5th Lecture](https://youtu.be/IbcUJJhsz5c) w/Thomson Comer: The C Programming Language
+[@1h30m29s](https://youtu.be/IbcUJJhsz5c?t=1h3m29s) - Assignment description
 ***
 # fin
