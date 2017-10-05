@@ -136,3 +136,6 @@
 [submodule "Operating-Systems-One"]
 	path = Operating-Systems-One
 	url = https://github.com/mixelpixel/Operating-Systems-One.git
+[submodule "The-C-Programming-Language-1"]
+	path = The-C-Programming-Language-1
+	url = https://github.com/mixelpixel/The-C-Programming-Language-1.git
