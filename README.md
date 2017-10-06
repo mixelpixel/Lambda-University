@@ -715,7 +715,7 @@ Code Challenge #56: https://repl.it/student/submissions/1746465 "Merge Sort"
 ### Day 68: Friday, October 06
 ### [DAY 68 NOTES](Month4/Week14/Day68/README.md)
 Code Challenge #57: https://repl.it/student/submissions/1752932 "Rand7 to Rand5"
-#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: Review Code Challenge #57 rand7ToRand5
+#### [1st Lecture](https://youtu.be/zRA4SxsAfDY) w/Sean Chen: Review Code Challenge #57 rand7ToRand5
 #### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
