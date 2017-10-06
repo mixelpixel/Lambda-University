@@ -8,13 +8,10 @@
 ***
 #### LUNCH
 ***
-# [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+# [Brown Bag](https://youtu.be/UPxubEpGd7c) w/Ryan Hamblin: Coffee
+- https://docs.google.com/presentation/d/1BSQ5NZreXdLx_5yNwhtvHRVMVyPDjSsxaixbExyziMs/edit
+
 ***
-# [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-***
-# [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-***
-# [4th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-# Lab / Q&A
+# [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Thomson Comer: C Programming Language Q&A
 ***
 # fin
