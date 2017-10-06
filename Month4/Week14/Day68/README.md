@@ -1,6 +1,6 @@
 # Lambda University - October 06, 2017: Day 068, Friday
 ## Coding Challenge #57
-- "NEW_CODE_CHALLENGE" available in https://repl.it/student/submissions/#
+- "Rand7 to Rand5" available in https://repl.it/student/submissions/1752932
 ***
 Ben Nelson
 Thomson Comer
@@ -13,7 +13,7 @@ Christine Gierer
 GUEST LECTURER
 NO_VIDEO_RECORDED
 ***
-# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #57: NEW_CODE_CHALLENGE
+# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: Review Code Challenge #57: rand7ToRand5
 - https://repl.it/student/assignments/######/model_solution?fromSubmissionId=????
 
 ***
