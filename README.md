@@ -708,9 +708,8 @@ Pair Programming #23: https://github.com/LambdaSchool/The-C-Programming-Language
 ### [DAY 67 NOTES](Month4/Week14/Day67/README.md)
 Code Challenge #56: https://repl.it/student/submissions/1746465 "Merge Sort"
 #### [1st Lecture](https://youtu.be/oMlOBuyazv4) w/Ryan Hamblin: Review Code Challenge #56 mergeSort
-#### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [Brown Bag](https://youtu.be/UPxubEpGd7c) w/Ryan Hamblin: Coffee
+#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Thomson Comer: C Programming Language Q&A
 ***
 
 ### Day 68: Friday, October 06
