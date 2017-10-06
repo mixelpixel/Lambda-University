@@ -12,6 +12,6 @@
 - https://docs.google.com/presentation/d/1BSQ5NZreXdLx_5yNwhtvHRVMVyPDjSsxaixbExyziMs/edit
 
 ***
-# [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Thomson Comer: C Programming Language Q&A
+# [2nd Lecture](https://youtu.be/DmVyAyixoqU) w/Thomson Comer: C Programming Language Q&A
 ***
 # fin
