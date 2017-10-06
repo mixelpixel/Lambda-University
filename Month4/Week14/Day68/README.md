@@ -13,8 +13,8 @@ Christine Gierer
 GUEST LECTURER
 NO_VIDEO_RECORDED
 ***
-# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: Review Code Challenge #57: rand7ToRand5
-- https://repl.it/student/assignments/######/model_solution?fromSubmissionId=????
+# [1st Lecture](https://youtu.be/zRA4SxsAfDY) w/Sean Chen: Review Code Challenge #57: rand7ToRand5
+- https://piazza.com/class/j63w1pdyopf7kj?cid=63
 
 ***
 #### LUNCH
