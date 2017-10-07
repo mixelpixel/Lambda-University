@@ -716,9 +716,8 @@ Code Challenge #56: https://repl.it/student/submissions/1746465 "Merge Sort"
 ### [DAY 68 NOTES](Month4/Week14/Day68/README.md)
 Code Challenge #57: https://repl.it/student/submissions/1752932 "Rand7 to Rand5"
 #### [1st Lecture](https://youtu.be/zRA4SxsAfDY) w/Sean Chen: Review Code Challenge #57 rand7ToRand5
-#### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [2nd Lecture](https://youtu.be/rc7Ioom0SSU) w/Thomson Comer: C Programming Language Q&A & TC demo
+#### [3rd Lecture](https://youtu.be/13w1_2M8JcM) w/Thomson Comer: C Programming Language Q&A
 
 
 ***
