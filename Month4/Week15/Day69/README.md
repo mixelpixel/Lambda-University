@@ -13,15 +13,15 @@ Christine Gierer
 GUEST LECTURER
 NO_VIDEO_RECORDED
 ***
-# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #58: findTotalAverageAndPercentage
-- https://repl.it/student/assignments/######/model_solution?fromSubmissionId=????
+# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: Review Code Challenge #58: findTotalAverageAndPercentage
+- https://repl.it/student/assignments/460928/model_solution?fromSubmissionId=1764702
+
+***
+# [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: C Programming Language review
+- https://docs.google.com/document/d/1ezqo-UpfJoG-aiq19E5kBRExQcK4LSLY0hUwmleY0S0/edit
 
 ***
 #### LUNCH
-***
-# [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-***
-# [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 ***
 # [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 ***
