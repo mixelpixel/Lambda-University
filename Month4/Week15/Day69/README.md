@@ -1,6 +1,6 @@
 # Lambda University - October 09, 2017: Day 69, Monday
 ## Coding Challenge #58
-- "NEW_CODE_CHALLENGE" available in https://repl.it/student/submissions/#
+- "Find Total Average And Percentage" available in https://repl.it/student/submissions/1764702
 ***
 Ben Nelson
 Thomson Comer
@@ -13,7 +13,7 @@ Christine Gierer
 GUEST LECTURER
 NO_VIDEO_RECORDED
 ***
-# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #58: NEW_CODE_CHALLENGE
+# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #58: findTotalAverageAndPercentage
 - https://repl.it/student/assignments/######/model_solution?fromSubmissionId=????
 
 ***
