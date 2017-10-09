@@ -15,6 +15,14 @@
 #### LUNCH
 ***
 # [4th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: LS-Operating Systems Two Intro
+- what are processes? (from LS-OS1: http://pages.cs.wisc.edu/~remzi/OSTEP/cpu-intro.pdf)
+- an abstraction to describe any running system on the computer
+  - Process: Code, Stack, Heap (optional), program counter
+- processes are isolated, each has access to its own chunk of memory
+- state of process state is saved, next process gets execution privileges on the cpu
+- pre-empting the process: stopping the active process and saving its state
+- context switch
+
 # Lab / Q&A
 ***
 # fin
