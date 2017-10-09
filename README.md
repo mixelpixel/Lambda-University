@@ -727,9 +727,8 @@ Code Challenge #57: https://repl.it/student/submissions/1752932 "Rand7 to Rand5"
 ### Day 69: Monday, October 09
 ### [DAY ## NOTES](Month4/Week15/Day69/README.md)
 Code Challenge #58: https://repl.it/student/submissions/1764702 "Find Total Average And Percentage"
-#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #58 findTotalAverageAndPercentage
-#### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: Review Code Challenge #58 findTotalAverageAndPercentage
+#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: C Programming Language review
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 Pair Programming #24: https://github.com/LambdaSchool/????? w/???
 ***
