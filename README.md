@@ -731,15 +731,15 @@ Code Challenge #58: https://repl.it/student/submissions/1764702 "Find Total Aver
 #### [2nd Lecture](NO_VIDEO_RECORDED) w/Sean Chen: LS - C Programming Language Lab Review
 #### [3rd Lecture](https://youtu.be/8JbGDEv-Txg) w/Thomson Comer: LS - C Programming Language Lab Solution
 #### [4th Lecture](https://youtu.be/V6MaRvOikUE) w/Sean Chen: LS-Operating Systems, Processes Mini
-#### [5th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: LS-Operating Systems, Processes Mini Solution
+#### [5th Lecture](https://youtu.be/zQDSUU9m_6g) w/Sean Chen: LS-Operating Systems, Processes Mini Solution
 ***
 
 ### Day 70: Tuesday, October 10
 ### [DAY ## NOTES](Month4/Week15/Day70/README.md)
-Code Challenge #59: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
-#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #59 NEW_CODE_CHALLENGE
+Code Challenge #59: https://repl.it/student/submissions/1773343 "Nth Fibonacci"
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: Review Code Challenge #59 nthFibonacci
+#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: LS-Operating Systems: Scheduling
 #### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 Pair Programming #24: https://github.com/LambdaSchool/????? w/Brian
 ***
@@ -876,6 +876,10 @@ Code Challenge #62: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
 #### C++
 - https://media.pearsoncmg.com/aw/ecs_gaddis_sowcpp_cs_8/mpl/videonotes.html
 - http://www-bcf.usc.edu/~dkempe/CS104/08-29.pdf
+
+#### C
+- http://alvand.basu.ac.ir/~dezfoulian/files/Programming/Prentice%20Hall%20-%20The%20C%20Programming%20Language-%20Brian%20W.%20Kernighan,%20Dennis%20M.%20Ritchie,%202nd%20ed.,%20ISBN%20.pdf
+- http://www.c4learn.com/c-programming/c-pointer-operator/
 
 #### REST
 - http://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm
