@@ -730,7 +730,8 @@ Code Challenge #58: https://repl.it/student/submissions/1764702 "Find Total Aver
 #### [1st Lecture](https://youtu.be/7sBMwuVb0EI) w/Sean Chen: Review Code Challenge #58 findTotalAverageAndPercentage
 #### [2nd Lecture](NO_VIDEO_RECORDED) w/Sean Chen: LS - C Programming Language Lab Review
 #### [3rd Lecture](https://youtu.be/8JbGDEv-Txg) w/Thomson Comer: LS - C Programming Language Lab Solution
-Pair Programming #24: https://github.com/LambdaSchool/????? w/???
+#### [4th Lecture](https://youtu.be/V6MaRvOikUE) w/Sean Chen: LS-Operating Systems, Processes Mini
+#### [5th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: LS-Operating Systems, Processes Mini Solution
 ***
 
 ### Day 70: Tuesday, October 10
@@ -740,6 +741,7 @@ Code Challenge #59: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
 #### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+Pair Programming #24: https://github.com/LambdaSchool/????? w/Brian
 ***
 
 ### Day 71: Wednesday, October 11
