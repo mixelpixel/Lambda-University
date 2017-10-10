@@ -1,6 +1,6 @@
 # Lambda University - October 10, 2017: Day 70, Tuesday
 ## Coding Challenge #59
-- "NEW_CODE_CHALLENGE" available in https://repl.it/student/submissions/#
+- "Nth Fibonacci" available in https://repl.it/student/submissions/1773343
 ***
 Ben Nelson
 Thomson Comer
@@ -13,15 +13,26 @@ Christine Gierer
 GUEST LECTURER
 NO_VIDEO_RECORDED
 ***
-# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #59: NEW_CODE_CHALLENGE
-- https://repl.it/student/assignments/######/model_solution?fromSubmissionId=????
+# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #59: nthFibonacci
+- https://repl.it/student/assignments/466973/model_solution?fromSubmissionId=1773343
+
+***
+# [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: LS-Operating Systems: Scheduling
+- How does the OS schedule processes? For simplicity, single CPUs
+- Algorithms for different ways to schedule (long processes vs short, etc)
+1. First In First Out: inefficient, just based on order, doesn't account for priority or size of process
+2. SJF (Shortest Job First): also not great
+  - Turnaround time: time between it being ready and when it actually finishes
+  - Fairness (response time - when process is ready and when it is scheduled)
+3. Round Robin: turnaround time suffers, but response time is favored
+  - multi level feedback queue
+  - priotiry levels
+  - learns over time
 
 ***
 #### LUNCH
 ***
 # [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-***
-# [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 ***
 # [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 ***
