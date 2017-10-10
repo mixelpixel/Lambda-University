@@ -24,6 +24,6 @@
 - pre-empting the process: stopping the active process and saving its state
 - context switch
 
-# [5th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: LS-Operating Systems, Processes Mini Solution
+# [5th Lecture](https://youtu.be/zQDSUU9m_6g) w/Sean Chen: LS-Operating Systems, Processes Mini Solution
 ***
 # fin
