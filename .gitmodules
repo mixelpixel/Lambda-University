@@ -142,3 +142,6 @@
 [submodule "Processes"]
 	path = Processes
 	url = https://github.com/mixelpixel/Processes.git
+[submodule "Multi-Level-Feedback-Queue"]
+	path = Multi-Level-Feedback-Queue
+	url = https://github.com/mixelpixel/Multi-Level-Feedback-Queue.git
