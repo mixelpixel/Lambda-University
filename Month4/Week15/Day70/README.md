@@ -13,11 +13,11 @@ Christine Gierer
 GUEST LECTURER
 NO_VIDEO_RECORDED
 ***
-# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #59: nthFibonacci
+# [1st Lecture](https://youtu.be/5qLwPFzqZh8) w/Speaker: Review Code Challenge #59: nthFibonacci
 - https://repl.it/student/assignments/466973/model_solution?fromSubmissionId=1773343
 
 ***
-# [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: LS-Operating Systems: Scheduling
+# [2nd Lecture](https://youtu.be/vd5rosQ_8zI) w/Sean Chen: LS-Operating Systems: Scheduling
 - How does the OS schedule processes? For simplicity, single CPUs
 - Algorithms for different ways to schedule (long processes vs short, etc)
 1. First In First Out: inefficient, just based on order, doesn't account for priority or size of process
@@ -32,7 +32,9 @@ NO_VIDEO_RECORDED
 ***
 #### LUNCH
 ***
-# [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+# [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Kevin Depue: emacs
+- https://github.com/it3ration
+
 ***
 # [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 ***
