@@ -737,11 +737,11 @@ Code Challenge #58: https://repl.it/student/submissions/1764702 "Find Total Aver
 ### Day 70: Tuesday, October 10
 ### [DAY ## NOTES](Month4/Week15/Day70/README.md)
 Code Challenge #59: https://repl.it/student/submissions/1773343 "Nth Fibonacci"
-#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: Review Code Challenge #59 nthFibonacci
-#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: LS-Operating Systems: Scheduling
-#### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [1st Lecture](https://youtu.be/5qLwPFzqZh8) w/Sean Chen: Review Code Challenge #59 nthFibonacci
+#### [2nd Lecture](https://youtu.be/vd5rosQ_8zI) w/Sean Chen: LS-Operating Systems: Scheduling
+#### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Kevin Depue: emacs
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-Pair Programming #24: https://github.com/LambdaSchool/????? w/Brian
+Pair Programming #24: https://github.com/LambdaSchool/Multi-Level-Feedback-Queue w/Brian & Ryan
 ***
 
 ### Day 71: Wednesday, October 11
