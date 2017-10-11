@@ -739,8 +739,8 @@ Code Challenge #58: https://repl.it/student/submissions/1764702 "Find Total Aver
 Code Challenge #59: https://repl.it/student/submissions/1773343 "Nth Fibonacci"
 #### [1st Lecture](https://youtu.be/5qLwPFzqZh8) w/Sean Chen: Review Code Challenge #59 nthFibonacci
 #### [2nd Lecture](https://youtu.be/vd5rosQ_8zI) w/Sean Chen: LS-Operating Systems: Scheduling
-#### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Kevin Depue: emacs
-#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [Brown Bag](https://youtu.be/PK2c_95bsdk) w/Kevin Depue: emacs
+#### [3rd Lecture](NO_VIDEO_RECORDED) w/Sean Chen: LS-Operating Systems: Scheduling Q&A
 Pair Programming #24: https://github.com/LambdaSchool/Multi-Level-Feedback-Queue w/Brian & Ryan
 ***
 
