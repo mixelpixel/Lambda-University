@@ -2,17 +2,6 @@
 ## Coding Challenge #59
 - "Nth Fibonacci" available in https://repl.it/student/submissions/1773343
 ***
-Ben Nelson
-Thomson Comer
-Ryan Hamblin
-Ivan Mora
-Sean Chen
-Tai Chulikavit
-Emily Sperry
-Christine Gierer
-GUEST LECTURER
-NO_VIDEO_RECORDED
-***
 # [1st Lecture](https://youtu.be/5qLwPFzqZh8) w/Speaker: Review Code Challenge #59: nthFibonacci
 - https://repl.it/student/assignments/466973/model_solution?fromSubmissionId=1773343
 
@@ -32,13 +21,11 @@ NO_VIDEO_RECORDED
 ***
 #### LUNCH
 ***
-# [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Kevin Depue: emacs
+# [Brown Bag](https://youtu.be/PK2c_95bsdk) w/Kevin Depue: emacs
 - https://github.com/it3ration
+- https://www.braveclojure.com/
 
 ***
-# [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-***
-# [4th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-# Lab / Q&A
+# [3rd Lecture](NO_VIDEO_RECORDED) w/Sean Chen: LS-Operating Systems: Scheduling Q&A
 ***
 # fin
