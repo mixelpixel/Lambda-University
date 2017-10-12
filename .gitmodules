@@ -148,3 +148,6 @@
 [submodule "Multi-Level-Feedback-Queue-Complete"]
 	path = Multi-Level-Feedback-Queue-Complete
 	url = https://github.com/mixelpixel/Multi-Level-Feedback-Queue-Complete.git
+[submodule "Applied-C-Programming"]
+	path = Applied-C-Programming
+	url = https://github.com/mixelpixel/Applied-C-Programming.git
