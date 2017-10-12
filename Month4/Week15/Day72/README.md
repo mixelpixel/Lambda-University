@@ -26,6 +26,8 @@ NO_VIDEO_RECORDED
   3. Interprocess communication (inside of OS vs network related programming)
     - very hard to get right: MEGAgotchas e.g. synchronization, deadlock, shared resources
 
+##### [@8m51s](https://youtu.be/JCUNwhDEaXY?t=8m51s) - Applied C Programming Repository Details
+
 ### [@ms](https://youtu.be/JCUNwhDEaXY?t=) - More details of the C Language
 
 ### [@ms](https://youtu.be/JCUNwhDEaXY?t=) - Building and Contributing to large C projects
