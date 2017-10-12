@@ -36,8 +36,8 @@ NO_VIDEO_RECORDED
 - faulting
 - file scope, static (hoisting), extern
 - include, sourcing linraries and object files, files within dir, linked and built, linking, compilation arguments, compiler optimization, make and Cmake
-- bit shifting >> << NOTE: (??? left increments, right decrements? Big Endian?)
-- binary operators &, |, ~ NOTE:  ( & = and, | = or, ~ = not???)
+- bit shifting >> <<
+- binary operators &, |, ^, ~  ( & = and, | = or, ^ = Xor, ~ = not)
 ##### [@16m58s](https://youtu.be/JCUNwhDEaXY?t=16m58s) Play with bitshift and binary program using `make` command with Makefile
 - function pointers (The "Gallagher" fruit detonation)
 
@@ -67,6 +67,16 @@ NO_VIDEO_RECORDED
 
 ***
 # [4th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Thomson Comer: LS - Applied C Programming
+- extendd types?
+- `const` for immutability (immutability is the basis of Redux)
+- meta-programming gives C flexibility
+- preprocessor doesn't use periods `.` - instead, underscores `_`
+- `gcc -E` applies preprocessing macros
+- header files are for declaraion
+- source files are for definitions ????????????????????????????????????????
+- initialization: declaration and definition all at once.
+- `static`: inside a function gets hoisted
+- `extern`: gets an external variable
 
 # Lab / Q&A
 ***
