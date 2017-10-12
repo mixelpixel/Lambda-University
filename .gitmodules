@@ -145,3 +145,6 @@
 [submodule "Multi-Level-Feedback-Queue"]
 	path = Multi-Level-Feedback-Queue
 	url = https://github.com/mixelpixel/Multi-Level-Feedback-Queue.git
+[submodule "Multi-Level-Feedback-Queue-Complete"]
+	path = Multi-Level-Feedback-Queue-Complete
+	url = https://github.com/mixelpixel/Multi-Level-Feedback-Queue-Complete.git
