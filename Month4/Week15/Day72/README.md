@@ -20,6 +20,7 @@ NO_VIDEO_RECORDED
 # [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: LS-MLFQ Review
 ***
 # [3rd Lecture](https://youtu.be/JCUNwhDEaXY) w/Thomson Comer: LS-Applied C Programming
+## https://github.com/LambdaSchool/Applied-C-Programming
 - More Fundamentals of C
   1. More details of the C Language
   2. Building and Contributing to large C projects
