@@ -23,7 +23,14 @@ NO_VIDEO_RECORDED
 - More Fundamentals of C
   1. More details of the C Language
   2. Building and Contributing to large C projects
-  3. Interprocess communication
+  3. Interprocess communication (inside of OS vs network related programming)
+
+### [@ms](https://youtu.be/JCUNwhDEaXY?t=) - More details of the C Language
+
+### [@ms](https://youtu.be/JCUNwhDEaXY?t=) - Building and Contributing to large C projects
+
+### [@ms](https://youtu.be/JCUNwhDEaXY?t=) - Interprocess communication
+
 
 ***
 #### LUNCH
