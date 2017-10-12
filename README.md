@@ -725,7 +725,7 @@ Code Challenge #57: https://repl.it/student/submissions/1752932 "Rand7 to Rand5"
 
 ## Week 15: Oct. 9 - 13
 ### Day 69: Monday, October 09
-### [DAY ## NOTES](Month4/Week15/Day69/README.md)
+### [DAY 69 NOTES](Month4/Week15/Day69/README.md)
 Code Challenge #58: https://repl.it/student/submissions/1764702 "Find Total Average And Percentage"
 #### [1st Lecture](https://youtu.be/7sBMwuVb0EI) w/Sean Chen: Review Code Challenge #58 findTotalAverageAndPercentage
 #### [2nd Lecture](NO_VIDEO_RECORDED) w/Sean Chen: LS - C Programming Language Lab Review
@@ -735,7 +735,7 @@ Code Challenge #58: https://repl.it/student/submissions/1764702 "Find Total Aver
 ***
 
 ### Day 70: Tuesday, October 10
-### [DAY ## NOTES](Month4/Week15/Day70/README.md)
+### [DAY 70 NOTES](Month4/Week15/Day70/README.md)
 Code Challenge #59: https://repl.it/student/submissions/1773343 "Nth Fibonacci"
 #### [1st Lecture](https://youtu.be/5qLwPFzqZh8) w/Sean Chen: Review Code Challenge #59 nthFibonacci
 #### [2nd Lecture](https://youtu.be/vd5rosQ_8zI) w/Sean Chen: LS-Operating Systems: Scheduling
@@ -745,17 +745,14 @@ Pair Programming #24: https://github.com/LambdaSchool/Multi-Level-Feedback-Queue
 ***
 
 ### Day 71: Wednesday, October 11
-### [DAY ## NOTES](Month4/Week15/Day71/README.md)
-Code Challenge #60: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
-#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #60 NEW_CODE_CHALLENGE
-#### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-Pair Programming #25: https://github.com/LambdaSchool/????? w/???
+### [DAY 71 NOTES](Month4/Week15/Day71/README.md)
+Code Challenge #60: https://repl.it/student/submissions/1781474 "Linked List"
+#### [1st Lecture](https://youtu.be/mX9VubqAujE) w/Speaker: Review Code Challenge #60 linkedList
+#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: LS-Operating Systems: Scheduling Solution
 ***
 
 ### Day 72: Thursday, October 12
-### [DAY ## NOTES](Month4/Week15/Day72/README.md)
+### [DAY 72 NOTES](Month4/Week15/Day72/README.md)
 Code Challenge #61: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
 #### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #61 NEW_CODE_CHALLENGE
 #### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
@@ -764,7 +761,7 @@ Code Challenge #61: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
 ***
 
 ### Day 73: Friday, October 13
-### [DAY ## NOTES](Month4/Week15/Day73/README.md)
+### [DAY 73 NOTES](Month4/Week15/Day73/README.md)
 Code Challenge #62: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
 #### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #62 NEW_CODE_CHALLENGE
 #### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
