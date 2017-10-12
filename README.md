@@ -759,6 +759,7 @@ Code Challenge #61: https://repl.it/student/submissions/1789748 "Stack"
 #### [3rd Lecture](https://youtu.be/JCUNwhDEaXY) w/Thomson Comer: LS-Applied C Programming
 #### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [4th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+Pair Programming #24: https://github.com/LambdaSchool/Applied-C-Programming w/Jake
 ***
 
 ### Day 73: Friday, October 13
