@@ -64,6 +64,7 @@
 - header files are for declaraion();
 - library files are for definitions(){}
 - initialization: declaration and definition all at once.
+- http://www.cplusplus.com/articles/yAqpX9L8/
 - `static`: inside a function gets hoisted
 - `extern`: gets an external variable
 
