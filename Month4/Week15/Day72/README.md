@@ -54,6 +54,7 @@ NO_VIDEO_RECORDED
 - Semaphores
 - Sockets, UNIX domain socket
 
+### [@36m](https://youtu.be/JCUNwhDEaXY?t=36m) - use the Makefile in the repository
 
 ***
 #### LUNCH
