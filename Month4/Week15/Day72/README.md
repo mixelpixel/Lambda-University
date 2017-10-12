@@ -2,22 +2,11 @@
 ## Coding Challenge #61
 - "Stack" available in https://repl.it/student/submissions/1789748
 ***
-Ben Nelson
-Thomson Comer
-Ryan Hamblin
-Ivan Mora
-Sean Chen
-Tai Chulikavit
-Emily Sperry
-Christine Gierer
-GUEST LECTURER
-NO_VIDEO_RECORDED
-***
 # [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: Review Code Challenge #61: stack
 - https://repl.it/student/assignments/470467/model_solution?fromSubmissionId=1789748
 
 ***
-# [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: LS-MLFQ Review
+# [2nd Lecture](NO_VIDEO_RECORDED) w/Sean Chen: LS-MLFQ Review
 ***
 # [3rd Lecture](https://youtu.be/JCUNwhDEaXY) w/Thomson Comer: LS-Applied C Programming
 ## https://github.com/LambdaSchool/Applied-C-Programming
@@ -67,13 +56,13 @@ NO_VIDEO_RECORDED
 
 ***
 # [4th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Thomson Comer: LS - Applied C Programming
-- extendd types?
+- extended types?
 - `const` for immutability (immutability is the basis of Redux)
 - meta-programming gives C flexibility
 - preprocessor doesn't use periods `.` - instead, underscores `_`
 - `gcc -E` applies preprocessing macros
-- header files are for declaraion
-- source files are for definitions ????????????????????????????????????????
+- header files are for declaraion();
+- library files are for definitions(){}
 - initialization: declaration and definition all at once.
 - `static`: inside a function gets hoisted
 - `extern`: gets an external variable
