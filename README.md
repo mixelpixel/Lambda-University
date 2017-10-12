@@ -753,8 +753,8 @@ Code Challenge #60: https://repl.it/student/submissions/1781474 "Linked List"
 
 ### Day 72: Thursday, October 12
 ### [DAY 72 NOTES](Month4/Week15/Day72/README.md)
-Code Challenge #61: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
-#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #61 NEW_CODE_CHALLENGE
+Code Challenge #61: https://repl.it/student/submissions/1789748 "Stack"
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #61 stack
 #### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
