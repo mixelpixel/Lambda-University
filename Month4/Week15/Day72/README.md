@@ -67,6 +67,13 @@
 - http://www.cplusplus.com/articles/yAqpX9L8/
 - `static`: inside a function gets hoisted
 - `extern`: gets an external variable
+### Assignment:
+- refactor server.c to be a web server and handle a POST request... use a static variable or write to a file what was sent. ...put it in a database?
+- POST request: `curl localhost:7080/info-d "my message"`
+- server_summary.md
+- header info is the stuff that comes after the GET
+- `atoi` convert string to integer
+- 
 
 # Lab / Q&A
 ***
