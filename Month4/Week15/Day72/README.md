@@ -24,6 +24,7 @@ NO_VIDEO_RECORDED
   1. More details of the C Language
   2. Building and Contributing to large C projects
   3. Interprocess communication (inside of OS vs network related programming)
+    - very hard to get right: MEGAgotchas e.g. synchronization, deadlock, shared resources
 
 ### [@ms](https://youtu.be/JCUNwhDEaXY?t=) - More details of the C Language
 
