@@ -61,10 +61,13 @@ NO_VIDEO_RECORDED
 #### LUNCH
 ***
 # [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Hans Petrich from Silent Break Security: Penetration Testing
+- https://twitter.com/hanspetrich
 - https://portswigger.net/burp/freedownload
+- https://objective-see.com/products.html
 
 ***
-# [4th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+# [4th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Thomson Comer: LS - Applied C Programming
+
 # Lab / Q&A
 ***
 # fin
