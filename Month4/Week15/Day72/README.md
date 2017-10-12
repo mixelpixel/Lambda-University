@@ -26,13 +26,33 @@ NO_VIDEO_RECORDED
   3. Interprocess communication (inside of OS vs network related programming)
     - very hard to get right: MEGAgotchas e.g. synchronization, deadlock, shared resources
 
-##### [@8m51s](https://youtu.be/JCUNwhDEaXY?t=8m51s) - Applied C Programming Repository Details
+## Applied C Programming Repository Details
+### [@8m51s](https://youtu.be/JCUNwhDEaXY?t=8m51s) -  - More details of the C Language
+- `const` for values that cannot be changed
+- reading from STDIN from a file or user input
+- meta programming: using C preprocessor to generate code dynamically based on things outside program, e.g. headers, OS checks, special library flags
+- declarations, definitions and initializations
+- faulting
+- file scope, static (hoisting), extern
+- include, sourcing linraries and object files, files within dir, linked and built, linking, compilation arguments, compiler optimization, make and Cmake
+- bit shifting >> << NOTE: (??? left increments, right decrements? Big Endian?)
+- binary operators &, |, ~ NOTE:  ( & = and, | = or, ~ = not???)
+##### [@16m58s](https://youtu.be/JCUNwhDEaXY?t=16m58s) Play with bitshift and binary program using `make` command with Makefile
+- function pointers (The "Gallagher" fruit detonation)
 
-### [@ms](https://youtu.be/JCUNwhDEaXY?t=) - More details of the C Language
+### [@18m53s](https://youtu.be/JCUNwhDEaXY?t=18m53s) - Building and Contributing to large C projects
+- [ImageMagick](https://github.com/ImageMagick/ImageMagick) configured using `make`
+- [curl](https://github.com/curl/curl) configured using `cmake`
+- Dependecny and Package Management
 
-### [@ms](https://youtu.be/JCUNwhDEaXY?t=) - Building and Contributing to large C projects
-
-### [@ms](https://youtu.be/JCUNwhDEaXY?t=) - Interprocess communication
+### [@21m58s](https://youtu.be/JCUNwhDEaXY?t=21m58s) - Interprocess communication
+- Pipes, Stream, Sockets, Signals, Shmem, and Synchronization
+- `ipcs` show which OS level IPC resources are available
+- one way pipes?
+- the message queues are bi-directional pipes (FIFO's?)
+- File locks
+- Semaphores
+- Sockets, UNIX domain socket
 
 
 ***
