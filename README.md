@@ -877,6 +877,8 @@ Code Challenge #62: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
 #### C
 - http://alvand.basu.ac.ir/~dezfoulian/files/Programming/Prentice%20Hall%20-%20The%20C%20Programming%20Language-%20Brian%20W.%20Kernighan,%20Dennis%20M.%20Ritchie,%202nd%20ed.,%20ISBN%20.pdf
 - http://www.c4learn.com/c-programming/c-pointer-operator/
+- http://www.zentut.com/c-tutorial/c-linked-list/
+- https://www.learn-c.org/en/Linked_lists
 
 #### REST
 - http://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm
