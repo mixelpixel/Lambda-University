@@ -8,6 +8,6 @@
 ***
 #### LUNCH
 ***
-# [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: LS-Operating Systems: Scheduling Solution
+# [2nd Lecture](https://youtu.be/gqUORqHMJ3Y) w/Sean Chen: LS-Operating Systems: Scheduling Solution
 ***
 # fin
