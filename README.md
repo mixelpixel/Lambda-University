@@ -748,13 +748,13 @@ Pair Programming #24: https://github.com/LambdaSchool/Multi-Level-Feedback-Queue
 ### [DAY 71 NOTES](Month4/Week15/Day71/README.md)
 Code Challenge #60: https://repl.it/student/submissions/1781474 "Linked List"
 #### [1st Lecture](https://youtu.be/mX9VubqAujE) w/Speaker: Review Code Challenge #60 linkedList
-#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: LS-Operating Systems: Scheduling Solution
+#### [2nd Lecture](https://youtu.be/gqUORqHMJ3Y) w/Sean Chen: LS-Operating Systems: Scheduling Solution
 ***
 
 ### Day 72: Thursday, October 12
 ### [DAY 72 NOTES](Month4/Week15/Day72/README.md)
 Code Challenge #61: https://repl.it/student/submissions/1789748 "Stack"
-#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: Review Code Challenge #61 stack
+#### [1st Lecture](https://youtu.be/0PelLAB4F8w) w/Sean Chen: Review Code Challenge #61 stack
 #### [2nd Lecture](NO_VIDEO_RECORDED) w/Sean Chen: LS-MLFQ Review
 #### [3rd Lecture](https://youtu.be/JCUNwhDEaXY) w/Thomson Comer: LS-Applied C Programming
 #### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Hans Petrich from Silent Break Security: Penetration Testing
