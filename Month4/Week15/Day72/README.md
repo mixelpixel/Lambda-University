@@ -55,7 +55,7 @@
 - https://objective-see.com/products.html
 
 ***
-# [4th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Thomson Comer: LS - Applied C Programming
+# [4th Lecture](https://youtu.be/Pr0iZylrh38) w/Thomson Comer: LS - Applied C Programming
 - extended types?
 - `const` for immutability (immutability is the basis of Redux)
 - meta-programming gives C flexibility
@@ -73,7 +73,7 @@
 - server_summary.md
 - header info is the stuff that comes after the GET
 - `atoi` convert string to integer
-- 
+-
 
 # Lab / Q&A
 ***
