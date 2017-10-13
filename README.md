@@ -758,7 +758,7 @@ Code Challenge #61: https://repl.it/student/submissions/1789748 "Stack"
 #### [2nd Lecture](NO_VIDEO_RECORDED) w/Sean Chen: LS-MLFQ Review
 #### [3rd Lecture](https://youtu.be/JCUNwhDEaXY) w/Thomson Comer: LS-Applied C Programming
 #### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Hans Petrich from Silent Break Security: Penetration Testing
-#### [4th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Thomson Comer: LS - Applied C Programming
+#### [4th Lecture](https://youtu.be/Pr0iZylrh38) w/Thomson Comer: LS - Applied C Programming
 Pair Programming #24: https://github.com/LambdaSchool/Applied-C-Programming w/Jake
 ***
 
