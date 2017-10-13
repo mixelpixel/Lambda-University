@@ -2,7 +2,7 @@
 ## Coding Challenge #61
 - "Stack" available in https://repl.it/student/submissions/1789748
 ***
-# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: Review Code Challenge #61: stack
+# [1st Lecture](https://youtu.be/0PelLAB4F8w) w/Sean Chen: Review Code Challenge #61: stack
 - https://repl.it/student/assignments/470467/model_solution?fromSubmissionId=1789748
 
 ***
