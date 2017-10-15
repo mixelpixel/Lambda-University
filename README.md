@@ -1029,7 +1029,8 @@ $ man re_format
 - https://www.toptal.com/javascript/interview-questions
 
 #### TO DO
-- https://flight-manual.atom.io/hacking-atom/sections/package-word-count/
+- ATOM: https://flight-manual.atom.io/hacking-atom/sections/package-word-count/
+- macOS Security: https://objective-see.com/products.html
 
 ##### Unsorted
 - Ryan Sherill: [Extra Resources list](https://docs.google.com/document/d/1y5B_glCrLRo8Vnu93QMKjFrfAN3a-GFPzgGz76rTTIQ/edit)
