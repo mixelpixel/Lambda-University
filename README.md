@@ -767,13 +767,59 @@ Pair Programming #24: https://github.com/LambdaSchool/Applied-C-Programming w/Ja
 Code Challenge #62: https://repl.it/student/submissions/1797443 "Queue Using Stack"
 #### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: Review Code Challenge #62 queueUsingStack
 #### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Kelly Walker: JS Debugging
-***
 
 
 ***
 
 
 ## Week 16: Oct. 16 - 20
+### Day 74: Monday, October 16
+### [DAY 74 NOTES](Month4/Week16/Day74/README.md)
+Code Challenge #63: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #63 NEW_CODE_CHALLENGE
+#### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+Pair Programming #25: https://github.com/LambdaSchool/????? w/???
+***
+
+### Day 75: Tuesday, October 17
+### [DAY 75 NOTES](Month4/Week16/Day75README.md)
+Code Challenge #64: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #64 NEW_CODE_CHALLENGE
+#### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+
+***
+
+### Day 76: Wednesday, October 18
+### [DAY 76 NOTES](Month4/Week16/Day76/README.md)
+Code Challenge #65: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #65 NEW_CODE_CHALLENGE
+#### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+Pair Programming #26: https://github.com/LambdaSchool/????? w/???
+***
+
+### Day 77: Thursday, October 19
+### [DAY 77 NOTES](Month4/Week16/Day77/README.md)
+Code Challenge #66: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #66 NEW_CODE_CHALLENGE
+#### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+
+***
+
+### Day 78: Friday, October 20
+### [DAY 78 NOTES](Month4/Week16/Day78/README.md)
+Code Challenge #67: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #67 NEW_CODE_CHALLENGE
+#### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 
 
 ***
