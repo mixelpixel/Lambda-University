@@ -1,6 +1,6 @@
 # Lambda University - October 13, 2017: Day 73, Friday
 ## Coding Challenge #62
-- "NEW_CODE_CHALLENGE" available in https://repl.it/student/submissions/#
+- "Queue Using Stack" available in https://repl.it/student/submissions/1797443
 ***
 Ben Nelson
 Thomson Comer
@@ -13,13 +13,15 @@ Christine Gierer
 GUEST LECTURER
 NO_VIDEO_RECORDED
 ***
-# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #62: NEW_CODE_CHALLENGE
+# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: Review Code Challenge #62: queueUsingStack
 - https://repl.it/student/assignments/######/model_solution?fromSubmissionId=????
 
 ***
 #### LUNCH
 ***
-# [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+# [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Kelly Walker: JS Debugging
+- Optimizely
+
 ***
 # [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 ***
