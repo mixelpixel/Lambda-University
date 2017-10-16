@@ -765,8 +765,8 @@ Pair Programming #24: https://github.com/LambdaSchool/Applied-C-Programming w/Ja
 ### Day 73: Friday, October 13
 ### [DAY 73 NOTES](Month4/Week15/Day73/README.md)
 Code Challenge #62: https://repl.it/student/submissions/1797443 "Queue Using Stack"
-#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: Review Code Challenge #62 queueUsingStack
-#### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Kelly Walker: JS Debugging
+#### [1st Lecture](https://youtu.be/PRkNuAgkXww) w/Sean Chen: Review Code Challenge #62 queueUsingStack
+#### [Brown Bag](https://youtu.be/B-tiv0tvdBI) w/Kelly Walker: JS Debugging
 
 
 ***
