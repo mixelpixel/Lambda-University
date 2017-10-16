@@ -13,15 +13,13 @@ Christine Gierer
 GUEST LECTURER
 NO_VIDEO_RECORDED
 ***
-# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Thomson Comer: Review Code Challenge #63: binaryTreeSearch
-- https://repl.it/student/assignments/######/model_solution?fromSubmissionId=????
+# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: Review Code Challenge #63: binaryTreeSearch
+- 
 
 ***
-#### LUNCH
-***
-# [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-***
 # [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+***
+#### LUNCH
 ***
 # [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 ***
