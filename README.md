@@ -775,9 +775,8 @@ Code Challenge #62: https://repl.it/student/submissions/1797443 "Queue Using Sta
 ## Week 16: Oct. 16 - 20
 ### Day 74: Monday, October 16
 ### [DAY 74 NOTES](Month4/Week16/Day74/README.md)
-Code Challenge #63: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
-#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #63 NEW_CODE_CHALLENGE
-#### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+Code Challenge #63: https://repl.it/student/submissions/1809823 "Binary Tree Search"
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: Review Code Challenge #64 binaryTreeSearch
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 Pair Programming #25: https://github.com/LambdaSchool/????? w/???
@@ -785,8 +784,8 @@ Pair Programming #25: https://github.com/LambdaSchool/????? w/???
 
 ### Day 75: Tuesday, October 17
 ### [DAY 75 NOTES](Month4/Week16/Day75README.md)
-Code Challenge #64: https://repl.it/student/submissions/1809823 "Binary Tree Search"
-#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Thomson Comer: Review Code Challenge #64 binaryTreeSearch
+Code Challenge #64: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #63 NEW_CODE_CHALLENGE
 #### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
@@ -797,7 +796,6 @@ Code Challenge #64: https://repl.it/student/submissions/1809823 "Binary Tree Sea
 ### [DAY 76 NOTES](Month4/Week16/Day76/README.md)
 Code Challenge #65: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
 #### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #65 NEW_CODE_CHALLENGE
-#### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 Pair Programming #26: https://github.com/LambdaSchool/????? w/???
