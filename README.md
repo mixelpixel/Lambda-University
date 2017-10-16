@@ -785,8 +785,8 @@ Pair Programming #25: https://github.com/LambdaSchool/????? w/???
 
 ### Day 75: Tuesday, October 17
 ### [DAY 75 NOTES](Month4/Week16/Day75README.md)
-Code Challenge #64: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
-#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #64 NEW_CODE_CHALLENGE
+Code Challenge #64: https://repl.it/student/submissions/1809823 "Binary Tree Search"
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Thomson Comer: Review Code Challenge #64 binaryTreeSearch
 #### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
