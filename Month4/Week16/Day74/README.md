@@ -13,7 +13,7 @@ Christine Gierer
 GUEST LECTURER
 NO_VIDEO_RECORDED
 ***
-# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: Review Code Challenge #63: binaryTreeSearch
+# [1st Lecture](https://youtu.be/E2Wv-JXJFuM) w/Sean Chen: Review Code Challenge #63: binaryTreeSearch
 - https://piazza.com/class/j63w1pdyopf7kj?cid=73
 
 ***
