@@ -1,6 +1,6 @@
 # Lambda University - October 16, 2017: Day 74, Monday
 ## Coding Challenge #63
-- "NEW_CODE_CHALLENGE" available in https://repl.it/student/submissions/#
+- "Binary Tree Search" available in https://repl.it/student/submissions/1809823
 ***
 Ben Nelson
 Thomson Comer
@@ -13,7 +13,7 @@ Christine Gierer
 GUEST LECTURER
 NO_VIDEO_RECORDED
 ***
-# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #63: NEW_CODE_CHALLENGE
+# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Thomson Comer: Review Code Challenge #63: binaryTreeSearch
 - https://repl.it/student/assignments/######/model_solution?fromSubmissionId=????
 
 ***
