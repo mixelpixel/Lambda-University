@@ -776,7 +776,7 @@ Code Challenge #62: https://repl.it/student/submissions/1797443 "Queue Using Sta
 ### Day 74: Monday, October 16
 ### [DAY 74 NOTES](Month4/Week16/Day74/README.md)
 Code Challenge #63: https://repl.it/student/submissions/1809823 "Binary Tree Search"
-#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: Review Code Challenge #64 binaryTreeSearch
+#### [1st Lecture](https://youtu.be/E2Wv-JXJFuM) w/Sean Chen: Review Code Challenge #64 binaryTreeSearch
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 Pair Programming #25: https://github.com/LambdaSchool/????? w/???
