@@ -14,7 +14,7 @@ GUEST LECTURER
 NO_VIDEO_RECORDED
 ***
 # [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: Review Code Challenge #63: binaryTreeSearch
-- 
+- https://piazza.com/class/j63w1pdyopf7kj?cid=73
 
 ***
 # [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
