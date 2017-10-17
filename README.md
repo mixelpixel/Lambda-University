@@ -759,7 +759,7 @@ Code Challenge #61: https://repl.it/student/submissions/1789748 "Stack"
 #### [3rd Lecture](https://youtu.be/JCUNwhDEaXY) w/Thomson Comer: LS-Applied C Programming
 #### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Hans Petrich from Silent Break Security: Penetration Testing
 #### [4th Lecture](https://youtu.be/Pr0iZylrh38) w/Thomson Comer: LS - Applied C Programming
-Pair Programming #24: https://github.com/LambdaSchool/Applied-C-Programming w/Jake
+Pair Programming #25: https://github.com/LambdaSchool/Applied-C-Programming w/Jake & Antonio
 ***
 
 ### Day 73: Friday, October 13
@@ -777,9 +777,9 @@ Code Challenge #62: https://repl.it/student/submissions/1797443 "Queue Using Sta
 ### [DAY 74 NOTES](Month4/Week16/Day74/README.md)
 Code Challenge #63: https://repl.it/student/submissions/1809823 "Binary Tree Search"
 #### [1st Lecture](https://youtu.be/E2Wv-JXJFuM) w/Sean Chen: Review Code Challenge #64 binaryTreeSearch
-#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-Pair Programming #25: https://github.com/LambdaSchool/????? w/???
+#### [2nd Lecture](NO_VIDEO_RECORDED) w/Thomson Comer: Applied C Programming Q&A
+#### [3rd Lecture](https://youtu.be/01PG_IpaiN4) w/Thomson Comer: Applied C Programming Q&A
+#### [4th Lecture](https://youtu.be/ExtEKwKm3j8) w/Thomson Comer: Applied C Programming Q&A
 ***
 
 ### Day 75: Tuesday, October 17
@@ -789,7 +789,7 @@ Code Challenge #64: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
 #### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-
+Pair Programming #26: https://github.com/LambdaSchool/????? w/???
 ***
 
 ### Day 76: Wednesday, October 18
@@ -798,7 +798,6 @@ Code Challenge #65: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
 #### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #65 NEW_CODE_CHALLENGE
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-Pair Programming #26: https://github.com/LambdaSchool/????? w/???
 ***
 
 ### Day 77: Thursday, October 19
@@ -808,7 +807,7 @@ Code Challenge #66: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
 #### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-
+Pair Programming #27: https://github.com/LambdaSchool/????? w/???
 ***
 
 ### Day 78: Friday, October 20
