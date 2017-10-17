@@ -20,7 +20,7 @@ NO_VIDEO_RECORDED
 #### LUNCH
 ***
 # [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Brian Hall: JavaScript Promises and Dragons!
-
+- https://github.com/beejjorgensen/jspromise
 
 ***
 # [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
