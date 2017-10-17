@@ -15,12 +15,13 @@ NO_VIDEO_RECORDED
 ***
 # [1st Lecture](https://youtu.be/krtTy-mRaNk) w/Sean Chen: Review Code Challenge #64: quickSort
 - https://repl.it/student/assignments/484784/model_solution?fromSubmissionId=1817075
--
 
 ***
 #### LUNCH
 ***
-# [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+# [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Brian Hall: JavaScript Promises and Dragons!
+
+
 ***
 # [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 ***
