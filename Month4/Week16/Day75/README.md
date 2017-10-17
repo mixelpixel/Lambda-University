@@ -2,17 +2,6 @@
 ## Coding Challenge #64
 - "Quick Sort" available in https://repl.it/student/submissions/1817075
 ***
-Ben Nelson
-Thomson Comer
-Ryan Hamblin
-Ivan Mora
-Sean Chen
-Tai Chulikavit
-Emily Sperry
-Christine Gierer
-GUEST LECTURER
-NO_VIDEO_RECORDED
-***
 # [1st Lecture](https://youtu.be/krtTy-mRaNk) w/Sean Chen: Review Code Challenge #64: quickSort
 - https://repl.it/student/assignments/484784/model_solution?fromSubmissionId=1817075
 
