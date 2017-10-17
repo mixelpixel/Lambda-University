@@ -784,8 +784,8 @@ Code Challenge #63: https://repl.it/student/submissions/1809823 "Binary Tree Sea
 
 ### Day 75: Tuesday, October 17
 ### [DAY 75 NOTES](Month4/Week16/Day75README.md)
-Code Challenge #64: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
-#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #63 NEW_CODE_CHALLENGE
+Code Challenge #64: https://repl.it/student/submissions/1817075 "Quick Sort"
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: Review Code Challenge #63 quickSort
 #### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
