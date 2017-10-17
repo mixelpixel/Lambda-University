@@ -1,6 +1,6 @@
 # Lambda University - October 17, 2017: Day 75, Tuesday
 ## Coding Challenge #64
-- "NEW_CODE_CHALLENGE" available in https://repl.it/student/submissions/#
+- "Quick Sort" available in https://repl.it/student/submissions/1817075
 ***
 Ben Nelson
 Thomson Comer
@@ -13,8 +13,8 @@ Christine Gierer
 GUEST LECTURER
 NO_VIDEO_RECORDED
 ***
-# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #64: NEW_CODE_CHALLENGE
-- https://repl.it/student/assignments/######/model_solution?fromSubmissionId=????
+# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: Review Code Challenge #64: quickSort
+- 
 
 ***
 #### LUNCH
