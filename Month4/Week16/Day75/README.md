@@ -14,6 +14,7 @@ GUEST LECTURER
 NO_VIDEO_RECORDED
 ***
 # [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: Review Code Challenge #64: quickSort
+- https://repl.it/student/assignments/484784/model_solution?fromSubmissionId=1817075
 - 
 
 ***
