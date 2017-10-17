@@ -786,7 +786,7 @@ Code Challenge #63: https://repl.it/student/submissions/1809823 "Binary Tree Sea
 ### [DAY 75 NOTES](Month4/Week16/Day75README.md)
 Code Challenge #64: https://repl.it/student/submissions/1817075 "Quick Sort"
 #### [1st Lecture](https://youtu.be/krtTy-mRaNk) w/Sean Chen: Review Code Challenge #63 quickSort
-#### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Brian Hall: JavaScript Promises and Dragons!
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 Pair Programming #26: https://github.com/LambdaSchool/????? w/???
