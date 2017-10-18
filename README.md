@@ -787,9 +787,7 @@ Code Challenge #63: https://repl.it/student/submissions/1809823 "Binary Tree Sea
 Code Challenge #64: https://repl.it/student/submissions/1817075 "Quick Sort"
 #### [1st Lecture](https://youtu.be/krtTy-mRaNk) w/Sean Chen: Review Code Challenge #63 quickSort
 #### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Brian Hall: JavaScript Promises and Dragons!
-#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-Pair Programming #26: https://github.com/LambdaSchool/????? w/???
+#### [2nd Lecture](https://youtu.be/krAZdwo_h3s) w/Thomson Comer: Applied C Programming Q&A
 ***
 
 ### Day 76: Wednesday, October 18
@@ -798,6 +796,7 @@ Code Challenge #65: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
 #### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #65 NEW_CODE_CHALLENGE
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+Pair Programming #26: https://github.com/LambdaSchool/????? w/???
 ***
 
 ### Day 77: Thursday, October 19
