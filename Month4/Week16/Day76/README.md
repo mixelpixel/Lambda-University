@@ -13,13 +13,13 @@ Christine Gierer
 GUEST LECTURER
 NO_VIDEO_RECORDED
 ***
-# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: Review Code Challenge #65: mergeSort
+# [1st Lecture](https://youtu.be/H4psSvw7DJQ) w/Sean Chen: Review Code Challenge #65: mergeSort
 - https://piazza.com/class/j63w1pdyopf7kj?cid=76
 
 ***
 #### LUNCH
 ***
-# [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Thomson Comer: Theory of Computation
+# [2nd Lecture](https://youtu.be/tlH7An5IIJk) w/Thomson Comer: Theory of Computation Introduction
 - Atonement of Theory, definitions based on mathematical relationships
 - Finite State Automaton: given state, output a word; OR; given a state output a word and a new state
 - 6 Turing primitives: move left, move right, read, write, erase, do nothing https://stackoverflow.com/a/28148643/5225057
@@ -38,7 +38,9 @@ S -> NULL
 - https://www.lucidchart.com/invitations/accept/23d48d6a-2f0c-42e7-81cd-84df474541ce
 
 ***
-# [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+# [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Thomson Comer: Theory of Computation
+- 
+
 ***
 # [4th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 # Lab / Q&A
