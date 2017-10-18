@@ -794,7 +794,7 @@ Code Challenge #64: https://repl.it/student/submissions/1817075 "Quick Sort"
 ### [DAY 76 NOTES](Month4/Week16/Day76/README.md)
 Code Challenge #65: https://repl.it/student/submissions/1824513 "Merge Sort"
 #### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: Review Code Challenge #65 mergeSort
-#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Thomson Comer: Theory of Computation
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 Pair Programming #26: https://github.com/LambdaSchool/????? w/Jesh
 ***
