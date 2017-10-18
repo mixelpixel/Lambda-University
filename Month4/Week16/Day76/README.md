@@ -39,7 +39,7 @@ S -> NULL
 
 ***
 # [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Thomson Comer: Theory of Computation
-- 
+- Context-Free Grammar
 
 ***
 # [4th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
