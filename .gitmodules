@@ -151,3 +151,6 @@
 [submodule "Applied-C-Programming"]
 	path = Applied-C-Programming
 	url = https://github.com/mixelpixel/Applied-C-Programming.git
+[submodule "Theory-Of-Computation"]
+	path = Theory-Of-Computation
+	url = https://github.com/mixelpixel/Theory-Of-Computation.git
