@@ -13,8 +13,8 @@ Christine Gierer
 GUEST LECTURER
 NO_VIDEO_RECORDED
 ***
-# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #66: insertionSort
-- 
+# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: Review Code Challenge #66: insertionSort
+- https://repl.it/student/assignments/490756/model_solution?fromSubmissionId=1831101
 
 ***
 #### LUNCH
