@@ -13,5 +13,7 @@
 
 ***
 # [2nd Lecture](https://youtu.be/krAZdwo_h3s) w/Thomson Comer: Applied C Programming Q&A
+- epic Thomson Comer exposition on the benefits of GitHub commit messages
+
 ***
 # fin
