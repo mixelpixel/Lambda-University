@@ -8,7 +8,7 @@
 ***
 #### LUNCH
 ***
-# [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Brian Hall: JavaScript Promises and Dragons!
+# [Brown Bag](https://youtu.be/ccHqd9j3ePk) w/Brian Hall: JavaScript Promises and Dragons! BEEJ!!!
 - https://github.com/beejjorgensen/jspromise
 
 ***
