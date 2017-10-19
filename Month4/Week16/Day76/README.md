@@ -8,7 +8,7 @@
 ***
 #### LUNCH
 ***
-# [2nd Lecture](https://youtu.be/tlH7An5IIJk) w/Thomson Comer: Theory of Computation Introduction
+# [2nd Lecture](https://youtu.be/tlH7An5IIJk) w/Thomson Comer: Theory of Computation Intro, pt.1
 - https://github.com/LambdaSchool/Theory-Of-Computation
 - Atonement of Theory, definitions based on mathematical relationships
 - Finite State Automaton: given state, output a word; OR; given a state output a word and a new state
@@ -28,7 +28,7 @@ S -> NULL
 - https://www.lucidchart.com/invitations/accept/23d48d6a-2f0c-42e7-81cd-84df474541ce
 
 ***
-# [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Thomson Comer: Theory of Computation
+# [3rd Lecture](https://youtu.be/QGWRbPGtaME) w/Thomson Comer: Theory of Computation Intro, pt.2
 - Context-Free Grammar (a little weird for creating natural language)
 - Backus-Naur Form of a Context-Free Grammar
 - Assignment: create a sub-programming language
@@ -43,8 +43,5 @@ S -> NULL
 - Goedel's incompleteness theorem: http://jacqkrol.x10.mx/assets/articles/godel-1931.pdf
 - Write a JS dialect using BNF
 
-***
-# [4th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-# Lab / Q&A
 ***
 # fin
