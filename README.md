@@ -795,8 +795,8 @@ Code Challenge #64: https://repl.it/student/submissions/1817075 "Quick Sort"
 Code Challenge #65: https://repl.it/student/submissions/1824513 "Merge Sort"
 #### [1st Lecture](https://youtu.be/H4psSvw7DJQ) w/Sean Chen: Review Code Challenge #65 mergeSort
 #### [2nd Lecture](https://youtu.be/tlH7An5IIJk) w/Thomson Comer: Theory of Computation Introduction
-#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-Pair Programming #26: https://github.com/LambdaSchool/????? w/Jesh
+#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Thomson Comer: Theory of Computation
+Pair Programming #26: https://github.com/LambdaSchool/Theory-Of-Computation w/Jesh
 ***
 
 ### Day 77: Thursday, October 19
@@ -806,7 +806,6 @@ Code Challenge #66: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
 #### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-Pair Programming #27: https://github.com/LambdaSchool/????? w/???
 ***
 
 ### Day 78: Friday, October 20
@@ -819,6 +818,7 @@ Code Challenge #67: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
 
 
 ***
+Pair Programming #27: https://github.com/LambdaSchool/????? w/???
 
 
 ## Week 17: Oct. 23 - 27
