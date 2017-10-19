@@ -786,7 +786,7 @@ Code Challenge #63: https://repl.it/student/submissions/1809823 "Binary Tree Sea
 ### [DAY 75 NOTES](Month4/Week16/Day75README.md)
 Code Challenge #64: https://repl.it/student/submissions/1817075 "Quick Sort"
 #### [1st Lecture](https://youtu.be/krtTy-mRaNk) w/Sean Chen: Review Code Challenge #63 quickSort
-#### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Brian Hall: JavaScript Promises and Dragons!
+#### [Brown Bag](https://youtu.be/ccHqd9j3ePk) w/Brian Hall: JavaScript Promises and Dragons! BEEJ!!!
 #### [2nd Lecture](https://youtu.be/krAZdwo_h3s) w/Thomson Comer: Applied C Programming Q&A
 ***
 
@@ -921,6 +921,9 @@ Pair Programming #27: https://github.com/LambdaSchool/????? w/???
 - http://www.c4learn.com/c-programming/c-pointer-operator/
 - http://www.zentut.com/c-tutorial/c-linked-list/
 - https://www.learn-c.org/en/Linked_lists
+
+#### Compiling
+- http://www.bayfronttechnologies.com/mc_tutorial.html
 
 #### REST
 - http://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm
