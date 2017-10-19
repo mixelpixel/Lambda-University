@@ -20,6 +20,7 @@ NO_VIDEO_RECORDED
 #### LUNCH
 ***
 # [2nd Lecture](https://youtu.be/tlH7An5IIJk) w/Thomson Comer: Theory of Computation Introduction
+- https://github.com/LambdaSchool/Theory-Of-Computation
 - Atonement of Theory, definitions based on mathematical relationships
 - Finite State Automaton: given state, output a word; OR; given a state output a word and a new state
 - 6 Turing primitives: move left, move right, read, write, erase, do nothing https://stackoverflow.com/a/28148643/5225057
