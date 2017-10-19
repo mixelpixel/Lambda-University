@@ -1,6 +1,6 @@
 # Lambda University - October 19, 2017: Day 77, Thursday
 ## Coding Challenge #66
-- "NEW_CODE_CHALLENGE" available in https://repl.it/student/submissions/#
+- "Insertion Sort" available in https://repl.it/student/submissions/1831101
 ***
 Ben Nelson
 Thomson Comer
@@ -13,8 +13,8 @@ Christine Gierer
 GUEST LECTURER
 NO_VIDEO_RECORDED
 ***
-# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #66: NEW_CODE_CHALLENGE
-- https://repl.it/student/assignments/######/model_solution?fromSubmissionId=????
+# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #66: insertionSort
+- 
 
 ***
 #### LUNCH
