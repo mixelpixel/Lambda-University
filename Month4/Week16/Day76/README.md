@@ -39,7 +39,19 @@ S -> NULL
 
 ***
 # [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Thomson Comer: Theory of Computation
-- Context-Free Grammar
+- Context-Free Grammar (a little weird for creating natural language)
+- Backus-Naur Form of a Context-Free Grammar
+- Assignment: create a sub-programming language
+- Halting problem f(x) vs g(f(x))
+- Turing invented his "Turing Machine" in an attempt to resolve the halting problem
+- "will an automata return a specific response to a question?"
+- Some automata will enter an infinite loop, how do we evaluate and predict the strings that generate an infinite loop. Can we invent a grammar which can predict and resolve the halting problem?
+- some autimata cannot be created
+- certain programs get too complex too quickly - not computable, even if decideable
+- intractability
+- asymptotic complexity (Big O) at a certain point certain ones are too big to compute
+- Goedel's incompleteness theorem: http://jacqkrol.x10.mx/assets/articles/godel-1931.pdf
+- Write a JS dialect using BNF
 
 ***
 # [4th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
