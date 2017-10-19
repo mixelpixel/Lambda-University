@@ -26,6 +26,7 @@ S -> bS
 S -> NULL
 ```
 - https://www.lucidchart.com/invitations/accept/23d48d6a-2f0c-42e7-81cd-84df474541ce
+## [@54m58s](https://youtu.be/tlH7An5IIJk?t=54m58s) Mini-Lab Assignment: Graph a Regular Grammar String
 
 ***
 # [3rd Lecture](https://youtu.be/QGWRbPGtaME) w/Thomson Comer: Theory of Computation Intro, pt.2
@@ -42,6 +43,7 @@ S -> NULL
 - asymptotic complexity (Big O) at a certain point certain ones are too big to compute
 - Goedel's incompleteness theorem: http://jacqkrol.x10.mx/assets/articles/godel-1931.pdf
 - Write a JS dialect using BNF
+## [@1h10m45s](https://youtu.be/QGWRbPGtaME?t=1h10m45s) Lab Assignment: Create a Programming language
 
 ***
 # fin
