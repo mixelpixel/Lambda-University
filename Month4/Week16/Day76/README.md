@@ -2,17 +2,6 @@
 ## Coding Challenge #65
 - "Merge Sort" available in https://repl.it/student/submissions/1824513
 ***
-Ben Nelson
-Thomson Comer
-Ryan Hamblin
-Ivan Mora
-Sean Chen
-Tai Chulikavit
-Emily Sperry
-Christine Gierer
-GUEST LECTURER
-NO_VIDEO_RECORDED
-***
 # [1st Lecture](https://youtu.be/H4psSvw7DJQ) w/Sean Chen: Review Code Challenge #65: mergeSort
 - https://piazza.com/class/j63w1pdyopf7kj?cid=76
 
