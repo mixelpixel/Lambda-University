@@ -1,6 +1,6 @@
 # Lambda University - October 20, 2017: Day 78, Friday
 ## Coding Challenge #67
-- "NEW_CODE_CHALLENGE" available in https://repl.it/student/submissions/#
+- "Highest Product of Three" available in https://repl.it/student/submissions/1837298
 ***
 Ben Nelson
 Thomson Comer
@@ -13,7 +13,7 @@ Christine Gierer
 GUEST LECTURER
 NO_VIDEO_RECORDED
 ***
-# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #67: NEW_CODE_CHALLENGE
+# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #67: highestProductOfThree
 - https://repl.it/student/assignments/######/model_solution?fromSubmissionId=????
 
 ***
