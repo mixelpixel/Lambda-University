@@ -803,20 +803,16 @@ Pair Programming #26: https://github.com/LambdaSchool/Theory-Of-Computation w/Je
 ### [DAY 77 NOTES](Month4/Week16/Day77/README.md)
 Code Challenge #66: https://repl.it/student/submissions/# "Insertion Sort"
 #### [1st Lecture](https://youtu.be/KeBcSApTefM) w/Sean Chen: Review Code Challenge #66 insertionSort
-#### [2nd Lecture](https://youtu.be/NhLzTF-4epM) w/Thomson Comer: Theory of Computation Intro Q&A
+#### [2nd Lecture](https://youtu.be/NhLzTF-4epM) w/Thomson Comer: Theory of Computation
 ***
 
 ### Day 78: Friday, October 20
 ### [DAY 78 NOTES](Month4/Week16/Day78/README.md)
 Code Challenge #67: https://repl.it/student/submissions/1837298 "Highest Product of Three"
-#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #67 highestProductOfThree
-#### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-
-
+#### [1st Lecture](https://youtu.be/DfFBYylXx5U) w/Sean Chen: Review Code Challenge #67: highestProductOfThree
+#### [2nd Lecture](https://youtu.be/3zlgN4nBiFA) w/Thomson Comer: Theory of Computation
+#### [Brown Bag](https://youtu.be/XuQxXyndOZY) w/Caleb Hicks: State of the Lambda
 ***
-Pair Programming #27: https://github.com/LambdaSchool/????? w/???
 
 
 ## Week 17: Oct. 23 - 27
@@ -833,6 +829,7 @@ Pair Programming #27: https://github.com/LambdaSchool/????? w/???
 
 # Month 5: November, 2017
 ## Week 18: Oct. 30 - Nov. 3
+Pair Programming #27: https://github.com/LambdaSchool/????? w/???
 
 
 ***
