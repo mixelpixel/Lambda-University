@@ -979,6 +979,7 @@ Pair Programming #27: https://github.com/LambdaSchool/????? w/???
 - https://youtu.be/AzlpRbziyZQ EXCELLENT 8 MIN OVERVIEW
 
 #### JAVASCRIPT/ ECMAScript
+- [Historical Context of Modern JavaScript](https://medium.com/@peterxjang/modern-javascript-explained-for-dinosaurs-f695e9747b70)
 - Mozilla JavaScript Reference: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 	- https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
 - [You Don't Know JS!](https://github.com/getify/You-Dont-Know-JS)
