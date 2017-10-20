@@ -2,7 +2,7 @@
 ## Coding Challenge #66
 - "Insertion Sort" available in https://repl.it/student/submissions/1831101
 ***
-# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: Review Code Challenge #66: insertionSort
+# [1st Lecture](https://youtu.be/KeBcSApTefM) w/Sean Chen: Review Code Challenge #66: insertionSort
 - https://repl.it/student/assignments/490756/model_solution?fromSubmissionId=1831101
 
 ***
