@@ -808,8 +808,8 @@ Code Challenge #66: https://repl.it/student/submissions/# "Insertion Sort"
 
 ### Day 78: Friday, October 20
 ### [DAY 78 NOTES](Month4/Week16/Day78/README.md)
-Code Challenge #67: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
-#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #67 NEW_CODE_CHALLENGE
+Code Challenge #67: https://repl.it/student/submissions/1837298 "Highest Product of Three"
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #67 highestProductOfThree
 #### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
