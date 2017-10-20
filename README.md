@@ -802,7 +802,7 @@ Pair Programming #26: https://github.com/LambdaSchool/Theory-Of-Computation w/Je
 ### Day 77: Thursday, October 19
 ### [DAY 77 NOTES](Month4/Week16/Day77/README.md)
 Code Challenge #66: https://repl.it/student/submissions/# "Insertion Sort"
-#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: Review Code Challenge #66 insertionSort
+#### [1st Lecture](https://youtu.be/KeBcSApTefM) w/Sean Chen: Review Code Challenge #66 insertionSort
 #### [2nd Lecture](https://youtu.be/NhLzTF-4epM) w/Thomson Comer: Theory of Computation Intro Q&A
 ***
 
