@@ -956,6 +956,7 @@ Pair Programming #27: https://github.com/LambdaSchool/????? w/???
 - https://reactarmory.com/resources/lifecycle-simulators#State-updates
 - https://reactarmory.com/resources/lifecycle-simulators#Prop-updates
 - https://reactarmory.com/guides/context-free-react-router
+- [HOW TO](https://www.youtube.com/channel/UCsvMopMspsGw89AWim0FMfw)
 ##### REACT-NATIVE
 - https://github.com/ReactNativeNews/react-native-newsletter
 - https://github.com/ReactNativeNews/React-Native-Apps
