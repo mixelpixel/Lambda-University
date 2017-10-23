@@ -13,7 +13,7 @@ Christine Gierer
 GUEST LECTURER
 NO_VIDEO_RECORDED
 ***
-# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: Review Code Challenge #68: pythonCrashCourse
+# [1st Lecture](https://youtu.be/qUmJVVOSFyY) w/Sean Chen: Review Code Challenge #68: pythonCrashCourse
 ***
 #### LUNCH
 ***
