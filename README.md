@@ -822,7 +822,6 @@ Code Challenge #67: https://repl.it/student/submissions/1837298 "Highest Product
 ### [DAY 79 NOTES](Month4/Week17/Day79/README.md)
 Code Challenge #68: https://repl.it/student/submissions/1847090 "Python Crash Course"
 #### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: Review Code Challenge #68: pythonCrashCourse
-#### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 Pair Programming #27: https://github.com/LambdaSchool/????? w/???
@@ -841,7 +840,6 @@ Code Challenge #69: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
 ### [DAY 81 NOTES](Month4/Week17/Day81/README.md)
 Code Challenge #70: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
 #### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #70 NEW_CODE_CHALLENGE
-#### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 ***
