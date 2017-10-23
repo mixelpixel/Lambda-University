@@ -821,7 +821,7 @@ Code Challenge #67: https://repl.it/student/submissions/1837298 "Highest Product
 ### Day 79: Monday, October 23
 ### [DAY 79 NOTES](Month4/Week17/Day79/README.md)
 Code Challenge #68: https://repl.it/student/submissions/1847090 "Python Crash Course"
-#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: Review Code Challenge #68: pythonCrashCourse
+#### [1st Lecture](https://youtu.be/qUmJVVOSFyY) w/Sean Chen: Review Code Challenge #68: pythonCrashCourse
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 Pair Programming #27: https://github.com/LambdaSchool/????? w/???
@@ -947,6 +947,8 @@ Code Challenge #72: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
 	- https://github.com/careercup/CtCI-6th-Edition
 - CS2 lectures: https://docs.google.com/spreadsheets/d/1k87GF1O-5b0oF2mr0i7aaBs7aIkvExFxu12HcZdOoXY/edit#gid=505824829
 
+#### Internships
+- http://www.shubhro.com/2014/10/15/tips-for-internships/
 
 #### LSPro lectures:
 - [Callbacks](https://youtu.be/qxURd9khNgU)
