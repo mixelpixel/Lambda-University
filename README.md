@@ -822,8 +822,7 @@ Code Challenge #67: https://repl.it/student/submissions/1837298 "Highest Product
 ### [DAY 79 NOTES](Month4/Week17/Day79/README.md)
 Code Challenge #68: https://repl.it/student/submissions/1847090 "Python Crash Course"
 #### [1st Lecture](https://youtu.be/qUmJVVOSFyY) w/Sean Chen: Review Code Challenge #68: pythonCrashCourse
-#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Thomson Comer: LS-Theory of Computation fin.
 Pair Programming #27: https://github.com/LambdaSchool/????? w/???
 ***
 
