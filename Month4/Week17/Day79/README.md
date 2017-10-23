@@ -17,8 +17,6 @@ NO_VIDEO_RECORDED
 ***
 #### LUNCH
 ***
-# [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-***
 # [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 ***
 # [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
