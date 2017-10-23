@@ -812,10 +812,57 @@ Code Challenge #67: https://repl.it/student/submissions/1837298 "Highest Product
 #### [1st Lecture](https://youtu.be/DfFBYylXx5U) w/Sean Chen: Review Code Challenge #67: highestProductOfThree
 #### [2nd Lecture](https://youtu.be/3zlgN4nBiFA) w/Thomson Comer: Theory of Computation
 #### [Brown Bag](https://youtu.be/XuQxXyndOZY) w/Caleb Hicks: State of the Lambda
+
+
 ***
 
 
 ## Week 17: Oct. 23 - 27
+### Day 79: Monday, October 23
+### [DAY 79 NOTES](Month4/Week17/Day79/README.md)
+Code Challenge #68: https://repl.it/student/submissions/1847090 "Python Crash Course"
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: Review Code Challenge #68: pythonCrashCourse
+#### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+Pair Programming #27: https://github.com/LambdaSchool/????? w/???
+***
+
+### Day 80: Tuesday, October 24
+### [DAY 80 NOTES](Month4/Week17/Day80/README.md)
+Code Challenge #69: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #69 NEW_CODE_CHALLENGE
+#### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+***
+
+### Day 81: Wednesday, October 25
+### [DAY 81 NOTES](Month4/Week17/Day81/README.md)
+Code Challenge #70: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #70 NEW_CODE_CHALLENGE
+#### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+***
+
+### Day 82: Thursday, October 26
+### [DAY 82 NOTES](Month4/Week17/Day82/README.md)
+Code Challenge #71: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #71 NEW_CODE_CHALLENGE
+#### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+***
+
+### Day 83: Friday, October 27
+### [DAY 83 NOTES](Month4/Week17/Day83/README.md)
+Code Challenge #72: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #72 NEW_CODE_CHALLENGE
+#### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+***
 
 
 <!-- </p></details> -->
@@ -829,7 +876,6 @@ Code Challenge #67: https://repl.it/student/submissions/1837298 "Highest Product
 
 # Month 5: November, 2017
 ## Week 18: Oct. 30 - Nov. 3
-Pair Programming #27: https://github.com/LambdaSchool/????? w/???
 
 
 ***
