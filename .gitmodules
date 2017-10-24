@@ -154,3 +154,6 @@
 [submodule "Theory-Of-Computation"]
 	path = Theory-Of-Computation
 	url = https://github.com/mixelpixel/Theory-Of-Computation.git
+[submodule "Algorithms-One"]
+	path = Algorithms-One
+	url = https://github.com/mixelpixel/Algorithms-One.git
