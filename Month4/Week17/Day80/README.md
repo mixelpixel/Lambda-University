@@ -1,6 +1,6 @@
 # Lambda University - October 24, 2017: Day 080, Tuesday
 ## Coding Challenge #69
-- "NEW_CODE_CHALLENGE" available in https://repl.it/student/submissions/#
+- "Strings" available in https://repl.it/student/submissions/1855286
 ***
 Ben Nelson
 Thomson Comer
@@ -13,7 +13,7 @@ Christine Gierer
 GUEST LECTURER
 NO_VIDEO_RECORDED
 ***
-# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #69: NEW_CODE_CHALLENGE
+# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: Review Code Challenge #69: strings
 - https://repl.it/student/assignments/######/model_solution?fromSubmissionId=????
 
 ***
