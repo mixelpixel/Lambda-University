@@ -17,11 +17,11 @@ NO_VIDEO_RECORDED
 - https://repl.it/student/assignments/493753/model_solution?fromSubmissionId=1855286
 
 ***
+# [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Thomson Comer: Algorithms Introduction
+***
 #### LUNCH
 ***
 # [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-***
-# [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 ***
 # [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 ***
