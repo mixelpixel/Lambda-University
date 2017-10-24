@@ -829,8 +829,8 @@ Code Challenge #68: https://repl.it/student/submissions/1847090 "Python Crash Co
 ### [DAY 80 NOTES](Month4/Week17/Day80/README.md)
 Code Challenge #69: https://repl.it/student/submissions/1855286 "Strings"
 #### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: Review Code Challenge #69 strings
+#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Thomson Comer: Algorithms
 #### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 Pair Programming #27: https://github.com/LambdaSchool/????? w/???
 ***
