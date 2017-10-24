@@ -14,7 +14,7 @@ GUEST LECTURER
 NO_VIDEO_RECORDED
 ***
 # [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: Review Code Challenge #69: strings
-- https://repl.it/student/assignments/######/model_solution?fromSubmissionId=????
+- https://repl.it/student/assignments/493753/model_solution?fromSubmissionId=1855286
 
 ***
 #### LUNCH
