@@ -823,16 +823,16 @@ Code Challenge #67: https://repl.it/student/submissions/1837298 "Highest Product
 Code Challenge #68: https://repl.it/student/submissions/1847090 "Python Crash Course"
 #### [1st Lecture](https://youtu.be/qUmJVVOSFyY) w/Sean Chen: Review Code Challenge #68: pythonCrashCourse
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Thomson Comer: LS-Theory of Computation fin.
-Pair Programming #27: https://github.com/LambdaSchool/????? w/???
 ***
 
 ### Day 80: Tuesday, October 24
 ### [DAY 80 NOTES](Month4/Week17/Day80/README.md)
-Code Challenge #69: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
-#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #69 NEW_CODE_CHALLENGE
+Code Challenge #69: https://repl.it/student/submissions/1855286 "Strings"
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: Review Code Challenge #69 strings
 #### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+Pair Programming #27: https://github.com/LambdaSchool/????? w/???
 ***
 
 ### Day 81: Wednesday, October 25
