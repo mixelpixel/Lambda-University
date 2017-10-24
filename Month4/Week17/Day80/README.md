@@ -18,6 +18,9 @@ NO_VIDEO_RECORDED
 
 ***
 # [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Thomson Comer: Algorithms Introduction
+- Which kinds of problems can be computed?
+- The question of tractability
+
 ***
 #### LUNCH
 ***
