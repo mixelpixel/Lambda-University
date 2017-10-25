@@ -1,6 +1,6 @@
 # Lambda University - October 25, 2017: Day 081, Wednesday
 ## Coding Challenge #70
-- "NEW_CODE_CHALLENGE" available in https://repl.it/student/submissions/#
+- "Lists" available in https://repl.it/student/submissions/1864112
 ***
 Ben Nelson
 Thomson Comer
@@ -13,8 +13,8 @@ Christine Gierer
 GUEST LECTURER
 NO_VIDEO_RECORDED
 ***
-# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #70: NEW_CODE_CHALLENGE
-- https://repl.it/student/assignments/######/model_solution?fromSubmissionId=????
+# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: Review Code Challenge #70: lists
+- https://repl.it/student/assignments/493801/model_solution?fromSubmissionId=1864112
 
 ***
 #### LUNCH
