@@ -14,7 +14,7 @@
 ***
 #### LUNCH
 ***
-# [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Kevin DePue: The Command Line
+# [Brown Bag](https://youtu.be/LcRbERkJ2ok) w/Kevin DePue: The Command Line
 - https://github.com/it3ration
 - To display all current environment variables:
 ```console
