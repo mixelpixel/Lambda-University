@@ -832,15 +832,14 @@ Code Challenge #69: https://repl.it/student/submissions/1855286 "Strings"
 #### [2nd Lecture](https://youtu.be/mNhV6-K3f8s) w/Thomson Comer: Algorithms-One Introduction
 #### [Brown Bag](https://youtu.be/LcRbERkJ2ok) w/Kevin DePue: The Command Line
 #### [3rd Lecture](https://youtu.be/sgUiTVtt7lA) w/Thomson Comer: Algorithms-One
-Pair Programming #27: https://github.com/LambdaSchool/Algorithms-One w/???
+Pair Programming #27: https://github.com/LambdaSchool/Algorithms-One solo
 ***
 
 ### Day 81: Wednesday, October 25
 ### [DAY 81 NOTES](Month4/Week17/Day81/README.md)
 Code Challenge #70: https://repl.it/student/submissions/1864112 "Lists"
-#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: Review Code Challenge #70: lists
-#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [1st Lecture](https://youtu.be/CTtsi2AV6Hg) w/Sean Chen: Review Code Challenge #70: lists
+#### [2nd Lecture](https://youtu.be/_wsYBbijgH4) w/Thomson Comer: LS-Algorithms-One
 ***
 
 ### Day 82: Thursday, October 26
