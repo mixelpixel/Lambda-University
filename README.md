@@ -830,7 +830,7 @@ Code Challenge #68: https://repl.it/student/submissions/1847090 "Python Crash Co
 Code Challenge #69: https://repl.it/student/submissions/1855286 "Strings"
 #### [1st Lecture](https://youtu.be/VC52108omBI) w/Sean Chen: Review Code Challenge #69 strings
 #### [2nd Lecture](https://youtu.be/mNhV6-K3f8s) w/Thomson Comer: Algorithms-One Introduction
-#### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Kevin DePue: The Command Line
+#### [Brown Bag](https://youtu.be/LcRbERkJ2ok) w/Kevin DePue: The Command Line
 #### [3rd Lecture](https://youtu.be/sgUiTVtt7lA) w/Thomson Comer: Algorithms-One
 Pair Programming #27: https://github.com/LambdaSchool/Algorithms-One w/???
 ***
