@@ -2,17 +2,6 @@
 ## Coding Challenge #69
 - "Strings" available in https://repl.it/student/submissions/1855286
 ***
-Ben Nelson
-Thomson Comer
-Ryan Hamblin
-Ivan Mora
-Sean Chen
-Tai Chulikavit
-Emily Sperry
-Christine Gierer
-GUEST LECTURER
-NO_VIDEO_RECORDED
-***
 # [1st Lecture](https://youtu.be/VC52108omBI) w/Sean Chen: Review Code Challenge #69: strings
 - https://repl.it/student/assignments/493753/model_solution?fromSubmissionId=1855286
 
@@ -37,9 +26,9 @@ $ env
 - https://docs.google.com/document/d/1v5cLry8GqD6JvlsCbDf3PfLNWRZzv1nfoz8j72TRYr4/edit
 
 ***
-# [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Thomson Comer: Algorithms-One
-***
-# [4th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-# Lab / Q&A
+# [3rd Lecture](https://youtu.be/sgUiTVtt7lA) w/Thomson Comer: Algorithms-One
+- O(x^n) every node connects to every node
+- 4 cities, exhaustive search
+
 ***
 # fin
