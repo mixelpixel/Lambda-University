@@ -1,6 +1,6 @@
 # Lambda University - October 26, 2017: Day 082, Thursday
 ## Coding Challenge #71
-- "NEW_CODE_CHALLENGE" available in https://repl.it/student/submissions/#
+- "Mean Median Mode" available in https://repl.it/student/submissions/1871422
 ***
 Ben Nelson
 Thomson Comer
@@ -13,13 +13,13 @@ Christine Gierer
 GUEST LECTURER
 NO_VIDEO_RECORDED
 ***
-# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #71: NEW_CODE_CHALLENGE
-- https://repl.it/student/assignments/######/model_solution?fromSubmissionId=????
+# [1st Lecture](https://youtu.be/r0xWh4QqS9Q) w/Sean Chen: Review Code Challenge #71: meanMedianMode
+- https://piazza.com/class/j63w1pdyopf7kj?cid=83
 
 ***
 #### LUNCH
 ***
-# [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+# [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Jonathan Chiang cs3: Block-Chain
 ***
 # [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 ***
