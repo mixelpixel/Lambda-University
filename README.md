@@ -844,8 +844,8 @@ Code Challenge #70: https://repl.it/student/submissions/1864112 "Lists"
 
 ### Day 82: Thursday, October 26
 ### [DAY 82 NOTES](Month4/Week17/Day82/README.md)
-Code Challenge #71: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
-#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #71 NEW_CODE_CHALLENGE
+Code Challenge #71: https://repl.it/student/submissions/# "Mean, Median, Mode"
+#### [1st Lecture](https://youtu.be/r0xWh4QqS9Q) w/Sean Chen: Review Code Challenge #71: meanMedianMode
 #### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
