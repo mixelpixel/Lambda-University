@@ -157,3 +157,6 @@
 [submodule "Algorithms-One"]
 	path = Algorithms-One
 	url = https://github.com/mixelpixel/Algorithms-One.git
+[submodule "Algorithms-Two"]
+	path = Algorithms-Two
+	url = https://github.com/mixelpixel/Algorithms-Two.git
