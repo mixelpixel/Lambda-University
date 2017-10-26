@@ -19,9 +19,9 @@ NO_VIDEO_RECORDED
 ***
 #### LUNCH
 ***
-# [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Jonathan Chiang cs3: Block-Chain
+# [Brown Bag](NO_VIDEO_RECORDED) w/Jonathan Chiang cs3: Block-Chain
 ***
-# [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+# [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Thomson Comer: LS-Algorithm One Solution
 ***
 # [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 ***
