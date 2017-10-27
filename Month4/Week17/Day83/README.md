@@ -13,7 +13,7 @@ Christine Gierer
 GUEST LECTURER
 NO_VIDEO_RECORDED
 ***
-# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Tai Chulikavit: Review Code Challenge #72: permutationPalindrome
+# [1st Lecture](https://youtu.be/yR0fdyILZ1s) w/Tai Chulikavit: Review Code Challenge #72: permutationPalindrome
 - https://repl.it/student/assignments/503560/model_solution?fromSubmissionId=1878345
 
 ***
