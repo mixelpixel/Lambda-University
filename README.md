@@ -853,8 +853,8 @@ Pair Programming #27: https://github.com/LambdaSchool/Algorithms-Two solo
 
 ### Day 83: Friday, October 27
 ### [DAY 83 NOTES](Month4/Week17/Day83/README.md)
-Code Challenge #72: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
-#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #72 NEW_CODE_CHALLENGE
+Code Challenge #72: https://repl.it/student/submissions/1878345 "Permutation Palindrome"
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Tai Chulikavit: Review Code Challenge #72: permutationPalindrome
 #### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
