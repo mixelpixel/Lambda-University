@@ -848,7 +848,7 @@ Code Challenge #71: https://repl.it/student/submissions/# "Mean, Median, Mode"
 #### [1st Lecture](https://youtu.be/r0xWh4QqS9Q) w/Sean Chen: Review Code Challenge #71: meanMedianMode
 #### [Brown Bag](NO_VIDEO_RECORDED) w/Jonathan Chiang cs3: Block-Chain
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Thomson Comer: LS-Algorithm One Solution
-Pair Programming #27: https://github.com/LambdaSchool/Algorithms-Two solo
+Pair Programming #27: https://github.com/thomcom/Algorithms-Two solo
 ***
 
 ### Day 83: Friday, October 27
@@ -874,15 +874,15 @@ Code Challenge #72: https://repl.it/student/submissions/1878345 "Permutation Pal
 ### [DAY 84 NOTES](Month5/Week18/Day84/README.md)
 Code Challenge #73: https://repl.it/student/submissions/1891345 "Linked List"
 #### [1st Lecture](https://youtu.be/6Ilb270zYpU) w/Sean Chen: Review Code Challenge #73: linkedList
-#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-Pair Programming #??: https://github.com/LambdaSchool/????? w/???
+#### [2nd Lecture](https://youtu.be/NI58sCR0-kM) w/Thomson Comer: Algorithms Two part one
+#### [3rd Lecture](https://youtu.be/vF6akBDES8Q) w/Thomson Comer: Algorithms Two part two
+Pair Programming #28: https://github.com/LambdaSchool/Algorithms-Two_React-TSP solo
 ***
 
 ### Day 85: Tuesday, October 31
 ### [DAY 85 NOTES](Month5/Week18/Day85/README.md)
-Code Challenge #74: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
-#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #74 NEW_CODE_CHALLENGE
+Code Challenge #74: https://repl.it/student/submissions/1895354 "Doubly Linked List"
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: Review Code Challenge #74 doublyLinkedList
 #### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
