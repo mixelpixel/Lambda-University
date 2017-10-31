@@ -1,6 +1,6 @@
 # Lambda University - October 31, 2017: Day 085, Tuesday
 ## Coding Challenge #74
-- "NEW_CODE_CHALLENGE" available in https://repl.it/student/submissions/#
+- "Doubly Linked List" available in https://repl.it/student/submissions/1895354
 ***
 Ben Nelson
 Thomson Comer
@@ -13,7 +13,7 @@ Christine Gierer
 GUEST LECTURER
 NO_VIDEO_RECORDED
 ***
-# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #74s: NEW_CODE_CHALLENGE
+# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #74s: doublyLinkedList
 - https://repl.it/student/assignments/######/model_solution?fromSubmissionId=????
 
 ***
