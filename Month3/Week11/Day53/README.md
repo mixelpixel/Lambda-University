@@ -8,7 +8,7 @@
 ***
 #### LUNCH
 ***
-# [Brown Bag](https://youtu.be/pKCwl4OGm2c) w/Wesley Harvey: Regular Expressions
+# [Brown Bag](https://youtu.be/6sF6CBynPpE) w/Wesley Harvey: Regular Expressions
 - http://www.regular-expressions.info/
 - https://www.bell-labs.com/usr/dmr/www/qedman.pdf
 - http://www.cs.princeton.edu/courses/archive/spr09/cos333/beautiful.html
