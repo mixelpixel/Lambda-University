@@ -8,11 +8,10 @@
 ***
 #### LUNCH
 ***
-# [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+# [2nd Lecture](https://youtu.be/NI58sCR0-kM) w/Thomson Comer: Algorithms Two part one
+- https://github.com/LambdaSchool/Algorithms-Two_React-TSP
+
 ***
-# [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-***
-# [4th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-# Lab / Q&A
+# [3rd Lecture](https://youtu.be/vF6akBDES8Q) w/Thomson Comer: Algorithms Two part two
 ***
 # fin
