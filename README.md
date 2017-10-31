@@ -583,7 +583,7 @@ Code Challenge #48: https://repl.it/student/submissions/1571861 "CSS Animations"
 ### [DAY 53 NOTES](Month3/Week11/Day53/README.md)
 Code Challenge #49: https://repl.it/student/submissions/1581604 "Roman Numeral Encoder"
 #### [1st Lecture](https://youtu.be/BEIF6yT-I-8) w/Emily Sperry: Review Code Challenge #49 romanNumeralEncoder
-#### [Brown Bag](https://youtu.be/pKCwl4OGm2c) w/Wesley Harvey: Regular Expressions
+#### [Brown Bag](https://youtu.be/6sF6CBynPpE) w/Wesley Harvey: Regular Expressions
 #### [2nd Lecture](https://youtu.be/jVjZFRdkuA4) w/Thomson Comer: LS-DevOp-Deployment Back End
 #### [3rd Lecture](https://youtu.be/6fthxZVGQUs) w/Thomson Comer: LS-DevOp-Deployment Front End
 
@@ -669,7 +669,7 @@ Code Challenge #54: https://repl.it/student/submissions/1704948 "Full Adder"
 ***
 
 
-<!-- <details><summary>Month 4: October, 2017</summary><p> -->
+<details><summary>Month 4: October, 2017</summary><p>
 
 
 # Month 4: October, 2017
@@ -856,12 +856,10 @@ Pair Programming #27: https://github.com/LambdaSchool/Algorithms-Two solo
 Code Challenge #72: https://repl.it/student/submissions/1878345 "Permutation Palindrome"
 #### [1st Lecture](https://youtu.be/yR0fdyILZ1s) w/Tai Chulikavit: Review Code Challenge #72: permutationPalindrome
 #### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Matt Bernier: Product Management
-#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 ***
 
 
-<!-- </p></details> -->
+</p></details>
 
 
 ***
@@ -872,6 +870,50 @@ Code Challenge #72: https://repl.it/student/submissions/1878345 "Permutation Pal
 
 # Month 5: November, 2017
 ## Week 18: Oct. 30 - Nov. 3
+### Day 84: Monday, October 30
+### [DAY 84 NOTES](Month5/Week18/Day84/README.md)
+Code Challenge #73: https://repl.it/student/submissions/1891345 "Linked List"
+#### [1st Lecture](https://youtu.be/6Ilb270zYpU) w/Sean Chen: Review Code Challenge #73: linkedList
+#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+Pair Programming #??: https://github.com/LambdaSchool/????? w/???
+***
+
+### Day 85: Tuesday, October 31
+### [DAY 85 NOTES](Month5/Week18/Day85/README.md)
+Code Challenge #74: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #74 NEW_CODE_CHALLENGE
+#### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+***
+
+### Day 86: Wednesday, November 01
+### [DAY 86 NOTES](Month5/Week18/Day86/README.md)
+Code Challenge #75: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #75 NEW_CODE_CHALLENGE
+#### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+***
+
+### Day 87: Thursday, November 02
+### [DAY 87 NOTES](Month5/Week18/Day87/README.md)
+Code Challenge #76: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #76 NEW_CODE_CHALLENGE
+#### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+Pair Programming #??: https://github.com/LambdaSchool/????? w/???
+***
+
+### Day 88: Friday, November 03
+### [DAY 88 NOTES](Month5/Week18/Day88/README.md)
+Code Challenge #77: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #77 NEW_CODE_CHALLENGE
+#### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 
 
 ***
@@ -1060,11 +1102,12 @@ Code Challenge #72: https://repl.it/student/submissions/1878345 "Permutation Pal
 
 #### Development Operations & Deployment
 - http://awsdevops.io/
-- https://youtu.be/4ht22ReBjno
+- https://youtu.be/4ht22ReBjno kubernetes
 - https://www.docker.com/
 - https://kukulinski.com/10-most-common-reasons-kubernetes-deployments-fail-part-1/
 - https://kukulinski.com/10-most-common-reasons-kubernetes-deployments-fail-part-2/
 - https://kubernetes.io/docs/user-guide/kubectl-cheatsheet/
+- https://youtu.be/v7ZcZfGBFcU dev ops 4 beginners
 
 #### Computer Science
 - BIG O NOTATION
@@ -1088,16 +1131,17 @@ Code Challenge #72: https://repl.it/student/submissions/1878345 "Permutation Pal
 - CAREER
 	- https://www.reddit.com/r/cscareerquestions/
 - REGULAR EXPRESSIONS
-http://www.regular-expressions.info/
-https://www.bell-labs.com/usr/dmr/www/qedman.pdf
-http://www.cs.princeton.edu/courses/archive/spr09/cos333/beautiful.html
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp/test
-also: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions
-http://files.hii-tech.com/book/Oreilly.Mastering.Regular.Expressions.3rd.Edition.Aug.2006.pdf <~~~ THIS BOOK
-```console
-$ man re_format
-```
+	- http://www.regular-expressions.info/
+	- https://www.bell-labs.com/usr/dmr/www/qedman.pdf
+	- http://www.cs.princeton.edu/courses/archive/spr09/cos333/beautiful.html
+	- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp
+	- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp/test
+	- also: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions
+	- http://files.hii-tech.com/book/Oreilly.Mastering.Regular.Expressions.3rd.Edition.Aug.2006.pdf <~~~ THIS BOOK
+	```console
+	$ man re_format
+	```
+	- https://regexone.com
 - VIM
 	- https://vim-adventures.com/
 	- http://www.vimgenius.com/
