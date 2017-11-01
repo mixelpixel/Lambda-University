@@ -889,11 +889,10 @@ Code Challenge #74: https://repl.it/student/submissions/1895354 "Doubly Linked L
 
 ### Day 86: Wednesday, November 01
 ### [DAY 86 NOTES](Month5/Week18/Day86/README.md)
-Code Challenge #75: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
-#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #75 NEW_CODE_CHALLENGE
-#### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+Code Challenge #75: https://repl.it/student/submissions/1903866 "Find Rotation Point"
+#### [1st Lecture](https://youtu.be/HCa69879ZGo) w/Sean Chen: Review Code Challenge #75: findRotationPoint
+#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Beej: LS-Algorithms Two
+#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Beej: LS-Algorithm Two Q&A review
 ***
 
 ### Day 87: Thursday, November 02
