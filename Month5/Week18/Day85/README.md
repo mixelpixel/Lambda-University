@@ -13,19 +13,22 @@ Christine Gierer
 GUEST LECTURER
 NO_VIDEO_RECORDED
 ***
-# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #74s: doublyLinkedList
-- https://repl.it/student/assignments/######/model_solution?fromSubmissionId=????
+# [1st Lecture](https://youtu.be/acl83_x8Wew) w/Sean Chen: Review Code Challenge #74s: doublyLinkedList
+- https://piazza.com/class/j63w1pdyopf7kj?cid=86
 
 ***
 #### LUNCH
 ***
-# [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+# [Brown Bag](https://youtu.be/NCrwYjEFEmg) w/Aaron Gallant: Bach
 ***
-# [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-***
-# [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-***
-# [4th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-# Lab / Q&A
+# [2nd Lecture](https://youtu.be/eGs0hx8YVR0) w/Thomson Comer: Algorithms Two
+```js
+scaleAndOffset = (x,y) => {
+  newX = (x-minX)/(maxX-minX);
+  newY = (y-minY)/(maxY-minY);
+  return {x:newX, y:newY};
+}
+```
+
 ***
 # fin
