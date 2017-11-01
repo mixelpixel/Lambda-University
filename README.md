@@ -892,7 +892,7 @@ Code Challenge #74: https://repl.it/student/submissions/1895354 "Doubly Linked L
 Code Challenge #75: https://repl.it/student/submissions/1903866 "Find Rotation Point"
 #### [1st Lecture](https://youtu.be/HCa69879ZGo) w/Sean Chen: Review Code Challenge #75: findRotationPoint
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Beej: LS-Algorithms Two
-#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Beej: LS-Algorithm Two Q&A review
+#### [3rd Lecture](NO_VIDEO_RECORDED) w/Beej: LS-Algorithm Two Q&A review
 ***
 
 ### Day 87: Thursday, November 02
