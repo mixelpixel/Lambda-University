@@ -163,3 +163,6 @@
 [submodule "Algorithms-Two_React-TSP"]
 	path = Algorithms-Two_React-TSP
 	url = https://github.com/mixelpixel/Algorithms-Two_React-TSP.git
+[submodule "DijkstrasD3Demo"]
+	path = DijkstrasD3Demo
+	url = https://github.com/mixelpixel/DijkstrasD3Demo.git
