@@ -160,3 +160,6 @@
 [submodule "Algorithms-Two"]
 	path = Algorithms-Two
 	url = https://github.com/mixelpixel/Algorithms-Two.git
+[submodule "Algorithms-Two_React-TSP"]
+	path = Algorithms-Two_React-TSP
+	url = https://github.com/mixelpixel/Algorithms-Two_React-TSP.git
