@@ -25,6 +25,15 @@ NO_VIDEO_RECORDED
 # [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Beej: LS-Algorithm Two Q&A review
 - https://mitpress.mit.edu/sicp/full-text/sicp/book/
 - http://beej.us/blog/data/transforming-numbers/
+```js
+/**
+ * For v in range [A,B], return the corresponding value
+ * in range [C,D].
+ */
+function mapRange(v, A, B, C, D) {
+    return C + (v - A) / (B - A) * (D - C);
+}
+```
 
 ***
 #### LUNCH
