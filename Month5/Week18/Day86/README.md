@@ -22,7 +22,7 @@ NO_VIDEO_RECORDED
 - https://www.andrewhfarmer.com/component-communication/
 
 ***
-# [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Beej: LS-Algorithm Two Q&A review
+# [3rd Lecture](NO_VIDEO_RECORDED) w/Beej: LS-Algorithm Two Q&A review
 - https://mitpress.mit.edu/sicp/full-text/sicp/book/
 - http://beej.us/blog/data/transforming-numbers/
 ```js
