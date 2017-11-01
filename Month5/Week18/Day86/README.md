@@ -16,9 +16,10 @@ NO_VIDEO_RECORDED
 ***
 # [1st Lecture](https://youtu.be/HCa69879ZGo) w/Sean Chen: Review Code Challenge #75: findRotationPoint
 - https://repl.it/student/assignments/515914/model_solution?fromSubmissionId=1903866
+- Pythons built-in methods complexities: https://www.ics.uci.edu/~pattis/ICS-33/lectures/complexitypython.txt
 
 ***
-# [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Beej: LS-Algorithms Two
+# [2nd Lecture](https://youtu.be/p1hNiUDuaOY) w/Beej: LS-Algorithms Two
 - https://www.andrewhfarmer.com/component-communication/
 
 ***
@@ -38,7 +39,13 @@ function mapRange(v, A, B, C, D) {
 ***
 #### LUNCH
 ***
-# [4th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+# [4th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Beej: Dijkstras Algorithm
+- https://github.com/thomcom/DijkstrasD3Demo
+- https://en.wikipedia.org/wiki/Dijkstra's_algorithm
+- minimum spanning tree: https://en.wikipedia.org/wiki/Minimum_spanning_tree
+- https://en.wikipedia.org/wiki/Open_Shortest_Path_First
+- A* (A star) adds a heuristic to make a more direct path
+
 # Lab / Q&A
 ***
 # fin
