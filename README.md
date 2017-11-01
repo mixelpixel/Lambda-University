@@ -882,10 +882,9 @@ Pair Programming #28: https://github.com/LambdaSchool/Algorithms-Two_React-TSP s
 ### Day 85: Tuesday, October 31
 ### [DAY 85 NOTES](Month5/Week18/Day85/README.md)
 Code Challenge #74: https://repl.it/student/submissions/1895354 "Doubly Linked List"
-#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: Review Code Challenge #74 doublyLinkedList
-#### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [1st Lecture](https://youtu.be/acl83_x8Wew) w/Sean Chen: Review Code Challenge #74 doublyLinkedList
+#### [Brown Bag](https://youtu.be/NCrwYjEFEmg) w/Aaron Gallant: Bach
+#### [2nd Lecture](https://youtu.be/eGs0hx8YVR0) w/Thomson Comer: Algorithms Two
 ***
 
 ### Day 86: Wednesday, November 01
