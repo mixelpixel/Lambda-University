@@ -46,6 +46,9 @@ function mapRange(v, A, B, C, D) {
 - https://en.wikipedia.org/wiki/Open_Shortest_Path_First
 - A* (A star) adds a heuristic to make a more direct path
 
+***
+# [5th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+***
 # Lab / Q&A
 ***
 # fin
