@@ -2,17 +2,6 @@
 ## Coding Challenge #74
 - "Doubly Linked List" available in https://repl.it/student/submissions/1895354
 ***
-Ben Nelson
-Thomson Comer
-Ryan Hamblin
-Ivan Mora
-Sean Chen
-Tai Chulikavit
-Emily Sperry
-Christine Gierer
-GUEST LECTURER
-NO_VIDEO_RECORDED
-***
 # [1st Lecture](https://youtu.be/acl83_x8Wew) w/Sean Chen: Review Code Challenge #74s: doublyLinkedList
 - https://piazza.com/class/j63w1pdyopf7kj?cid=86
 
