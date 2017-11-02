@@ -905,7 +905,6 @@ Code Challenge #76: https://repl.it/student/submissions/1910097 "Make Change"
 #### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-Pair Programming #??: https://github.com/LambdaSchool/????? w/???
 ***
 
 ### Day 88: Friday, November 03
@@ -915,6 +914,7 @@ Code Challenge #77: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
 #### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+Pair Programming #??: https://github.com/LambdaSchool/????? w/???
 
 
 ***
@@ -933,6 +933,7 @@ Code Challenge #77: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
 
 
 ## Week 21: Nov. 20 - 24
+### VACATION
 
 
 ***
@@ -970,6 +971,7 @@ Code Challenge #77: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
 
 
 ## Week 26: Dec. 25 Christmas!
+### VACATION
 
 
 <!-- </p></details> -->
@@ -1152,10 +1154,12 @@ Code Challenge #77: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
 	- [registers and RAM](https://www.youtube.com/watch?v=fpnE6UAfbtU)
 - Technology that frees us: http://www.torforgeblog.com/2017/04/03/how-can-we-make-technology-that-frees-us-rather-than-enslaves-us/
 - Algorithms: https://www.dropbox.com/sh/8xapslslciddg26/AAC--Q61twdgkUMYSNJOIUVMa?dl=0
+- Dynamic programming: https://people.cs.clemson.edu/~bcdean/dp_practice/
 
 #### Interview prep
 - https://github.com/h5bp/Front-end-Developer-Interview-Questions#js-questions
 - https://www.toptal.com/javascript/interview-questions
+- https://leetcode.com/
 
 #### TO DO
 - ATOM: https://flight-manual.atom.io/hacking-atom/sections/package-word-count/
