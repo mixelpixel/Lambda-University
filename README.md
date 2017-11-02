@@ -900,8 +900,8 @@ Pair Programming #29: https://github.com/LambdaSchool/DijkstrasD3Demo solo
 
 ### Day 87: Thursday, November 02
 ### [DAY 87 NOTES](Month5/Week18/Day87/README.md)
-Code Challenge #76: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
-#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #76 NEW_CODE_CHALLENGE
+Code Challenge #76: https://repl.it/student/submissions/1910097 "Make Change"
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: Review Code Challenge #76 makeChange
 #### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
