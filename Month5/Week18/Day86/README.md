@@ -39,12 +39,13 @@ function mapRange(v, A, B, C, D) {
 ***
 #### LUNCH
 ***
-# [4th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Beej: Dijkstras Algorithm
+# [4th Lecture](https://youtu.be/Jf9g98A2CIY) w/Beej: Dijkstras Algorithm
 - https://github.com/thomcom/DijkstrasD3Demo
 - https://en.wikipedia.org/wiki/Dijkstra's_algorithm
 - minimum spanning tree: https://en.wikipedia.org/wiki/Minimum_spanning_tree
 - https://en.wikipedia.org/wiki/Open_Shortest_Path_First
 - A* (A star) adds a heuristic to make a more direct path
+- Algorithms book: http://ressources.unisciel.fr/algoprog/s00aaroot/aa00module1/res/%5BCormen-AL2011%5DIntroduction_To_Algorithms-A3.pdf
 
 ***
 # [5th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
