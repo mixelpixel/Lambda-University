@@ -895,6 +895,7 @@ Code Challenge #75: https://repl.it/student/submissions/1903866 "Find Rotation P
 #### [3rd Lecture](NO_VIDEO_RECORDED) w/Beej: LS-Algorithm Two Q&A review
 #### [4th Lecture](https://youtu.be/Jf9g98A2CIY) w/Beej: Dijkstras Algorithm
 #### [5th Lecture](https://youtu.be/fKGnC9ldaiI) w/Beej: Dijkstras Algorithm
+Pair Programming #29: https://github.com/LambdaSchool/DijkstrasD3Demo solo
 ***
 
 ### Day 87: Thursday, November 02
