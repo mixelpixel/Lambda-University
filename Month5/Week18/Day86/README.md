@@ -48,8 +48,6 @@ function mapRange(v, A, B, C, D) {
 - Algorithms book: http://ressources.unisciel.fr/algoprog/s00aaroot/aa00module1/res/%5BCormen-AL2011%5DIntroduction_To_Algorithms-A3.pdf
 
 ***
-# [5th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-***
-# Lab / Q&A
+# [5th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Beej: Dijkstras Algorithm
 ***
 # fin
