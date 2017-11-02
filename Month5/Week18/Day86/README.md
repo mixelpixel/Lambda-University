@@ -2,18 +2,6 @@
 ## Coding Challenge #75
 - "Find Rotation Point" available in https://repl.it/student/submissions/1903866
 ***
-Ben Nelson
-Thomson Comer
-Beej Jorgensen: Brian Hall
-Ryan Hamblin
-Ivan Mora
-Sean Chen
-Tai Chulikavit
-Emily Sperry
-Christine Gierer
-GUEST LECTURER
-NO_VIDEO_RECORDED
-***
 # [1st Lecture](https://youtu.be/HCa69879ZGo) w/Sean Chen: Review Code Challenge #75: findRotationPoint
 - https://repl.it/student/assignments/515914/model_solution?fromSubmissionId=1903866
 - Pythons built-in methods complexities: https://www.ics.uci.edu/~pattis/ICS-33/lectures/complexitypython.txt
