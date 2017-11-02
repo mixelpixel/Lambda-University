@@ -893,8 +893,8 @@ Code Challenge #75: https://repl.it/student/submissions/1903866 "Find Rotation P
 #### [1st Lecture](https://youtu.be/HCa69879ZGo) w/Sean Chen: Review Code Challenge #75: findRotationPoint
 #### [2nd Lecture](https://youtu.be/p1hNiUDuaOY) w/Beej: LS-Algorithms Two
 #### [3rd Lecture](NO_VIDEO_RECORDED) w/Beej: LS-Algorithm Two Q&A review
-#### [4th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Beej: Dijkstras Algorithm
-#### [5th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [4th Lecture](https://youtu.be/Jf9g98A2CIY) w/Beej: Dijkstras Algorithm
+#### [5th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Beej: Dijkstras Algorithm
 ***
 
 ### Day 87: Thursday, November 02
