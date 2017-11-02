@@ -1,6 +1,6 @@
 # Lambda University - November 02, 2017: Day 087, Thursday
 ## Coding Challenge #76
-- "NEW_CODE_CHALLENGE" available in https://repl.it/student/submissions/#
+- "Make Change" available in https://repl.it/student/submissions/1910097
 ***
 Ben Nelson
 Thomson Comer
@@ -13,7 +13,7 @@ Christine Gierer
 GUEST LECTURER
 NO_VIDEO_RECORDED
 ***
-# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #76: NEW_CODE_CHALLENGE
+# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: Review Code Challenge #76: makeChange
 - https://repl.it/student/assignments/######/model_solution?fromSubmissionId=????
 
 ***
