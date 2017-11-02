@@ -14,7 +14,7 @@ GUEST LECTURER
 NO_VIDEO_RECORDED
 ***
 # [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: Review Code Challenge #76: makeChange
-- https://repl.it/student/assignments/######/model_solution?fromSubmissionId=????
+- https://repl.it/student/assignments/515954/model_solution?fromSubmissionId=1910097
 
 ***
 #### LUNCH
