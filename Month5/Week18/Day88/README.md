@@ -1,31 +1,16 @@
 # Lambda University - November 03, 2017: Day 088, Friday
 ## Coding Challenge #77
-- "NEW_CODE_CHALLENGE" available in https://repl.it/student/submissions/#
+- "Least Recently Used Cache" available in https://repl.it/student/submissions/1917830
 ***
-Ben Nelson
-Thomson Comer
-Ryan Hamblin
-Ivan Mora
-Sean Chen
-Tai Chulikavit
-Emily Sperry
-Christine Gierer
-GUEST LECTURER
-NO_VIDEO_RECORDED
-***
-# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #77: NEW_CODE_CHALLENGE
-- https://repl.it/student/assignments/######/model_solution?fromSubmissionId=????
+# [1st Lecture](https://youtu.be/tg4JEUsYKSM) w/Sean Chen: Review Code Challenge #77: lruCache
+- https://piazza.com/class/j63w1pdyopf7kj?cid=93
 
 ***
 #### LUNCH
 ***
-# [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-***
-# [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-***
-# [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-***
-# [4th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-# Lab / Q&A
+# [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Beej: D3 Djikstra React
+- https://github.com/LambdaSchool/DijkstrasD3Demo/tree/solution/d3_dijkstra
+- http://bl.ocks.org/sxywu/61a4bd0cfc373cf08884
+
 ***
 # fin
