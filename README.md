@@ -907,8 +907,8 @@ Code Challenge #76: https://repl.it/student/submissions/1910097 "Make Change"
 
 ### Day 88: Friday, November 03
 ### [DAY 88 NOTES](Month5/Week18/Day88/README.md)
-Code Challenge #77: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
-#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #77 NEW_CODE_CHALLENGE
+Code Challenge #77: https://repl.it/student/submissions/1917830 "Least Recently Used Cache"
+#### [1st Lecture](https://youtu.be/tg4JEUsYKSM) w/Sean Chen: Review Code Challenge #77 lruCache
 #### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
@@ -1015,6 +1015,7 @@ Pair Programming #??: https://github.com/LambdaSchool/????? w/???
 #### NODE
 - Express: https://expressjs.com/en/api.html
 - http://stackabuse.com/how-to-uninstall-node-js-from-mac-osx/
+- `npm install learnyounode`
 
 #### MONGO
 - https://www.mongodb.com/
