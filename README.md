@@ -902,9 +902,7 @@ Pair Programming #29: https://github.com/LambdaSchool/DijkstrasD3Demo solo
 ### [DAY 87 NOTES](Month5/Week18/Day87/README.md)
 Code Challenge #76: https://repl.it/student/submissions/1910097 "Make Change"
 #### [1st Lecture](https://youtu.be/ZmN9F07PjB0) w/Sean Chen: Review Code Challenge #76 makeChange
-#### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [2nd Lecture](https://youtu.be/D4PlOnIBee8) w/Beej: Dijkstras Algorithm Q&A
 ***
 
 ### Day 88: Friday, November 03
