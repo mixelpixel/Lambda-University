@@ -1109,6 +1109,7 @@ Pair Programming #??: https://github.com/LambdaSchool/????? w/???
 - https://kukulinski.com/10-most-common-reasons-kubernetes-deployments-fail-part-2/
 - https://kubernetes.io/docs/user-guide/kubectl-cheatsheet/
 - https://youtu.be/v7ZcZfGBFcU dev ops 4 beginners
+- https://medium.freecodecamp.org/surge-vs-github-pages-deploying-a-create-react-app-project-c0ecbf317089
 
 #### Computer Science
 - BIG O NOTATION
