@@ -7,7 +7,7 @@
 - https://golang.org/
 
 ***
-# [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Beej: Dijkstra D3 solution
+# [2nd Lecture](https://youtu.be/4Nf8MNOPAhE) w/Beej: Dijkstra D3 solution
 ***
 #### LUNCH
 ***
