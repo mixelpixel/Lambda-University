@@ -8,9 +8,10 @@
 ***
 #### LUNCH
 ***
-# [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Beej: D3 Djikstra React
+# [2nd Lecture](https://youtu.be/YRDbMIpD3QQ) w/Beej: D3 Djikstra React
 - https://github.com/LambdaSchool/DijkstrasD3Demo/tree/solution/d3_dijkstra
 - http://bl.ocks.org/sxywu/61a4bd0cfc373cf08884
+- https://engineering.musefind.com/react-lifecycle-methods-how-and-when-to-use-them-2111a1b692b1
 
 ***
 # fin
