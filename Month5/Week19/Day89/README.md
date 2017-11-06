@@ -2,7 +2,7 @@
 ## Coding Challenge #78
 - "Go Intro I: Variables, Types & Loops" available in https://repl.it/student/submissions/1929699
 ***
-# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #78: goIntroI
+# [1st Lecture](https://youtu.be/1J1ckOZ1WRM) w/Speaker: Review Code Challenge #78: goIntroI
 - https://repl.it/student/assignments/######/model_solution?fromSubmissionId=????
 - https://golang.org/
 
