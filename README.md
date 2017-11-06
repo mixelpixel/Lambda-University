@@ -909,16 +909,57 @@ Code Challenge #76: https://repl.it/student/submissions/1910097 "Make Change"
 ### [DAY 88 NOTES](Month5/Week18/Day88/README.md)
 Code Challenge #77: https://repl.it/student/submissions/1917830 "Least Recently Used Cache"
 #### [1st Lecture](https://youtu.be/tg4JEUsYKSM) w/Sean Chen: Review Code Challenge #77 lruCache
-#### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-Pair Programming #??: https://github.com/LambdaSchool/????? w/???
+#### [2nd Lecture](https://youtu.be/YRDbMIpD3QQ) w/Beej: D3 Djikstra React
 
 
 ***
 
 
 ## Week 19: Nov. 6 - 10
+### Day 89: Monday, November 06
+### [DAY 89 NOTES](Month5/Week19/Day89##/README.md)
+Code Challenge #78: https://repl.it/student/submissions/# "Go Intro I: Variables, Type & Loops"
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #78 goIntroI
+#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+Pair Programming #??: https://github.com/LambdaSchool/????? w/???
+***
+
+### Day 90: Tuesday, November 07
+### [DAY 90 NOTES](Month5/Week19/Day90/README.md)
+Code Challenge #79: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #79 NEW_CODE_CHALLENGE
+#### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+***
+
+### Day 91: Wednesday, November 08
+### [DAY 91 NOTES](Month5/Week19/Day91/README.md)
+Code Challenge #80: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #80 NEW_CODE_CHALLENGE
+#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+***
+
+### Day 92: Thursday, November 09
+### [DAY 92 NOTES](Month5/Week19/Day92/README.md)
+Code Challenge #81: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #81 NEW_CODE_CHALLENGE
+#### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+***
+
+### Day 93: Friday, November 10
+### [DAY 93 NOTES](Month5/Week19/Day93/README.md)
+Code Challenge #82: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #82 NEW_CODE_CHALLENGE
+#### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+Pair Programming #??: https://github.com/LambdaSchool/????? w/???
+***
 
 
 ***
@@ -1164,6 +1205,7 @@ Pair Programming #??: https://github.com/LambdaSchool/????? w/???
 #### TO DO
 - ATOM: https://flight-manual.atom.io/hacking-atom/sections/package-word-count/
 - macOS Security: https://objective-see.com/products.html
+- GO: https://golang.org/
 
 ##### Unsorted
 - Ryan Sherill: [Extra Resources list](https://docs.google.com/document/d/1y5B_glCrLRo8Vnu93QMKjFrfAN3a-GFPzgGz76rTTIQ/edit)
