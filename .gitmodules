@@ -169,3 +169,6 @@
 [submodule "react-canvas-anim"]
 	path = react-canvas-anim
 	url = https://github.com/mixelpixel/react-canvas-anim.git
+[submodule "Conways-Life"]
+	path = Conways-Life
+	url = https://github.com/mixelpixel/Conways-Life.git
