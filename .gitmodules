@@ -166,3 +166,6 @@
 [submodule "DijkstrasD3Demo"]
 	path = DijkstrasD3Demo
 	url = https://github.com/mixelpixel/DijkstrasD3Demo.git
+[submodule "react-canvas-anim"]
+	path = react-canvas-anim
+	url = https://github.com/mixelpixel/react-canvas-anim.git
