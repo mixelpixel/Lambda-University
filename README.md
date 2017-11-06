@@ -920,7 +920,7 @@ Code Challenge #77: https://repl.it/student/submissions/1917830 "Least Recently 
 ### [DAY 89 NOTES](Month5/Week19/Day89##/README.md)
 Code Challenge #78: https://repl.it/student/submissions/# "Go Intro I: Variables, Type & Loops"
 #### [1st Lecture](https://youtu.be/1J1ckOZ1WRM) w/Sean Chen: Review Code Challenge #78 goIntroI
-#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Beej: Dijkstra D3 solution
+#### [2nd Lecture](https://youtu.be/4Nf8MNOPAhE) w/Beej: Dijkstra D3 solution
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 Pair Programming #??: https://github.com/LambdaSchool/????? w/???
 ***
