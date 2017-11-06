@@ -7,9 +7,9 @@
 - https://golang.org/
 
 ***
-#### LUNCH
+# [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Beej: Dijkstra D3 solution
 ***
-# [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### LUNCH
 ***
 # [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 ***
