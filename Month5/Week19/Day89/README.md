@@ -11,7 +11,11 @@
 ***
 #### LUNCH
 ***
-# [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+# [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Beej: Mini Sprint Animation with React
+- `create-reactapp anim`
+- add an html canvas element - a bitmap
+- instead of setTimeOut, we can use
+
 ***
 # [4th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 # Lab / Q&A
