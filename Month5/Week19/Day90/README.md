@@ -14,10 +14,11 @@ Christine Gierer
 GUEST LECTURER
 NO_VIDEO_RECORDED
 ***
-# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #79: NEW_CODE_CHALLENGE
-- https://repl.it/student/assignments/######/model_solution?fromSubmissionId=????
+# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: Review Code Challenge #79 goIntroII
+- https://piazza.com/class/j63w1pdyopf7kj?cid=99
 - Install GoLang: https://golang.org/dl/
 - Write GoLang: https://golang.org/doc/code.html
+- See the image: https://tour.golang.org/moretypes/18
 
 ***
 #### LUNCH
