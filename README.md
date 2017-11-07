@@ -923,7 +923,7 @@ Code Challenge #78: https://repl.it/student/submissions/# "Go Intro I: Variables
 #### [2nd Lecture](https://youtu.be/4Nf8MNOPAhE) w/Beej: Dijkstra D3 solution
 #### [3rd Lecture](https://youtu.be/W4HXyRQwElY) w/Beej: Mini Sprint Animation with React
 #### [4th Lecture](https://youtu.be/BAWlBL2fqbQ) w/Beej: Game Of Life
-Pair Programming #??: https://github.com/LambdaSchool/????? w/???
+Pair Programming #30: https://github.com/LambdaSchool/Conways-Life solo
 ***
 
 ### Day 90: Tuesday, November 07
