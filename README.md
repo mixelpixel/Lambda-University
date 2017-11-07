@@ -921,7 +921,8 @@ Code Challenge #77: https://repl.it/student/submissions/1917830 "Least Recently 
 Code Challenge #78: https://repl.it/student/submissions/# "Go Intro I: Variables, Type & Loops"
 #### [1st Lecture](https://youtu.be/1J1ckOZ1WRM) w/Sean Chen: Review Code Challenge #78 goIntroI
 #### [2nd Lecture](https://youtu.be/4Nf8MNOPAhE) w/Beej: Dijkstra D3 solution
-#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [3rd Lecture](https://youtu.be/W4HXyRQwElY) w/Beej: Mini Sprint Animation with React
+#### [4th Lecture](https://youtu.be/BAWlBL2fqbQ) w/Beej: Game Of Life
 Pair Programming #??: https://github.com/LambdaSchool/????? w/???
 ***
 
