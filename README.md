@@ -928,7 +928,7 @@ Pair Programming #??: https://github.com/LambdaSchool/????? w/???
 
 ### Day 90: Tuesday, November 07
 ### [DAY 90 NOTES](Month5/Week19/Day90/README.md)
-Code Challenge #79: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
+Code Challenge #79: https://repl.it/student/submissions/1936670 "Go Intro II: Arrays, Slices & Make"
 #### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #79 NEW_CODE_CHALLENGE
 #### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
