@@ -1,6 +1,6 @@
 # Lambda University - November 07, 2017: Day 090, Tuesday
 ## Coding Challenge #79
-- "NEW_CODE_CHALLENGE" available in https://repl.it/student/submissions/#
+- "Go Intro II: Array, Slices & Make" available in https://repl.it/student/submissions/1936670
 ***
 Ben Nelson
 Thomson Comer
@@ -16,6 +16,8 @@ NO_VIDEO_RECORDED
 ***
 # [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #79: NEW_CODE_CHALLENGE
 - https://repl.it/student/assignments/######/model_solution?fromSubmissionId=????
+- Install GoLang: https://golang.org/dl/
+- Write GoLang: https://golang.org/doc/code.html
 
 ***
 #### LUNCH
