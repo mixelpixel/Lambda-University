@@ -937,11 +937,11 @@ Code Challenge #79: https://repl.it/student/submissions/1936670 "Go Intro II: Ar
 ### Day 91: Wednesday, November 08
 ### [DAY 91 NOTES](Month5/Week19/Day91/README.md)
 Code Challenge #80: https://repl.it/student/submissions/1943334 "Go Intro III: Functions and Pointers"
-#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: Review Code Challenge #80 goIntroIII
-#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Beej: Conway wrap up
+#### [1st Lecture](https://youtu.be/mIhpRnLLhG0) w/Sean Chen: Review Code Challenge #80 goIntroIII
+#### [2nd Lecture](https://youtu.be/A7s_-yJ5lUA) w/Beej: Conway solution
 #### [3rd Lecture](https://youtu.be/9rH571vvgnE) w/Aaron Gallant: Intro to Security and Cryptography
 #### [4th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Aaron Gallant: Aaron Gallant
-Pair Programming #??: https://github.com/LambdaSchool/????? w/???
+Pair Programming #31: https://github.com/LambdaSchool/????? solo
 ***
 
 ### Day 92: Thursday, November 09
@@ -1045,6 +1045,7 @@ Code Challenge #82: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
 - http://www.c4learn.com/c-programming/c-pointer-operator/
 - http://www.zentut.com/c-tutorial/c-linked-list/
 - https://www.learn-c.org/en/Linked_lists
+- http://markburgess.org/CTutorial/C-Tut-4.02.pdf
 
 #### Compiling
 - http://www.bayfronttechnologies.com/mc_tutorial.html
