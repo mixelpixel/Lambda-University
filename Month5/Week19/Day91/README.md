@@ -21,6 +21,7 @@
   1. Confidentiality (privacy)
   2. Integrity
   3. Availablity
+- Nonce!
 
 ***
 # [4th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Aaron Gallant: Aaron Gallant
