@@ -936,8 +936,8 @@ Code Challenge #79: https://repl.it/student/submissions/1936670 "Go Intro II: Ar
 
 ### Day 91: Wednesday, November 08
 ### [DAY 91 NOTES](Month5/Week19/Day91/README.md)
-Code Challenge #80: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
-#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #80 NEW_CODE_CHALLENGE
+Code Challenge #80: https://repl.it/student/submissions/1943334 "Go Intro III: Functions and Pointers"
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: Review Code Challenge #80 goIntroIII
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 ***
