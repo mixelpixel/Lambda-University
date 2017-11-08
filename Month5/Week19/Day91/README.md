@@ -21,9 +21,11 @@ NO_VIDEO_RECORDED
 ***
 #### LUNCH
 ***
-# [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+# [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Beej: Conway wrap up
+- https://en.wikipedia.org/wiki/Bresenham's_line_algorithm
+
 ***
-# [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+# [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Aaron Gallant: Security and Cryptography
 ***
 # [4th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 # Lab / Q&A
