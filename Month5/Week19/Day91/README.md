@@ -1,6 +1,6 @@
 # Lambda University - November 08, 2017: Day 091, Wednesday
 ## Coding Challenge #80
-- "NEW_CODE_CHALLENGE" available in https://repl.it/student/submissions/#
+- "Go Intro III: Functions and Pointers" available in https://repl.it/student/submissions/1943334
 ***
 Ben Nelson
 Thomson Comer
@@ -14,8 +14,9 @@ Christine Gierer
 GUEST LECTURER
 NO_VIDEO_RECORDED
 ***
-# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #80: NEW_CODE_CHALLENGE
-- https://repl.it/student/assignments/######/model_solution?fromSubmissionId=????
+# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: Review Code Challenge #80 goIntroIII
+- https://repl.it/student/assignments/535531/model_solution?fromSubmissionId=1943334
+- https://thenewstack.io/understanding-golang-type-system/
 
 ***
 #### LUNCH
