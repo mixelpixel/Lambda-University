@@ -938,8 +938,8 @@ Code Challenge #79: https://repl.it/student/submissions/1936670 "Go Intro II: Ar
 ### [DAY 91 NOTES](Month5/Week19/Day91/README.md)
 Code Challenge #80: https://repl.it/student/submissions/1943334 "Go Intro III: Functions and Pointers"
 #### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: Review Code Challenge #80 goIntroIII
-#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Beej: Conway wrap up
+#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Aaron Gallant: Security and Cryptography
 ***
 
 ### Day 92: Thursday, November 09
@@ -1153,6 +1153,7 @@ Pair Programming #??: https://github.com/LambdaSchool/????? w/???
 - https://kubernetes.io/docs/user-guide/kubectl-cheatsheet/
 - https://youtu.be/v7ZcZfGBFcU dev ops 4 beginners
 - https://medium.freecodecamp.org/surge-vs-github-pages-deploying-a-create-react-app-project-c0ecbf317089
+- https://help.github.com/articles/using-a-custom-domain-with-github-pages/
 
 #### Computer Science
 - BIG O NOTATION
@@ -1256,5 +1257,56 @@ If `git submodule add <URL>` was used to set up a git repository as a submodule 
 12. `git submodule add <URL>`
 13. Test to see if a change (fwiw, modify two files) in the submodule is handled as a single object when committing in the super-project.
 14. Success? Delete the safety copy of the submodule project.
+
+### deployment stuff?
+- https://help.github.com/articles/what-is-github-pages/
+```
+GitHub Pages
+
+Note: this feature is available with react-scripts@0.2.0 and higher.
+Step 1: Add homepage to package.json
+
+The step below is important!
+If you skip it, your app will not deploy correctly.
+
+Open your package.json and add a homepage field:
+
+  "homepage": "https://myusername.github.io/my-app",
+Create React App uses the homepage field to determine the root URL in the built HTML file.
+
+Step 2: Install gh-pages and add deploy to scripts in package.json
+
+Now, whenever you run npm run build, you will see a cheat sheet with instructions on how to deploy to GitHub Pages.
+
+To publish it at https://myusername.github.io/my-app, run:
+
+npm install --save gh-pages
+Alternatively you may use yarn:
+
+yarn add gh-pages
+Add the following scripts in your package.json:
+
+  "scripts": {
++   "predeploy": "npm run build",
++   "deploy": "gh-pages -d build",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+The predeploy script will run automatically before deploy is run.
+
+Step 3: Deploy the site by running npm run deploy
+
+Then run:
+
+npm run deploy
+Step 4: Ensure your project's settings use gh-pages
+
+Finally, make sure GitHub Pages option in your GitHub project settings is set to use the gh-pages branch:
+
+gh-pages branch setting
+
+Step 5: Optionally, configure the domain
+
+You can configure a custom domain with GitHub Pages by adding a CNAME file to the public/ folder.
+```
 
 ## fin.
