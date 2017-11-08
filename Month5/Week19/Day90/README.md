@@ -25,7 +25,7 @@ NO_VIDEO_RECORDED
 ***
 # [Brown Bag](https://youtu.be/VU8H-SelFnI) w/Jason Campbell: Interview Questions
 ***
-# [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Beej: Conway's Game of Life
+# [2nd Lecture](https://youtu.be/IhZUX_iZIm4) w/Beej: Conway's Game of Life
 - https://caniuse.com/
 
 ***
