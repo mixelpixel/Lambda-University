@@ -931,7 +931,7 @@ Pair Programming #30: https://github.com/LambdaSchool/Conways-Life solo
 Code Challenge #79: https://repl.it/student/submissions/1936670 "Go Intro II: Arrays, Slices & Make"
 #### [1st Lecture](https://youtu.be/_sym-joan7U) w/Sean Chen: Review Code Challenge #79 goIntroII
 #### [Brown Bag](https://youtu.be/VU8H-SelFnI) w/Jason Campbell: Interview Questions
-#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Beej: Conway's Game of Life
+#### [2nd Lecture](https://youtu.be/IhZUX_iZIm4) w/Beej: Conway's Game of Life
 ***
 
 ### Day 91: Wednesday, November 08
