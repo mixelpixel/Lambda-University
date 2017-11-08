@@ -939,7 +939,9 @@ Code Challenge #79: https://repl.it/student/submissions/1936670 "Go Intro II: Ar
 Code Challenge #80: https://repl.it/student/submissions/1943334 "Go Intro III: Functions and Pointers"
 #### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: Review Code Challenge #80 goIntroIII
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Beej: Conway wrap up
-#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Aaron Gallant: Security and Cryptography
+#### [3rd Lecture](https://youtu.be/9rH571vvgnE) w/Aaron Gallant: Intro to Security and Cryptography
+#### [4th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Aaron Gallant: Aaron Gallant
+Pair Programming #??: https://github.com/LambdaSchool/????? w/???
 ***
 
 ### Day 92: Thursday, November 09
@@ -958,7 +960,6 @@ Code Challenge #82: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
 #### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-Pair Programming #??: https://github.com/LambdaSchool/????? w/???
 ***
 
 
@@ -1154,6 +1155,8 @@ Pair Programming #??: https://github.com/LambdaSchool/????? w/???
 - https://youtu.be/v7ZcZfGBFcU dev ops 4 beginners
 - https://medium.freecodecamp.org/surge-vs-github-pages-deploying-a-create-react-app-project-c0ecbf317089
 - https://help.github.com/articles/using-a-custom-domain-with-github-pages/
+- https://aws.amazon.com/s3/
+- https://aws.amazon.com/lambda/
 
 #### Computer Science
 - BIG O NOTATION
