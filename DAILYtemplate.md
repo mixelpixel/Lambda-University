@@ -8,6 +8,7 @@ Beej Jorgensen: Brian Hall
 Ryan Hamblin
 Ivan Mora
 Sean Chen
+Aaron Gallant
 Tai Chulikavit
 Emily Sperry
 Christine Gierer
