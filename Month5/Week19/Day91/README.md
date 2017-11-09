@@ -29,10 +29,11 @@
 - NIST: https://www.keylength.com/en/4/
 - https://letsencrypt.org/
 - https://help.github.com/articles/connecting-to-github-with-ssh/
+- https://youtu.be/YEBfamv-_do
 
 
 ***
-# [4th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Aaron Gallant: Security and Cryptography Mini
+# [4th Lecture](https://youtu.be/JYU-3HmXHsg) w/Aaron Gallant: Security and Cryptography Mini
 ```
 $ python
 >>> from basic_rsa import *
@@ -126,7 +127,7 @@ class Rsa:
 ```
 
 ***
-# [5th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Aaron Gallant: Security and Cryptography Mini Solution
+# [5th Lecture](https://youtu.be/U14cPfdwuXw) w/Aaron Gallant: Security and Cryptography Mini Solution
 ```
 Some of the links I mentioned in the intro lecture (and other resources):
 http://www.cnn.com/2016/10/28/politics/phishing-email-hack-john-podesta-hillary-clinton-wikileaks/index.html
