@@ -15,9 +15,9 @@ GUEST LECTURER
 NO_VIDEO_RECORDED
 ***
 # [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: Review Code Challenge #81: stack
-- 
 - * a pointer to the memory address
 - & accesses memory address
+- https://stackoverflow.com/a/2094715/5225057
 
 ***
 #### LUNCH
