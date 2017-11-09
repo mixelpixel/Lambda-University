@@ -940,7 +940,8 @@ Code Challenge #80: https://repl.it/student/submissions/1943334 "Go Intro III: F
 #### [1st Lecture](https://youtu.be/mIhpRnLLhG0) w/Sean Chen: Review Code Challenge #80 goIntroIII
 #### [2nd Lecture](https://youtu.be/A7s_-yJ5lUA) w/Beej: Conway solution
 #### [3rd Lecture](https://youtu.be/9rH571vvgnE) w/Aaron Gallant: Intro to Security and Cryptography
-#### [4th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Aaron Gallant: Aaron Gallant
+#### [4th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Aaron Gallant: Security and Cryptography Mini
+#### [5th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Aaron Gallant: Security and Cryptography Mini Solution
 Pair Programming #31: https://github.com/LambdaSchool/????? solo
 ***
 
