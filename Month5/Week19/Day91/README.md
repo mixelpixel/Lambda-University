@@ -28,6 +28,7 @@
 - http://pajhome.org.uk/crypt/rsa/implementation.html
 - NIST: https://www.keylength.com/en/4/
 - https://letsencrypt.org/
+- https://help.github.com/articles/connecting-to-github-with-ssh/
 
 
 ***
