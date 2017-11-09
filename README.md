@@ -1047,6 +1047,7 @@ Code Challenge #82: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
 - http://www.zentut.com/c-tutorial/c-linked-list/
 - https://www.learn-c.org/en/Linked_lists
 - http://markburgess.org/CTutorial/C-Tut-4.02.pdf
+- http://beej.us/blog/data/c-pointers/ (also: https://stackoverflow.com/a/2094715/5225057)
 
 #### Compiling
 - http://www.bayfronttechnologies.com/mc_tutorial.html
