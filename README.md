@@ -940,9 +940,8 @@ Code Challenge #80: https://repl.it/student/submissions/1943334 "Go Intro III: F
 #### [1st Lecture](https://youtu.be/mIhpRnLLhG0) w/Sean Chen: Review Code Challenge #80 goIntroIII
 #### [2nd Lecture](https://youtu.be/A7s_-yJ5lUA) w/Beej: Conway solution
 #### [3rd Lecture](https://youtu.be/9rH571vvgnE) w/Aaron Gallant: Intro to Security and Cryptography
-#### [4th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Aaron Gallant: Security and Cryptography Mini
-#### [5th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Aaron Gallant: Security and Cryptography Mini Solution
-Pair Programming #31: https://github.com/LambdaSchool/????? solo
+#### [4th Lecture](https://youtu.be/JYU-3HmXHsg) w/Aaron Gallant: Security and Cryptography Mini
+#### [5th Lecture](https://youtu.be/U14cPfdwuXw) w/Aaron Gallant: Security and Cryptography Mini Solution
 ***
 
 ### Day 92: Thursday, November 09
@@ -952,6 +951,7 @@ Code Challenge #81: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
 #### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+Pair Programming #31: https://github.com/LambdaSchool/????? solo
 ***
 
 ### Day 93: Friday, November 10
