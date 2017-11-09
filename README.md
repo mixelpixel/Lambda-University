@@ -1243,6 +1243,8 @@ Also: https://lambdaschoolpro.slack.com/archives/G5TDU61DE/p1506989692000102
 
 ***
 ### git notes
+- https://help.github.com/articles/connecting-to-github-with-ssh/
+
 - `git config core.ignorecase false`
 - most projects set up as submodules
 - A NOTE on reconfiguring submodules:
