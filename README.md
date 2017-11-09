@@ -946,8 +946,8 @@ Code Challenge #80: https://repl.it/student/submissions/1943334 "Go Intro III: F
 
 ### Day 92: Thursday, November 09
 ### [DAY 92 NOTES](Month5/Week19/Day92/README.md)
-Code Challenge #81: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
-#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #81 NEW_CODE_CHALLENGE
+Code Challenge #81: https://repl.it/student/submissions/1951449 "Stack"
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #81 stack
 #### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
@@ -1050,6 +1050,12 @@ Code Challenge #82: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
 
 #### Compiling
 - http://www.bayfronttechnologies.com/mc_tutorial.html
+
+#### GO GoLang
+- https://golang.org/
+- https://golang.org/doc/
+- https://tour.golang.org/welcome/1
+- https://gobyexample.com/
 
 #### REST
 - http://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm
@@ -1212,7 +1218,6 @@ Code Challenge #82: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
 #### TO DO
 - ATOM: https://flight-manual.atom.io/hacking-atom/sections/package-word-count/
 - macOS Security: https://objective-see.com/products.html
-- GO: https://golang.org/
 
 ##### Unsorted
 - Ryan Sherill: [Extra Resources list](https://docs.google.com/document/d/1y5B_glCrLRo8Vnu93QMKjFrfAN3a-GFPzgGz76rTTIQ/edit)
