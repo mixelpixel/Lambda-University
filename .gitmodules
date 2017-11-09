@@ -172,3 +172,6 @@
 [submodule "Conways-Life"]
 	path = Conways-Life
 	url = https://github.com/mixelpixel/Conways-Life.git
+[submodule "Secret-Gists"]
+	path = Secret-Gists
+	url = https://github.com/mixelpixel/Secret-Gists.git
