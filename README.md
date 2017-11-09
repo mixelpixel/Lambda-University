@@ -947,7 +947,7 @@ Code Challenge #80: https://repl.it/student/submissions/1943334 "Go Intro III: F
 ### Day 92: Thursday, November 09
 ### [DAY 92 NOTES](Month5/Week19/Day92/README.md)
 Code Challenge #81: https://repl.it/student/submissions/1951449 "Stack"
-#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: Review Code Challenge #81 stack
+#### [1st Lecture](https://youtu.be/K9aOAyGow28) w/Sean Chen: Review Code Challenge #81 stack
 #### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
