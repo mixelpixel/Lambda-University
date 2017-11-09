@@ -948,7 +948,7 @@ Code Challenge #80: https://repl.it/student/submissions/1943334 "Go Intro III: F
 ### [DAY 92 NOTES](Month5/Week19/Day92/README.md)
 Code Challenge #81: https://repl.it/student/submissions/1951449 "Stack"
 #### [1st Lecture](https://youtu.be/K9aOAyGow28) w/Sean Chen: Review Code Challenge #81 stack
-#### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Elmer Thomas: Open Source Management
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 Pair Programming #31: https://github.com/LambdaSchool/????? solo
@@ -1145,6 +1145,10 @@ Code Challenge #82: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
 - npm: https://www.npmjs.com/package/eslint-watch
 - [AirBnB Style guide](https://github.com/airbnb/javascript#control-statements)
 - http://eslint.org/docs/user-guide/getting-started
+
+#### Python
+- https://drive.google.com/drive/folders/0B3mgthJ7qanKTGpxNDBDR2l1WEk
+- https://drive.google.com/drive/folders/0B3mgthJ7qanKbDZQSkpIUWFIVHc
 
 #### SUPPORT APPS
 - Text Editors / IDE's
