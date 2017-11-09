@@ -23,3 +23,6 @@
 
 # Ignore macOS
 .DS_Store
+
+# Python compiles
+*.pyc
