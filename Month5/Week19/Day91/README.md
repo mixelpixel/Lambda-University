@@ -127,5 +127,23 @@ class Rsa:
 
 ***
 # [5th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Aaron Gallant: Security and Cryptography Mini Solution
+```
+Some of the links I mentioned in the intro lecture (and other resources):
+http://www.cnn.com/2016/10/28/politics/phishing-email-hack-john-podesta-hillary-clinton-wikileaks/index.html
+Wikipedia is pretty good for most of these topics, e.g. https://en.wikipedia.org/wiki/Exclusive_or
+Video on the role and history of certificate authorities: https://www.coursera.org/learn/internet-history/lecture/L7HzI/security-integrity-and-certificate-authorities
+https://www.schneier.com - Bruce Schneier’s blog (respected security figure)
+https://security.stackexchange.com to get a taste of current affairs (it’s often pretty advanced questions though)
+Heartbleed (impact of modern security failures): https://xkcd.com/1353/
+Security (picking your threat model): https://xkcd.com/538/
+SQL injection: https://www.xkcd.com/327/
+Password Strength (Horse Battery Correct Staple): https://www.xkcd.com/936/
+https://www.ece.cmu.edu/~ganger/712.fall02/papers/p761-thompson.pdf - “Trusting Trust”, historic paper showing how hard security problems are
+http://www.openwall.com/john/ - more “industry-grade” password cracker
+https://cryptopals.com - Crypto challenges, if you want to practice/learn about in more detail
+https://www.nccgroup.trust/us/about-us/newsroom-and-events/blog/2011/august/javascript-cryptography-considered-harmful/ - Famous if controversial/dated, worth acknowledging and being aware of
+http://www.moserware.com/2009/09/stick-figure-guide-to-advanced.html - fairly approachable guide to AES, the most widely used symmetric crypto algo (natively supported in Intel chipsets and elsewhere)
+Also: https://keybase.io http://www.daemonology.net/blog/2009-06-11-cryptographic-right-answers.html https://twofactorauth.org/ https://tweetnacl.js.org/ and I think that's most of it
+```
 ***
 # fin
