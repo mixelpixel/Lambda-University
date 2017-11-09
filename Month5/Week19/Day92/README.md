@@ -18,6 +18,8 @@ NO_VIDEO_RECORDED
 - * a pointer to the memory address
 - & accesses memory address
 - https://stackoverflow.com/a/2094715/5225057
+> I've always liked thinking that if one has a thing, you get a pointer to the thing with `&`.  And if one has a pointer to a thing, you get the thing with `*`. They're sort of inverses.
+> -Beej
 
 ***
 #### LUNCH
