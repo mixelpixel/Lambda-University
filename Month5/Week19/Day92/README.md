@@ -2,19 +2,6 @@
 ## Coding Challenge #81
 - "Stack" available in https://repl.it/student/submissions/1951449
 ***
-Ben Nelson
-Thomson Comer
-Beej Jorgensen: Brian Hall
-Ryan Hamblin
-Ivan Mora
-Sean Chen
-Aaron Gallant
-Tai Chulikavit
-Emily Sperry
-Christine Gierer
-GUEST LECTURER
-NO_VIDEO_RECORDED
-***
 # [1st Lecture](https://youtu.be/K9aOAyGow28) w/Sean Chen: Review Code Challenge #81: stack
 - * a pointer to the memory address
 - & accesses memory address
@@ -26,13 +13,8 @@ NO_VIDEO_RECORDED
 ***
 #### LUNCH
 ***
-# [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Elmer Thomas: Open Source Management
+# [Brown Bag](https://youtu.be/6kHGtWTVb9k) w/Elmer Thomas: Open Source Management
 ***
-# [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Aaron Gallant: Secret-Gist
-***
-# [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-***
-# [4th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-# Lab / Q&A
+# [2nd Lecture](https://youtu.be/_8dir3QaIF0) w/Aaron Gallant: Secret-Gist
 ***
 # fin
