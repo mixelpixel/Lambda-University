@@ -955,8 +955,8 @@ Pair Programming #31: https://github.com/LambdaSchool/Secret-Gists solo
 
 ### Day 93: Friday, November 10
 ### [DAY 93 NOTES](Month5/Week19/Day93/README.md)
-Code Challenge #82: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
-#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Review Code Challenge #82 NEW_CODE_CHALLENGE
+Code Challenge #82: https://repl.it/student/submissions/1958450 "Binary Search Tree"
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: Review Code Challenge #82 binarySearchTree
 #### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
