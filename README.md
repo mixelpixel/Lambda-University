@@ -948,10 +948,9 @@ Code Challenge #80: https://repl.it/student/submissions/1943334 "Go Intro III: F
 ### [DAY 92 NOTES](Month5/Week19/Day92/README.md)
 Code Challenge #81: https://repl.it/student/submissions/1951449 "Stack"
 #### [1st Lecture](https://youtu.be/K9aOAyGow28) w/Sean Chen: Review Code Challenge #81 stack
-#### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Elmer Thomas: Open Source Management
-#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-Pair Programming #31: https://github.com/LambdaSchool/????? solo
+#### [Brown Bag](https://youtu.be/6kHGtWTVb9k) w/Elmer Thomas: Open Source Management
+#### [2nd Lecture](https://youtu.be/_8dir3QaIF0) w/Aaron Gallant: Secret-Gist
+Pair Programming #31: https://github.com/LambdaSchool/Secret-Gists solo
 ***
 
 ### Day 93: Friday, November 10
