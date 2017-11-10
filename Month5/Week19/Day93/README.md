@@ -8,7 +8,7 @@
 ***
 #### LUNCH
 ***
-# [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Mike "Mitch" Mitchel: Modular Testing & Modlets
+# [Brown Bag](https://youtu.be/CgGdiGInSyA) w/Mike "Mitch" Mitchel: The Modlet Problem
 ***
 # [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 ***
