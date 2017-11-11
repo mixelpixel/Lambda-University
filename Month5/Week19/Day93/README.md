@@ -10,11 +10,6 @@
 ***
 # [Brown Bag](https://youtu.be/CgGdiGInSyA) w/Mike "Mitch" Mitchel: The Modlet Problem
 ***
-# [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-***
-# [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-***
-# [4th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-# Lab / Q&A
+# [2nd Lecture](https://youtu.be/3OExk481rAM) w/Aaron Gallant: Secret-Gist Q&A
 ***
 # fin
