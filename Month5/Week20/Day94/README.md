@@ -13,9 +13,9 @@ Christine Gierer
 GUEST LECTURER
 NO_VIDEO_RECORDED
 ***
-# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: Whiteboard Interview Prep
+# [1st Lecture](https://youtu.be/Ras1WlZFMnI) w/Sean Chen: Whiteboard Interview Prep
 ***
-# [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Aaron Gallant: LS Secret-Gists solution
+# [2nd Lecture](https://youtu.be/oMgpPtSkVPk) w/Aaron Gallant: LS Secret-Gists solution
 ***
 # [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Aaron Gallant: Intro to Portfolios
 - https://www.heroku.com/ (it's a layer on top of AWS)
