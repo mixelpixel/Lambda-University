@@ -967,10 +967,9 @@ Code Challenge #82: https://repl.it/student/submissions/1958450 "Binary Search T
 ## Week 20: Nov. 13 - 17
 ### Day 94: Monday, November 13
 ### [DAY 94 NOTES](Month5/Week20/Day94/README.md)
-#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Whiteboard Interview Prep
-#### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: Whiteboard Interview Prep
+#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Aaron Gallant: LS Secret-Gists solution
+#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Aaron Gallant: Intro to Portfolios
 Pair Programming #??: https://github.com/LambdaSchool/????? w/???
 ***
 
