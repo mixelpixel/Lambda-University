@@ -45,3 +45,48 @@ Code Challenge #??: https://repl.it/student/submissions/# "NEW_CODE_CHALLENGE"
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 Pair Programming #??: https://github.com/LambdaSchool/????? w/???
 ***
+
+
+********************************************************************************
+# Lambda University - MONTH ##, 2017: Day ###, WEEKday
+***
+Ben Nelson
+Thomson Comer
+Beej Jorgensen: Brian Hall
+Ryan Hamblin
+Ivan Mora
+Sean Chen
+Aaron Gallant
+Tai Chulikavit
+Emily Sperry
+Christine Gierer
+GUEST LECTURER
+NO_VIDEO_RECORDED
+***
+# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Whiteboard Interview Prep
+***
+#### LUNCH
+***
+# [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+***
+# [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+***
+# [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+***
+# [4th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+# Lab / Q&A
+***
+# fin
+
+********
+INDEX
+********
+
+### Day ??: WEEKday, MONTH ??
+### [DAY ## NOTES](Month#/Week##/Day##/README.md)
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Whiteboard Interview Prep
+#### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+Pair Programming #??: https://github.com/LambdaSchool/????? w/???
+***
