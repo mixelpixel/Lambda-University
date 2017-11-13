@@ -17,7 +17,7 @@ NO_VIDEO_RECORDED
 ***
 # [2nd Lecture](https://youtu.be/oMgpPtSkVPk) w/Aaron Gallant: LS Secret-Gists solution
 ***
-# [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Aaron Gallant: Intro to Portfolios
+# [3rd Lecture](https://youtu.be/4XDvsw5hr6I) w/Aaron Gallant: Intro to Portfolios
 - https://www.heroku.com/ (it's a layer on top of AWS)
 - Dynos (450 hours per month)
 - Elements - will be using some sort of datastore (Mongo, non-relational ~500MB)
