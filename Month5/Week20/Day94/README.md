@@ -13,15 +13,18 @@ Christine Gierer
 GUEST LECTURER
 NO_VIDEO_RECORDED
 ***
-# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Whiteboard Interview Prep
+# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: Whiteboard Interview Prep
+***
+# [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Aaron Gallant: LS Secret-Gists solution
+***
+# [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Aaron Gallant: Intro to Portfolios
+- https://www.heroku.com/ (it's a layer on top of AWS)
+- Dynos (450 hours per month)
+- Elements - will be using some sort of datastore (Mongo, non-relational ~500MB)
+- https://github.com/toddmotto/public-apis
+
 ***
 #### LUNCH
-***
-# [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-***
-# [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-***
-# [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 ***
 # [4th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 # Lab / Q&A
