@@ -959,13 +959,52 @@ Code Challenge #82: https://repl.it/student/submissions/1958450 "Binary Search T
 #### [1st Lecture](https://youtu.be/Vdui-EVc-fU) w/Sean Chen: Review Code Challenge #82 binarySearchTree
 #### [Brown Bag](https://youtu.be/CgGdiGInSyA) w/Mike "Mitch" Mitchel: Modular Testing & Modlets
 #### [2nd Lecture](https://youtu.be/3OExk481rAM) w/Aaron Gallant: Secret-Gist Q&A
-***
 
 
 ***
 
 
 ## Week 20: Nov. 13 - 17
+### Day 94: Monday, November 13
+### [DAY 94 NOTES](Month5/Week20/Day94/README.md)
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Whiteboard Interview Prep
+#### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+Pair Programming #??: https://github.com/LambdaSchool/????? w/???
+***
+
+### Day 95: Tuesday, November 14
+### [DAY 95 NOTES](Month5/Week20/Day95/README.md)
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Whiteboard Interview Prep
+#### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+***
+
+### Day 96: Wednesday, November 15
+### [DAY 96 NOTES](Month5/Week20/Day96/README.md)
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Whiteboard Interview Prep
+#### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+Pair Programming #??: https://github.com/LambdaSchool/????? w/???
+***
+
+### Day 97: Thursday, November 16
+### [DAY 97 NOTES](Month5/Week20/Day97/README.md)
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Whiteboard Interview Prep
+#### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+***
+
+### Day 98: Friday, November 17
+### [DAY 98 NOTES](Month5/Week20/Day98/README.md)
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Whiteboard Interview Prep
+#### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 
 
 ***
