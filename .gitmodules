@@ -175,3 +175,6 @@
 [submodule "Secret-Gists"]
 	path = Secret-Gists
 	url = https://github.com/mixelpixel/Secret-Gists.git
+[submodule "heroku/node-js-getting-started"]
+	path = heroku/node-js-getting-started
+	url = https://github.com/heroku/node-js-getting-started.git
