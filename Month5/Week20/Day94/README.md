@@ -1,18 +1,5 @@
 # Lambda University - November 13, 2017: Day 094, Monday
 ***
-Ben Nelson
-Thomson Comer
-Beej Jorgensen: Brian Hall
-Ryan Hamblin
-Ivan Mora
-Sean Chen
-Aaron Gallant
-Tai Chulikavit
-Emily Sperry
-Christine Gierer
-GUEST LECTURER
-NO_VIDEO_RECORDED
-***
 # [1st Lecture](https://youtu.be/Ras1WlZFMnI) w/Sean Chen: Whiteboard Interview Prep
 ***
 # [2nd Lecture](https://youtu.be/oMgpPtSkVPk) w/Aaron Gallant: LS Secret-Gists solution
@@ -27,6 +14,7 @@ NO_VIDEO_RECORDED
 #### LUNCH
 ***
 # [4th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-# Lab / Q&A
+- `gh-pages` to launch a github page
+
 ***
 # fin
