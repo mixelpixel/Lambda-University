@@ -13,8 +13,8 @@
 ***
 #### LUNCH
 ***
-# [4th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-- `gh-pages` to launch a github page
+# [4th Lecture](https://youtu.be/4otmwa9katY) w/Aaron Gallant: Heroku Q&A
+- `gh-pages` branch to launch a github page
 
 ***
 # fin
