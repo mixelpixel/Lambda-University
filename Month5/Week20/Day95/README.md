@@ -4,6 +4,6 @@
 ***
 #### LUNCH
 ***
-# [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Aaron Gallant: Portfolio Project Q&A
+# [2nd Lecture](https://youtu.be/uGnF1YVDV4U) w/Aaron Gallant: Portfolio Project Q&A
 ***
 # fin
