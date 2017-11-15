@@ -976,16 +976,14 @@ Code Challenge #82: https://repl.it/student/submissions/1958450 "Binary Search T
 ### Day 95: Tuesday, November 14
 ### [DAY 95 NOTES](Month5/Week20/Day95/README.md)
 #### [1st Lecture](https://youtu.be/DuQmsbfmFrQ) w/Sean Chen: Whiteboard Interview Prep
-#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Aaron Gallant: Portfolio Project Q&A
+#### [2nd Lecture](https://youtu.be/uGnF1YVDV4U) w/Aaron Gallant: Portfolio Project Q&A
 ***
 
 ### Day 96: Wednesday, November 15
 ### [DAY 96 NOTES](Month5/Week20/Day96/README.md)
 #### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Whiteboard Interview Prep
-#### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 #### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-Pair Programming #??: https://github.com/LambdaSchool/????? w/???
 ***
 
 ### Day 97: Thursday, November 16
