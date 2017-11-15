@@ -1307,6 +1307,7 @@ If `git submodule add <URL>` was used to set up a git repository as a submodule 
 
 ### deployment stuff?
 - https://help.github.com/articles/what-is-github-pages/
+- from https://lambdaschoolpro.slack.com/archives/G5TDU61DE/p1510178270000288
 ```
 GitHub Pages
 
