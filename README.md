@@ -1053,7 +1053,7 @@ Code Challenge #82: https://repl.it/student/submissions/1958450 "Binary Search T
 ***
 
 
-<!-- <details><summary>Additional Resources</summary><p> -->
+<details><summary>Additional Resources</summary><p>
 
 
 #### Lambda University:
@@ -1280,8 +1280,6 @@ Code Challenge #82: https://repl.it/student/submissions/1958450 "Binary Search T
 
 Also: https://lambdaschoolpro.slack.com/archives/G5TDU61DE/p1506989692000102
 
-</p></details>
-
 
 ***
 ### git notes
@@ -1357,5 +1355,7 @@ Step 5: Optionally, configure the domain
 
 You can configure a custom domain with GitHub Pages by adding a CNAME file to the public/ folder.
 ```
+
+</p></details>
 
 ## fin.
