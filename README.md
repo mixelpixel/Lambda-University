@@ -970,16 +970,13 @@ Code Challenge #82: https://repl.it/student/submissions/1958450 "Binary Search T
 #### [1st Lecture](https://youtu.be/Ras1WlZFMnI) w/Sean Chen: Whiteboard Interview Prep
 #### [2nd Lecture](https://youtu.be/oMgpPtSkVPk) w/Aaron Gallant: LS Secret-Gists solution
 #### [3rd Lecture](https://youtu.be/4XDvsw5hr6I) w/Aaron Gallant: Intro to Portfolios
-#### [4th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-Pair Programming #??: https://github.com/LambdaSchool/????? w/???
+#### [4th Lecture](https://youtu.be/4otmwa9katY) w/Speaker: topic
 ***
 
 ### Day 95: Tuesday, November 14
 ### [DAY 95 NOTES](Month5/Week20/Day95/README.md)
-#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Whiteboard Interview Prep
-#### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [1st Lecture](https://youtu.be/DuQmsbfmFrQ) w/Sean Chen: Whiteboard Interview Prep
+#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Aaron Gallant: Portfolio Project Q&A
 ***
 
 ### Day 96: Wednesday, November 15
