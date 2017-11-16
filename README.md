@@ -983,7 +983,7 @@ Code Challenge #82: https://repl.it/student/submissions/1958450 "Binary Search T
 ### [DAY 96 NOTES](Month5/Week20/Day96/README.md)
 #### [1st Lecture](https://youtu.be/NMDgZnTgXaE) w/Sean Chen: Whiteboard Interview Prep
 #### [2nd Lecture](https://youtu.be/YMUVNYvq3T4) w/Beej: Relational and Non-Relational Databases
-#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Beej: Relational and Non-Relational Databases Q&A
+#### [3rd Lecture](https://youtu.be/Qex4GONCT_o) w/Beej: Relational and Non-Relational Databases Q&A
 ***
 
 ### Day 97: Thursday, November 16
