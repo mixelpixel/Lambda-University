@@ -4,6 +4,8 @@
 ***
 #### LUNCH
 ***
-# [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Beej: Relational and Non-Relational Databases
+# [2nd Lecture](https://youtu.be/YMUVNYvq3T4) w/Beej: Relational and Non-Relational Databases
+***
+# [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Beej: Relational and Non-Relational Databases Q&A
 ***
 # fin
