@@ -6,6 +6,6 @@
 ***
 # [2nd Lecture](https://youtu.be/YMUVNYvq3T4) w/Beej: Relational and Non-Relational Databases
 ***
-# [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Beej: Relational and Non-Relational Databases Q&A
+# [3rd Lecture](https://youtu.be/Qex4GONCT_o) w/Beej: Relational and Non-Relational Databases Q&A
 ***
 # fin
