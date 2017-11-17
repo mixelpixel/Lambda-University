@@ -15,7 +15,7 @@ NO_VIDEO_RECORDED
 ***
 # [1st Lecture](NO_VIDEO_RECORDED) w/Sean Chen: Whiteboard Interview Prep
 ***
-# [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Aaron Gallant: topic
+# [2nd Lecture](https://youtu.be/G2Kg83S-byY) w/Aaron Gallant: topic
 ***
 #### LUNCH
 ***
