@@ -989,9 +989,7 @@ Code Challenge #82: https://repl.it/student/submissions/1958450 "Binary Search T
 ### Day 97: Thursday, November 16
 ### [DAY 97 NOTES](Month5/Week20/Day97/README.md)
 #### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: Whiteboard Interview Prep
-#### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [2nd Lecture](https://youtu.be/SIYbPY7ipI0) w/Aaron Gallant: Portfolio Project Q&A
 ***
 
 ### Day 98: Friday, November 17
