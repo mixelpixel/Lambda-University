@@ -1,6 +1,6 @@
 # Lambda University - November 16, 2017: Day 097, Thursday
 ***
-# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: Whiteboard Interview Prep
+# [1st Lecture](https://youtu.be/NMDgZnTgXaE) w/Sean Chen: Whiteboard Interview Prep
 ***
 #### LUNCH
 ***
