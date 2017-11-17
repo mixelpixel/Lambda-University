@@ -1243,6 +1243,7 @@ Code Challenge #82: https://repl.it/student/submissions/1958450 "Binary Search T
 	- [registers and RAM](https://www.youtube.com/watch?v=fpnE6UAfbtU)
 - Technology that frees us: http://www.torforgeblog.com/2017/04/03/how-can-we-make-technology-that-frees-us-rather-than-enslaves-us/
 - Algorithms: https://www.dropbox.com/sh/8xapslslciddg26/AAC--Q61twdgkUMYSNJOIUVMa?dl=0
+	- Data Structure Visualizations: https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
 - Dynamic programming: https://people.cs.clemson.edu/~bcdean/dp_practice/
 
 #### Interview prep
