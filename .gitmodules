@@ -181,3 +181,6 @@
 [submodule "Relational-Databases"]
 	path = Relational-Databases
 	url = https://github.com/mixelpixel/Relational-Databases.git
+[submodule "Static-Pages"]
+	path = Static-Pages
+	url = https://github.com/mixelpixel/Static-Pages.git
