@@ -13,13 +13,13 @@ Christine Gierer
 GUEST LECTURER
 NO_VIDEO_RECORDED
 ***
-# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: Whiteboard Interview Prep
+# [1st Lecture](NO_VIDEO_RECORDED) w/Sean Chen: Whiteboard Interview Prep
+***
+# [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Aaron Gallant: topic
 ***
 #### LUNCH
 ***
 # [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-***
-# [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 ***
 # [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
 ***
