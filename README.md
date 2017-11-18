@@ -1251,6 +1251,7 @@ Code Challenge #82: https://repl.it/student/submissions/1958450 "Binary Search T
 - https://github.com/h5bp/Front-end-Developer-Interview-Questions#js-questions
 - https://www.toptal.com/javascript/interview-questions
 - https://leetcode.com/
+- practice problems: https://techiedelight.quora.com/500-Data-Structures-and-Algorithms-practice-problems-and-their-solutions
 
 #### TO DO
 - ATOM: https://flight-manual.atom.io/hacking-atom/sections/package-word-count/
