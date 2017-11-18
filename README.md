@@ -1170,6 +1170,7 @@ Code Challenge #82: https://repl.it/student/submissions/1958450 "Binary Search T
 - BUILD CROSS PLATFORM DESKTOP APPS WITH JS/HTML/CSS: https://electron.atom.io/
 - http://javascript.crockford.com/popular.html
 - Prototype inheritance: http://beej.us/blog/data/javascript-prototypes-inheritance
+- https://github.com/LambdaSchool/BeejWiki/wiki/Arrays,-prototypes,-slices,-calls
 
 #### ESLINTer:
 - npm: https://www.npmjs.com/package/eslint-watch
