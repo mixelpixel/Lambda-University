@@ -13,6 +13,8 @@
 - https://www.howtographql.com/react-relay/1-getting-started/
 
 Mongo-III: https://files.slack.com/files-pri/T4JUEB3ME-F6SCGUSH3/download/zoom_0.mp4
+- https://lambdaschoolstudents.slack.com/files/U660QU37U/F6SCGUSH3/zoom_0.mp4
+- from: https://lambdaschoolstudents.slack.com/archives/G5TDU61DE/p1503440970000385
 Mongoose: https://www.lynda.com/Node-js-tutorials/Querying-data-Mongoose/604259/620678-4.html
 
 ***
