@@ -1204,6 +1204,8 @@ Code Challenge #82: https://repl.it/student/submissions/1958450 "Binary Search T
 - https://kukulinski.com/10-most-common-reasons-kubernetes-deployments-fail-part-1/
 - https://kukulinski.com/10-most-common-reasons-kubernetes-deployments-fail-part-2/
 - https://kubernetes.io/docs/user-guide/kubectl-cheatsheet/
+- free online course from Linux Foundation on the basics of Kubernetes: https://www.edx.org/.../introduction-kubernetes...
+- You can also opt for Kubernetes certification: http://itsfoss.link/kubernetes
 - https://youtu.be/v7ZcZfGBFcU dev ops 4 beginners
 - https://medium.freecodecamp.org/surge-vs-github-pages-deploying-a-create-react-app-project-c0ecbf317089
 - https://help.github.com/articles/using-a-custom-domain-with-github-pages/
