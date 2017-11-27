@@ -1003,14 +1003,22 @@ Code Challenge #82: https://repl.it/student/submissions/1958450 "Binary Search T
 ***
 
 
-## Week 21: Nov. 20 - 24
+## Nov. 20 - 24
 ### VACATION
 
 
 ***
 
 
-## Week 22: Nov. 27 - Dec. 1
+## Week 21: Nov. 27 - Dec. 1
+### Day 99: Monday, November 27
+### [DAY 99 NOTES](Month5/Week21/Day99/README.md)
+#### [1st Lecture](https://youtu.be/NaCJiR7pi4E) w/Aaron Gallant and Beej: Group Capstone Kickoff
+#### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+***
+
 
 
 <!-- </p></details> -->
@@ -1023,25 +1031,25 @@ Code Challenge #82: https://repl.it/student/submissions/1958450 "Binary Search T
 
 
 # Month 6: December, 2017
-## Week 23: Dec. 4 - 8
+## Week 22: Dec. 4 - 8
 
 
 ***
 
 
-## Week 24: Dec. 11 - 15
+## Week 23: Dec. 11 - 15
 
 
 ***
 
 
-## Week 25: Dec. 18 - 22
+## Week 24: Dec. 18 - 22
 
 
 ***
 
 
-## Week 26: Dec. 25 Christmas!
+## Dec. 25 Christmas!
 ### VACATION
 
 
@@ -1063,6 +1071,11 @@ Code Challenge #82: https://repl.it/student/submissions/1958450 "Binary Search T
 
 #### Internships
 - http://www.shubhro.com/2014/10/15/tips-for-internships/
+
+#### Referrals
+> We’ll pay $250 for every student you refer that ends up graduating.
+
+> To refer just link them to `lambdaschool.com/computer-science?src=youremail@email.com`, and swap out your email address for `youremail@email.com`
 
 #### LSPro lectures:
 - [Callbacks](https://youtu.be/qxURd9khNgU)
