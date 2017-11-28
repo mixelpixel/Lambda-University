@@ -1020,7 +1020,7 @@ Code Challenge #82: https://repl.it/student/submissions/1958450 "Binary Search T
 
 ### Day 100: Tuesday, November 28
 ### [DAY 100 NOTES](Month5/Week21/Day100/README.md)
-#### [1st Lecture](https://youtu.be/NaCJiR7pi4E) w/Sean Chen: Whiteboarding
+#### [1st Lecture](https://youtu.be/fdVxZKx49PA) w/Sean Chen: Whiteboarding
 #### Capstone
 #### Internship
 ***
