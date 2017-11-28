@@ -13,7 +13,7 @@ Christine Gierer
 GUEST LECTURER
 NO_VIDEO_RECORDED
 ***
-# [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Sean Chen: Whiteboarding
+# [1st Lecture](https://youtu.be/fdVxZKx49PA) w/Sean Chen: Whiteboarding
 # Capstone
 # Internship
 ***
