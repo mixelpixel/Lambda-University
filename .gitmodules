@@ -184,3 +184,6 @@
 [submodule "Static-Pages"]
 	path = Static-Pages
 	url = https://github.com/mixelpixel/Static-Pages.git
+[submodule "LS_Lectures"]
+	path = LS_Lectures
+	url = https://github.com/cs1Capstone/LS_Lectures.git
