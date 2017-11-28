@@ -1014,9 +1014,15 @@ Code Challenge #82: https://repl.it/student/submissions/1958450 "Binary Search T
 ### Day 99: Monday, November 27
 ### [DAY 99 NOTES](Month5/Week21/Day99/README.md)
 #### [1st Lecture](https://youtu.be/NaCJiR7pi4E) w/Aaron Gallant and Beej: Group Capstone Kickoff
-#### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-#### [2nd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
-#### [3rd Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: topic
+#### Capstone
+#### Internship
+***
+
+### Day 100: Tuesday, November 28
+### [DAY 100 NOTES](Month5/Week21/Day100/README.md)
+#### [1st Lecture](https://youtu.be/NaCJiR7pi4E) w/Sean Chen: Whiteboarding
+#### Capstone
+#### Internship
 ***
 
 
