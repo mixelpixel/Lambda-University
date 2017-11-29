@@ -1230,6 +1230,7 @@ Code Challenge #82: https://repl.it/student/submissions/1958450 "Binary Search T
 - https://help.github.com/articles/using-a-custom-domain-with-github-pages/
 - https://aws.amazon.com/s3/
 - https://aws.amazon.com/lambda/
+-Set up a GH page:  https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md#github-pages
 
 #### Computer Science
 - BIG O NOTATION
