@@ -865,7 +865,7 @@ Code Challenge #72: https://repl.it/student/submissions/1878345 "Permutation Pal
 ***
 
 
-<!-- <details><summary>Month 5: November, 2017</summary><p> -->
+<details><summary>Month 5: November, 2017</summary><p>
 
 
 # Month 5: November, 2017
@@ -1004,7 +1004,7 @@ Code Challenge #82: https://repl.it/student/submissions/1958450 "Binary Search T
 
 
 ## Nov. 20 - 24
-### VACATION
+### Thanksgiving week VACATION
 
 
 ***
@@ -1044,13 +1044,13 @@ Code Challenge #82: https://repl.it/student/submissions/1958450 "Binary Search T
 ***
 
 
-<!-- </p></details> -->
+</p></details>
 
 
 ***
 
 
-<!-- <details><summary>Month 6: December, 2017</summary><p> -->
+<details><summary>Month 6: December, 2017</summary><p>
 
 
 # Month 6: December, 2017
@@ -1107,7 +1107,7 @@ Code Challenge #82: https://repl.it/student/submissions/1958450 "Binary Search T
 ### VACATION
 
 
-<!-- </p></details> -->
+</p></details>
 
 
 ***
