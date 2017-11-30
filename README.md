@@ -1025,6 +1025,23 @@ Code Challenge #82: https://repl.it/student/submissions/1958450 "Binary Search T
 #### Internship
 ***
 
+### Day 101: Wednesday, November 29
+### [DAY 101 NOTES](Month5/Week21/Day101/README.md)
+#### Capstone
+#### Internship
+***
+
+### Day 102: Thursday, November 30
+### [DAY 102 NOTES](Month5/Week21/Day102/README.md)
+#### Capstone
+#### Internship
+***
+
+### Day 103: Friday, December 1
+### [DAY 103 NOTES](Month5/Week21/Day103/README.md)
+#### Capstone
+#### Internship
+***
 
 
 <!-- </p></details> -->
@@ -1038,6 +1055,37 @@ Code Challenge #82: https://repl.it/student/submissions/1958450 "Binary Search T
 
 # Month 6: December, 2017
 ## Week 22: Dec. 4 - 8
+### Day 104: Monday, December 4
+### [DAY 104 NOTES](Month5/Week22/Day104/README.md)
+#### Capstone
+#### Internship
+***
+
+### Day 105: Tueday, December 5
+### [DAY 105 NOTES](Month5/Week22/Day105/README.md)
+#### Capstone
+#### Internship
+***
+
+### Day 106: Wednesday, December 6
+### [DAY 106 NOTES](Month5/Week22/Day106/README.md)
+#### Capstone
+#### Internship
+***
+
+### Day 107: Thursday, December 7
+### [DAY 107 NOTES](Month5/Week22/Day107/README.md)
+#### Capstone
+#### Internship
+***
+
+### Day 108: Friday, December 8
+### [DAY 108 NOTES](Month5/Week22/Day108/README.md)
+#### Capstone
+#### Internship
+***
+
+
 
 
 ***
