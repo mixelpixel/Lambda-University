@@ -184,3 +184,6 @@
 [submodule "Static-Pages"]
 	path = Static-Pages
 	url = https://github.com/mixelpixel/Static-Pages.git
+[submodule "arc_hive"]
+	path = arc_hive
+	url = https://github.com/cs1Capstone/arc_hive.git
