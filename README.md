@@ -14,6 +14,7 @@ https://github.com/LambdaSchool/LambdaCSA-Syllabus
 		- Lambda Pro's [React](https://lambdaschool.com/pro/react), Node, ES6, and Mongo courses
 - [Lambda University Curriculum](https://docs.google.com/document/d/1Csrb2C5H6mdVsIdUi_CdKB_bY__Lpnx_fWuV4vNdsck/edit)
 - [Hiring Partners](https://docs.google.com/spreadsheets/d/1--7sg8s4Dxq-YN8BNlMmxYmKJrMlHOiaOVBZmZT8km8/edit#gid=0)
+- https://github.com/LambdaSchool/Pre-Course-Git-Fu
 
 
 </p></details>
@@ -1299,6 +1300,7 @@ Code Challenge #82: https://repl.it/student/submissions/1958450 "Binary Search T
 	- https://webdesign.tutsplus.com/tutorials/a-beginners-introduction-to-css-animation--cms-21068
 	- https://developer.mozilla.org/en-US/docs/Web/CSS/animation
 	- https://cssanimation.rocks/portal/
+	- http://cssgridgarden.com/
 - CAREER
 	- https://www.reddit.com/r/cscareerquestions/
 - REGULAR EXPRESSIONS
