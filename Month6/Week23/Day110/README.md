@@ -2,5 +2,6 @@
 ***
 # Capstone
 # Internship
+# [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Adam Basloe: Docker
 ***
 # fin
