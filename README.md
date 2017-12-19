@@ -1102,7 +1102,7 @@ Code Challenge #82: https://repl.it/student/submissions/1958450 "Binary Search T
 ### [DAY 110 NOTES](Month5/Week23/Day110/README.md)
 #### Capstone
 #### Internship
-#### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Adam Basloe: Docker
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Adam Basloe: Docker
 ***
 
 ### Day 111: Wednesday, December 13
@@ -1127,6 +1127,35 @@ Code Challenge #82: https://repl.it/student/submissions/1958450 "Binary Search T
 
 
 ## Week 24: Dec. 18 - 22
+### Day 114: Monday, December 18
+### [DAY 114 NOTES](Month5/Week24/Day114/README.md)
+#### Capstone
+#### Internship
+***
+
+### Day 115: Tueday, December 19
+### [DAY 115 NOTES](Month5/Week24/Day115/README.md)
+#### Capstone
+#### Internship
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Caleb Hicks: Job Hunting and Interview Prep
+***
+
+### Day 116: Wednesday, December 20
+### [DAY 116 NOTES](Month5/Week24/Day116/README.md)
+#### Capstone
+#### Internship
+***
+
+### Day 117: Thursday, December 21
+### [DAY 117 NOTES](Month5/Week24/Day117/README.md)
+#### Capstone
+#### Internship
+***
+
+### Day 118: Friday, December 22
+### [DAY 118 NOTES](Month5/Week24/Day118/README.md)
+#### Capstone
+#### Internship
 
 
 ***
