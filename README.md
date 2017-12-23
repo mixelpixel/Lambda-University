@@ -1137,7 +1137,7 @@ Code Challenge #82: https://repl.it/student/submissions/1958450 "Binary Search T
 ### [DAY 115 NOTES](Month5/Week24/Day115/README.md)
 #### Capstone
 #### Internship
-#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Caleb Hicks: Job Hunting and Interview Prep
+#### [1st Lecture](https://youtu.be/xlFwh8kxGlE) w/Caleb Hicks: Getting a Job (Part I) - Finding Open Positions
 ***
 
 ### Day 116: Wednesday, December 20
@@ -1150,12 +1150,14 @@ Code Challenge #82: https://repl.it/student/submissions/1958450 "Binary Search T
 ### [DAY 117 NOTES](Month5/Week24/Day117/README.md)
 #### Capstone
 #### Internship
+#### [1st Lecture](https://youtu.be/leNDqss50F4) w/Sabrina Baez: Getting a Job (Part II) - Branding & LinkedIn
 ***
 
 ### Day 118: Friday, December 22
 ### [DAY 118 NOTES](Month5/Week24/Day118/README.md)
 #### Capstone
 #### Internship
+#### [Brown Bag](https://youtu.be/pDSzR0iSQws) w/CS1 Capstone Presentations: Speech Trainer & Open House
 
 
 ***
