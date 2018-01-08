@@ -1173,6 +1173,64 @@ Code Challenge #82: https://repl.it/student/submissions/1958450 "Binary Search T
 ***
 
 
+<details><summary>Month 7: January, 2018</summary><p>
+
+
+# Month 7: January, 2018
+## Week 25: Jan. 4 & 5
+### Day 119: Thursday, January 4
+### [DAY 119 NOTES](Month7/Week25/Day119/README.md)
+#### HACKATHON 2018
+***
+
+### Day 120: Friday, January 5
+### [DAY 120 NOTES](Month7/Week25/Day120/README.md)
+#### HACKATHON 2018
+#### https://youtu.be/Kn3PX0QEK1U?t=2h2m48s
+
+
+***
+
+
+## Week 26: Jan. 8 - 12
+### Day 121: Monday, January 8
+### [DAY 121 NOTES](Month7/Week26/Day121/README.md)
+#### Capstone
+#### Internship
+#### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Mohammed Nayeem: Introduction to Machine Learning
+***
+
+### Day 122: Tuesday, January 9
+### [DAY 122 NOTES](Month7/Week26/Day122/README.md)
+#### Capstone
+#### Internship
+***
+
+### Day 123: Wednesday, January 10
+### [DAY 123 NOTES](Month7/Week26/Day123/README.md)
+#### Capstone
+#### Internship
+***
+
+### Day 124: Thursday, January 11
+### [DAY 124 NOTES](Month7/Week26/Day124/README.md)
+#### Capstone
+#### Internship
+***
+
+### Day 125: Friday, January 12
+### [DAY 125 NOTES](Month7/Week26/Day125/README.md)
+#### Capstone
+#### Internship
+***
+
+
+</p></details>
+
+
+***
+
+
 <details><summary>Additional Resources</summary><p>
 
 
