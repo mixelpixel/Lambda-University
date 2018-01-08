@@ -187,3 +187,6 @@
 [submodule "arc_hive"]
 	path = arc_hive
 	url = https://github.com/cs1Capstone/arc_hive.git
+[submodule "fits_n_starts"]
+	path = fits_n_starts
+	url = https://github.com/LocalZoomToYouTube/fits_n_starts.git
