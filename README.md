@@ -1197,7 +1197,7 @@ Code Challenge #82: https://repl.it/student/submissions/1958450 "Binary Search T
 ### [DAY 121 NOTES](Month7/Week26/Day121/README.md)
 #### Capstone
 #### Internship
-#### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Mohammed Nayeem: Introduction to Machine Learning
+#### [Brown Bag](https://youtu.be/UntcVRt_vT4) w/Mohammed Nayeem: Introduction to Machine Learning
 ***
 
 ### Day 122: Tuesday, January 9
