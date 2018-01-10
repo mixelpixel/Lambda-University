@@ -1198,6 +1198,7 @@ Code Challenge #82: https://repl.it/student/submissions/1958450 "Binary Search T
 #### Capstone
 #### Internship
 #### [Brown Bag](https://youtu.be/UntcVRt_vT4) w/Mohammed Nayeem: Introduction to Machine Learning
+- https://drive.google.com/drive/folders/1GlEAQrsVCVKmXcoK9JXZaHxe4gOkfiD3?usp=sharing
 ***
 
 ### Day 122: Tuesday, January 9
@@ -1205,6 +1206,13 @@ Code Challenge #82: https://repl.it/student/submissions/1958450 "Binary Search T
 #### Capstone
 #### Internship
 #### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Brian Doyle: Unity
+For following along and working post-lecture, Brian suggests:
+
+1. Install Unity: https://unity3d.com/get-unity/download
+2. Install Visual Studio 2017 Community:  https://www.visualstudio.com/vs/unity-tools/
+3. Download the tutorial starter project:  https://koenig-media.raywenderlich.com/uploads/2014/03/RocketMouse_StarterProject.zip
+4. Download the tutorial resources:  https://koenig-media.raywenderlich.com/uploads/2014/03/RocketMouse_Unity_Resources.zip
+5. Tutorial: https://www.raywenderlich.com/69392/make-game-like-jetpack-joyride-unity-2d-part-1
 ***
 
 ### Day 123: Wednesday, January 10
