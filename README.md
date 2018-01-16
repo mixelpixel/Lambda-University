@@ -1248,8 +1248,10 @@ For following along and working post-lecture, Brian suggests:
 #### Capstone
 #### Internship
 #### [State of the Union](NO_VIDEO_RECORDED) w/Austen, Ben, Caleb, etc.
-#### [Front-End Challenge Primer](VIDEO_RECORDED_NOT_POSTED) w/Ben Nelson: React To Do List Solution
+#### [Front-End Challenge Primer](https://youtu.be/i2MqSXMWInc) w/Ben Nelson: React To Do List Solution
 #### [Demo Day Prep](VIDEO_RECORDED_NOT_POSTED) w/Caleb Hicks
+- Alumni profiles
+-
 ***
 
 ### Day 127: Wednesday, January 17
