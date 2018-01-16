@@ -1271,6 +1271,7 @@ For following along and working post-lecture, Brian suggests:
 
 ***
 
+
 </p></details>
 
 
@@ -1339,7 +1340,6 @@ For following along and working post-lecture, Brian suggests:
 		- `use bears` use a particular db
 		- `db.bears.find().pretty()` display contents nicely
 		- `db.dropDatabase()` nuke db out of existence
-
 
 #### Mongoose
 - http://mongoosejs.com/docs/api.html#query_Query-remove
@@ -1495,6 +1495,10 @@ For following along and working post-lecture, Brian suggests:
 - https://www.toptal.com/javascript/interview-questions
 - https://leetcode.com/
 - practice problems: https://techiedelight.quora.com/500-Data-Structures-and-Algorithms-practice-problems-and-their-solutions
+
+#### Resume prep
+- http://creddle.io/
+- http://canva.com/
 
 #### TO DO
 - ATOM: https://flight-manual.atom.io/hacking-atom/sections/package-word-count/
