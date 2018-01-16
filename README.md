@@ -1102,7 +1102,7 @@ Code Challenge #82: https://repl.it/student/submissions/1958450 "Binary Search T
 ### [DAY 110 NOTES](Month5/Week23/Day110/README.md)
 #### Capstone
 #### Internship
-#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Adam Basloe: Docker
+#### [1st Lecture](https://youtu.be/kQbDnDsO8MQ) w/Adam Basloe: Docker
 ***
 
 ### Day 111: Wednesday, December 13
@@ -1205,7 +1205,7 @@ Code Challenge #82: https://repl.it/student/submissions/1958450 "Binary Search T
 ### [DAY 122 NOTES](Month7/Week26/Day122/README.md)
 #### Capstone
 #### Internship
-#### [Brown Bag](VIDEO_RECORDED_NOT_POSTED) w/Brian Doyle: Unity
+#### [Brown Bag](https://youtu.be/VSL_Qs-P-84) w/Brian Doyle: Unity
 For following along and working post-lecture, Brian suggests:
 
 1. Install Unity: https://unity3d.com/get-unity/download
@@ -1231,8 +1231,45 @@ For following along and working post-lecture, Brian suggests:
 ### [DAY 125 NOTES](Month7/Week26/Day125/README.md)
 #### Capstone
 #### Internship
+#### [Brown Bag](https://youtu.be/34S7zc6T-0k) w/Arc_Hive & Studdy Buddy: Capstone Presentations
+#### [Front-End Challenge](https://youtu.be/d4xL76-si8I) w/Sean Chen: React Calculator Introduction
+#### [Front-End Challenge](https://youtu.be/xRRXmRjPL08) w/Sean Chen: React Calculator Solution
+
+
 ***
 
+
+## Week 27: Jan. 16 - 19
+### Monday, January 15: MLK, Jr. Day
+***
+
+### Day 126: Tuesday, January 16
+### [DAY 126 NOTES](Month7/Week27/Day126/README.md)
+#### Capstone
+#### Internship
+#### [State of the Union](NO_VIDEO_RECORDED) w/Austen, Ben, Caleb, etc.
+#### [Front-End Challenge Primer](VIDEO_RECORDED_NOT_POSTED) w/Ben Nelson: React To Do List Solution
+***
+
+### Day 127: Wednesday, January 17
+### [DAY 127 NOTES](Month7/Week27/Day127/README.md)
+#### Capstone
+#### Internship
+***
+
+### Day 128: Thursday, January 18
+### [DAY 128 NOTES](Month7/Week27/Day128/README.md)
+#### Capstone
+#### Internship
+***
+
+### Day 129: Friday, January 19
+### [DAY 129 NOTES](Month7/Week27/Day129/README.md)
+#### Capstone
+#### Internship
+
+
+***
 
 </p></details>
 
