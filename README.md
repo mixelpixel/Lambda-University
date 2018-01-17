@@ -1,5 +1,6 @@
-# Lambda University
-https://github.com/LambdaSchool/LambdaCSA-Syllabus
+# Lambda Computer Science Academy
+- http://ls-training-kit.netlify.com/cs-master
+- https://github.com/LambdaSchool/LambdaCSA-Syllabus
 ### !EASTER EGGS: Click on the ▶︎ black ▶︎ triangles ▶︎ to reveal the EASTER EGGS!
 ***
 
@@ -1250,8 +1251,10 @@ For following along and working post-lecture, Brian suggests:
 #### [State of the Union](NO_VIDEO_RECORDED) w/Austen, Ben, Caleb, etc.
 #### [Front-End Challenge Primer](https://youtu.be/i2MqSXMWInc) w/Ben Nelson: React To Do List Solution
 #### [Demo Day Prep](VIDEO_RECORDED_NOT_POSTED) w/Caleb Hicks
-- Alumni profiles
--
+- [Alumni profiles](https://airtable.com/shrhd97Zpi43vmaxk)
+- [ScreenFlow](https://www.telestream.net/screenflow/overview.htm)
+- [Demo Day Preparation Script](https://github.com/LambdaSchool/Demo-Day-Preparation)
+#### [Lambda School TA Position](VIDEO_RECORDED_NOT_POSTED) w/Caleb Hicks
 ***
 
 ### Day 127: Wednesday, January 17
