@@ -1250,17 +1250,18 @@ For following along and working post-lecture, Brian suggests:
 #### Internship
 #### [State of the Union](NO_VIDEO_RECORDED) w/Austen, Ben, Caleb, etc.
 #### [Front-End Challenge Primer](https://youtu.be/i2MqSXMWInc) w/Ben Nelson: React To Do List Solution
-#### [Demo Day Prep](VIDEO_RECORDED_NOT_POSTED) w/Caleb Hicks
+#### [Demo Day Prep](https://youtu.be/0ZHIhxQDRGU) w/Caleb Hicks
 - [Alumni profiles](https://airtable.com/shrhd97Zpi43vmaxk)
 - [ScreenFlow](https://www.telestream.net/screenflow/overview.htm)
 - [Demo Day Preparation Script](https://github.com/LambdaSchool/Demo-Day-Preparation)
-#### [Lambda School TA Position](VIDEO_RECORDED_NOT_POSTED) w/Caleb Hicks
+#### [Lambda School TA Position](https://youtu.be/njBgKT3_aj8) w/Caleb Hicks
 ***
 
 ### Day 127: Wednesday, January 17
 ### [DAY 127 NOTES](Month7/Week27/Day127/README.md)
 #### Capstone
 #### Internship
+#### [Front-End Challenge Primer](VIDEO_RECORDED_NOT_POSTED) w/Ben Nelson: React To Do List Solution
 ***
 
 ### Day 128: Thursday, January 18
