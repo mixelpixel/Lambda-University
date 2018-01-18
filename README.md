@@ -1248,7 +1248,7 @@ For following along and working post-lecture, Brian suggests:
 ***
 
 ### Day 128: Thursday, January 18
-#### [DEMO DAY WITH HIRING PARTNERS](https://www.youtube.com/watch?v=1VsmeopHpcg)
+#### [DEMO DAY WITH HIRING PARTNERS](https://youtu.be/1VsmeopHpcg)
 ***
 
 ### Day 129: Friday, January 19
