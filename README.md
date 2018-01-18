@@ -1059,25 +1059,21 @@ Code Challenge #82: https://repl.it/student/submissions/1958450 "Binary Search T
 # Month 6: December, 2017
 ## Week 22: Dec. 4 - 8
 ### Day 104: Monday, December 4
-### [DAY 104 NOTES](Month6/Week22/Day104/README.md)
 #### Capstone
 #### Internship
 ***
 
 ### Day 105: Tueday, December 5
-### [DAY 105 NOTES](Month6/Week22/Day105/README.md)
 #### Capstone
 #### Internship
 ***
 
 ### Day 106: Wednesday, December 6
-### [DAY 106 NOTES](Month6/Week22/Day106/README.md)
 #### Capstone
 #### Internship
 ***
 
 ### Day 107: Thursday, December 7
-### [DAY 107 NOTES](Month6/Week22/Day107/README.md)
 #### Capstone
 #### Internship
 ***
@@ -1094,7 +1090,6 @@ Code Challenge #82: https://repl.it/student/submissions/1958450 "Binary Search T
 
 ## Week 23: Dec. 11 - 15
 ### Day 109: Monday, December 11
-### [DAY 109 NOTES](Month6/Week23/Day109/README.md)
 #### Capstone
 #### Internship
 ***
@@ -1107,13 +1102,11 @@ Code Challenge #82: https://repl.it/student/submissions/1958450 "Binary Search T
 ***
 
 ### Day 111: Wednesday, December 13
-### [DAY 111 NOTES](Month6/Week23/Day111/README.md)
 #### Capstone
 #### Internship
 ***
 
 ### Day 112: Thursday, December 14
-### [DAY 112 NOTES](Month6/Week23/Day112/README.md)
 #### Capstone
 #### Internship
 ***
@@ -1122,7 +1115,8 @@ Code Challenge #82: https://repl.it/student/submissions/1958450 "Binary Search T
 ### [DAY 113 NOTES](Month6/Week23/Day113/README.md)
 #### Capstone
 #### Internship
-
+#### [Brown Bag](https://youtu.be/pDSzR0iSQws) w/CS1 Capstone Presentations: Speech Trainer & Open House
+#### [Third Week Capstone Demos](https://youtu.be/CKdXSzvgd7g)
 
 ***
 
@@ -1132,6 +1126,7 @@ Code Challenge #82: https://repl.it/student/submissions/1958450 "Binary Search T
 ### [DAY 114 NOTES](Month6/Week24/Day114/README.md)
 #### Capstone
 #### Internship
+#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Caleb Hicks: Job Hunting and Interview Prep
 ***
 
 ### Day 115: Tueday, December 19
@@ -1142,7 +1137,6 @@ Code Challenge #82: https://repl.it/student/submissions/1958450 "Binary Search T
 ***
 
 ### Day 116: Wednesday, December 20
-### [DAY 116 NOTES](Month6/Week24/Day116/README.md)
 #### Capstone
 #### Internship
 ***
@@ -1281,6 +1275,7 @@ For following along and working post-lecture, Brian suggests:
 - "[Cracking the Coding Interview](http://www.crackingthecodinginterview.com/)" by Gayle Laakmann McDowell
 	- https://github.com/careercup/CtCI-6th-Edition
 - CS2 lectures: https://docs.google.com/spreadsheets/d/1k87GF1O-5b0oF2mr0i7aaBs7aIkvExFxu12HcZdOoXY/edit#gid=505824829
+- [Lambda School Alumni](https://lambdaschool.com/alumni/)
 
 #### Internships
 - http://www.shubhro.com/2014/10/15/tips-for-internships/
