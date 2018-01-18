@@ -1059,31 +1059,31 @@ Code Challenge #82: https://repl.it/student/submissions/1958450 "Binary Search T
 # Month 6: December, 2017
 ## Week 22: Dec. 4 - 8
 ### Day 104: Monday, December 4
-### [DAY 104 NOTES](Month5/Week22/Day104/README.md)
+### [DAY 104 NOTES](Month6/Week22/Day104/README.md)
 #### Capstone
 #### Internship
 ***
 
 ### Day 105: Tueday, December 5
-### [DAY 105 NOTES](Month5/Week22/Day105/README.md)
+### [DAY 105 NOTES](Month6/Week22/Day105/README.md)
 #### Capstone
 #### Internship
 ***
 
 ### Day 106: Wednesday, December 6
-### [DAY 106 NOTES](Month5/Week22/Day106/README.md)
+### [DAY 106 NOTES](Month6/Week22/Day106/README.md)
 #### Capstone
 #### Internship
 ***
 
 ### Day 107: Thursday, December 7
-### [DAY 107 NOTES](Month5/Week22/Day107/README.md)
+### [DAY 107 NOTES](Month6/Week22/Day107/README.md)
 #### Capstone
 #### Internship
 ***
 
 ### Day 108: Friday, December 8
-### [DAY 108 NOTES](Month5/Week22/Day108/README.md)
+### [DAY 108 NOTES](Month6/Week22/Day108/README.md)
 #### Capstone
 #### Internship
 #### [Second Week Capstone Demos](https://youtu.be/eWjym0ahi-4)
@@ -1094,32 +1094,32 @@ Code Challenge #82: https://repl.it/student/submissions/1958450 "Binary Search T
 
 ## Week 23: Dec. 11 - 15
 ### Day 109: Monday, December 11
-### [DAY 109 NOTES](Month5/Week23/Day109/README.md)
+### [DAY 109 NOTES](Month6/Week23/Day109/README.md)
 #### Capstone
 #### Internship
 ***
 
 ### Day 110: Tueday, December 12
-### [DAY 110 NOTES](Month5/Week23/Day110/README.md)
+### [DAY 110 NOTES](Month6/Week23/Day110/README.md)
 #### Capstone
 #### Internship
 #### [1st Lecture](https://youtu.be/kQbDnDsO8MQ) w/Adam Basloe: Docker
 ***
 
 ### Day 111: Wednesday, December 13
-### [DAY 111 NOTES](Month5/Week23/Day111/README.md)
+### [DAY 111 NOTES](Month6/Week23/Day111/README.md)
 #### Capstone
 #### Internship
 ***
 
 ### Day 112: Thursday, December 14
-### [DAY 112 NOTES](Month5/Week23/Day112/README.md)
+### [DAY 112 NOTES](Month6/Week23/Day112/README.md)
 #### Capstone
 #### Internship
 ***
 
 ### Day 113: Friday, December 15
-### [DAY 113 NOTES](Month5/Week23/Day113/README.md)
+### [DAY 113 NOTES](Month6/Week23/Day113/README.md)
 #### Capstone
 #### Internship
 
@@ -1129,33 +1129,33 @@ Code Challenge #82: https://repl.it/student/submissions/1958450 "Binary Search T
 
 ## Week 24: Dec. 18 - 22
 ### Day 114: Monday, December 18
-### [DAY 114 NOTES](Month5/Week24/Day114/README.md)
+### [DAY 114 NOTES](Month6/Week24/Day114/README.md)
 #### Capstone
 #### Internship
 ***
 
 ### Day 115: Tueday, December 19
-### [DAY 115 NOTES](Month5/Week24/Day115/README.md)
+### [DAY 115 NOTES](Month6/Week24/Day115/README.md)
 #### Capstone
 #### Internship
 #### [1st Lecture](https://youtu.be/xlFwh8kxGlE) w/Caleb Hicks: Getting a Job (Part I) - Finding Open Positions
 ***
 
 ### Day 116: Wednesday, December 20
-### [DAY 116 NOTES](Month5/Week24/Day116/README.md)
+### [DAY 116 NOTES](Month6/Week24/Day116/README.md)
 #### Capstone
 #### Internship
 ***
 
 ### Day 117: Thursday, December 21
-### [DAY 117 NOTES](Month5/Week24/Day117/README.md)
+### [DAY 117 NOTES](Month6/Week24/Day117/README.md)
 #### Capstone
 #### Internship
 #### [1st Lecture](https://youtu.be/leNDqss50F4) w/Sabrina Baez: Getting a Job (Part II) - Branding & LinkedIn
 ***
 
 ### Day 118: Friday, December 22
-### [DAY 118 NOTES](Month5/Week24/Day118/README.md)
+### [DAY 118 NOTES](Month6/Week24/Day118/README.md)
 #### Capstone
 #### Internship
 #### [Brown Bag](https://youtu.be/pDSzR0iSQws) w/CS1 Capstone Presentations: Speech Trainer & Open House
