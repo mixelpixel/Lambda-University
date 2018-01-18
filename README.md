@@ -1,8 +1,10 @@
 # Lambda Computer Science Academy
-- http://ls-training-kit.netlify.com/cs-master
-- https://github.com/LambdaSchool/LambdaCSA-Syllabus
+- https://lambdaschool.com/alumni/alumni/patrick-kennedy
+![Hire me :)](https://dl.airtable.com/s7fcvwJTceSFDAlUXyTm_IMG_0684.jpg)
 ### !EASTER EGGS: Click on the ▶︎ black ▶︎ triangles ▶︎ to reveal the EASTER EGGS!
 ***
+- [Lambda School Curriculum](http://ls-training-kit.netlify.com/cs-master)
+- [Lambda School Syllabus](https://github.com/LambdaSchool/LambdaCSA-Syllabus)
 
 
 <details><summary>Pre-Course Work</summary><p>
