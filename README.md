@@ -1028,13 +1028,11 @@ Code Challenge #82: https://repl.it/student/submissions/1958450 "Binary Search T
 ***
 
 ### Day 101: Wednesday, November 29
-### [DAY 101 NOTES](Month5/Week21/Day101/README.md)
 #### Capstone
 #### Internship
 ***
 
 ### Day 102: Thursday, November 30
-### [DAY 102 NOTES](Month5/Week21/Day102/README.md)
 #### Capstone
 #### Internship
 ***
