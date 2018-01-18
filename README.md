@@ -1180,12 +1180,10 @@ Code Challenge #82: https://repl.it/student/submissions/1958450 "Binary Search T
 # Month 7: January, 2018
 ## Week 25: Jan. 4 & 5
 ### Day 119: Thursday, January 4
-### [DAY 119 NOTES](Month7/Week25/Day119/README.md)
 #### HACKATHON 2018
 ***
 
 ### Day 120: Friday, January 5
-### [DAY 120 NOTES](Month7/Week25/Day120/README.md)
 #### HACKATHON 2018
 #### https://youtu.be/Kn3PX0QEK1U?t=2h2m48s
 
@@ -1195,7 +1193,6 @@ Code Challenge #82: https://repl.it/student/submissions/1958450 "Binary Search T
 
 ## Week 26: Jan. 8 - 12
 ### Day 121: Monday, January 8
-### [DAY 121 NOTES](Month7/Week26/Day121/README.md)
 #### Capstone
 #### Internship
 #### [Brown Bag](https://youtu.be/UntcVRt_vT4) w/Mohammed Nayeem: Introduction to Machine Learning
@@ -1203,7 +1200,6 @@ Code Challenge #82: https://repl.it/student/submissions/1958450 "Binary Search T
 ***
 
 ### Day 122: Tuesday, January 9
-### [DAY 122 NOTES](Month7/Week26/Day122/README.md)
 #### Capstone
 #### Internship
 #### [Brown Bag](https://youtu.be/VSL_Qs-P-84) w/Brian Doyle: Unity
@@ -1217,19 +1213,16 @@ For following along and working post-lecture, Brian suggests:
 ***
 
 ### Day 123: Wednesday, January 10
-### [DAY 123 NOTES](Month7/Week26/Day123/README.md)
 #### Capstone
 #### Internship
 ***
 
 ### Day 124: Thursday, January 11
-### [DAY 124 NOTES](Month7/Week26/Day124/README.md)
 #### Capstone
 #### Internship
 ***
 
 ### Day 125: Friday, January 12
-### [DAY 125 NOTES](Month7/Week26/Day125/README.md)
 #### Capstone
 #### Internship
 #### [Brown Bag](https://youtu.be/34S7zc6T-0k) w/Arc_Hive & Studdy Buddy: Capstone Presentations
@@ -1245,7 +1238,6 @@ For following along and working post-lecture, Brian suggests:
 ***
 
 ### Day 126: Tuesday, January 16
-### [DAY 126 NOTES](Month7/Week27/Day126/README.md)
 #### Capstone
 #### Internship
 #### [State of the Union](NO_VIDEO_RECORDED) w/Austen, Ben, Caleb, etc.
@@ -1258,22 +1250,17 @@ For following along and working post-lecture, Brian suggests:
 ***
 
 ### Day 127: Wednesday, January 17
-### [DAY 127 NOTES](Month7/Week27/Day127/README.md)
 #### Capstone
 #### Internship
-#### [Front-End Challenge Primer](VIDEO_RECORDED_NOT_POSTED) w/Ben Nelson: React To Do List Solution
+#### [Interview Question Prep](https://youtu.be/CmGrQXwAYRo) w/Ben Nelson: Kanban board practice
 ***
 
 ### Day 128: Thursday, January 18
-### [DAY 128 NOTES](Month7/Week27/Day128/README.md)
-#### Capstone
-#### Internship
+#### DEMO DAY WITH HIRING PARTNERS
 ***
 
 ### Day 129: Friday, January 19
-### [DAY 129 NOTES](Month7/Week27/Day129/README.md)
-#### Capstone
-#### Internship
+#### GRADUATION
 
 
 ***
