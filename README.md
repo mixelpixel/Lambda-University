@@ -10,7 +10,7 @@
 
 - [Pre-Course Work](https://docs.google.com/document/d/1YKYxzNt6QZxnPw8xOT-Qyf1BY0cHb-Us1ydzZTphxRI/edit)
 	- ([updated pre-course work](https://docs.google.com/document/d/1tHol5Hl72qMCckpkP6L1uMoGmCt-Tnd7fFbETlhZi3s/edit#))
-	1. I earned a [Standford CS 101 Certificate](https://prod-cert-bucket.s3.amazonaws.com/downloads/9081486833cb4f1586f69479d17c6bb3/Statement.pdf)!
+	1. I earned a [Stanford CS 101 Certificate](https://prod-cert-bucket.s3.amazonaws.com/downloads/9081486833cb4f1586f69479d17c6bb3/Statement.pdf)!
 	2. To be completed:
 		- Lambda Pro's [React](https://lambdaschool.com/pro/react), Node, ES6, and Mongo courses
 - [Lambda University Curriculum](https://docs.google.com/document/d/1Csrb2C5H6mdVsIdUi_CdKB_bY__Lpnx_fWuV4vNdsck/edit)
