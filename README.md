@@ -1262,6 +1262,8 @@ For following along and working post-lecture, Brian suggests:
 
 ***
 
+### Continuing Review
+#### [Impromptu class/this (4 rules) review](https://youtu.be/qVz0UR89nhs)
 
 </p></details>
 
