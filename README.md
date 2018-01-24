@@ -1238,7 +1238,7 @@ For following along and working post-lecture, Brian suggests:
 #### Capstone
 #### Internship
 #### [State of the Union](NO_VIDEO_RECORDED) w/Austen, Ben, Caleb, etc.
-#### [Front-End Challenge Primer](https://youtu.be/i2MqSXMWInc) w/Ben Nelson: React To Do List Solution
+#### [Front-End Challenge Primer](https://youtu.be/i2MqSXMWInc) w/Ben Nelson: Kanban board practice - React To Do List Solution
 #### [Demo Day Prep](https://youtu.be/0ZHIhxQDRGU) w/Caleb Hicks
 - [Alumni profiles](https://airtable.com/shrhd97Zpi43vmaxk)
 - [ScreenFlow](https://www.telestream.net/screenflow/overview.htm)
