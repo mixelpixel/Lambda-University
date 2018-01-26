@@ -1439,6 +1439,8 @@ For following along and working post-lecture, Brian suggests:
 -Set up a GH page:  https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md#github-pages
 
 #### Computer Science
+- WHAT HAPPENS WHEN?
+	- https://github.com/alex/what-happens-when
 - BIG O NOTATION
 	- http://bigocheatsheet.com/
 	- https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/
