@@ -1181,8 +1181,7 @@ Code Challenge #82: https://repl.it/student/submissions/1958450 "Binary Search T
 ***
 
 ### Day 120: Friday, January 5
-#### HACKATHON 2018
-#### https://youtu.be/Kn3PX0QEK1U?t=2h2m48s
+#### [HACKATHON 2018](https://youtu.be/Kn3PX0QEK1U?t=2h2m48s)
 
 
 ***
@@ -1460,6 +1459,10 @@ For following along and working post-lecture, Brian suggests:
 	- https://developer.mozilla.org/en-US/docs/Web/CSS/animation
 	- https://cssanimation.rocks/portal/
 	- http://cssgridgarden.com/
+- CSS Preprocessors:
+	- https://htmlmag.com/article/an-introduction-to-css-preprocessors-sass-less-stylus
+	- LESS: http://lesscss.org/
+	- https://github.com/mixelpixel/Preprocessing-One
 - CAREER
 	- https://www.reddit.com/r/cscareerquestions/
 - REGULAR EXPRESSIONS
