@@ -1530,6 +1530,7 @@ Also: https://lambdaschoolpro.slack.com/archives/G5TDU61DE/p1506989692000102
 
 ***
 ### git notes
+- http://rogerdudler.github.io/git-guide/
 - https://help.github.com/articles/connecting-to-github-with-ssh/
 
 - `git config core.ignorecase false`
