@@ -1466,6 +1466,7 @@ For following along and working post-lecture, Brian suggests:
 - CAREER
 	- https://www.reddit.com/r/cscareerquestions/
 - REGULAR EXPRESSIONS
+	- https://regex101.com/
 	- http://www.regular-expressions.info/
 	- https://www.bell-labs.com/usr/dmr/www/qedman.pdf
 	- http://www.cs.princeton.edu/courses/archive/spr09/cos333/beautiful.html
