@@ -1438,7 +1438,7 @@ For following along and working post-lecture, Brian suggests:
 -Set up a GH page:  https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md#github-pages
 - Netlify: https://www.netlify.com/blog/2016/09/29/a-step-by-step-guide-deploying-on-netlify/
 - GitHub Pages: https://pages.github.com/
-- GH: https://help.github.com/articles/configuring-a-publishing-source-for-github-pages/
+- GH pages guide: https://help.github.com/articles/configuring-a-publishing-source-for-github-pages/
 - ngrok: https://ngrok.com/
 
 #### Computer Science
