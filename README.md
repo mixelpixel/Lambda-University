@@ -2,7 +2,7 @@
 - https://lambdaschool.com/alumni/alumni/patrick-kennedy
 ![Hire me :)](https://dl.airtable.com/s7fcvwJTceSFDAlUXyTm_IMG_0684.jpg)
 - Click [here](https://youtu.be/uxIYIhiGMcE) or on the image below to see my group capstone presentation!
-[![Arc_Hive Demo Day Presentation](https://github.com/cs1Capstone/arc_hive/blob/master/art/youtubeScreenShot.png)](https://youtu.be/uxIYIhiGMcE "Click the image to play the video!")
+[![Arc_Hive Demo Day Presentation](https://github.com/Arc-Hive-LambdaSchool/arc_hive/blob/master/art/youtubeScreenShot.png)](https://youtu.be/uxIYIhiGMcE "Click the image to play the video!")
 ***
 ### !EASTER EGGS: Click on the ▶︎ black ▶︎ triangles ▶︎ to reveal the EASTER EGGS!
 ***
