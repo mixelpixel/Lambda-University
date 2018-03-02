@@ -1358,9 +1358,16 @@ For following along and working post-lecture, Brian suggests:
 - https://reactarmory.com/resources/lifecycle-simulators#Prop-updates
 - https://reactarmory.com/guides/context-free-react-router
 - [HOW TO](https://www.youtube.com/channel/UCsvMopMspsGw89AWim0FMfw)
+- https://www.youtube.com/watch?v=gEXAGvu8EKQ&index=6&list=PL4cUxeGkcC9i0_2FF-WhtRIfIJ1lXlTZR
 ##### REACT-NATIVE
 - https://github.com/ReactNativeNews/react-native-newsletter
 - https://github.com/ReactNativeNews/React-Native-Apps
+##### Good Tutorials
+- React TicTac Toe: https://reactjs.org/tutorial/tutorial.html
+- Tutorial Series(skip first one): https://www.youtube.com/watch?v=fd2Cayhez58
+- React Crash Course: https://www.youtube.com/watch?v=A71aqufiNtQ
+- In depth To Do List(skip webpack): https://www.youtube.com/watch?v=IR6smI_YJDE&t=2459s
+- simple to do list: https://www.youtube.com/watch?v=2Uz-7Wf0YNY
 
 #### REDUX
 - The intro tutorial series from http://redux.js.org:
