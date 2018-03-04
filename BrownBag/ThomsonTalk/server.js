@@ -7,7 +7,7 @@
 *   `npm init`
 * 2) Install express:
 * ( --save or --no-save per https://expressjs.com/en/starter/installing.html )
-*   `npm i --save express`
+*   `npm i express`
 * 3) Launch server:
 *   `node server.js`
 * 4) access server:
