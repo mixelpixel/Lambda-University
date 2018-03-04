@@ -102,7 +102,7 @@
      - observation
      - hypothesis, and
      - peer review
-  4. A computer is just something which _computes_ (see _Turing Completeness_) or something which is limited to making syntactical manipulations, without any seamntics.
+  4. A computer is just something which _computes_ (see _Turing Completeness_) or something which is limited to making syntactical manipulations, without any semantics.
   5. SO, if you have repsect for obtaining knowledge with computational observation, hypothesis and peer review, then you are doing computer science and may even be meaningfully referred to as _a computer scientist_ (degrees and PhD's regardless!)
 
 ### For an elementary example
