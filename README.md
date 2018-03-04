@@ -377,7 +377,7 @@ Pair Programming #12: https://github.com/LambdaSchool/LS-Mongo-II w/Mercedes
 ### [DAY 33 NOTES](Month2/Week07/Day33/README.md)
 Code Challenge #29: https://github.com/ryanhca/CS1-Code-Challenges/tree/master/robotPaths "Robot Paths"
 #### [1st Lecture](https://youtu.be/6Fznu7dDu2g) w/Tai Chulikavit: Review Code Challenge #28 stackOfPlates
-#### [Brown Bag](https://youtu.be/d2YYm0qEszo) w/Thomson Comer: The Hyper Text transfer Protocol
+#### [Brown Bag](https://youtu.be/d2YYm0qEszo) w/Thomson Comer: The Hyper Text Transfer Protocol
 #### [2nd Lecture](https://youtu.be/46y7cweCEM0) w/Ryan Hamblin: LS-Mongo-II Q&A
 ***
 
