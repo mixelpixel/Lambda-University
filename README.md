@@ -1328,11 +1328,12 @@ For following along and working post-lecture, Brian suggests:
 - https://docs.mongodb.com/manual/reference/mongo-shell/
 - free mongoDB hosting up to 500MB: https://mlab.com/
 - [5th Lecture](https://youtu.be/y6d-b3p3tAA) w/Ryan Hamblin: Mongo-I Lab QandA
-	- mongo commands
+	- `$ mongo` commands
 		- `show dbs` list db's ...
 		- `use bears` use a particular db
 		- `db.bears.find().pretty()` display contents nicely
 		- `db.dropDatabase()` nuke db out of existence
+		- `quit()` well.. to quit.
 
 #### Mongoose
 - http://mongoosejs.com/docs/api.html#query_Query-remove
