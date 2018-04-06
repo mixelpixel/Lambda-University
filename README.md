@@ -1501,6 +1501,7 @@ For following along and working post-lecture, Brian suggests:
 - Algorithms: https://www.dropbox.com/sh/8xapslslciddg26/AAC--Q61twdgkUMYSNJOIUVMa?dl=0
 	- Data Structure Visualizations: https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
 - Dynamic programming: https://people.cs.clemson.edu/~bcdean/dp_practice/
+- Lots more resources: https://medium.freecodecamp.org/470-free-online-programming-computer-science-courses-you-can-start-in-april-433e50dfdc57
 
 #### Interview prep
 - https://github.com/h5bp/Front-end-Developer-Interview-Questions#js-questions
