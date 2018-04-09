@@ -1443,11 +1443,20 @@ For following along and working post-lecture, Brian suggests:
 - https://help.github.com/articles/using-a-custom-domain-with-github-pages/
 - https://aws.amazon.com/s3/
 - https://aws.amazon.com/lambda/
--Set up a GH page:  https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md#github-pages
 - Netlify: https://www.netlify.com/blog/2016/09/29/a-step-by-step-guide-deploying-on-netlify/
 - GitHub Pages: https://pages.github.com/
-- GH pages guide: https://help.github.com/articles/configuring-a-publishing-source-for-github-pages/
+- GH: https://help.github.com/articles/configuring-a-publishing-source-for-github-pages/
+-Set up a GH page:  https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md#github-pages
 - ngrok: https://ngrok.com/
+- Heroku: https://devcenter.heroku.com/articles/getting-started-with-nodejs#introduction
+  - https://devcenter.heroku.com/articles/mongolab
+  - https://forum.freecodecamp.org/t/guide-for-using-mongodb-and-deploying-to-heroku/19347
+- MLab (for MongoDB hosting): https://mlab.com/signup/?gclid=EAIaIQobChMIrLP4p4Kc2gIVlLjACh0cFgTiEAAYASABEgJyJ_D_BwE
+- Microsoft Azure: https://azure.microsoft.com/en-us/free/search/
+  - portal.azure.com
+- MongoDB Atlas: https://www.mongodb.com/cloud/atlas/lp/general
+- Digital Ocean:
+
 
 #### Computer Science
 - WHAT HAPPENS WHEN?
@@ -1471,10 +1480,11 @@ For following along and working post-lecture, Brian suggests:
 	- https://developer.mozilla.org/en-US/docs/Web/CSS/animation
 	- https://cssanimation.rocks/portal/
 	- http://cssgridgarden.com/
+	- https://cssgrid.io/
 - CSS Preprocessors:
 	- https://htmlmag.com/article/an-introduction-to-css-preprocessors-sass-less-stylus
 	- LESS: http://lesscss.org/
-	- https://github.com/mixelpixel/Preprocessing-One
+	- https://github.com/mixelpixel/Preprocessing-I
 - CAREER
 	- https://www.reddit.com/r/cscareerquestions/
 - REGULAR EXPRESSIONS
