@@ -1512,6 +1512,9 @@ For following along and working post-lecture, Brian suggests:
 	- Data Structure Visualizations: https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
 - Dynamic programming: https://people.cs.clemson.edu/~bcdean/dp_practice/
 - Lots more resources: https://medium.freecodecamp.org/470-free-online-programming-computer-science-courses-you-can-start-in-april-433e50dfdc57
+- TEXT ENCODING
+	- https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/
+	- http://kunststube.net/encoding/
 
 #### Interview prep
 - https://github.com/h5bp/Front-end-Developer-Interview-Questions#js-questions
