@@ -571,7 +571,7 @@ Code Challenge #47: https://repl.it/student/submissions/# "Is Twin Prime?"
 #### [2nd Lecture](https://youtu.be/u2A_7eOs0nQ) w/Ben Nelson: LS-Mobile-II solution
 #### [3rd Lecture](NO_VIDEO_RECORDED) w/Tai Chulikavit: LS-Mobile-II review
 #### [4th Lecture](https://youtu.be/vIa66wXNVOc) w/Thomson Comer: DevOps & Deployment intro
-#### [5th Lecture](VIDEO_RECORDED_NOT_POSTED) w/Tai Chulikavit: ngrok & DevOps & Deployment mini
+#### [5th Lecture](https://youtu.be/6LyDznLOCMg) w/Tai Chulikavit: ngrok & DevOps & Deployment mini
 #### [6th Lecture](https://youtu.be/IPUZj48-dMg) w/Thomson Comer: DevOps & Deployment Q&A
 Pair Programming #19: https://github.com/LambdaSchool/DevOps-Deployment w/Tyge
 ***
