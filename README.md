@@ -1424,6 +1424,7 @@ For following along and working post-lecture, Brian suggests:
 #### SUPPORT APPS
 - Text Editors / IDE's
 	- [Atom](https://atom.io/)
+		- [macOS "Open in Atom"](https://gist.github.com/idleberg/874790e8e3c8b1419e4439d0a48d2aa5)
 	- [Sublime Text](https://www.sublimetext.com/)
 	- [Visual Studio](https://code.visualstudio.com)
 - Zoom for meetings: https://zoom.us/j/858115322
@@ -1456,7 +1457,6 @@ For following along and working post-lecture, Brian suggests:
   - portal.azure.com
 - MongoDB Atlas: https://www.mongodb.com/cloud/atlas/lp/general
 - Digital Ocean:
-
 
 #### Computer Science
 - WHAT HAPPENS WHEN?
@@ -1556,9 +1556,10 @@ Also: https://lambdaschoolpro.slack.com/archives/G5TDU61DE/p1506989692000102
 
 
 ***
-### git notes
+### Git notes
 - http://rogerdudler.github.io/git-guide/
 - https://help.github.com/articles/connecting-to-github-with-ssh/
+- https://www.sourcetreeapp.com/
 
 - `git config core.ignorecase false`
 - most projects set up as submodules
