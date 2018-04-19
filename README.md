@@ -1289,6 +1289,9 @@ For following along and working post-lecture, Brian suggests:
 
 > To refer just link them to `lambdaschool.com/computer-science?src=youremail@email.com`, and swap out your email address for `youremail@email.com`
 
+- As of 4/18/18 per [Jocelyn Robancho](https://lambdaschoolstudents.slack.com/archives/G9XSHHV5G/p1524070196000554)
+> Have the potential student mention the person who referred them's name in their application or during their interview. Karen in Admissions makes a note and tracks these manually.
+
 #### LSPro lectures:
 - [Callbacks](https://youtu.be/qxURd9khNgU)
 
